@@ -60,7 +60,7 @@ persons:
     sex: male
     nickname: الشيخ
     kunya: الكبير
-    birthdate: '1835'
+    birthdate: '١٨٣٥'
     fatherId: 8c3aa801-35d0-4ae8-8d67-d324e1a7faf2
   # الجيل السابع - أبناء زايد الكبير
   - id: 3de468b1-84ff-4709-bed9-eb56503dd9b8
@@ -71,7 +71,7 @@ persons:
     name: طحنون
     sex: male
     nickname: الحاكم
-    birthdate: '1857'
+    birthdate: '١٨٥٧'
     fatherId: e33ec531-8dc5-42a2-a5c6-58ef68caa490
   - id: 469e7137-821a-45f3-babc-ae6e7d37edb4
     name: حمدان
@@ -97,7 +97,7 @@ persons:
     name: شخبوط
     sex: male
     nickname: الحاكم
-    birthdate: '1905'
+    birthdate: '١٩٠٥'
     fatherId: 940d34fa-1918-4a59-8777-396e89cc2f52
   - id: acb5f21b-03c9-4ce3-bc4c-dc0fe5b2243d
     name: هزاع
@@ -108,7 +108,7 @@ persons:
     sex: male
     nickname: الشيخ
     kunya: المؤسس
-    birthdate: '1918'
+    birthdate: '١٩١٨'
     fatherId: 940d34fa-1918-4a59-8777-396e89cc2f52
   # الجيل التاسع - أبناء الشيخ زايد بن سلطان (مؤسس الدولة)
   - id: cc626f9a-7e85-4d37-aa46-60e4bae8c32a
@@ -116,68 +116,68 @@ persons:
     sex: male
     nickname: الشيخ
     kunya: رئيس الدولة الثاني
-    birthdate: '1948'
+    birthdate: '١٩٤٨'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: 775d39f7-28af-4458-9399-de692478a195
     name: سلطان
     sex: male
-    birthdate: '1956'
+    birthdate: '١٩٥٦'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: 1345b4c8-f7b7-4333-b0b6-58da16a5d0ee
     name: محمد
     sex: male
     nickname: الشيخ
     kunya: رئيس الدولة
-    birthdate: '1961'
+    birthdate: '١٩٦١'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: b0cc1861-a7fc-4310-8b1b-7d5ad94f7214
     name: حمدان
     sex: male
-    birthdate: '1963'
+    birthdate: '١٩٦٣'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: 75e5767d-2680-4533-bb30-214a2746b5df
     name: هزاع
     sex: male
     nickname: نائب الحاكم
-    birthdate: '1965'
+    birthdate: '١٩٦٥'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: d5040eb7-a782-4bbc-adfe-ae379e187587
     name: سعيد
     sex: male
-    birthdate: '1965'
+    birthdate: '١٩٦٥'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: 63748dad-323f-4c06-a1ba-144ae2dac4fe
     name: عيسى
     sex: male
-    birthdate: '1966'
+    birthdate: '١٩٦٦'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: 1e9a030d-703a-4070-970d-aafea16afaae
     name: ناصر
     sex: male
-    birthdate: '1967'
+    birthdate: '١٩٦٧'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: 204073c8-6a49-46d3-b342-ba0da0c6dee1
     name: نهيان
     sex: male
-    birthdate: '1968'
+    birthdate: '١٩٦٨'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: daf8c41c-8c9a-4ec1-b0ca-0f1bf4ed982c
     name: سيف
     sex: male
     nickname: نائب رئيس الوزراء
     kunya: وزير الداخلية
-    birthdate: '1968'
+    birthdate: '١٩٦٨'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: f7530b8d-8bb7-4622-986d-4586791809d6
     name: طحنون
     sex: male
     nickname: مستشار الأمن الوطني
-    birthdate: '1968'
+    birthdate: '١٩٦٨'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: bd82e36d-1c73-4338-b948-814593954679
     name: أحمد
     sex: male
-    birthdate: '1969'
+    birthdate: '١٩٦٩'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: 362e8797-4983-4e87-82a3-6ca37044ca84
     name: حامد
@@ -186,29 +186,29 @@ persons:
   - id: 0f5abb4d-c261-4c8b-aa9c-815e0f33246a
     name: فلاح
     sex: male
-    birthdate: '1970'
+    birthdate: '١٩٧٠'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: df71fbd7-a4f6-4ba8-841d-5410084e0b27
     name: منصور
     sex: male
     nickname: نائب رئيس الدولة
-    birthdate: '1970'
+    birthdate: '١٩٧٠'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: 26edf0d8-f562-4f7d-b2ea-844a30da7e8b
     name: ذياب
     sex: male
-    birthdate: '1971'
+    birthdate: '١٩٧١'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: 9263b239-3f11-4c8f-96aa-04362c8fb517
     name: عبدالله
     sex: male
     nickname: وزير الخارجية
-    birthdate: '1972'
+    birthdate: '١٩٧٢'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: 58577e97-06f5-4461-816e-561cef8badb1
     name: عمر
     sex: male
-    birthdate: '1973'
+    birthdate: '١٩٧٣'
     fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
   - id: ae00c6a0-adfa-44f4-b7ad-4e7db137d830
     name: خالد
@@ -218,7 +218,7 @@ persons:
   - id: b5d61dc7-b551-4226-ac5e-66af12c233d1
     name: سلطان
     sex: male
-    birthdate: '1965'
+    birthdate: '١٩٦٥'
     fatherId: cc626f9a-7e85-4d37-aa46-60e4bae8c32a
   - id: cab3e34f-8755-4840-b7be-58f514b5fa25
     name: محمد
@@ -229,20 +229,20 @@ persons:
     name: خالد
     sex: male
     nickname: ولي العهد
-    birthdate: '1982'
+    birthdate: '١٩٨٢'
     fatherId: 1345b4c8-f7b7-4333-b0b6-58da16a5d0ee
   - id: f21c95fe-09ca-4d5b-8a35-38ba6789444a
     name: ذياب
     sex: male
-    birthdate: '1986'
+    birthdate: '١٩٨٦'
     fatherId: 1345b4c8-f7b7-4333-b0b6-58da16a5d0ee
   - id: 7410518d-e48b-4e1d-aa10-21b86ee25bee
     name: حمدان
     sex: male
-    birthdate: '1988'
+    birthdate: '١٩٨٨'
     fatherId: 1345b4c8-f7b7-4333-b0b6-58da16a5d0ee
   - id: ecb82111-5fa6-4795-9b0f-6d495983470e
     name: زايد
     sex: male
-    birthdate: '1995'
+    birthdate: '١٩٩٥'
     fatherId: 1345b4c8-f7b7-4333-b0b6-58da16a5d0ee
