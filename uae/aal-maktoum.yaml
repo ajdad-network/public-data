@@ -1,0 +1,148 @@
+family:
+  type: aal
+  description: الأسرة الحاكمة في إمارة دبي، من فخذ آل بوفلاسة من قبيلة بني ياس، حكام دبي منذ عام 1833 ومن مؤسسي دولة الإمارات العربية المتحدة
+  hometown: دبي
+  suffixFemale: المكتومية
+  pinned: true
+  createdBy: b8HOIr2dR5ds4Be8N3tQhA7wpJt2
+  suffixMale: المكتومي
+  visibility: public
+  name: آل مكتوم
+persons:
+  # الجيل الأول - الجد الأعلى
+  - id: 96ef460f-9878-4d2a-b47c-af7b973f4325
+    name: بطي
+    sex: male
+    kunya: بن سهيل
+  # الجيل الثاني - مؤسس دبي وأخوه
+  - id: 76912fb7-7fe4-45ac-80a3-6fd8cf407a31
+    name: مكتوم
+    sex: male
+    nickname: الحاكم
+    kunya: مؤسس دبي
+    fatherId: 96ef460f-9878-4d2a-b47c-af7b973f4325
+  - id: 8d36247b-42c9-405b-b971-039a9b9411ec
+    name: سعيد
+    sex: male
+    nickname: الحاكم
+    fatherId: 96ef460f-9878-4d2a-b47c-af7b973f4325
+  # الجيل الثالث - أبناء مكتوم بن بطي
+  - id: 22dc246a-62e7-452d-9c3b-6356fb3c4e8a
+    name: هاشر
+    sex: male
+    nickname: الحاكم
+    fatherId: 76912fb7-7fe4-45ac-80a3-6fd8cf407a31
+  - id: 3c7bfd18-482b-44de-8377-ca2461de3cef
+    name: راشد
+    sex: male
+    nickname: الحاكم
+    fatherId: 76912fb7-7fe4-45ac-80a3-6fd8cf407a31
+  - id: a4f426eb-7573-4dac-83a1-710ac00f0cb4
+    name: سهيل
+    sex: male
+    fatherId: 76912fb7-7fe4-45ac-80a3-6fd8cf407a31
+  # الجيل الرابع
+  - id: 2b5e97b8-72a4-49c0-8f07-620f65ca2098
+    name: مكتوم
+    sex: male
+    nickname: الحاكم
+    fatherId: 22dc246a-62e7-452d-9c3b-6356fb3c4e8a
+  - id: 82ff7b9e-d4ff-4e81-aac7-0a63e8011616
+    name: بطي
+    sex: male
+    nickname: الحاكم
+    birthdate: '1851'
+    fatherId: a4f426eb-7573-4dac-83a1-710ac00f0cb4
+  # الجيل الخامس
+  - id: b9499982-7a67-4b0f-a280-e10d0c6b7d87
+    name: سعيد
+    sex: male
+    nickname: الحاكم
+    birthdate: '1878'
+    fatherId: 2b5e97b8-72a4-49c0-8f07-620f65ca2098
+  # الجيل السادس - باني دبي الحديثة
+  - id: 895d02cc-f46d-4c20-b1e2-1d9e55d2faf0
+    name: راشد
+    sex: male
+    nickname: الشيخ
+    kunya: باني دبي الحديثة
+    birthdate: '1912'
+    fatherId: b9499982-7a67-4b0f-a280-e10d0c6b7d87
+  # الجيل السابع - أبناء الشيخ راشد بن سعيد
+  - id: 8471e05e-55b2-487c-b45d-b0f156e0d65a
+    name: مكتوم
+    sex: male
+    nickname: الحاكم
+    birthdate: '1943'
+    fatherId: 895d02cc-f46d-4c20-b1e2-1d9e55d2faf0
+  - id: 2a582473-8c49-4384-b249-3933de06cc31
+    name: حمدان
+    sex: male
+    nickname: نائب الحاكم
+    kunya: وزير المالية
+    birthdate: '1945'
+    fatherId: 895d02cc-f46d-4c20-b1e2-1d9e55d2faf0
+  - id: 6dd0f357-4bac-4cf1-b756-5fbc87d58e5f
+    name: محمد
+    sex: male
+    nickname: الشيخ
+    kunya: نائب رئيس الدولة
+    birthdate: '1949'
+    fatherId: 895d02cc-f46d-4c20-b1e2-1d9e55d2faf0
+  - id: 81018325-d529-4014-adda-da798626787f
+    name: أحمد
+    sex: male
+    birthdate: '1950'
+    fatherId: 895d02cc-f46d-4c20-b1e2-1d9e55d2faf0
+  # الجيل الثامن - أبناء الشيخ محمد بن راشد
+  - id: f2588701-09e4-4b27-8ff2-770be4b7ea5d
+    name: مروان
+    sex: male
+    birthdate: '1981'
+    fatherId: 6dd0f357-4bac-4cf1-b756-5fbc87d58e5f
+  - id: d6c53da8-c7a6-4be5-aa65-525e4ebbff01
+    name: راشد
+    sex: male
+    birthdate: '1981'
+    fatherId: 6dd0f357-4bac-4cf1-b756-5fbc87d58e5f
+  - id: fafd2264-ac4b-49b3-b8f2-486757cdad9d
+    name: حمدان
+    sex: male
+    nickname: ولي العهد
+    kunya: وزير الدفاع
+    birthdate: '1982'
+    fatherId: 6dd0f357-4bac-4cf1-b756-5fbc87d58e5f
+  - id: 5c9c34ee-3c58-40e3-b399-d78105a72d0b
+    name: مكتوم
+    sex: male
+    nickname: النائب الأول لحاكم دبي
+    kunya: وزير المالية
+    birthdate: '1983'
+    fatherId: 6dd0f357-4bac-4cf1-b756-5fbc87d58e5f
+  - id: 82368e84-7239-46c6-81e4-954aa088a716
+    name: أحمد
+    sex: male
+    nickname: النائب الثاني لحاكم دبي
+    birthdate: '1987'
+    fatherId: 6dd0f357-4bac-4cf1-b756-5fbc87d58e5f
+  - id: 02363de6-8d18-49bc-988e-2bfe15c56c9c
+    name: ماجد
+    sex: male
+    birthdate: '1987'
+    fatherId: 6dd0f357-4bac-4cf1-b756-5fbc87d58e5f
+  - id: e03e84f1-6c1c-4a33-baa2-ce5824b420d6
+    name: منصور
+    sex: male
+    birthdate: '1989'
+    fatherId: 6dd0f357-4bac-4cf1-b756-5fbc87d58e5f
+  # الجيل التاسع - أبناء ولي عهد دبي
+  - id: 601fd071-5330-4d1f-8982-ba64b61c5243
+    name: راشد
+    sex: male
+    birthdate: '2021'
+    fatherId: fafd2264-ac4b-49b3-b8f2-486757cdad9d
+  - id: 5baec1ad-e7e9-496f-81d7-e0d57ddde03e
+    name: محمد
+    sex: male
+    birthdate: '2023'
+    fatherId: fafd2264-ac4b-49b3-b8f2-486757cdad9d

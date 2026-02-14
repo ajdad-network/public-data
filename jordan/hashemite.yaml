@@ -1,0 +1,448 @@
+family:
+  suffixFemale: الهاشمية
+  name: الهاشميون
+  visibility: public
+  pinned: true
+  suffixMale: الهاشمي
+  description: |-
+    الهاشميون في الأردن هم العائلة الحاكمة في الأردن حاليًا، يرجع نسبهم إلى هاشم بن عبد مناف الجد الأكبر للنبي محمد وجد بني هاشم وهما فرع من قبيلة قريش المنبثقة عن قبيلة كنانة، والتي تنحدر بدورها من النبي إسماعيل ابن النبي إبراهيم.
+    ظل الهاشميون يحكمون أجزاءً من إقليم الحجاز في الجزيرة العربية في الفترة ما بين عام 967 حتى عام 1925م دون انقطاع، وقد حكم الفرع الهاشمي الذي ينتمي إليه الشريف الحسين بن علي الهاشمي مكة المكرمة منذ عام 1827م إلى عام 1925م ويطلق عليهم مصطلح الأشراف آل عون، وأول من حكم منهم هو الشريف محمد بن عبد المعين بن عون (الجد المباشر للشريف الحسين).
+  type: aila
+  id: fe3ae076-65ea-4554-8aac-1ed015d5e245
+persons:
+  - id: 717deb51-20dc-4e79-8836-ea4773da4461
+    name: الحسين
+    sex: male
+    nickname: الشريف
+    kunya: بن علي
+    birthdate: '1854'
+  - id: 46a5f6ad-5da3-455a-9710-4249634cec20
+    name: عبدية
+    sex: female
+    birthdate: '1870'
+  - id: 050735f7-afa6-4f12-9d8a-920b3af091e7
+    name: عبد الله
+    sex: male
+    nickname: الملك
+    kunya: الأول
+    birthdate: '1882'
+    fatherId: 717deb51-20dc-4e79-8836-ea4773da4461
+    motherId: 46a5f6ad-5da3-455a-9710-4249634cec20
+  - id: 0f538ca3-73da-4e36-8724-0fa0cca32abe
+    name: مصباح
+    sex: female
+    nickname: الملكة
+    kunya: ناصر
+    birthdate: '1884'
+  - id: d87173cd-f5dd-4c82-9d25-ff8698826e6e
+    name: طلال
+    sex: male
+    nickname: الملك
+    birthdate: '1909'
+    fatherId: 050735f7-afa6-4f12-9d8a-920b3af091e7
+    motherId: 0f538ca3-73da-4e36-8724-0fa0cca32abe
+  - id: 5b3cc12f-27c4-4a59-b115-27acdc0f6efe
+    name: زين الشرف
+    sex: female
+    nickname: الملكة
+    birthdate: '1916'
+  - id: fd3c9796-9856-4ca8-b155-001e745f2a00
+    name: الحسين
+    sex: male
+    nickname: الملك
+    birthdate: '1935'
+    fatherId: d87173cd-f5dd-4c82-9d25-ff8698826e6e
+    motherId: 5b3cc12f-27c4-4a59-b115-27acdc0f6efe
+  - id: 047b827a-3ce5-452a-b40a-d15f0c4e549d
+    name: منى
+    sex: female
+    nickname: الأميرة
+    birthdate: '1941'
+  - id: 65c06b8b-45dd-4ccb-a1a4-70f7d3b5c26e
+    name: فيصل
+    sex: male
+    nickname: الأمير
+    birthdate: '1963'
+    fatherId: fd3c9796-9856-4ca8-b155-001e745f2a00
+    motherId: 047b827a-3ce5-452a-b40a-d15f0c4e549d
+  - id: 03aff78d-0517-4fd3-8195-58321024f027
+    name: عالية
+    sex: female
+    kunya: الطباع
+  - id: 01795bfd-ec57-4dd4-9c27-b6c38ab68c58
+    name: آية
+    sex: female
+    nickname: الأميرة
+    birthdate: '1990'
+    fatherId: 65c06b8b-45dd-4ccb-a1a4-70f7d3b5c26e
+    motherId: 03aff78d-0517-4fd3-8195-58321024f027
+  - id: 56cc2e7d-fd1c-4702-9933-2fe024a0a8fd
+    name: عبد الله
+    sex: male
+    nickname: الملك
+    kunya: الثاني
+    birthdate: '1962'
+    fatherId: fd3c9796-9856-4ca8-b155-001e745f2a00
+    motherId: 047b827a-3ce5-452a-b40a-d15f0c4e549d
+  - id: eef6b923-76e4-4c28-9172-e1f12e7a768a
+    name: رانيا
+    sex: female
+    nickname: الملكة
+    kunya: العبدالله
+    birthdate: '1970'
+  - id: 049e5f60-19dd-4168-9c9c-cc403eead667
+    name: سلمى
+    sex: female
+    nickname: الأميرة
+    birthdate: '2000'
+    fatherId: 56cc2e7d-fd1c-4702-9933-2fe024a0a8fd
+    motherId: eef6b923-76e4-4c28-9172-e1f12e7a768a
+  - id: 070f7792-da9c-4d9c-8e4d-5d3591d647ac
+    name: الحسين
+    sex: male
+    nickname: ولي العهد الأمير
+    birthdate: '1994'
+    fatherId: 56cc2e7d-fd1c-4702-9933-2fe024a0a8fd
+    motherId: eef6b923-76e4-4c28-9172-e1f12e7a768a
+  - id: 082d90ad-977a-486c-9089-dec3c5a9498e
+    name: عمر
+    sex: male
+    nickname: الأمير
+    birthdate: '1993'
+    fatherId: 65c06b8b-45dd-4ccb-a1a4-70f7d3b5c26e
+    motherId: 03aff78d-0517-4fd3-8195-58321024f027
+  - id: 382b5cea-b1ff-4617-9d93-fa1c6b011341
+    name: حسن
+    sex: male
+    nickname: الأمير
+    birthdate: '1947'
+    fatherId: d87173cd-f5dd-4c82-9d25-ff8698826e6e
+    motherId: 5b3cc12f-27c4-4a59-b115-27acdc0f6efe
+  - id: 2e8b3100-408b-43c9-8341-c39bb0d0bdf1
+    name: ثروت
+    sex: female
+    nickname: الأميرة
+    birthdate: '1947'
+  - id: 0bf2fb76-cc5e-4dce-a40b-550b24ea72bb
+    name: راشد
+    sex: male
+    nickname: الأمير
+    birthdate: '1979'
+    fatherId: 382b5cea-b1ff-4617-9d93-fa1c6b011341
+    motherId: 2e8b3100-408b-43c9-8341-c39bb0d0bdf1
+  - id: 4aa8b120-edd3-4458-b218-575fff189f70
+    name: زينة
+    sex: female
+    kunya: اللبادي
+  - id: 0d6d14e4-1569-4e93-b644-a63ccd7404fc
+    name: محمد
+    sex: male
+    nickname: الأمير
+    birthdate: '2017'
+    fatherId: 65c06b8b-45dd-4ccb-a1a4-70f7d3b5c26e
+    motherId: 4aa8b120-edd3-4458-b218-575fff189f70
+  - id: 86ec7795-c503-4253-ba12-61d54b351a68
+    name: محمد
+    sex: male
+    nickname: الأمير
+    birthdate: '1940'
+    fatherId: d87173cd-f5dd-4c82-9d25-ff8698826e6e
+    motherId: 5b3cc12f-27c4-4a59-b115-27acdc0f6efe
+  - id: e78f8674-c124-4b6d-b38e-a74a51f4e2bd
+    name: فريال
+    sex: female
+    kunya: الإرشيدات
+  - id: 0d8f2859-6c3f-470f-8dfb-088d079d869e
+    name: غازي
+    sex: male
+    nickname: الأمير
+    birthdate: '1966'
+    fatherId: 86ec7795-c503-4253-ba12-61d54b351a68
+    motherId: e78f8674-c124-4b6d-b38e-a74a51f4e2bd
+  - id: 6a1a4712-b8a3-428b-a004-1207dfc8d6f7
+    name: نور
+    sex: female
+    nickname: الملكة
+    kunya: الحسين
+    birthdate: '1951'
+  - id: 3a16a908-5132-4f64-956b-35d4df773bc4
+    name: حمزة
+    sex: male
+    nickname: الأمير
+    birthdate: '1980'
+    fatherId: fd3c9796-9856-4ca8-b155-001e745f2a00
+    motherId: 6a1a4712-b8a3-428b-a004-1207dfc8d6f7
+  - id: 42f05eac-48ac-42a3-a481-dd85e4531e49
+    name: بسمة
+    sex: female
+    kunya: بني أحمد
+  - id: 171a639f-7246-4485-8a10-10b95f7419e1
+    name: الحسين
+    sex: male
+    nickname: الأمير
+    birthdate: '2019'
+    fatherId: 3a16a908-5132-4f64-956b-35d4df773bc4
+    motherId: 42f05eac-48ac-42a3-a481-dd85e4531e49
+  - id: 188eaa1b-4b58-49c6-8735-bccf7d143714
+    name: رحمة
+    sex: female
+    nickname: الأميرة
+    birthdate: '1969'
+    fatherId: 382b5cea-b1ff-4617-9d93-fa1c6b011341
+    motherId: 2e8b3100-408b-43c9-8341-c39bb0d0bdf1
+  - id: 1c5c1f70-889a-4851-bd3b-1fc61c4bf54f
+    name: نفيسة
+    sex: female
+    nickname: الأميرة
+    birthdate: '2018'
+    fatherId: 3a16a908-5132-4f64-956b-35d4df773bc4
+    motherId: 42f05eac-48ac-42a3-a481-dd85e4531e49
+  - id: 1d2a4922-ddcd-4a92-b47b-78b222f2a62e
+    name: هاشم
+    sex: male
+    nickname: الأمير
+    birthdate: '2005'
+    fatherId: 56cc2e7d-fd1c-4702-9933-2fe024a0a8fd
+    motherId: eef6b923-76e4-4c28-9172-e1f12e7a768a
+  - id: 2200cd03-2ca1-4d8c-b143-33749b5a5dec
+    name: عائشة
+    sex: female
+    nickname: الأميرة
+    birthdate: '1997'
+    fatherId: 65c06b8b-45dd-4ccb-a1a4-70f7d3b5c26e
+    motherId: 03aff78d-0517-4fd3-8195-58321024f027
+  - id: 2219445b-4f28-487f-b108-733a60a52de9
+    name: عائشة
+    sex: female
+    nickname: الأميرة
+    birthdate: '1968'
+    fatherId: fd3c9796-9856-4ca8-b155-001e745f2a00
+    motherId: 047b827a-3ce5-452a-b40a-d15f0c4e549d
+  - id: 84efb72b-7e19-4190-98c2-06507c9af3d0
+    name: علياء
+    sex: female
+    nickname: الملكة
+    kunya: الحسين
+    birthdate: '1948'
+  - id: 244b9ad7-1ce6-460e-9ed4-911882b30de9
+    name: علي
+    sex: male
+    nickname: الأمير
+    birthdate: '1975'
+    fatherId: fd3c9796-9856-4ca8-b155-001e745f2a00
+    motherId: 84efb72b-7e19-4190-98c2-06507c9af3d0
+  - id: e7d8ff42-8a1d-4d18-b5ce-450d0d26ea60
+    name: ريم
+    sex: female
+    nickname: الأميرة
+    kunya: البراهيمي
+  - id: 2a87a895-8481-4b81-b8cb-b5f8a801c37f
+    name: جليلة
+    sex: female
+    nickname: الأميرة
+    fatherId: 244b9ad7-1ce6-460e-9ed4-911882b30de9
+    motherId: e7d8ff42-8a1d-4d18-b5ce-450d0d26ea60
+  - id: 2b49bf31-9d98-4881-8aaa-abb85bc30cbf
+    name: بديعة
+    sex: female
+    nickname: الأميرة
+    birthdate: '1974'
+    fatherId: 382b5cea-b1ff-4617-9d93-fa1c6b011341
+    motherId: 2e8b3100-408b-43c9-8341-c39bb0d0bdf1
+  - id: 3a274352-bf7e-45e4-a05d-37bc38e6bc5d
+    name: نور
+    sex: female
+    nickname: الأميرة
+    birthdate: '2014'
+    fatherId: 3a16a908-5132-4f64-956b-35d4df773bc4
+    motherId: 42f05eac-48ac-42a3-a481-dd85e4531e49
+  - id: 43dd91a4-9a06-410e-b2c7-db4f6c78ccc1
+    name: سمية
+    sex: female
+    nickname: الأميرة
+    birthdate: '1971'
+    fatherId: 382b5cea-b1ff-4617-9d93-fa1c6b011341
+    motherId: 2e8b3100-408b-43c9-8341-c39bb0d0bdf1
+  - id: d397a25b-e057-4fed-9687-e7a76e997656
+    name: هاشم
+    sex: male
+    nickname: الأمير
+    birthdate: '1981'
+    fatherId: fd3c9796-9856-4ca8-b155-001e745f2a00
+    motherId: 6a1a4712-b8a3-428b-a004-1207dfc8d6f7
+  - id: ff489d14-287e-4371-a6ae-3804b9e2972a
+    name: فهدة
+    sex: female
+    kunya: أبوناين
+  - id: 5da67da7-8fe9-4c19-99d8-505d7e337ff3
+    name: راية
+    sex: female
+    nickname: الأميرة
+    birthdate: '2008'
+    fatherId: d397a25b-e057-4fed-9687-e7a76e997656
+    motherId: ff489d14-287e-4371-a6ae-3804b9e2972a
+  - id: 5e07529c-e16a-4bdc-be7f-8c6530f7d40e
+    name: زين
+    sex: female
+    nickname: الأميرة
+    birthdate: '1968'
+    fatherId: fd3c9796-9856-4ca8-b155-001e745f2a00
+    motherId: 047b827a-3ce5-452a-b40a-d15f0c4e549d
+  - id: 61907e2b-6ed0-4764-8497-23e97fb2e1e1
+    name: إيمان
+    sex: female
+    nickname: الأميرة
+    birthdate: '1996'
+    fatherId: 56cc2e7d-fd1c-4702-9933-2fe024a0a8fd
+    motherId: eef6b923-76e4-4c28-9172-e1f12e7a768a
+  - id: 677038c3-2651-40ed-a044-a94fc8f40106
+    name: بسمة
+    sex: female
+    nickname: الأميرة
+    birthdate: '1951'
+    fatherId: d87173cd-f5dd-4c82-9d25-ff8698826e6e
+    motherId: 5b3cc12f-27c4-4a59-b115-27acdc0f6efe
+  - id: 6d376da1-d243-4d01-96ec-13b2ef115765
+    name: هيا
+    sex: female
+    nickname: الأميرة
+    birthdate: '1974'
+    fatherId: fd3c9796-9856-4ca8-b155-001e745f2a00
+    motherId: 84efb72b-7e19-4190-98c2-06507c9af3d0
+  - id: 73b52656-e79c-4d45-bcd4-be7d87760b5b
+    name: دينا
+    sex: female
+    nickname: الشريفة
+    kunya: عبد الحميد
+    birthdate: '1929'
+  - id: 7592767f-9cb9-4b04-be28-00dd3ac4529c
+    name: علي
+    sex: male
+    nickname: الملك
+    birthdate: '1879'
+    fatherId: 717deb51-20dc-4e79-8836-ea4773da4461
+    motherId: 46a5f6ad-5da3-455a-9710-4249634cec20
+  - id: 7b0cea1b-d339-4929-a90f-c8bf874b8c02
+    name: طلال
+    sex: male
+    nickname: الأمير
+    birthdate: '1965'
+    fatherId: 86ec7795-c503-4253-ba12-61d54b351a68
+    motherId: e78f8674-c124-4b6d-b38e-a74a51f4e2bd
+  - id: 7db03e03-3a99-49a7-be36-9fc32099075a
+    name: فيصل
+    sex: male
+    nickname: الملك
+    birthdate: '1883'
+    fatherId: 717deb51-20dc-4e79-8836-ea4773da4461
+    motherId: 46a5f6ad-5da3-455a-9710-4249634cec20
+  - id: 85f3c3dc-3746-4805-961a-243c2f8a8d3d
+    name: عبدالله
+    sex: male
+    nickname: الأمير
+    fatherId: 244b9ad7-1ce6-460e-9ed4-911882b30de9
+    motherId: e7d8ff42-8a1d-4d18-b5ce-450d0d26ea60
+  - id: 8c69b996-50a7-4898-80a2-1ff041b9a367
+    name: محمد
+    sex: male
+    nickname: الأمير
+    birthdate: '2022'
+    fatherId: 3a16a908-5132-4f64-956b-35d4df773bc4
+    motherId: 42f05eac-48ac-42a3-a481-dd85e4531e49
+  - id: 8dbf2e33-2ea8-4701-a19d-c001b3a6a69f
+    name: راية
+    sex: female
+    nickname: الأميرة
+    birthdate: '1986'
+    fatherId: fd3c9796-9856-4ca8-b155-001e745f2a00
+    motherId: 6a1a4712-b8a3-428b-a004-1207dfc8d6f7
+  - id: 8e7a5400-95b1-4dba-a0fd-e4fe96dfd272
+    name: سارة
+    sex: female
+    nickname: الأميرة
+    birthdate: '1997'
+    fatherId: 65c06b8b-45dd-4ccb-a1a4-70f7d3b5c26e
+    motherId: 03aff78d-0517-4fd3-8195-58321024f027
+  - id: 9393b691-bcc3-4c3e-8c33-5b9bebb70ada
+    name: فاطمة
+    sex: female
+    nickname: الأميرة
+    birthdate: '2011'
+    fatherId: d397a25b-e057-4fed-9687-e7a76e997656
+    motherId: ff489d14-287e-4371-a6ae-3804b9e2972a
+  - id: 96e4c985-f372-4481-b5ee-4b8f829e7c7e
+    name: محمد
+    sex: male
+    nickname: الأمير
+    birthdate: '2019'
+    fatherId: d397a25b-e057-4fed-9687-e7a76e997656
+    motherId: ff489d14-287e-4371-a6ae-3804b9e2972a
+  - id: aa24d91f-c84d-42a3-9e20-fb1a8e03f5d7
+    name: هالة
+    sex: female
+    nickname: الأميرة
+    birthdate: '2007'
+    fatherId: d397a25b-e057-4fed-9687-e7a76e997656
+    motherId: ff489d14-287e-4371-a6ae-3804b9e2972a
+  - id: aee4079e-724a-4d1c-92ed-7ef539be8f16
+    name: زين
+    sex: female
+    nickname: الأميرة
+    birthdate: '2012'
+    fatherId: 3a16a908-5132-4f64-956b-35d4df773bc4
+    motherId: 42f05eac-48ac-42a3-a481-dd85e4531e49
+  - id: b6a3b845-16e9-436d-a70f-9185da64c368
+    name: عبدالله
+    sex: male
+    nickname: الأمير
+    birthdate: '2016'
+    fatherId: 65c06b8b-45dd-4ccb-a1a4-70f7d3b5c26e
+    motherId: 4aa8b120-edd3-4458-b218-575fff189f70
+  - id: bd4bfe63-890a-4690-a584-33d860088bb1
+    name: حسين
+    sex: male
+    nickname: الأمير
+    birthdate: '2015'
+    fatherId: d397a25b-e057-4fed-9687-e7a76e997656
+    motherId: ff489d14-287e-4371-a6ae-3804b9e2972a
+  - id: c916eb6f-4365-4889-8624-42aeae43d465
+    name: هيا
+    sex: female
+    nickname: الأميرة
+    birthdate: '1907'
+    fatherId: 050735f7-afa6-4f12-9d8a-920b3af091e7
+    motherId: 0f538ca3-73da-4e36-8724-0fa0cca32abe
+  - id: d512f582-e380-4d74-bccc-8ed823b077a1
+    name: عالية
+    sex: female
+    nickname: الأميرة
+    birthdate: '1956'
+    fatherId: fd3c9796-9856-4ca8-b155-001e745f2a00
+    motherId: 73b52656-e79c-4d45-bcd4-be7d87760b5b
+  - id: d5c47723-fe88-41a8-9d73-7d26ef986429
+    name: زيد
+    sex: male
+    nickname: الأمير
+    birthdate: '1898'
+    fatherId: 717deb51-20dc-4e79-8836-ea4773da4461
+    motherId: 46a5f6ad-5da3-455a-9710-4249634cec20
+  - id: e52c516a-1efd-4624-acc0-e45e8cd4faf7
+    name: رجوة
+    sex: female
+    nickname: الأميرة
+    kunya: الحسين
+    birthdate: '1995'
+  - id: d6702961-ea5f-4364-98f2-b6dcb9822491
+    name: إيمان
+    sex: female
+    nickname: الأميرة
+    birthdate: '2024'
+    fatherId: 070f7792-da9c-4d9c-8e4d-5d3591d647ac
+    motherId: e52c516a-1efd-4624-acc0-e45e8cd4faf7
+  - id: e19dff32-18b7-42e6-8e90-71b3e0f343fd
+    name: بديعة
+    sex: female
+    nickname: الأميرة
+    birthdate: '2016'
+    fatherId: 3a16a908-5132-4f64-956b-35d4df773bc4
+    motherId: 42f05eac-48ac-42a3-a481-dd85e4531e49

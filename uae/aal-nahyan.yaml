@@ -1,0 +1,248 @@
+family:
+  type: aal
+  description: الأسرة الحاكمة في إمارة أبوظبي، من فخذ آل بوفلاح من قبيلة بني ياس، حكام أبوظبي منذ القرن الثامن عشر ومؤسسو دولة الإمارات العربية المتحدة
+  hometown: أبوظبي
+  suffixFemale: النهيانية
+  pinned: true
+  createdBy: b8HOIr2dR5ds4Be8N3tQhA7wpJt2
+  suffixMale: النهياني
+  visibility: public
+  name: آل نهيان
+persons:
+  # الجيل الأول - الجد الأعلى
+  - id: 547bdcdf-5bb8-4a1c-b9cd-3555a8c0db5e
+    name: نهيان
+    sex: male
+    nickname: الشيخ
+    kunya: بن فلاح
+  # الجيل الثاني
+  - id: 4eaae7f4-0faf-4572-ab40-fed3cbf3976a
+    name: عيسى
+    sex: male
+    fatherId: 547bdcdf-5bb8-4a1c-b9cd-3555a8c0db5e
+  # الجيل الثالث
+  - id: bd67be73-d024-4b5b-9657-17edf9c71a7a
+    name: ذياب
+    sex: male
+    nickname: الشيخ
+    kunya: مؤسس أبوظبي
+    fatherId: 4eaae7f4-0faf-4572-ab40-fed3cbf3976a
+  # الجيل الرابع - أبناء ذياب بن عيسى
+  - id: fd95be40-ad4e-4c9e-a3f5-4f8750450bee
+    name: شخبوط
+    sex: male
+    nickname: الحاكم
+    fatherId: bd67be73-d024-4b5b-9657-17edf9c71a7a
+  # الجيل الخامس - أبناء شخبوط بن ذياب
+  - id: eb5da1d2-aad1-4f55-a7cb-09dcdca8e511
+    name: محمد
+    sex: male
+    nickname: الحاكم
+    fatherId: fd95be40-ad4e-4c9e-a3f5-4f8750450bee
+  - id: fb5e6a03-1d6c-472f-9c18-49ceadb8d550
+    name: طحنون
+    sex: male
+    nickname: الحاكم
+    fatherId: fd95be40-ad4e-4c9e-a3f5-4f8750450bee
+  - id: 8c3aa801-35d0-4ae8-8d67-d324e1a7faf2
+    name: خليفة
+    sex: male
+    nickname: الحاكم
+    fatherId: fd95be40-ad4e-4c9e-a3f5-4f8750450bee
+  # الجيل السادس
+  - id: ae108f8b-85f0-4654-8cea-ad97c8669d5f
+    name: سعيد
+    sex: male
+    nickname: الحاكم
+    fatherId: fb5e6a03-1d6c-472f-9c18-49ceadb8d550
+  - id: e33ec531-8dc5-42a2-a5c6-58ef68caa490
+    name: زايد
+    sex: male
+    nickname: الشيخ
+    kunya: الكبير
+    birthdate: '1835'
+    fatherId: 8c3aa801-35d0-4ae8-8d67-d324e1a7faf2
+  # الجيل السابع - أبناء زايد الكبير
+  - id: 3de468b1-84ff-4709-bed9-eb56503dd9b8
+    name: خليفة
+    sex: male
+    fatherId: e33ec531-8dc5-42a2-a5c6-58ef68caa490
+  - id: f77df8f4-cbe6-48cc-aa6a-33cefd358f52
+    name: طحنون
+    sex: male
+    nickname: الحاكم
+    birthdate: '1857'
+    fatherId: e33ec531-8dc5-42a2-a5c6-58ef68caa490
+  - id: 469e7137-821a-45f3-babc-ae6e7d37edb4
+    name: حمدان
+    sex: male
+    nickname: الحاكم
+    fatherId: e33ec531-8dc5-42a2-a5c6-58ef68caa490
+  - id: 940d34fa-1918-4a59-8777-396e89cc2f52
+    name: سلطان
+    sex: male
+    nickname: الحاكم
+    fatherId: e33ec531-8dc5-42a2-a5c6-58ef68caa490
+  - id: f174b91d-50b1-48c5-a985-f5fb651e35db
+    name: صقر
+    sex: male
+    nickname: الحاكم
+    fatherId: e33ec531-8dc5-42a2-a5c6-58ef68caa490
+  - id: 6caa37f5-0c86-4b6e-af33-c0162f1b729f
+    name: هزاع
+    sex: male
+    fatherId: e33ec531-8dc5-42a2-a5c6-58ef68caa490
+  # الجيل الثامن - أبناء سلطان بن زايد بن خليفة
+  - id: d04739c5-45f7-47b2-8b01-45164049651f
+    name: شخبوط
+    sex: male
+    nickname: الحاكم
+    birthdate: '1905'
+    fatherId: 940d34fa-1918-4a59-8777-396e89cc2f52
+  - id: acb5f21b-03c9-4ce3-bc4c-dc0fe5b2243d
+    name: هزاع
+    sex: male
+    fatherId: 940d34fa-1918-4a59-8777-396e89cc2f52
+  - id: 85d09d37-0601-436d-9a54-b06dfa4d7124
+    name: زايد
+    sex: male
+    nickname: الشيخ
+    kunya: المؤسس
+    birthdate: '1918'
+    fatherId: 940d34fa-1918-4a59-8777-396e89cc2f52
+  # الجيل التاسع - أبناء الشيخ زايد بن سلطان (مؤسس الدولة)
+  - id: cc626f9a-7e85-4d37-aa46-60e4bae8c32a
+    name: خليفة
+    sex: male
+    nickname: الشيخ
+    kunya: رئيس الدولة الثاني
+    birthdate: '1948'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: 775d39f7-28af-4458-9399-de692478a195
+    name: سلطان
+    sex: male
+    birthdate: '1956'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: 1345b4c8-f7b7-4333-b0b6-58da16a5d0ee
+    name: محمد
+    sex: male
+    nickname: الشيخ
+    kunya: رئيس الدولة
+    birthdate: '1961'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: b0cc1861-a7fc-4310-8b1b-7d5ad94f7214
+    name: حمدان
+    sex: male
+    birthdate: '1963'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: 75e5767d-2680-4533-bb30-214a2746b5df
+    name: هزاع
+    sex: male
+    nickname: نائب الحاكم
+    birthdate: '1965'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: d5040eb7-a782-4bbc-adfe-ae379e187587
+    name: سعيد
+    sex: male
+    birthdate: '1965'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: 63748dad-323f-4c06-a1ba-144ae2dac4fe
+    name: عيسى
+    sex: male
+    birthdate: '1966'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: 1e9a030d-703a-4070-970d-aafea16afaae
+    name: ناصر
+    sex: male
+    birthdate: '1967'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: 204073c8-6a49-46d3-b342-ba0da0c6dee1
+    name: نهيان
+    sex: male
+    birthdate: '1968'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: daf8c41c-8c9a-4ec1-b0ca-0f1bf4ed982c
+    name: سيف
+    sex: male
+    nickname: نائب رئيس الوزراء
+    kunya: وزير الداخلية
+    birthdate: '1968'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: f7530b8d-8bb7-4622-986d-4586791809d6
+    name: طحنون
+    sex: male
+    nickname: مستشار الأمن الوطني
+    birthdate: '1968'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: bd82e36d-1c73-4338-b948-814593954679
+    name: أحمد
+    sex: male
+    birthdate: '1969'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: 362e8797-4983-4e87-82a3-6ca37044ca84
+    name: حامد
+    sex: male
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: 0f5abb4d-c261-4c8b-aa9c-815e0f33246a
+    name: فلاح
+    sex: male
+    birthdate: '1970'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: df71fbd7-a4f6-4ba8-841d-5410084e0b27
+    name: منصور
+    sex: male
+    nickname: نائب رئيس الدولة
+    birthdate: '1970'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: 26edf0d8-f562-4f7d-b2ea-844a30da7e8b
+    name: ذياب
+    sex: male
+    birthdate: '1971'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: 9263b239-3f11-4c8f-96aa-04362c8fb517
+    name: عبدالله
+    sex: male
+    nickname: وزير الخارجية
+    birthdate: '1972'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: 58577e97-06f5-4461-816e-561cef8badb1
+    name: عمر
+    sex: male
+    birthdate: '1973'
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  - id: ae00c6a0-adfa-44f4-b7ad-4e7db137d830
+    name: خالد
+    sex: male
+    fatherId: 85d09d37-0601-436d-9a54-b06dfa4d7124
+  # الجيل العاشر - أبناء خليفة بن زايد
+  - id: b5d61dc7-b551-4226-ac5e-66af12c233d1
+    name: سلطان
+    sex: male
+    birthdate: '1965'
+    fatherId: cc626f9a-7e85-4d37-aa46-60e4bae8c32a
+  - id: cab3e34f-8755-4840-b7be-58f514b5fa25
+    name: محمد
+    sex: male
+    fatherId: cc626f9a-7e85-4d37-aa46-60e4bae8c32a
+  # أبناء محمد بن زايد (رئيس الدولة)
+  - id: 02e4bb28-1052-4f22-b6fc-1951995cb4e1
+    name: خالد
+    sex: male
+    nickname: ولي العهد
+    birthdate: '1982'
+    fatherId: 1345b4c8-f7b7-4333-b0b6-58da16a5d0ee
+  - id: f21c95fe-09ca-4d5b-8a35-38ba6789444a
+    name: ذياب
+    sex: male
+    birthdate: '1986'
+    fatherId: 1345b4c8-f7b7-4333-b0b6-58da16a5d0ee
+  - id: 7410518d-e48b-4e1d-aa10-21b86ee25bee
+    name: حمدان
+    sex: male
+    birthdate: '1988'
+    fatherId: 1345b4c8-f7b7-4333-b0b6-58da16a5d0ee
+  - id: ecb82111-5fa6-4795-9b0f-6d495983470e
+    name: زايد
+    sex: male
+    birthdate: '1995'
+    fatherId: 1345b4c8-f7b7-4333-b0b6-58da16a5d0ee

@@ -1,0 +1,278 @@
+family:
+  type: aal
+  description: الأسرة الحاكمة في المملكة العربية السعودية، يعود نسبها إلى مانع بن ربيعة المريدي مؤسس إمارة الدرعية عام 1446م
+  hometown: الدرعية
+  suffixFemale: السعودية
+  pinned: true
+  createdBy: b8HOIr2dR5ds4Be8N3tQhA7wpJt2
+  suffixMale: السعودي
+  visibility: public
+  name: آل سعود
+  id: 7dab1af4-c2b8-4b89-a95e-57cad4832c87
+persons:
+  - id: 37416921-9b43-48db-8853-dd894d49f3ad
+    name: مانع
+    sex: male
+    nickname: المريدي
+    kunya: مؤسس الدرعية
+    birthdate: '1400'
+  - id: fe284d84-66f7-49e7-9e06-9e7707d2a32e
+    name: ربيعة
+    sex: male
+    fatherId: 37416921-9b43-48db-8853-dd894d49f3ad
+  - id: 20920b17-6c77-4458-90da-57e28dac31d0
+    name: موسى
+    sex: male
+    fatherId: fe284d84-66f7-49e7-9e06-9e7707d2a32e
+  - id: 1bcb1300-e418-4e3c-be92-9726a1a3926a
+    name: إبراهيم
+    sex: male
+    fatherId: 20920b17-6c77-4458-90da-57e28dac31d0
+  - id: 4ce86f62-d515-4897-9e56-19547ffd5cf8
+    name: مرخان
+    sex: male
+    fatherId: 1bcb1300-e418-4e3c-be92-9726a1a3926a
+  - id: b7534398-294c-4d95-b7cf-d19a40657b7b
+    name: مقرن
+    sex: male
+    fatherId: 4ce86f62-d515-4897-9e56-19547ffd5cf8
+  - id: be5096ea-abce-4aa5-b929-99f0165bcdd3
+    name: محمد
+    sex: male
+    fatherId: b7534398-294c-4d95-b7cf-d19a40657b7b
+  - id: 6dce9c05-4e22-4a2b-9a36-705701d3a201
+    name: سعود
+    sex: male
+    nickname: الكبير
+    fatherId: be5096ea-abce-4aa5-b929-99f0165bcdd3
+  - id: a46076f8-02eb-499f-bc67-f7ac2e86c3cb
+    name: محمد
+    sex: male
+    nickname: الإمام
+    kunya: مؤسس الدولة الأولى
+    birthdate: '1697'
+    fatherId: 6dce9c05-4e22-4a2b-9a36-705701d3a201
+  - id: 1e87b717-b9c3-4776-bd26-4cf976dd355a
+    name: عبدالله
+    sex: male
+    fatherId: a46076f8-02eb-499f-bc67-f7ac2e86c3cb
+  - id: fbf47d76-2dbe-4b63-a189-42bec50ac5a3
+    name: تركي
+    sex: male
+    nickname: الإمام
+    kunya: مؤسس الدولة الثانية
+    birthdate: '1755'
+    fatherId: 1e87b717-b9c3-4776-bd26-4cf976dd355a
+  - id: e5016515-6436-4b9b-bbd1-f902a2b384b0
+    name: فيصل
+    sex: male
+    nickname: الإمام
+    birthdate: '1785'
+    fatherId: fbf47d76-2dbe-4b63-a189-42bec50ac5a3
+  - id: 4cdfc4e5-387a-4c0d-9f80-6977f11c1877
+    name: عبدالرحمن
+    sex: male
+    nickname: الإمام
+    kunya: آخر أئمة الدولة الثانية
+    birthdate: '1850'
+    fatherId: e5016515-6436-4b9b-bbd1-f902a2b384b0
+  - id: a160e57b-13b7-42bf-9459-1092df05befc
+    name: عبدالعزيز
+    sex: male
+    nickname: الملك
+    kunya: المؤسس
+    birthdate: '1875'
+    fatherId: 4cdfc4e5-387a-4c0d-9f80-6977f11c1877
+  - id: 01f33638-2b54-4bd6-bf65-2e4dec222e80
+    name: نايف
+    sex: male
+    nickname: ولي العهد
+    birthdate: '1934'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 05549707-9d29-43bf-bba4-21a7890fa7df
+    name: مساعد
+    sex: male
+    birthdate: '1923'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 06aa111f-310c-4a0e-b0ab-317af6815bda
+    name: ثامر
+    sex: male
+    birthdate: '1937'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 0ee6915f-c8d7-4d8d-bae8-3c9d464b515f
+    name: منصور
+    sex: male
+    birthdate: '1918'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 10d64684-5fc7-48b7-81a1-47f57032614b
+    name: سلمان
+    sex: male
+    nickname: الملك
+    kunya: السابع
+    birthdate: '1935'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 14eeda48-d6de-4c5b-afe2-a3224373958d
+    name: عبدالعزيز
+    sex: male
+    nickname: الإمام
+    birthdate: '1720'
+    fatherId: a46076f8-02eb-499f-bc67-f7ac2e86c3cb
+  - id: 15eec685-537c-4eb7-a861-c00a07aaf758
+    name: نواف
+    sex: male
+    birthdate: '1933'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 26466b37-bdb8-4bce-a14d-ebbee4867944
+    name: سلطان
+    sex: male
+    nickname: ولي العهد
+    birthdate: '1928'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 2a47a7dc-5724-4317-98ff-5d3a7b90da45
+    name: عبدالمحسن
+    sex: male
+    birthdate: '1925'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 361c7d12-a9d0-4139-bb3e-95cb78d9153b
+    name: عبدالرحمن
+    sex: male
+    birthdate: '1931'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 36fdcc8f-950b-46ac-be58-dd5019b05708
+    name: حمود
+    sex: male
+    birthdate: '1947'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 3a4ad1bd-e769-460e-9593-d9b8ea1ffb63
+    name: عبدالله
+    sex: male
+    nickname: الملك
+    kunya: السادس
+    birthdate: '1924'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 3ffb9159-5fbe-4f37-92a4-3cf66b98c18b
+    name: تركي
+    sex: male
+    kunya: الأول
+    birthdate: '1900'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 43729db1-6c48-406b-b07b-4eae7cbe4cea
+    name: مشعل
+    sex: male
+    birthdate: '1926'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 5ab68217-b800-4761-b499-3416cb4fbc2b
+    name: ماجد
+    sex: male
+    birthdate: '1938'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 70bf4d19-dc4d-462d-ac99-cddc2364ac12
+    name: طلال
+    sex: male
+    birthdate: '1931'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 790c6b14-f999-4191-86f6-f030aaa27c1c
+    name: ناصر
+    sex: male
+    birthdate: '1911'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: 807b1487-e7f3-419d-a88a-3534850d1440
+    name: فهد
+    sex: male
+    nickname: الملك
+    kunya: الخامس
+    birthdate: '1921'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: ad6b795f-324a-4c4f-a19a-c70ae3da9ddc
+    name: سعود
+    sex: male
+    nickname: الكبير
+    kunya: الكبير
+    birthdate: '1765'
+    fatherId: 14eeda48-d6de-4c5b-afe2-a3224373958d
+  - id: 8769dacf-95ac-4a2b-8c62-b80cfb140d96
+    name: عبدالله
+    sex: male
+    nickname: الإمام
+    kunya: آخر أئمة الدولة الأولى
+    birthdate: '1785'
+    fatherId: ad6b795f-324a-4c4f-a19a-c70ae3da9ddc
+  - id: a5b29204-c5a5-44b2-9c87-98403130dad6
+    name: بندر
+    sex: male
+    birthdate: '1923'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: ad9084a1-6460-4a2a-a4bc-b26c13177ff5
+    name: مقرن
+    sex: male
+    nickname: ولي العهد
+    birthdate: '1945'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: ad99c750-00b9-41be-ae52-65a67d59a9ff
+    name: محمد
+    sex: male
+    birthdate: '1910'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: b31513f1-1b12-45b7-8f84-6b5e39f3bc00
+    name: سعود
+    sex: male
+    nickname: الملك
+    kunya: الثاني
+    birthdate: '1902'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: b7c6d07c-9c25-4774-9c8c-3550265e18df
+    name: فيصل
+    sex: male
+    nickname: الملك
+    kunya: الثالث
+    birthdate: '1906'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: b7f1d170-045d-438b-b4cf-4557ef6a2d7b
+    name: أحمد
+    sex: male
+    birthdate: '1942'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: c808daef-24aa-43c3-a298-a9589db80e5d
+    name: خالد
+    sex: male
+    nickname: الملك
+    kunya: الرابع
+    birthdate: '1913'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: caea63cb-720e-4a41-9cdd-623a9a212375
+    name: فواز
+    sex: male
+    birthdate: '1934'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: cb5f8dc3-352f-4ab9-9c55-e8053dbdf601
+    name: محمد
+    sex: male
+    nickname: ولي العهد
+    birthdate: '1985'
+    fatherId: 10d64684-5fc7-48b7-81a1-47f57032614b
+  - id: cc6018b7-3e0b-4625-951d-87ebe13da1a7
+    name: سعد
+    sex: male
+    birthdate: '1915'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: d7f8d693-70be-4aae-b977-4aaf2aa2aff6
+    name: مشاري
+    sex: male
+    birthdate: '1932'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: f0daabb0-d497-43ad-a89d-43ea0f2cb30a
+    name: تركي
+    sex: male
+    kunya: الثاني
+    birthdate: '1934'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: f220cf4c-451f-4c27-bf1a-cb99d48f3362
+    name: ممدوح
+    sex: male
+    birthdate: '1940'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
+  - id: fe7b123a-b4b7-4e3f-8d92-bb635a07b964
+    name: متعب
+    sex: male
+    birthdate: '1931'
+    fatherId: a160e57b-13b7-42bf-9459-1092df05befc
