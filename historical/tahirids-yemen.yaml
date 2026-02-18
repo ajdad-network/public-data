@@ -20,6 +20,11 @@ persons:
     nickname: السلطان
     kunya: المؤسس
     fatherId: b2da9815-dfd6-44ec-b5ac-93976d201da2
+  - id: 1e30b4c0-0e4b-4dca-bf77-959714efa22f
+    name: أحمد
+    sex: male
+    nickname: السلطان
+    fatherId: 94a57380-3993-45eb-9f9e-d20f26c47cc4
   - id: 31f2e08e-73e6-4bfa-a278-72d2826db748
     name: عبد الوهاب
     sex: male
@@ -43,3 +48,8 @@ persons:
     nickname: السلطان
     kunya: الثاني آخر الطاهريين
     fatherId: 736d5871-80b7-49da-b0d1-f5d7eeb9035e
+  - id: 8a2607f2-e5e5-4e17-ac18-2ed508873154
+    name: محمد
+    sex: male
+    kunya: بن طاهر
+    fatherId: 94a57380-3993-45eb-9f9e-d20f26c47cc4

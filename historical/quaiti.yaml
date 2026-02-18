@@ -20,6 +20,11 @@ persons:
     nickname: السلطان
     kunya: المؤسس
     fatherId: fd684c8b-a761-473b-88ed-2f0a0184049e
+  - id: f7c80c96-5871-477c-803b-920d755eb646
+    name: منصر
+    sex: male
+    nickname: السلطان
+    fatherId: fd684c8b-a761-473b-88ed-2f0a0184049e
   - id: 830075d3-7bbd-4325-8ddb-fa649e8d59f1
     name: عوض
     sex: male
@@ -30,6 +35,12 @@ persons:
     name: غالب
     sex: male
     nickname: السلطان
+    fatherId: 830075d3-7bbd-4325-8ddb-fa649e8d59f1
+  - id: a2c99395-181c-4096-8f7e-be325f05a1cb
+    name: عمر
+    sex: male
+    nickname: السلطان
+    kunya: الثاني
     fatherId: 830075d3-7bbd-4325-8ddb-fa649e8d59f1
   - id: f6393ae3-d612-4dbb-898d-a82eb8db54ed
     name: صالح

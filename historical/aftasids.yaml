@@ -38,3 +38,16 @@ persons:
     nickname: الملك
     kunya: المتوكل على الله
     fatherId: 3edc9e44-9b60-44c5-a8c1-ab706f625a40
+  - id: 2f414bdf-81a2-4a07-b620-817422d11636
+    name: الفضل
+    sex: male
+    fatherId: 964173ae-3ba5-421d-a68b-92f531753294
+  - id: 5be95327-7da0-433b-b85d-977da427f0ee
+    name: العباس
+    sex: male
+    fatherId: 964173ae-3ba5-421d-a68b-92f531753294
+  - id: 76b4b4ad-42a1-4241-8347-af91e7afc3b4
+    name: عبد الله
+    sex: male
+    kunya: بن يحيى
+    fatherId: b53cba78-88ee-453b-8812-fc0aaec62608

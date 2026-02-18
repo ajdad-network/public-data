@@ -20,6 +20,11 @@ persons:
     nickname: الأمير
     kunya: أسد الدولة المؤسس
     fatherId: 9d4befc4-a026-410e-85cc-4f94e4c327f3
+  - id: b3d07588-a7d4-4067-b6be-c6ab6cdf0b16
+    name: منيع
+    sex: male
+    kunya: بن مرداس
+    fatherId: 9d4befc4-a026-410e-85cc-4f94e4c327f3
   - id: dc798857-76f6-412a-aa90-c49ffb6cc00d
     name: نصر
     sex: male
@@ -49,4 +54,9 @@ persons:
     sex: male
     nickname: الأمير
     kunya: آخر بني مرداس
+    fatherId: 838af472-3548-48d1-8c1e-58e3f2538a65
+  - id: abbfbdbe-c255-4acf-8bc8-31bb056029a1
+    name: خليل
+    sex: male
+    kunya: بن محمود
     fatherId: 838af472-3548-48d1-8c1e-58e3f2538a65

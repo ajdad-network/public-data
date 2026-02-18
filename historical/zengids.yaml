@@ -32,15 +32,33 @@ persons:
     nickname: الملك العادل
     kunya: نور الدين
     fatherId: f2488453-4c53-4901-b1cc-84ee4bc72a32
-  - id: 23f4fff5-3f42-46cd-a2e4-cc95bf6f791b
-    name: الصالح
-    sex: male
-    nickname: الملك
-    kunya: إسماعيل بن نور الدين
-    fatherId: c19cf0a3-760f-4b81-a266-f3cf112e6d90
   - id: 6f3d7f8c-c2a2-4c8a-b6ea-57d1c7ee772b
     name: قطب الدين
     sex: male
     nickname: الأمير
     kunya: مودود بن زنكي صاحب الموصل
     fatherId: f2488453-4c53-4901-b1cc-84ee4bc72a32
+  - id: 23f4fff5-3f42-46cd-a2e4-cc95bf6f791b
+    name: الصالح
+    sex: male
+    nickname: الملك
+    kunya: إسماعيل بن نور الدين
+    fatherId: c19cf0a3-760f-4b81-a266-f3cf112e6d90
+  - id: 3bb70544-45d2-4f3c-a6f8-a6c5f6daa390
+    name: سيف الدين
+    sex: male
+    nickname: الأمير
+    kunya: غازي الثاني صاحب الموصل
+    fatherId: 0e597c47-dfb8-4282-a010-1b1836908009
+  - id: ba2a5950-550e-462a-8c4b-e0c6de52b3d2
+    name: عز الدين
+    sex: male
+    nickname: الأمير
+    kunya: مسعود صاحب الموصل
+    fatherId: 6f3d7f8c-c2a2-4c8a-b6ea-57d1c7ee772b
+  - id: d49b2ed5-fd2f-4549-bfaa-9b9ee00f4c8c
+    name: نور الدين
+    sex: male
+    nickname: الأمير
+    kunya: أرسلان شاه آخر الزنكيين
+    fatherId: ba2a5950-550e-462a-8c4b-e0c6de52b3d2

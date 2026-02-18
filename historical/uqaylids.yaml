@@ -20,6 +20,11 @@ persons:
     nickname: الأمير
     kunya: أبو الذوّاد المؤسس
     fatherId: 80efeb3a-ebe9-495c-b47e-25f7262c07ea
+  - id: fb4fb115-c3e5-4d5e-a270-66e69c20c5df
+    name: علي
+    sex: male
+    nickname: الأمير
+    fatherId: 80efeb3a-ebe9-495c-b47e-25f7262c07ea
   - id: 498bb24d-9cb6-4099-abce-23f04e94a4ed
     name: حسام الدولة
     sex: male
@@ -37,6 +42,12 @@ persons:
     sex: male
     nickname: الأمير
     kunya: قريش
+    fatherId: 498bb24d-9cb6-4099-abce-23f04e94a4ed
+  - id: 07109796-fadb-41ab-b916-dd7250fcfbe3
+    name: أبو كامل
+    sex: male
+    nickname: الأمير
+    kunya: بركة
     fatherId: 498bb24d-9cb6-4099-abce-23f04e94a4ed
   - id: 22976a28-5c99-49aa-87d1-742d691ec466
     name: شرف الدولة

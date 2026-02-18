@@ -26,11 +26,21 @@ persons:
     nickname: الملك
     kunya: المقتدر بالله
     fatherId: 85bca8d8-a379-4086-8419-6633bff21927
+  - id: f56f110d-94ab-4f1a-9f5c-a0aca06f7bb0
+    name: المنذر
+    sex: male
+    kunya: بن سليمان صاحب ديّة
+    fatherId: 85bca8d8-a379-4086-8419-6633bff21927
   - id: 8a8ef06c-c4ac-410c-b7c5-2bd7d6466d1c
     name: يوسف
     sex: male
     nickname: الملك
     kunya: المؤتمن
+    fatherId: aaa33f6e-b55f-4de4-967d-3e4e00b68f62
+  - id: 57fbb571-7d7b-4ec6-9b6c-0cab229edd9a
+    name: المنذر
+    sex: male
+    kunya: عماد الدولة بن المقتدر
     fatherId: aaa33f6e-b55f-4de4-967d-3e4e00b68f62
   - id: fac8af13-0f1f-465a-a88f-a03c856b05de
     name: أحمد

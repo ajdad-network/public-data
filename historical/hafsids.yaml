@@ -37,6 +37,12 @@ persons:
     nickname: أمير المؤمنين
     kunya: الواثق بالله
     fatherId: 0a2f45be-48c7-432a-8f38-5d580c82d57b
+  - id: d4671b62-1346-40e5-baef-b44029386d2c
+    name: عمر
+    sex: male
+    nickname: أمير المؤمنين
+    kunya: أبو حفص الثاني
+    fatherId: 0a2f45be-48c7-432a-8f38-5d580c82d57b
   - id: 975d63e2-8e76-4506-b465-db363037bcd4
     name: أبو بكر
     sex: male
@@ -49,3 +55,9 @@ persons:
     nickname: الأمير
     kunya: أحمد
     fatherId: 975d63e2-8e76-4506-b465-db363037bcd4
+  - id: ef1fe3a2-d73b-4b2e-b5e2-5aa5a7204e36
+    name: الحسن
+    sex: male
+    nickname: أمير المؤمنين
+    kunya: آخر الحفصيين
+    fatherId: 3fc89dbf-7a7c-4330-8bb9-bbbcf29141a7

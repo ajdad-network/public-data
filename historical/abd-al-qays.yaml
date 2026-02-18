@@ -33,9 +33,26 @@ persons:
     sex: male
     kunya: جد بنو عجل
     fatherId: 6fdbcd4d-749e-44fe-9b78-b1728efacac3
+  - id: 61e2d194-a592-4383-a473-4ab7e21efad4
+    name: شن
+    sex: male
+    kunya: جد بنو شن
+    fatherId: 6fdbcd4d-749e-44fe-9b78-b1728efacac3
   - id: 4233eb56-6bda-4162-bdfc-22666e792369
     name: المنذر
     sex: male
     nickname: الصحابي
     kunya: بن عائذ الأشجّ (سيد عبد القيس)
     fatherId: 281c8d67-7578-4edc-8aaf-0988929ad988
+  - id: 9cae28cf-1327-454e-acf4-c8c29a618b84
+    name: صحار
+    sex: male
+    nickname: الصحابي
+    kunya: بن العباس العبدي
+    fatherId: 5e4f54b3-88e5-4463-ae06-97de1097d327
+  - id: db4a2f73-a952-439b-910f-480d79eb77d2
+    name: الجارود
+    sex: male
+    nickname: الصحابي
+    kunya: بن المعلّى العبدي
+    fatherId: 61e2d194-a592-4383-a473-4ab7e21efad4

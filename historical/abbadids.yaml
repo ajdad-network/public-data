@@ -31,6 +31,12 @@ persons:
     nickname: المعتمد
     kunya: على الله
     fatherId: 49af4f17-ff5e-4a4e-91c9-760e59422a44
+  - id: 8361d74a-42dc-4524-b9d2-388f26e0a180
+    name: اعتماد
+    sex: female
+    nickname: الرميكية
+    kunya: زوجة المعتمد
+    fatherId: 49af4f17-ff5e-4a4e-91c9-760e59422a44
   - id: e8b34cb8-0fcf-4b73-8df7-a85471fa6d32
     name: الرشيد
     sex: male
@@ -38,4 +44,14 @@ persons:
   - id: d2204bea-cac1-4510-8f61-8b08f5a0ca27
     name: المأمون
     sex: male
+    fatherId: c32a0b39-162e-4bae-926c-ef7bd00341f6
+  - id: 5f03a7ac-6244-4e3c-876c-4b7e0b7dac33
+    name: الفتح
+    sex: male
+    kunya: المعتمد ولي العهد
+    fatherId: c32a0b39-162e-4bae-926c-ef7bd00341f6
+  - id: 0fb7a871-8990-4158-b320-f41befcdaff1
+    name: بثينة
+    sex: female
+    kunya: بنت المعتمد
     fatherId: c32a0b39-162e-4bae-926c-ef7bd00341f6

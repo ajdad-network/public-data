@@ -21,6 +21,11 @@ persons:
     nickname: السلطان
     kunya: الأول
     fatherId: 0f2451e2-75d9-4547-8722-c3e7327dee2f
+  - id: 00dd225f-5133-4534-9a1b-f19d7c8f19c1
+    name: محمد
+    sex: male
+    nickname: السلطان
+    fatherId: 0f2451e2-75d9-4547-8722-c3e7327dee2f
   - id: afa0f1a3-d924-4902-820c-a2508f6745a2
     name: حسين
     sex: male
@@ -33,6 +38,11 @@ persons:
     fatherId: 29d26041-54fc-4db0-ab2e-498321f255cb
   - id: f39e8ebf-aa33-4d40-b3f4-72e2943385fc
     name: شاه ولد
+    sex: male
+    nickname: السلطان
+    fatherId: cf26a75f-c09c-48ba-9765-026649d45ade
+  - id: a1ca5bc8-3119-44d0-8fc1-d5b85138eda2
+    name: محمود
     sex: male
     nickname: السلطان
     fatherId: cf26a75f-c09c-48ba-9765-026649d45ade

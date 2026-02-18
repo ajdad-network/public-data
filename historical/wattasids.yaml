@@ -27,6 +27,11 @@ persons:
     nickname: السلطان
     kunya: البرتغالي
     fatherId: b5cb5a59-0c7a-4449-ac65-d3ecec9f6493
+  - id: f4df5074-9cfa-4c8d-8b17-82e4e931857c
+    name: ناصر
+    sex: male
+    kunya: بن محمد
+    fatherId: b5cb5a59-0c7a-4449-ac65-d3ecec9f6493
   - id: 3e9c7a2f-f9ef-4313-8ab5-13a58bc22fde
     name: أحمد
     sex: male
@@ -38,4 +43,14 @@ persons:
     sex: male
     nickname: السلطان
     kunya: علي آخر الوطاسيين
+    fatherId: d655907e-4d5c-4000-b08e-503283cee083
+  - id: 4503fa16-5c93-4a46-9379-f23c4f05c110
+    name: محمد
+    sex: male
+    kunya: القصري بن أحمد
+    fatherId: 3e9c7a2f-f9ef-4313-8ab5-13a58bc22fde
+  - id: 103eba8b-b6d5-4d6a-8994-0d3ba482f3e1
+    name: أبو العباس
+    sex: male
+    kunya: أحمد بن محمد
     fatherId: d655907e-4d5c-4000-b08e-503283cee083

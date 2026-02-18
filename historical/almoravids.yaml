@@ -21,6 +21,12 @@ persons:
     nickname: الأمير
     kunya: بن عمر اللمتوني
     fatherId: a549ff53-5500-4024-84a4-c2746beaa13d
+  - id: cb0d2331-4c44-4a2e-bf5a-6ce14e3e15f6
+    name: زينب
+    sex: female
+    nickname: الأميرة
+    kunya: بنت إسحاق النفزاوية
+    fatherId: 27e3e90d-3716-4033-9cdc-aec506cbfb12
   - id: d544522e-6a99-4b27-8f7c-11a95f0bd9c3
     name: يوسف
     sex: male
@@ -33,6 +39,11 @@ persons:
     nickname: أمير المسلمين
     kunya: بن يوسف
     fatherId: d544522e-6a99-4b27-8f7c-11a95f0bd9c3
+  - id: eb4ad0c2-a3ce-4ffd-9b5f-27035088e760
+    name: أبو بكر
+    sex: male
+    kunya: بن علي
+    fatherId: 2f3a3618-da3f-4827-8d2c-6739878ef459
   - id: 13d84407-d84b-4bf6-a2d4-ba15561c76c5
     name: تاشفين
     sex: male
@@ -45,3 +56,9 @@ persons:
     nickname: الأمير
     kunya: بن علي آخر المرابطين
     fatherId: 2f3a3618-da3f-4827-8d2c-6739878ef459
+  - id: 6b90bcfc-eb5b-4175-be75-b1070e0e1e7e
+    name: إبراهيم
+    sex: male
+    nickname: الأمير
+    kunya: بن تاشفين
+    fatherId: 13d84407-d84b-4bf6-a2d4-ba15561c76c5

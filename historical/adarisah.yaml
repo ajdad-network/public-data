@@ -25,6 +25,11 @@ persons:
     nickname: الأمير
     kunya: بن علي الإدريسي المؤسس
     fatherId: 47301a53-8ddd-4c4f-9c3f-e4b6f6cad439
+  - id: 7104d960-f545-4221-8c12-44c44d1788e0
+    name: عبد الله
+    sex: male
+    kunya: بن محمد
+    fatherId: 4387dc91-506b-4177-8b81-d5859ba414cc
   - id: 346f0890-af00-487e-847d-f34eee29b707
     name: علي
     sex: male
@@ -36,4 +41,14 @@ persons:
     sex: male
     nickname: الأمير
     kunya: بن علي الإدريسي
+    fatherId: 346f0890-af00-487e-847d-f34eee29b707
+  - id: 7730f18c-74af-4c18-981b-b1ebe30599db
+    name: أحمد
+    sex: male
+    kunya: بن الحسن
+    fatherId: 14dbb808-49b9-4f4c-9b1e-98e11256305c
+  - id: 7560e10a-9e70-4e92-91e4-4032b45d11fe
+    name: محمد
+    sex: male
+    kunya: بن علي
     fatherId: 346f0890-af00-487e-847d-f34eee29b707

@@ -24,8 +24,20 @@ persons:
     nickname: الإمام
     kunya: أحمد المهدي
     fatherId: f9cfe61a-1722-4077-9558-9ed986f54154
+  - id: 4c05be12-ed87-49b7-986f-a5621d09344c
+    name: عبد الله
+    sex: male
+    nickname: الخليفة
+    kunya: التعايشي خليفة المهدي
+    fatherId: 899286b8-9ab1-487c-b6a6-e59346a8cc67
   - id: 02bfc9e3-d631-4865-a5c6-b9514625f0e7
     name: عبد الرحمن
+    sex: male
+    nickname: السيد
+    kunya: المهدي
+    fatherId: 899286b8-9ab1-487c-b6a6-e59346a8cc67
+  - id: d1911964-fc02-479b-8e98-0054a85ec6fe
+    name: الهادي
     sex: male
     nickname: السيد
     kunya: المهدي

@@ -30,6 +30,11 @@ persons:
     sex: male
     nickname: الإمام
     fatherId: 9bf91953-0b54-4521-a62a-ed2c4312c903
+  - id: 5e5779e8-4cfb-45b9-8559-d589ea42358a
+    name: محمد
+    sex: male
+    nickname: الإمام
+    fatherId: 9bf91953-0b54-4521-a62a-ed2c4312c903
   - id: 83092694-e500-4ca6-a40e-68fffa533ace
     name: أبو بكر
     sex: male
@@ -46,4 +51,10 @@ persons:
     sex: male
     nickname: الإمام
     kunya: آخر الرستميين
+    fatherId: eee135e0-35dc-442c-986e-d81d136b9622
+  - id: 14b5ab0f-1161-47fe-b49a-930728e2e693
+    name: أبو اليقظان
+    sex: male
+    nickname: الإمام
+    kunya: محمد
     fatherId: eee135e0-35dc-442c-986e-d81d136b9622

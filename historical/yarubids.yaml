@@ -33,6 +33,12 @@ persons:
     nickname: الإمام
     kunya: بن سلطان
     fatherId: 37964f47-3f89-4fe6-8218-738fccfef484
+  - id: 67acf9fb-24fa-4373-8a75-522fa3612b1e
+    name: محمد
+    sex: male
+    nickname: الإمام
+    kunya: بن سلطان
+    fatherId: 37964f47-3f89-4fe6-8218-738fccfef484
   - id: 1e4c2973-e9e8-40c5-9cca-a0dc869b08c2
     name: سلطان
     sex: male
@@ -45,3 +51,9 @@ persons:
     nickname: الإمام
     kunya: بن سلطان الثاني آخر اليعاربة
     fatherId: 1e4c2973-e9e8-40c5-9cca-a0dc869b08c2
+  - id: 73524500-6f0c-462c-b057-64d09216109e
+    name: بلعرب
+    sex: male
+    nickname: الإمام
+    kunya: بن حمير
+    fatherId: 67acf9fb-24fa-4373-8a75-522fa3612b1e

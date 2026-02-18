@@ -38,6 +38,12 @@ persons:
     nickname: السلطان
     kunya: موسى الأول
     fatherId: 256713e6-2e2f-46ce-8efa-edac9330299e
+  - id: dbc37a08-2bbd-4e34-a11f-ccab68c20d59
+    name: أبو سعيد
+    sex: male
+    nickname: السلطان
+    kunya: عثمان الثاني
+    fatherId: 256713e6-2e2f-46ce-8efa-edac9330299e
   - id: 3a696359-f5f3-4210-8c9f-115fcacdfa73
     name: أبو تاشفين
     sex: male
@@ -50,3 +56,9 @@ persons:
     nickname: السلطان
     kunya: موسى الثاني
     fatherId: 7dd1108f-8518-46cc-ae40-dba57bd6b189
+  - id: 7f9f2ab9-166d-49d2-a5ea-e0a93580be77
+    name: أبو تاشفين
+    sex: male
+    nickname: السلطان
+    kunya: عبد الرحمن الثاني
+    fatherId: 7b0c33a5-302d-4a16-9950-8e0166c3b737

@@ -20,6 +20,11 @@ persons:
     nickname: السلطان
     kunya: المؤسس
     fatherId: 1cfaeeb4-70cf-4679-8da1-f59156fa7c12
+  - id: b6ef3714-1675-4505-b13f-6eed915c7abd
+    name: عبد الله
+    sex: male
+    kunya: بن علي
+    fatherId: 9f854049-7c1c-4e17-8fcf-3e10e74a8c3d
   - id: a1570eee-2190-4baf-80d3-1f61dda5500f
     name: أحمد
     sex: male
@@ -34,4 +39,15 @@ persons:
   - id: 9c9e3480-da64-40eb-a5fb-1bc43a236b59
     name: عبد المستنصر
     sex: male
+    fatherId: a1570eee-2190-4baf-80d3-1f61dda5500f
+  - id: 2620b246-3503-4a54-8f74-d800b960f094
+    name: محمد
+    sex: male
+    kunya: بن عبد المستنصر
+    fatherId: 9c9e3480-da64-40eb-a5fb-1bc43a236b59
+  - id: 1783f670-0c33-4fa9-a585-d8fd5e6e7d97
+    name: سبأ
+    sex: male
+    nickname: الأمير
+    kunya: بن أحمد
     fatherId: a1570eee-2190-4baf-80d3-1f61dda5500f

@@ -25,6 +25,16 @@ persons:
     sex: male
     nickname: الأمير
     fatherId: 7cf48bc3-c586-416e-8947-2cecaae5453c
+  - id: 0c771e5a-b186-40d1-b10e-72e067d25906
+    name: شيبان
+    sex: male
+    nickname: الأمير
+    fatherId: 7cf48bc3-c586-416e-8947-2cecaae5453c
+  - id: 1be7885e-39e2-4dfc-9102-543319223daf
+    name: العباس
+    sex: male
+    nickname: الأمير
+    fatherId: 7cf48bc3-c586-416e-8947-2cecaae5453c
   - id: be72ef1b-f248-4005-a386-fa591511f16d
     name: جيش
     sex: male
@@ -35,8 +45,8 @@ persons:
     sex: male
     nickname: الأمير
     fatherId: 15e59826-7c90-40bb-a0ce-af95679219e8
-  - id: 0c771e5a-b186-40d1-b10e-72e067d25906
-    name: شيبان
-    sex: male
-    nickname: الأمير
-    fatherId: 7cf48bc3-c586-416e-8947-2cecaae5453c
+  - id: 8635734c-e88f-4bb0-869d-7c29c308b438
+    name: قطر الندى
+    sex: female
+    kunya: بنت خمارويه زوجة الخليفة المعتضد
+    fatherId: 15e59826-7c90-40bb-a0ce-af95679219e8

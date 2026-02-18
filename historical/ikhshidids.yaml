@@ -24,6 +24,11 @@ persons:
     nickname: الأمير
     kunya: الإخشيد
     fatherId: 22d97125-a1b5-41d3-ab96-24443671e91b
+  - id: 0ad2cc77-6e61-450e-b734-6a477f40a625
+    name: الحسن
+    sex: male
+    kunya: بن طغج
+    fatherId: 22d97125-a1b5-41d3-ab96-24443671e91b
   - id: 61ec4198-f708-4387-b423-367d60eac872
     name: أنوجور
     sex: male
@@ -37,3 +42,8 @@ persons:
     sex: male
     kunya: أبو الفوارس
     fatherId: cf8a52e8-9ec2-438a-a719-d2da20986990
+  - id: f74ccd21-0195-4108-bf90-1362cb6c9319
+    name: الحسين
+    sex: male
+    kunya: بن علي
+    fatherId: 602cbfbd-33d5-409b-af5e-6f91d4b9b492

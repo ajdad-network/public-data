@@ -25,6 +25,11 @@ persons:
     sex: male
     nickname: السلطان
     fatherId: 767afbc4-667e-4975-ad2e-116969b3b7c4
+  - id: 59ddeab9-6fb4-4777-bbaa-beb76760cc34
+    name: محمد
+    sex: male
+    nickname: السلطان
+    fatherId: 767afbc4-667e-4975-ad2e-116969b3b7c4
   - id: d294f510-aae9-4205-9d5b-7fdbe5a6b6c9
     name: بدر
     sex: male
@@ -36,6 +41,12 @@ persons:
     sex: male
     nickname: السلطان
     fatherId: d294f510-aae9-4205-9d5b-7fdbe5a6b6c9
+  - id: f0dfdc20-4f3f-43a2-a518-bad3a6a0769b
+    name: علي
+    sex: male
+    nickname: السلطان
+    kunya: بن غالب
+    fatherId: e99c6f56-1724-4956-92b4-65a3fb8f3d49
   - id: 22f72119-19d8-477f-a9c2-1a855d908a7e
     name: حسين
     sex: male

@@ -27,6 +27,11 @@ persons:
     nickname: أمير المؤمنين
     kunya: أبو يعقوب
     fatherId: 362727c0-f489-4db2-9fe6-1aaa1a148be6
+  - id: f8a0fd33-e1fd-45ab-9eef-3554d553b5b6
+    name: أبو حفص
+    sex: male
+    kunya: عمر بن عبد المؤمن
+    fatherId: 362727c0-f489-4db2-9fe6-1aaa1a148be6
   - id: a1dce4de-7f46-4edd-a14f-5917d81a576a
     name: يعقوب
     sex: male
@@ -39,15 +44,21 @@ persons:
     nickname: أمير المؤمنين
     kunya: الناصر
     fatherId: a1dce4de-7f46-4edd-a14f-5917d81a576a
-  - id: 978a9bd2-24ed-4e26-a29d-803749d73dd0
-    name: يوسف
-    sex: male
-    nickname: أمير المؤمنين
-    kunya: المستنصر
-    fatherId: 72984349-9265-4483-9c2d-e7b6c9581e51
   - id: 625032b2-f5c3-473a-a5bc-30f9aac26600
     name: إدريس
     sex: male
     nickname: أمير المؤمنين
     kunya: الواثق آخر الموحدين
     fatherId: a1dce4de-7f46-4edd-a14f-5917d81a576a
+  - id: 978a9bd2-24ed-4e26-a29d-803749d73dd0
+    name: يوسف
+    sex: male
+    nickname: أمير المؤمنين
+    kunya: المستنصر
+    fatherId: 72984349-9265-4483-9c2d-e7b6c9581e51
+  - id: d2d57279-b273-4590-bb3d-556528d2e768
+    name: عبد الواحد
+    sex: male
+    nickname: أمير المؤمنين
+    kunya: الرشيد
+    fatherId: 72984349-9265-4483-9c2d-e7b6c9581e51
