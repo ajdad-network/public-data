@@ -1,0 +1,59 @@
+family:
+  type: aal
+  name: السعديون
+  visibility: public
+  pinned: true
+  suffixMale: السعدي
+  suffixFemale: السعدية
+  hometown: مراكش
+  description: |-
+    السعديون سلالة شريفة حكمت المغرب (١٥٤٩-١٦٥٩م).
+    ينتسبون إلى النبي ﷺ عبر محمد النفس الزكية. اشتهروا بمعركة وادي المخازن (معركة الملوك الثلاثة) وبلغوا أوجهم في عهد أحمد المنصور الذهبي.
+persons:
+  - id: 47bb02e2-ee44-4caf-9687-6b3961776a60
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: القائم بأمر الله المؤسس
+  - id: 36ec8f3d-20ba-4fe9-8726-25c7086e2c49
+    name: أحمد
+    sex: male
+    nickname: السلطان
+    kunya: الأعرج
+    fatherId: 47bb02e2-ee44-4caf-9687-6b3961776a60
+  - id: d24d10aa-ebf9-4122-ba0f-233f722a1d6f
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الشيخ
+    fatherId: 47bb02e2-ee44-4caf-9687-6b3961776a60
+  - id: a6468812-f945-4bca-bbd9-247569464800
+    name: عبد الله
+    sex: male
+    nickname: السلطان
+    kunya: الغالب بالله
+    fatherId: d24d10aa-ebf9-4122-ba0f-233f722a1d6f
+  - id: a6c7832c-2283-4c34-b1a0-26230803b462
+    name: عبد الملك
+    sex: male
+    nickname: السلطان
+    kunya: المعتصم بالله
+    fatherId: d24d10aa-ebf9-4122-ba0f-233f722a1d6f
+  - id: 0ce4248f-0878-4c25-9171-9b405156ec98
+    name: أحمد
+    sex: male
+    nickname: السلطان
+    kunya: المنصور الذهبي
+    fatherId: d24d10aa-ebf9-4122-ba0f-233f722a1d6f
+  - id: 805d834c-6d18-40a0-a6b4-473de76a701e
+    name: زيدان
+    sex: male
+    nickname: السلطان
+    kunya: الناصر
+    fatherId: 0ce4248f-0878-4c25-9171-9b405156ec98
+  - id: 8239987d-01d9-44fe-b649-571885ea7f2e
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الشيخ المأمون
+    fatherId: 0ce4248f-0878-4c25-9171-9b405156ec98

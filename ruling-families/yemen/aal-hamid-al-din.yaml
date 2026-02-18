@@ -1,0 +1,47 @@
+family:
+  type: aal
+  name: آل حميد الدين
+  visibility: public
+  pinned: true
+  suffixMale: حميد الدين
+  suffixFemale: حميد الدين
+  hometown: صنعاء
+  description: |-
+    آل حميد الدين أسرة زيدية هاشمية حكمت المملكة المتوكلية اليمنية (١٩١٨-١٩٦٢م).
+    أسس حكمهم الإمام يحيى حميد الدين الذي استقل باليمن عن العثمانيين، وانتهى حكمهم بثورة ٢٦ سبتمبر ١٩٦٢م.
+persons:
+  - id: c320adbc-479e-41f2-8af0-ab51238ab6f7
+    name: محمد
+    sex: male
+    nickname: الإمام
+    kunya: بن يحيى حميد الدين
+  - id: 861a9e61-0e73-4ac6-b8b5-9eb38ced8c64
+    name: يحيى
+    sex: male
+    nickname: الإمام
+    kunya: حميد الدين المتوكل على الله
+    fatherId: c320adbc-479e-41f2-8af0-ab51238ab6f7
+  - id: 7ddcc23d-cecb-42b8-85d0-47a03f4de005
+    name: أحمد
+    sex: male
+    nickname: الإمام
+    kunya: بن يحيى
+    fatherId: 861a9e61-0e73-4ac6-b8b5-9eb38ced8c64
+  - id: 9651194d-4ccd-4ce1-8606-7b62d188f074
+    name: محمد
+    sex: male
+    nickname: الإمام
+    kunya: البدر آخر أئمة اليمن
+    fatherId: 7ddcc23d-cecb-42b8-85d0-47a03f4de005
+  - id: 3275e7a5-6408-4e70-bb7a-9b0f0cbf4e60
+    name: الحسن
+    sex: male
+    nickname: الأمير
+    kunya: بن يحيى
+    fatherId: 861a9e61-0e73-4ac6-b8b5-9eb38ced8c64
+  - id: 50cdb23a-5e4f-44ba-9492-6f759feeca6a
+    name: عبد الله
+    sex: male
+    nickname: الأمير
+    kunya: بن يحيى الوزير
+    fatherId: 861a9e61-0e73-4ac6-b8b5-9eb38ced8c64

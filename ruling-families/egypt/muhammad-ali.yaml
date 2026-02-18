@@ -1,0 +1,76 @@
+family:
+  type: aal
+  name: أسرة محمد علي
+  visibility: public
+  pinned: true
+  suffixMale: باشا
+  suffixFemale: باشا
+  hometown: القاهرة
+  description: |-
+    أسرة محمد علي باشا حكمت مصر والسودان من عام ١٨٠٥م حتى ثورة ١٩٥٢م.
+    أسسها محمد علي باشا الألباني الأصل الذي يُعد مؤسس مصر الحديثة، وتعاقب على الحكم أبناؤه وأحفاده بألقاب الوالي ثم الخديوي ثم السلطان ثم الملك.
+persons:
+  - id: 701507c3-d68d-415b-a7c2-6f4703453ae3
+    name: محمد علي
+    sex: male
+    nickname: الوالي
+    kunya: باشا مؤسس مصر الحديثة
+  - id: bd29c67d-9768-4619-a83c-4f7a717bb2ea
+    name: إبراهيم
+    sex: male
+    nickname: الوالي
+    kunya: باشا
+    fatherId: 701507c3-d68d-415b-a7c2-6f4703453ae3
+  - id: 191997e2-b779-4c82-a891-d6a67cdc60da
+    name: سعيد
+    sex: male
+    nickname: الوالي
+    kunya: باشا
+    fatherId: 701507c3-d68d-415b-a7c2-6f4703453ae3
+  - id: 365b1d35-3522-4378-b8dd-d65001b40ac4
+    name: عباس
+    sex: male
+    nickname: الوالي
+    kunya: حلمي الأول
+    fatherId: bd29c67d-9768-4619-a83c-4f7a717bb2ea
+  - id: 9015f5c6-3244-4538-93a7-56d7ded7e2e0
+    name: إسماعيل
+    sex: male
+    nickname: الخديوي
+    kunya: باشا
+    fatherId: bd29c67d-9768-4619-a83c-4f7a717bb2ea
+  - id: 1150135d-918e-4dfa-8841-e50c46274d5e
+    name: توفيق
+    sex: male
+    nickname: الخديوي
+    kunya: باشا
+    fatherId: 9015f5c6-3244-4538-93a7-56d7ded7e2e0
+  - id: dd149892-2609-4607-90f8-f79091232e36
+    name: حسين كامل
+    sex: male
+    nickname: السلطان
+    fatherId: 9015f5c6-3244-4538-93a7-56d7ded7e2e0
+  - id: 0b7893f8-06a0-4995-9287-c520a102e9cc
+    name: عباس
+    sex: male
+    nickname: الخديوي
+    kunya: حلمي الثاني
+    fatherId: 1150135d-918e-4dfa-8841-e50c46274d5e
+  - id: cc8f2b8f-fd16-4dc6-8504-5ee13d8109c3
+    name: فؤاد
+    sex: male
+    nickname: الملك
+    kunya: الأول
+    fatherId: 9015f5c6-3244-4538-93a7-56d7ded7e2e0
+  - id: 7456bce5-1e0a-4c3a-98ca-8cb65992a86a
+    name: فاروق
+    sex: male
+    nickname: الملك
+    kunya: الأول
+    fatherId: cc8f2b8f-fd16-4dc6-8504-5ee13d8109c3
+  - id: ba0abddd-1e56-458e-b854-1cb33cc822ea
+    name: فؤاد
+    sex: male
+    nickname: الملك
+    kunya: الثاني آخر ملوك مصر
+    fatherId: 7456bce5-1e0a-4c3a-98ca-8cb65992a86a

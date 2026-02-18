@@ -1,0 +1,47 @@
+family:
+  type: aal
+  name: المرابطون
+  visibility: public
+  pinned: true
+  suffixMale: المرابطي
+  suffixFemale: المرابطية
+  hometown: مراكش
+  description: |-
+    المرابطون سلالة أمازيغية صنهاجية حكمت المغرب والأندلس (١٠٤٠-١١٤٧م).
+    أسسها عبد الله بن ياسين وبلغت أوجها في عهد يوسف بن تاشفين الذي أنقذ الأندلس في معركة الزلاقة عام ١٠٨٦م.
+persons:
+  - id: a549ff53-5500-4024-84a4-c2746beaa13d
+    name: عبد الله
+    sex: male
+    nickname: الإمام
+    kunya: بن ياسين المؤسس الروحي
+  - id: 27e3e90d-3716-4033-9cdc-aec506cbfb12
+    name: أبو بكر
+    sex: male
+    nickname: الأمير
+    kunya: بن عمر اللمتوني
+    fatherId: a549ff53-5500-4024-84a4-c2746beaa13d
+  - id: d544522e-6a99-4b27-8f7c-11a95f0bd9c3
+    name: يوسف
+    sex: male
+    nickname: أمير المسلمين
+    kunya: بن تاشفين
+    fatherId: 27e3e90d-3716-4033-9cdc-aec506cbfb12
+  - id: 2f3a3618-da3f-4827-8d2c-6739878ef459
+    name: علي
+    sex: male
+    nickname: أمير المسلمين
+    kunya: بن يوسف
+    fatherId: d544522e-6a99-4b27-8f7c-11a95f0bd9c3
+  - id: 13d84407-d84b-4bf6-a2d4-ba15561c76c5
+    name: تاشفين
+    sex: male
+    nickname: الأمير
+    kunya: بن علي
+    fatherId: 2f3a3618-da3f-4827-8d2c-6739878ef459
+  - id: 5c751381-3934-4252-be37-dbbf9ca604cf
+    name: إسحاق
+    sex: male
+    nickname: الأمير
+    kunya: بن علي آخر المرابطين
+    fatherId: 2f3a3618-da3f-4827-8d2c-6739878ef459

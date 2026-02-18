@@ -31,6 +31,9 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [ruling-families/uae/aal-sharqi.yaml](ruling-families/uae/aal-sharqi.yaml) | آل الشرقي | آل | الإمارات |
 | [ruling-families/uae/aal-nuaimi.yaml](ruling-families/uae/aal-nuaimi.yaml) | آل النعيمي | آل | الإمارات |
 | [ruling-families/uae/aal-qasimi-sharjah.yaml](ruling-families/uae/aal-qasimi-sharjah.yaml) | آل القاسمي | آل | الإمارات |
+| [ruling-families/egypt/muhammad-ali.yaml](ruling-families/egypt/muhammad-ali.yaml) | أسرة محمد علي | آل | مصر |
+| [ruling-families/libya/senussi.yaml](ruling-families/libya/senussi.yaml) | السنوسيون | آل | ليبيا |
+| [ruling-families/yemen/aal-hamid-al-din.yaml](ruling-families/yemen/aal-hamid-al-din.yaml) | آل حميد الدين | آل | اليمن |
 
 ## Tribes
 
@@ -65,6 +68,11 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [tribes/hashid.yaml](tribes/hashid.yaml) | حاشد | صنعاء |
 | [tribes/bakil.yaml](tribes/bakil.yaml) | بكيل | صنعاء |
 | [tribes/khawlan.yaml](tribes/khawlan.yaml) | خولان | صعدة |
+| [tribes/huwaitat.yaml](tribes/huwaitat.yaml) | الحويطات | تبوك |
+| [tribes/banu-sakhr.yaml](tribes/banu-sakhr.yaml) | بنو صخر | الأردن |
+| [tribes/banu-atiyyah.yaml](tribes/banu-atiyyah.yaml) | بنو عطية | تبوك |
+| [tribes/shararat.yaml](tribes/shararat.yaml) | الشرارات | الجوف |
+| [tribes/mahrah.yaml](tribes/mahrah.yaml) | المهرة | المهرة |
 
 ## Historical
 
@@ -91,6 +99,13 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [historical/tulunids.yaml](historical/tulunids.yaml) | الطولونيون | أحمد بن طولون في مصر |
 | [historical/banu-kinanah.yaml](historical/banu-kinanah.yaml) | بنو كنانة | القبيلة الأم لقريش |
 | [historical/banu-taghlib.yaml](historical/banu-taghlib.yaml) | بنو تغلب | حرب البسوس وعمرو بن كلثوم |
+| [historical/zengids.yaml](historical/zengids.yaml) | الزنكيون | نور الدين زنكي |
+| [historical/yarubids.yaml](historical/yarubids.yaml) | اليعاربة | حكام عمان قبل آل سعيد |
+| [historical/almoravids.yaml](historical/almoravids.yaml) | المرابطون | يوسف بن تاشفين والأندلس |
+| [historical/almohads.yaml](historical/almohads.yaml) | الموحدون | عبد المؤمن بن علي |
+| [historical/saadians.yaml](historical/saadians.yaml) | السعديون | أحمد المنصور الذهبي |
+| [historical/aghlabids.yaml](historical/aghlabids.yaml) | الأغالبة | حكام إفريقية وفاتحو صقلية |
+| [historical/hafsids.yaml](historical/hafsids.yaml) | الحفصيون | حكام تونس |
 
 ## YAML Format
 

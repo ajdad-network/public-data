@@ -1,0 +1,32 @@
+family:
+  type: qabila
+  name: الشرارات
+  visibility: public
+  pinned: true
+  suffixMale: الشراري
+  suffixFemale: الشرارية
+  hometown: الجوف
+  description: |-
+    الشرارات قبيلة عربية كبيرة تنتسب إلى كلب بن وبرة بن تغلب من قضاعة.
+    تنتشر في منطقة الجوف وتبوك شمال السعودية والأردن. من أبرز فروعها الحلسة والعزام والفليحان.
+persons:
+  - id: 9ba05ad9-f9b5-4704-94e7-744dbb75805d
+    name: شرار
+    sex: male
+    kunya: الجد الأعلى
+  # ── الفروع الرئيسية ──
+  - id: 6423631d-1445-4bea-9698-a29f5c9deec2
+    name: حلس
+    sex: male
+    kunya: جد الحلسة
+    fatherId: 9ba05ad9-f9b5-4704-94e7-744dbb75805d
+  - id: e28ec92e-83db-4701-8192-cbb852135940
+    name: عزام
+    sex: male
+    kunya: جد العزام
+    fatherId: 9ba05ad9-f9b5-4704-94e7-744dbb75805d
+  - id: 1a675ee9-a964-4f36-a6e9-d937eafa2620
+    name: فليحان
+    sex: male
+    kunya: جد الفليحان
+    fatherId: 9ba05ad9-f9b5-4704-94e7-744dbb75805d

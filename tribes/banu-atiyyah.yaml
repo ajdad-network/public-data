@@ -1,0 +1,32 @@
+family:
+  type: qabila
+  name: بنو عطية
+  visibility: public
+  pinned: true
+  suffixMale: العطوي
+  suffixFemale: العطوية
+  hometown: تبوك
+  description: |-
+    بنو عطية قبيلة عربية كبيرة تنتشر في شمال غرب المملكة العربية السعودية (تبوك) وجنوب الأردن وسيناء.
+    تنتسب إلى جذام من قحطان. من أبرز فروعها العقيلات والفريعات والرواشدة.
+persons:
+  - id: 713ba1a6-9082-4e1f-8256-92adf9c01cc0
+    name: عطية
+    sex: male
+    kunya: الجد الأعلى
+  # ── الفروع الرئيسية ──
+  - id: 60ddcd27-42a8-464e-8ee6-766ca788a7e6
+    name: عقيل
+    sex: male
+    kunya: جد العقيلات
+    fatherId: 713ba1a6-9082-4e1f-8256-92adf9c01cc0
+  - id: b3ec85a3-ad26-41c6-95bb-bc6703cacf34
+    name: فريع
+    sex: male
+    kunya: جد الفريعات
+    fatherId: 713ba1a6-9082-4e1f-8256-92adf9c01cc0
+  - id: 782ae88c-841d-4a70-af5f-6ee743e9ae03
+    name: راشد
+    sex: male
+    kunya: جد الرواشدة
+    fatherId: 713ba1a6-9082-4e1f-8256-92adf9c01cc0

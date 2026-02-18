@@ -1,0 +1,46 @@
+family:
+  type: aal
+  name: الزنكيون
+  visibility: public
+  pinned: true
+  suffixMale: الزنكي
+  suffixFemale: الزنكية
+  hometown: الموصل
+  description: |-
+    الزنكيون سلالة تركمانية حكمت الموصل وحلب ودمشق في القرنين الثاني عشر والثالث عشر الميلاديين.
+    أسسها عماد الدين زنكي، واشتهر ابنه نور الدين محمود بتوحيد الشام ومصر تمهيداً لتحرير القدس على يد صلاح الدين الأيوبي.
+persons:
+  - id: 9ecb45c2-842e-40ee-9ba2-1e82c9d03189
+    name: آق سنقر
+    sex: male
+    kunya: الحاجب
+  - id: f2488453-4c53-4901-b1cc-84ee4bc72a32
+    name: زنكي
+    sex: male
+    nickname: الأمير
+    kunya: عماد الدين أتابك الموصل
+    fatherId: 9ecb45c2-842e-40ee-9ba2-1e82c9d03189
+  - id: 0e597c47-dfb8-4282-a010-1b1836908009
+    name: غازي
+    sex: male
+    nickname: الأمير
+    kunya: سيف الدين صاحب الموصل
+    fatherId: f2488453-4c53-4901-b1cc-84ee4bc72a32
+  - id: c19cf0a3-760f-4b81-a266-f3cf112e6d90
+    name: محمود
+    sex: male
+    nickname: الملك العادل
+    kunya: نور الدين
+    fatherId: f2488453-4c53-4901-b1cc-84ee4bc72a32
+  - id: 23f4fff5-3f42-46cd-a2e4-cc95bf6f791b
+    name: الصالح
+    sex: male
+    nickname: الملك
+    kunya: إسماعيل بن نور الدين
+    fatherId: c19cf0a3-760f-4b81-a266-f3cf112e6d90
+  - id: 6f3d7f8c-c2a2-4c8a-b6ea-57d1c7ee772b
+    name: قطب الدين
+    sex: male
+    nickname: الأمير
+    kunya: مودود بن زنكي صاحب الموصل
+    fatherId: f2488453-4c53-4901-b1cc-84ee4bc72a32

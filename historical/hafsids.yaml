@@ -1,0 +1,51 @@
+family:
+  type: aal
+  name: الحفصيون
+  visibility: public
+  pinned: true
+  suffixMale: الحفصي
+  suffixFemale: الحفصية
+  hometown: تونس
+  description: |-
+    الحفصيون سلالة أمازيغية مصمودية حكمت تونس وشرق الجزائر وغرب ليبيا (١٢٢٩-١٥٧٤م).
+    انبثقوا عن دولة الموحدين، واتخذوا لقب أمير المؤمنين. سُميوا نسبة إلى أبي حفص عمر الهنتاتي صاحب ابن تومرت.
+persons:
+  - id: 042759ae-0972-4dcb-99c1-345d2dd76f8b
+    name: عمر
+    sex: male
+    nickname: الشيخ
+    kunya: أبو حفص الهنتاتي
+  - id: 896f14c2-5037-4ac7-becc-26d8b5dbb377
+    name: عبد الواحد
+    sex: male
+    fatherId: 042759ae-0972-4dcb-99c1-345d2dd76f8b
+  - id: 0a2f45be-48c7-432a-8f38-5d580c82d57b
+    name: أبو زكريا
+    sex: male
+    nickname: الأمير
+    kunya: يحيى بن عبد الواحد المؤسس
+    fatherId: 896f14c2-5037-4ac7-becc-26d8b5dbb377
+  - id: 0a921025-a30e-4ddb-b8b1-94783a84a495
+    name: محمد
+    sex: male
+    nickname: أمير المؤمنين
+    kunya: المستنصر بالله
+    fatherId: 0a2f45be-48c7-432a-8f38-5d580c82d57b
+  - id: 1240d186-bafe-4f09-ad31-b6ccb4683c08
+    name: يحيى
+    sex: male
+    nickname: أمير المؤمنين
+    kunya: الواثق بالله
+    fatherId: 0a2f45be-48c7-432a-8f38-5d580c82d57b
+  - id: 975d63e2-8e76-4506-b465-db363037bcd4
+    name: أبو بكر
+    sex: male
+    nickname: الأمير
+    kunya: بن يحيى
+    fatherId: 1240d186-bafe-4f09-ad31-b6ccb4683c08
+  - id: 3fc89dbf-7a7c-4330-8bb9-bbbcf29141a7
+    name: أبو العباس
+    sex: male
+    nickname: الأمير
+    kunya: أحمد
+    fatherId: 975d63e2-8e76-4506-b465-db363037bcd4

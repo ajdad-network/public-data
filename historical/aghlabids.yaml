@@ -1,0 +1,57 @@
+family:
+  type: aal
+  name: الأغالبة
+  visibility: public
+  pinned: true
+  suffixMale: الأغلبي
+  suffixFemale: الأغلبية
+  hometown: القيروان
+  description: |-
+    الأغالبة سلالة عربية حكمت إفريقية (تونس وشرق الجزائر وغرب ليبيا) من عام ٨٠٠م حتى ٩٠٩م.
+    حكموا بتفويض من الخلافة العباسية، واشتهروا بفتح صقلية وبناء جامع القيروان الكبير.
+persons:
+  - id: 9d1c5c6d-a5db-46d6-b58b-3849df749493
+    name: الأغلب
+    sex: male
+    kunya: بن سالم التميمي
+  - id: 09babd0a-326f-49da-ba8d-21413d6cc2e2
+    name: إبراهيم
+    sex: male
+    nickname: الأمير
+    kunya: بن الأغلب المؤسس
+    fatherId: 9d1c5c6d-a5db-46d6-b58b-3849df749493
+  - id: 127580c1-be78-4148-8e90-2dc2ac5ba462
+    name: عبد الله
+    sex: male
+    nickname: الأمير
+    kunya: بن إبراهيم
+    fatherId: 09babd0a-326f-49da-ba8d-21413d6cc2e2
+  - id: 8d78a4e2-ee7e-4de3-80d9-a105e108b807
+    name: زيادة الله
+    sex: male
+    nickname: الأمير
+    kunya: الأول
+    fatherId: 09babd0a-326f-49da-ba8d-21413d6cc2e2
+  - id: 5caa0f15-bb17-467c-b236-dd5abb0d7271
+    name: أبو العباس
+    sex: male
+    nickname: الأمير
+    kunya: محمد بن الأغلب
+    fatherId: 9d1c5c6d-a5db-46d6-b58b-3849df749493
+  - id: 6470eb63-ba23-400f-a3ec-8709d78afdd1
+    name: أحمد
+    sex: male
+    nickname: الأمير
+    fatherId: 5caa0f15-bb17-467c-b236-dd5abb0d7271
+  - id: afbca06c-5b72-4e4a-b9dc-1b6d3a7b0634
+    name: إبراهيم
+    sex: male
+    nickname: الأمير
+    kunya: الثاني
+    fatherId: 6470eb63-ba23-400f-a3ec-8709d78afdd1
+  - id: 115e9313-41a4-459e-9544-76f9329f3493
+    name: زيادة الله
+    sex: male
+    nickname: الأمير
+    kunya: الثالث آخر الأغالبة
+    fatherId: afbca06c-5b72-4e4a-b9dc-1b6d3a7b0634

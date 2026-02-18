@@ -1,0 +1,39 @@
+family:
+  type: aal
+  name: السنوسيون
+  visibility: public
+  pinned: true
+  suffixMale: السنوسي
+  suffixFemale: السنوسية
+  hometown: الجغبوب
+  description: |-
+    السنوسيون أسرة دينية وسياسية أسسها محمد بن علي السنوسي في ليبيا.
+    أسسوا الحركة السنوسية ثم المملكة الليبية (١٩٥١-١٩٦٩م) بقيادة الملك إدريس الأول.
+persons:
+  - id: 91a11cf2-4143-4c89-8594-8e9abb27e280
+    name: محمد
+    sex: male
+    nickname: الإمام
+    kunya: بن علي السنوسي الكبير المؤسس
+  - id: eedd5769-6adf-4816-b5de-3c4f333f490a
+    name: المهدي
+    sex: male
+    nickname: الإمام
+    kunya: محمد بن السنوسي
+    fatherId: 91a11cf2-4143-4c89-8594-8e9abb27e280
+  - id: 0090bd05-5906-477b-a15c-931b4511a303
+    name: أحمد الشريف
+    sex: male
+    nickname: الأمير
+    kunya: بن السنوسي
+    fatherId: 91a11cf2-4143-4c89-8594-8e9abb27e280
+  - id: 18895bf9-c273-4f52-85f9-8d67f7515135
+    name: محمد
+    sex: male
+    fatherId: eedd5769-6adf-4816-b5de-3c4f333f490a
+  - id: 1890878e-d966-4cd9-b4e5-b53eaf09aa82
+    name: إدريس
+    sex: male
+    nickname: الملك
+    kunya: الأول ملك ليبيا
+    fatherId: 18895bf9-c273-4f52-85f9-8d67f7515135

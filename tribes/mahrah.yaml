@@ -1,0 +1,43 @@
+family:
+  type: qabila
+  name: المهرة
+  visibility: public
+  pinned: true
+  suffixMale: المهري
+  suffixFemale: المهرية
+  hometown: المهرة
+  description: |-
+    المهرة قبيلة عربية قديمة تنتسب إلى مهرة بن حيدان بن عمرو بن الحاف بن قضاعة.
+    موطنها محافظة المهرة في شرق اليمن وظفار في سلطنة عمان. لهم لغة خاصة (المهرية) من اللغات السامية الجنوبية.
+persons:
+  - id: c28ee13f-7d40-4322-8a03-a13f55fa3f8d
+    name: قضاعة
+    sex: male
+    kunya: بن معد بن عدنان
+  - id: 60281871-a251-4c1e-bbda-dc1391203e80
+    name: الحاف
+    sex: male
+    fatherId: c28ee13f-7d40-4322-8a03-a13f55fa3f8d
+  - id: bfd1488e-68af-4a85-af9e-71778fe5c273
+    name: عمرو
+    sex: male
+    fatherId: 60281871-a251-4c1e-bbda-dc1391203e80
+  - id: 375fe48f-7129-40c8-a7e4-881f4f6d6e02
+    name: حيدان
+    sex: male
+    fatherId: bfd1488e-68af-4a85-af9e-71778fe5c273
+  - id: 2f997697-2852-4cdf-a7e6-90fa06c66920
+    name: مهرة
+    sex: male
+    fatherId: 375fe48f-7129-40c8-a7e4-881f4f6d6e02
+  # ── الفروع الرئيسية ──
+  - id: 2e5f7a66-a34c-490a-8275-59dc6f3b3510
+    name: حيريت
+    sex: male
+    kunya: جد بيت حيريت
+    fatherId: 2f997697-2852-4cdf-a7e6-90fa06c66920
+  - id: edb4acc6-dcb8-402e-99be-3357db467c4b
+    name: كلشات
+    sex: male
+    kunya: جد بيت كلشات
+    fatherId: 2f997697-2852-4cdf-a7e6-90fa06c66920

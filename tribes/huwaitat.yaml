@@ -1,0 +1,37 @@
+family:
+  type: qabila
+  name: الحويطات
+  visibility: public
+  pinned: true
+  suffixMale: الحويطي
+  suffixFemale: الحويطية
+  hometown: تبوك
+  description: |-
+    الحويطات قبيلة عربية كبيرة تنتشر في شمال غرب السعودية (تبوك) وجنوب الأردن وسيناء.
+    من أبرز فروعها العمران والعلاوين وبنو جازي. كان لها دور بارز في الثورة العربية الكبرى مع الشريف حسين.
+persons:
+  - id: 4af5b220-a3a7-4a97-84b4-2ffd5477d7b9
+    name: حويط
+    sex: male
+    kunya: الجد الأعلى
+  # ── الفروع الرئيسية ──
+  - id: 29f5a38c-6e6b-4bc6-81c4-8ae0af435050
+    name: عمران
+    sex: male
+    kunya: جد العمران
+    fatherId: 4af5b220-a3a7-4a97-84b4-2ffd5477d7b9
+  - id: 62b03ddc-d8b6-47ff-b9a7-dda1eed4cbe0
+    name: علوان
+    sex: male
+    kunya: جد العلاوين
+    fatherId: 4af5b220-a3a7-4a97-84b4-2ffd5477d7b9
+  - id: 668c3a6f-54c7-4287-b5e6-828a78ffc912
+    name: جازي
+    sex: male
+    kunya: جد بنو جازي
+    fatherId: 4af5b220-a3a7-4a97-84b4-2ffd5477d7b9
+  - id: 0fba6092-153e-46c0-a6ad-a65caf7e5e44
+    name: سويلم
+    sex: male
+    kunya: جد السويلميين
+    fatherId: 4af5b220-a3a7-4a97-84b4-2ffd5477d7b9

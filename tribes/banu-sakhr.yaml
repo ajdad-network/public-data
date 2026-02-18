@@ -1,0 +1,32 @@
+family:
+  type: qabila
+  name: بنو صخر
+  visibility: public
+  pinned: true
+  suffixMale: الصخري
+  suffixFemale: الصخرية
+  hometown: الأردن
+  description: |-
+    بنو صخر من أكبر قبائل الأردن، تنتسب إلى جذام من قحطان.
+    سكنت البادية الأردنية شرق عمّان ومأدبا. من أبرز فروعها الكعابنة والهقيش والخريشا.
+persons:
+  - id: e7429f34-9319-4a58-9cfc-3600939e4f91
+    name: صخر
+    sex: male
+    kunya: الجد الأعلى
+  # ── الفروع الرئيسية ──
+  - id: 0d50bee9-d1f4-4dda-8117-0d0fac31cc5f
+    name: كعب
+    sex: male
+    kunya: جد الكعابنة
+    fatherId: e7429f34-9319-4a58-9cfc-3600939e4f91
+  - id: 25639c06-896f-4cb2-8b14-0765d03d6baf
+    name: هقيش
+    sex: male
+    kunya: جد الهقيش
+    fatherId: e7429f34-9319-4a58-9cfc-3600939e4f91
+  - id: d1bd16fd-3ec1-4282-be1b-2d2ad00ec8e3
+    name: خريشا
+    sex: male
+    kunya: جد الخريشا
+    fatherId: e7429f34-9319-4a58-9cfc-3600939e4f91
