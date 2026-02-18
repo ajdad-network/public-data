@@ -1,0 +1,41 @@
+family:
+  type: aal
+  name: بنو عباد
+  visibility: public
+  pinned: true
+  suffixMale: العبادي
+  suffixFemale: العبادية
+  hometown: إشبيلية
+  description: |-
+    بنو عباد سلالة عربية لخمية حكمت إشبيلية في عهد ملوك الطوائف (١٠٢٣-١٠٩١م).
+    اشتهر منهم المعتمد بن عباد الشاعر الذي نُفي إلى أغمات بالمغرب.
+persons:
+  - id: ecb23db5-26b9-4b16-a1a7-769293a1d9b3
+    name: إسماعيل
+    sex: male
+    kunya: بن قريش القاضي
+  - id: abdeb3cc-1582-4a81-8602-41031d3574e4
+    name: محمد
+    sex: male
+    nickname: القاضي
+    kunya: أبو القاسم بن عباد
+    fatherId: ecb23db5-26b9-4b16-a1a7-769293a1d9b3
+  - id: 49af4f17-ff5e-4a4e-91c9-760e59422a44
+    name: عباد
+    sex: male
+    nickname: المعتضد
+    fatherId: abdeb3cc-1582-4a81-8602-41031d3574e4
+  - id: c32a0b39-162e-4bae-926c-ef7bd00341f6
+    name: محمد
+    sex: male
+    nickname: المعتمد
+    kunya: على الله
+    fatherId: 49af4f17-ff5e-4a4e-91c9-760e59422a44
+  - id: e8b34cb8-0fcf-4b73-8df7-a85471fa6d32
+    name: الرشيد
+    sex: male
+    fatherId: c32a0b39-162e-4bae-926c-ef7bd00341f6
+  - id: d2204bea-cac1-4510-8f61-8b08f5a0ca27
+    name: المأمون
+    sex: male
+    fatherId: c32a0b39-162e-4bae-926c-ef7bd00341f6

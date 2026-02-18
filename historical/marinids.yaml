@@ -1,0 +1,60 @@
+family:
+  type: aal
+  name: المرينيون
+  visibility: public
+  pinned: true
+  suffixMale: المريني
+  suffixFemale: المرينية
+  hometown: فاس
+  description: |-
+    المرينيون سلالة أمازيغية زناتية حكمت المغرب (١٢٤٤-١٤٦٥م).
+    أسقطوا دولة الموحدين واتخذوا فاس عاصمة لهم. اشتهروا ببناء المدارس العلمية.
+persons:
+  - id: 728b407d-895b-4ef6-875e-99b5af217523
+    name: عبد الحق
+    sex: male
+    kunya: بن محيو المؤسس
+  - id: 78416c5c-732f-4348-acb9-ad95910a6a25
+    name: عثمان
+    sex: male
+    fatherId: 728b407d-895b-4ef6-875e-99b5af217523
+  - id: 0112c416-561f-47fa-a907-ad3c04d03b4b
+    name: محمد
+    sex: male
+    fatherId: 728b407d-895b-4ef6-875e-99b5af217523
+  - id: 64f3126b-4ab8-4eb5-b749-d29b71036d5a
+    name: أبو يوسف
+    sex: male
+    nickname: السلطان
+    kunya: يعقوب بن عبد الحق
+    fatherId: 728b407d-895b-4ef6-875e-99b5af217523
+  - id: 0b875e7b-ed00-42d2-ba47-b3b4f2e723dd
+    name: يوسف
+    sex: male
+    nickname: السلطان
+    kunya: الناصر
+    fatherId: 64f3126b-4ab8-4eb5-b749-d29b71036d5a
+  - id: 81029460-f4dc-42bb-97bd-b6cb871a81c7
+    name: أبو سعيد
+    sex: male
+    nickname: السلطان
+    kunya: عثمان الثاني
+    fatherId: 0b875e7b-ed00-42d2-ba47-b3b4f2e723dd
+  - id: 9e41d47d-4197-412f-bc23-003b9ecade6f
+    name: أبو الحسن
+    sex: male
+    nickname: السلطان
+    kunya: علي المريني
+    fatherId: 81029460-f4dc-42bb-97bd-b6cb871a81c7
+  - id: 007835c8-93ef-4993-ba20-da1e11ac8e29
+    name: أبو عنان
+    sex: male
+    nickname: السلطان
+    kunya: فارس المتوكل
+    fatherId: 9e41d47d-4197-412f-bc23-003b9ecade6f
+  - id: 0ca14865-e548-42cf-a97b-63d3ea85090f
+    name: عبد الحق
+    sex: male
+    nickname: السلطان
+    kunya: الثاني آخر المرينيين
+    fatherId: 9e41d47d-4197-412f-bc23-003b9ecade6f

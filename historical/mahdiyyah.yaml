@@ -1,0 +1,44 @@
+family:
+  type: aal
+  name: المهدية
+  visibility: public
+  pinned: true
+  suffixMale: المهدوي
+  suffixFemale: المهدوية
+  hometown: أم درمان
+  description: |-
+    الدولة المهدية في السودان (١٨٨١-١٨٩٨م) أسسها محمد أحمد المهدي.
+    قاد ثورة ضد الحكم المصري-البريطاني وأسقط الخرطوم عام ١٨٨٥م. خلفه عبد الله التعايشي.
+persons:
+  - id: a071cd5b-48f9-41f5-bb75-3c928d6ac6da
+    name: عبد الله
+    sex: male
+    kunya: بن فحل
+  - id: f9cfe61a-1722-4077-9558-9ed986f54154
+    name: أحمد
+    sex: male
+    fatherId: a071cd5b-48f9-41f5-bb75-3c928d6ac6da
+  - id: 899286b8-9ab1-487c-b6a6-e59346a8cc67
+    name: محمد
+    sex: male
+    nickname: الإمام
+    kunya: أحمد المهدي
+    fatherId: f9cfe61a-1722-4077-9558-9ed986f54154
+  - id: 02bfc9e3-d631-4865-a5c6-b9514625f0e7
+    name: عبد الرحمن
+    sex: male
+    nickname: السيد
+    kunya: المهدي
+    fatherId: 899286b8-9ab1-487c-b6a6-e59346a8cc67
+  - id: 97c13a42-a7e1-4cc9-92c1-12b5747c74f6
+    name: الصديق
+    sex: male
+    nickname: الإمام
+    kunya: المهدي
+    fatherId: 02bfc9e3-d631-4865-a5c6-b9514625f0e7
+  - id: 56fa4cfd-5dc6-4b90-a36f-893a23d9a890
+    name: الصادق
+    sex: male
+    nickname: الإمام
+    kunya: المهدي
+    fatherId: 02bfc9e3-d631-4865-a5c6-b9514625f0e7

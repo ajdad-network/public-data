@@ -1,0 +1,39 @@
+family:
+  type: aal
+  name: الإخشيديون
+  visibility: public
+  pinned: true
+  suffixMale: الإخشيدي
+  suffixFemale: الإخشيدية
+  hometown: الفسطاط
+  description: |-
+    الإخشيديون سلالة تركية حكمت مصر والشام (٩٣٥-٩٦٩م).
+    أسسها محمد بن طغج الإخشيد الذي استقل بمصر عن العباسيين. انتهت بالفتح الفاطمي.
+persons:
+  - id: 86e4186c-255b-4a0c-96fc-64fd1e901c30
+    name: جُف
+    sex: male
+    kunya: (طغج) الجد الأعلى
+  - id: 22d97125-a1b5-41d3-ab96-24443671e91b
+    name: طغج
+    sex: male
+    fatherId: 86e4186c-255b-4a0c-96fc-64fd1e901c30
+  - id: cf8a52e8-9ec2-438a-a719-d2da20986990
+    name: محمد
+    sex: male
+    nickname: الأمير
+    kunya: الإخشيد
+    fatherId: 22d97125-a1b5-41d3-ab96-24443671e91b
+  - id: 61ec4198-f708-4387-b423-367d60eac872
+    name: أنوجور
+    sex: male
+    fatherId: cf8a52e8-9ec2-438a-a719-d2da20986990
+  - id: 602cbfbd-33d5-409b-af5e-6f91d4b9b492
+    name: علي
+    sex: male
+    fatherId: cf8a52e8-9ec2-438a-a719-d2da20986990
+  - id: 0ab7e862-f74f-4d2f-a438-e21ccac778af
+    name: أحمد
+    sex: male
+    kunya: أبو الفوارس
+    fatherId: cf8a52e8-9ec2-438a-a719-d2da20986990

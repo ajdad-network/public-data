@@ -1,0 +1,65 @@
+family:
+  type: aal
+  name: السلاجقة
+  visibility: public
+  pinned: true
+  suffixMale: السلجوقي
+  suffixFemale: السلجوقية
+  hometown: أصفهان
+  description: |-
+    السلاجقة سلالة تركية أوغوزية أسست إمبراطورية واسعة (١٠٣٧-١١٩٤م).
+    حكمت من خراسان إلى الأناضول. اشتهر منهم ألب أرسلان الذي انتصر في معركة ملاذكرد عام ١٠٧١م.
+persons:
+  - id: 6ca778a6-a16d-42c2-9fbb-dbb85235b804
+    name: سلجوق
+    sex: male
+    kunya: بن دقاق الجد الأعلى
+  - id: 71e9f679-d61d-4621-bd96-a685c6e69489
+    name: ميكائيل
+    sex: male
+    fatherId: 6ca778a6-a16d-42c2-9fbb-dbb85235b804
+  - id: 19ba25a6-ab0c-48ea-8aaf-b9ad720d1c00
+    name: إسرائيل
+    sex: male
+    fatherId: 6ca778a6-a16d-42c2-9fbb-dbb85235b804
+  - id: e114aa90-c65f-4bab-a1b4-a7df04ccd16b
+    name: طغرل
+    sex: male
+    nickname: السلطان
+    kunya: بك المؤسس
+    fatherId: 71e9f679-d61d-4621-bd96-a685c6e69489
+  - id: 07352f91-92fd-492e-bd61-309b7b83afe1
+    name: داود
+    sex: male
+    nickname: السلطان
+    kunya: جاغري بك
+    fatherId: 71e9f679-d61d-4621-bd96-a685c6e69489
+  - id: 893544e5-83d1-44a5-b2f4-b45044010596
+    name: ألب أرسلان
+    sex: male
+    nickname: السلطان
+    kunya: عضد الدولة
+    fatherId: 07352f91-92fd-492e-bd61-309b7b83afe1
+  - id: 8ccb309d-bd39-4b5c-aaf0-9518826a8745
+    name: ملكشاه
+    sex: male
+    nickname: السلطان
+    kunya: جلال الدولة
+    fatherId: 893544e5-83d1-44a5-b2f4-b45044010596
+  - id: d8729061-d64f-492a-ae69-44dfc5105e9f
+    name: بركياروق
+    sex: male
+    nickname: السلطان
+    fatherId: 8ccb309d-bd39-4b5c-aaf0-9518826a8745
+  - id: 51d0bd9a-0f5d-4188-8cd1-49d124d43a4f
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الأول
+    fatherId: 8ccb309d-bd39-4b5c-aaf0-9518826a8745
+  - id: 320f2975-e167-47e9-a46f-0f966ef496e2
+    name: أحمد
+    sex: male
+    nickname: السلطان
+    kunya: سنجر
+    fatherId: 8ccb309d-bd39-4b5c-aaf0-9518826a8745

@@ -1,0 +1,52 @@
+family:
+  type: aal
+  name: الزيانيون
+  visibility: public
+  pinned: true
+  suffixMale: الزياني
+  suffixFemale: الزيانية
+  hometown: تلمسان
+  description: |-
+    الزيانيون (بنو زيان / بنو عبد الواد) سلالة أمازيغية زناتية حكمت تلمسان والمغرب الأوسط (١٢٣٥-١٥٥٦م).
+    أسسها يغمراسن بن زيان وعُرفوا بمنافستهم للمرينيين والحفصيين.
+persons:
+  - id: 93776d47-42e3-4fa9-98b4-ee94e0ce29d9
+    name: زيان
+    sex: male
+    kunya: بن ثابت الجد الأعلى
+  - id: 73fad1d2-e32a-49d6-b1a2-feb093f49da4
+    name: يغمراسن
+    sex: male
+    nickname: السلطان
+    kunya: المؤسس
+    fatherId: 93776d47-42e3-4fa9-98b4-ee94e0ce29d9
+  - id: 256713e6-2e2f-46ce-8efa-edac9330299e
+    name: عثمان
+    sex: male
+    nickname: السلطان
+    kunya: الأول
+    fatherId: 73fad1d2-e32a-49d6-b1a2-feb093f49da4
+  - id: abbd6160-4634-4b8b-b749-0faf73d8ef6e
+    name: أبو زيان
+    sex: male
+    nickname: السلطان
+    kunya: محمد الأول
+    fatherId: 256713e6-2e2f-46ce-8efa-edac9330299e
+  - id: 7dd1108f-8518-46cc-ae40-dba57bd6b189
+    name: أبو حمو
+    sex: male
+    nickname: السلطان
+    kunya: موسى الأول
+    fatherId: 256713e6-2e2f-46ce-8efa-edac9330299e
+  - id: 3a696359-f5f3-4210-8c9f-115fcacdfa73
+    name: أبو تاشفين
+    sex: male
+    nickname: السلطان
+    kunya: عبد الرحمن الأول
+    fatherId: 7dd1108f-8518-46cc-ae40-dba57bd6b189
+  - id: 7b0c33a5-302d-4a16-9950-8e0166c3b737
+    name: أبو حمو
+    sex: male
+    nickname: السلطان
+    kunya: موسى الثاني
+    fatherId: 7dd1108f-8518-46cc-ae40-dba57bd6b189

@@ -1,0 +1,74 @@
+family:
+  type: aal
+  name: بنو الأحمر
+  visibility: public
+  pinned: true
+  suffixMale: النصري
+  suffixFemale: النصرية
+  hometown: غرناطة
+  description: |-
+    بنو الأحمر (بنو نصر) سلالة عربية من الخزرج حكمت مملكة غرناطة (١٢٣٨-١٤٩٢م).
+    أسسها محمد بن يوسف بن نصر (ابن الأحمر) وكانت آخر دولة إسلامية في الأندلس.
+persons:
+  - id: 8c6b0d8a-071d-4a3a-a1c9-97d7066ed918
+    name: نصر
+    sex: male
+    kunya: الجد الأعلى
+  - id: 02c631de-90cf-4aed-a4a4-e506b22c8471
+    name: يوسف
+    sex: male
+    fatherId: 8c6b0d8a-071d-4a3a-a1c9-97d7066ed918
+  - id: 5229f735-e74b-454f-b1c2-d63f9a10f499
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الأول (ابن الأحمر)
+    fatherId: 02c631de-90cf-4aed-a4a4-e506b22c8471
+  - id: 24e399a2-afb5-4573-9b53-76231cbeaae7
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الثاني الفقيه
+    fatherId: 5229f735-e74b-454f-b1c2-d63f9a10f499
+  - id: d5af6bdc-b1bf-4414-9379-9d554b1bfddd
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الثالث المخلوع
+    fatherId: 24e399a2-afb5-4573-9b53-76231cbeaae7
+  - id: f505a710-ed7b-4796-be0f-2064051b46b9
+    name: إسماعيل
+    sex: male
+    nickname: السلطان
+    kunya: الأول
+    fatherId: 24e399a2-afb5-4573-9b53-76231cbeaae7
+  - id: 5c020cea-f05e-453e-9015-2c53c495403b
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الرابع
+    fatherId: f505a710-ed7b-4796-be0f-2064051b46b9
+  - id: cffb6bc6-5ca8-4503-8781-83ff51d60a1f
+    name: يوسف
+    sex: male
+    nickname: السلطان
+    kunya: الأول أبو الحجاج
+    fatherId: f505a710-ed7b-4796-be0f-2064051b46b9
+  - id: 81a8b942-6a76-438b-9e28-1f4e7c480bff
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الخامس (الغني بالله)
+    fatherId: cffb6bc6-5ca8-4503-8781-83ff51d60a1f
+  - id: 2b8eb714-c24d-47d1-9cff-ccf4664bbedc
+    name: أبو الحسن
+    sex: male
+    nickname: السلطان
+    kunya: علي (المستعين)
+    fatherId: 81a8b942-6a76-438b-9e28-1f4e7c480bff
+  - id: 2d0fb52c-d766-4eb2-807c-46067e62f241
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الثاني عشر (أبو عبد الله الصغير)
+    fatherId: 2b8eb714-c24d-47d1-9cff-ccf4664bbedc

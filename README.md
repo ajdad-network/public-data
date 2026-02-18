@@ -73,6 +73,9 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [tribes/banu-atiyyah.yaml](tribes/banu-atiyyah.yaml) | بنو عطية | تبوك |
 | [tribes/shararat.yaml](tribes/shararat.yaml) | الشرارات | الجوف |
 | [tribes/mahrah.yaml](tribes/mahrah.yaml) | المهرة | المهرة |
+| [tribes/banu-shahr.yaml](tribes/banu-shahr.yaml) | بنو شهر | النماص |
+| [tribes/balqarn.yaml](tribes/balqarn.yaml) | بلقرن | بلقرن |
+| [tribes/fudul.yaml](tribes/fudul.yaml) | الفضول | نجد |
 
 ## Historical
 
@@ -106,6 +109,13 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [historical/saadians.yaml](historical/saadians.yaml) | السعديون | أحمد المنصور الذهبي |
 | [historical/aghlabids.yaml](historical/aghlabids.yaml) | الأغالبة | حكام إفريقية وفاتحو صقلية |
 | [historical/hafsids.yaml](historical/hafsids.yaml) | الحفصيون | حكام تونس |
+| [historical/nasrids.yaml](historical/nasrids.yaml) | بنو الأحمر | مملكة غرناطة |
+| [historical/abbadids.yaml](historical/abbadids.yaml) | بنو عباد | ملوك إشبيلية |
+| [historical/marinids.yaml](historical/marinids.yaml) | المرينيون | حكام المغرب بعد الموحدين |
+| [historical/zayyanids.yaml](historical/zayyanids.yaml) | الزيانيون | حكام تلمسان |
+| [historical/mahdiyyah.yaml](historical/mahdiyyah.yaml) | المهدية | الدولة المهدية في السودان |
+| [historical/ikhshidids.yaml](historical/ikhshidids.yaml) | الإخشيديون | حكام مصر قبل الفاطميين |
+| [historical/seljuks.yaml](historical/seljuks.yaml) | السلاجقة | الدولة السلجوقية |
 
 ## YAML Format
 

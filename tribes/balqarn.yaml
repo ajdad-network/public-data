@@ -1,0 +1,37 @@
+family:
+  type: qabila
+  name: بلقرن
+  visibility: public
+  pinned: true
+  suffixMale: البلقرني
+  suffixFemale: البلقرنية
+  hometown: بلقرن
+  description: |-
+    بلقرن قبيلة عربية من الأزد تقطن منطقة عسير جنوب السعودية.
+    تنتسب إلى قرن بن عبد الله بن الأزد. من فروعها بنو حرير وبنو بجاد وبنو عيسى.
+persons:
+  - id: aa6ddae4-ced5-4605-8824-d65bdfd4d5dc
+    name: قرن
+    sex: male
+    kunya: بن عبد الله بن الأزد
+  # ── الفروع الرئيسية ──
+  - id: 582921ba-1eec-4331-b6f6-d6b62113ab0e
+    name: حرير
+    sex: male
+    kunya: جد بنو حرير
+    fatherId: aa6ddae4-ced5-4605-8824-d65bdfd4d5dc
+  - id: 155f9d2c-6b7f-4867-a4a5-975f73537185
+    name: بجاد
+    sex: male
+    kunya: جد بنو بجاد
+    fatherId: aa6ddae4-ced5-4605-8824-d65bdfd4d5dc
+  - id: e7931926-f77a-4010-bc7f-4c9ef4595fad
+    name: عيسى
+    sex: male
+    kunya: جد بنو عيسى
+    fatherId: aa6ddae4-ced5-4605-8824-d65bdfd4d5dc
+  - id: bac5892f-ab14-40ef-9986-7b69921a8449
+    name: سعد
+    sex: male
+    kunya: جد بنو سعد
+    fatherId: aa6ddae4-ced5-4605-8824-d65bdfd4d5dc
