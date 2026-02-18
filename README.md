@@ -173,6 +173,11 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [historical/judham.yaml](historical/judham.yaml) | جذام | قبيلة الشام ومصر الكبرى |
 | [historical/banu-kalb.yaml](historical/banu-kalb.yaml) | بنو كلب | قبيلة الشام من قضاعة |
 | [historical/banu-shayban.yaml](historical/banu-shayban.yaml) | بنو شيبان | أبطال ذي قار والإمام أحمد بن حنبل |
+| [historical/iyad.yaml](historical/iyad.yaml) | إياد | قبيلة عدنانية قديمة |
+| [historical/fazara.yaml](historical/fazara.yaml) | بنو فزارة | عيينة بن حصن سيد غطفان |
+| [historical/nakha.yaml](historical/nakha.yaml) | النخع | الأشتر النخعي وإبراهيم النخعي |
+| [historical/zubayd.yaml](historical/zubayd.yaml) | زُبَيد | عمرو بن معدي كرب الزبيدي |
+| [historical/banu-uqayl.yaml](historical/banu-uqayl.yaml) | بنو عقيل | بنو عامر والمنتفق |
 
 ## YAML Format
 

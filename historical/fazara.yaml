@@ -1,0 +1,48 @@
+family:
+  type: qabila
+  name: بنو فزارة
+  visibility: public
+  pinned: true
+  suffixMale: الفزاري
+  suffixFemale: الفزارية
+  hometown: نجد
+  description: |-
+    بنو فزارة بطن كبير من غطفان من قيس عيلان. سكنوا نجداً والمدينة.
+    اشتهر منهم عيينة بن حصن الفزاري سيد غطفان. كان لهم دور في أحداث صدر الإسلام.
+persons:
+  - id: f6631314-98d7-4068-99c2-383008cde8e2
+    name: ريث
+    sex: male
+    kunya: بن غطفان
+  - id: 81695933-9b2e-454d-a920-96e731019903
+    name: بغيض
+    sex: male
+    fatherId: f6631314-98d7-4068-99c2-383008cde8e2
+  - id: 82b08785-fa6a-4b92-aaeb-3d7f9d9bd2c3
+    name: فزارة
+    sex: male
+    kunya: جد القبيلة
+    fatherId: f6631314-98d7-4068-99c2-383008cde8e2
+  - id: c51538ef-7f48-404f-a648-b3d1f5921a88
+    name: عدي
+    sex: male
+    fatherId: 82b08785-fa6a-4b92-aaeb-3d7f9d9bd2c3
+  - id: 79d8e13c-013d-4846-91e8-5151fd5c2826
+    name: حصن
+    sex: male
+    fatherId: c51538ef-7f48-404f-a648-b3d1f5921a88
+  - id: 567470a5-4cc1-480f-9449-a452d5a4e373
+    name: حذيفة
+    sex: male
+    fatherId: 79d8e13c-013d-4846-91e8-5151fd5c2826
+  - id: 3ee02160-145f-434d-b0b2-ef68672078e7
+    name: عيينة
+    sex: male
+    nickname: الأمير
+    kunya: بن حصن سيد غطفان
+    fatherId: 567470a5-4cc1-480f-9449-a452d5a4e373
+  - id: 5b994cb9-8e13-4431-97f2-ac7e5b1fb6ba
+    name: شمخ
+    sex: male
+    kunya: جد بنو شمخ
+    fatherId: 82b08785-fa6a-4b92-aaeb-3d7f9d9bd2c3

@@ -1,0 +1,46 @@
+family:
+  type: qabila
+  name: زُبَيد
+  visibility: public
+  pinned: true
+  suffixMale: الزبيدي
+  suffixFemale: الزبيدية
+  hometown: الكوفة
+  description: |-
+    زُبَيد بطن كبير من مَذحج. انتشروا في العراق والشام وكان لهم نفوذ واسع.
+    اشتهر منهم عمرو بن معدي كرب الزبيدي الفارس الشاعر. أسسوا مشيخات في العراق.
+persons:
+  - id: 36021def-7e00-4876-90de-639ae93c9902
+    name: مذحج
+    sex: male
+    kunya: بن أدد بن كهلان
+  - id: f358c071-3d37-41e7-9f85-1c54041b5733
+    name: منبّه
+    sex: male
+    kunya: (زُبَيد) جد القبيلة
+    fatherId: 36021def-7e00-4876-90de-639ae93c9902
+  - id: f5d19bd8-2845-4eb0-afcf-b118c7802d9c
+    name: ربيعة
+    sex: male
+    kunya: جد زُبَيد الأكبر
+    fatherId: f358c071-3d37-41e7-9f85-1c54041b5733
+  - id: 8f946cf6-7943-442d-b1e8-5ee9ec451c0b
+    name: سلمة
+    sex: male
+    kunya: جد زُبَيد الأصغر
+    fatherId: f358c071-3d37-41e7-9f85-1c54041b5733
+  - id: 0adc7d7c-0983-4b41-a427-5a0a1633a456
+    name: مُعدي كرب
+    sex: male
+    fatherId: f5d19bd8-2845-4eb0-afcf-b118c7802d9c
+  - id: db56a9ab-8ab9-4ab0-a718-85450aecadc7
+    name: عمرو
+    sex: male
+    nickname: الفارس
+    kunya: بن معدي كرب الزبيدي
+    fatherId: 0adc7d7c-0983-4b41-a427-5a0a1633a456
+  - id: b46f0579-0bca-48d2-9e0e-3694957e09c9
+    name: صالح
+    sex: male
+    kunya: جد بنو صالح
+    fatherId: f5d19bd8-2845-4eb0-afcf-b118c7802d9c

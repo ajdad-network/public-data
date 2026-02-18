@@ -1,0 +1,45 @@
+family:
+  type: qabila
+  name: بنو عقيل
+  visibility: public
+  pinned: true
+  suffixMale: العقيلي
+  suffixFemale: العقيلية
+  hometown: البصرة
+  description: |-
+    بنو عقيل بطن كبير من بنو عامر بن صعصعة من هوازن. انتشروا في العراق والبحرين.
+    منهم العقيليون حكام الموصل وإمارة المنتفق في جنوب العراق.
+persons:
+  - id: 39b9b561-7f9f-410e-8ce1-26cfceb05a4b
+    name: عامر
+    sex: male
+    kunya: بن صعصعة بن هوازن
+  - id: 8d02aa41-6799-4e80-b171-ae20394776cd
+    name: ربيعة
+    sex: male
+    fatherId: 39b9b561-7f9f-410e-8ce1-26cfceb05a4b
+  - id: 9af23ed3-e61e-46b1-a804-dfaaee03868e
+    name: عقيل
+    sex: male
+    kunya: جد القبيلة
+    fatherId: 8d02aa41-6799-4e80-b171-ae20394776cd
+  - id: 469f3a5a-5974-4b89-af0c-85c140bd00f7
+    name: عامر
+    sex: male
+    kunya: جد بنو عامر بن عقيل
+    fatherId: 9af23ed3-e61e-46b1-a804-dfaaee03868e
+  - id: 36ee6efa-adb9-43be-a1a2-dd74eebf5db4
+    name: عبادة
+    sex: male
+    kunya: جد بنو عبادة
+    fatherId: 9af23ed3-e61e-46b1-a804-dfaaee03868e
+  - id: 67b92943-3a6c-4b97-bc62-4377b6ca0e61
+    name: خفاجة
+    sex: male
+    kunya: جد بنو خفاجة
+    fatherId: 9af23ed3-e61e-46b1-a804-dfaaee03868e
+  - id: c4d06db6-a0f9-4122-a9b5-9ecddeb18917
+    name: المنتفق
+    sex: male
+    kunya: جد المنتفق
+    fatherId: 9af23ed3-e61e-46b1-a804-dfaaee03868e

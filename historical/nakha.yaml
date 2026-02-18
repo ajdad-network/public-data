@@ -1,0 +1,53 @@
+family:
+  type: qabila
+  name: النخع
+  visibility: public
+  pinned: true
+  suffixMale: النخعي
+  suffixFemale: النخعية
+  hometown: الكوفة
+  description: |-
+    النخع بطن كبير من مَذحج. هاجروا إلى الكوفة وكان لهم دور عظيم في الفتوحات.
+    اشتهر منهم الأشتر النخعي قائد علي بن أبي طالب وإبراهيم النخعي الفقيه.
+persons:
+  - id: 14aab8a2-273b-4667-85de-a7e246ae11cf
+    name: مذحج
+    sex: male
+    kunya: بن أدد بن كهلان
+  - id: 6f8ca6e5-af8d-4fa6-bf85-01513f24774b
+    name: جَنْب
+    sex: male
+    fatherId: 14aab8a2-273b-4667-85de-a7e246ae11cf
+  - id: 681c427a-f7ef-49e7-9508-965dd2f2b79c
+    name: النخع
+    sex: male
+    kunya: جد القبيلة
+    fatherId: 6f8ca6e5-af8d-4fa6-bf85-01513f24774b
+  - id: 4252800a-f164-4d1c-8cad-cdd83f547331
+    name: عامر
+    sex: male
+    fatherId: 681c427a-f7ef-49e7-9508-965dd2f2b79c
+  - id: 4b74ab41-6996-490e-b373-4d005bd7340e
+    name: قيس
+    sex: male
+    fatherId: 4252800a-f164-4d1c-8cad-cdd83f547331
+  - id: 2bf9b2a3-a00a-450d-93ab-043ee9c3fc9a
+    name: الحارث
+    sex: male
+    fatherId: 4b74ab41-6996-490e-b373-4d005bd7340e
+  - id: e2a32cf6-53aa-47ca-9edc-d9ef11299c91
+    name: مالك
+    sex: male
+    nickname: الأشتر
+    kunya: النخعي قائد علي
+    fatherId: 2bf9b2a3-a00a-450d-93ab-043ee9c3fc9a
+  - id: 18c0bf8c-ce6e-4728-a7c2-009fb0ad663e
+    name: يزيد
+    sex: male
+    fatherId: 681c427a-f7ef-49e7-9508-965dd2f2b79c
+  - id: a0b0e53a-fab2-4213-a6fd-99d5bfe25336
+    name: إبراهيم
+    sex: male
+    nickname: الفقيه
+    kunya: النخعي
+    fatherId: 18c0bf8c-ce6e-4728-a7c2-009fb0ad663e
