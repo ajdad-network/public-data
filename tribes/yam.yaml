@@ -1,0 +1,65 @@
+family:
+  type: qabila
+  name: يام
+  visibility: public
+  pinned: true
+  suffixMale: اليامي
+  suffixFemale: اليامية
+  hometown: نجران
+  description: |-
+    يام قبيلة عربية كبيرة من همدان، موطنها نجران في جنوب المملكة العربية السعودية.
+    تنتسب إلى يام بن أصبي بن دافع بن مالك بن جشم بن حاشد بن جشم بن خيران بن نوف بن همدان.
+    من أبرز فروعها آل فاطمة وآل عجمان (العجمان) ودهم ومرهبة.
+persons:
+  - id: 6115d824-299d-414e-9e50-1825b5ab4b70
+    name: همدان
+    sex: male
+    kunya: بن مالك بن زيد
+  - id: 283d18f8-494e-419f-a266-95a79b9669ca
+    name: نوف
+    sex: male
+    fatherId: 6115d824-299d-414e-9e50-1825b5ab4b70
+  - id: 15227dd5-6bee-4868-82a9-5c34af4522f9
+    name: خيران
+    sex: male
+    fatherId: 283d18f8-494e-419f-a266-95a79b9669ca
+  - id: fce3d12e-9508-4ef7-bce6-f78f61e1ca0f
+    name: جشم
+    sex: male
+    fatherId: 15227dd5-6bee-4868-82a9-5c34af4522f9
+  - id: 97797119-1d8a-419b-bd2e-10d4737df93a
+    name: حاشد
+    sex: male
+    fatherId: fce3d12e-9508-4ef7-bce6-f78f61e1ca0f
+  - id: 54388e2c-a601-49e1-a3d7-cac5c71cbab0
+    name: جشم
+    sex: male
+    kunya: بن حاشد
+    fatherId: 97797119-1d8a-419b-bd2e-10d4737df93a
+  - id: 317c8e9c-fee5-4e5c-88ce-9dc6d23c63f5
+    name: مالك
+    sex: male
+    fatherId: 54388e2c-a601-49e1-a3d7-cac5c71cbab0
+  - id: c4dc3327-2c36-40af-b273-d28cff02e1a4
+    name: دافع
+    sex: male
+    fatherId: 317c8e9c-fee5-4e5c-88ce-9dc6d23c63f5
+  - id: ed2708df-0e94-4dd6-93f3-dfe0928ee12a
+    name: أصبي
+    sex: male
+    fatherId: c4dc3327-2c36-40af-b273-d28cff02e1a4
+  - id: 92b97bbf-5d93-4ce6-8b9f-b963da3255a9
+    name: يام
+    sex: male
+    fatherId: ed2708df-0e94-4dd6-93f3-dfe0928ee12a
+  # ── الفروع الرئيسية ──
+  - id: 7081c729-4652-4603-9f33-874ac99085b9
+    name: دهم
+    sex: male
+    kunya: جد آل دهم
+    fatherId: 92b97bbf-5d93-4ce6-8b9f-b963da3255a9
+  - id: 958cfd95-d507-4ac2-bb0d-4da3bc2528e9
+    name: مرهبة
+    sex: male
+    kunya: جد آل مرهبة
+    fatherId: 92b97bbf-5d93-4ce6-8b9f-b963da3255a9

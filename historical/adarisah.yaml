@@ -1,0 +1,39 @@
+family:
+  type: aal
+  name: الأدارسة
+  visibility: public
+  pinned: true
+  suffixMale: الإدريسي
+  suffixFemale: الإدريسية
+  hometown: عسير
+  description: |-
+    الأدارسة أسرة حاكمة أسست إمارة إدريسية في عسير وجيزان (١٩٠٦-١٩٣٤م).
+    ينتسبون إلى أدارسة المغرب عبر إدريس الأول بن عبد الله بن الحسن المثنى بن الحسن بن علي بن أبي طالب.
+    أسس الإمارة محمد بن علي الإدريسي بدعم من إيطاليا وبريطانيا، ثم ضُمت إلى المملكة العربية السعودية.
+persons:
+  - id: 33b35a15-5add-4e0b-9768-955a98bf16e4
+    name: أحمد
+    sex: male
+    kunya: بن إدريس
+  - id: 47301a53-8ddd-4c4f-9c3f-e4b6f6cad439
+    name: علي
+    sex: male
+    fatherId: 33b35a15-5add-4e0b-9768-955a98bf16e4
+  - id: 4387dc91-506b-4177-8b81-d5859ba414cc
+    name: محمد
+    sex: male
+    nickname: الأمير
+    kunya: بن علي الإدريسي المؤسس
+    fatherId: 47301a53-8ddd-4c4f-9c3f-e4b6f6cad439
+  - id: 346f0890-af00-487e-847d-f34eee29b707
+    name: علي
+    sex: male
+    nickname: الأمير
+    kunya: بن محمد الإدريسي
+    fatherId: 4387dc91-506b-4177-8b81-d5859ba414cc
+  - id: 14dbb808-49b9-4f4c-9b1e-98e11256305c
+    name: الحسن
+    sex: male
+    nickname: الأمير
+    kunya: بن علي الإدريسي
+    fatherId: 346f0890-af00-487e-847d-f34eee29b707

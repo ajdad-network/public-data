@@ -1,0 +1,101 @@
+family:
+  type: aal
+  name: آل صباح
+  visibility: public
+  pinned: true
+  suffixMale: الصباح
+  suffixFemale: الصباح
+  hometown: الكويت
+  description: |-
+    آل صباح الأسرة الحاكمة في دولة الكويت منذ عام ١٧٥٢م، ينتسبون إلى قبيلة عنزة (العتوب).
+    أسس الحكم صباح بن جابر وتوارثته الأسرة حتى اليوم.
+persons:
+  - id: f3718995-14d7-4508-b658-e7774a3edda6
+    name: صباح
+    sex: male
+    nickname: الشيخ
+    kunya: بن جابر المؤسس
+  - id: 12f9c4df-4b9d-48a3-adc2-ece84afab617
+    name: عبد الله
+    sex: male
+    nickname: الشيخ
+    kunya: بن صباح
+    fatherId: f3718995-14d7-4508-b658-e7774a3edda6
+  - id: 20b2c5eb-9df2-46a1-bdc1-5ddc99e35fd9
+    name: جابر
+    sex: male
+    nickname: الشيخ
+    kunya: بن عبد الله
+    fatherId: 12f9c4df-4b9d-48a3-adc2-ece84afab617
+  - id: 0748c25d-a727-4646-b15e-dbfc93aa8be5
+    name: صباح
+    sex: male
+    nickname: الشيخ
+    kunya: بن جابر
+    fatherId: 20b2c5eb-9df2-46a1-bdc1-5ddc99e35fd9
+  - id: 4154ecda-2215-4a65-be55-fd5904d68947
+    name: محمد
+    sex: male
+    nickname: الشيخ
+    kunya: بن صباح
+    fatherId: 0748c25d-a727-4646-b15e-dbfc93aa8be5
+  - id: 9ce9011a-e82b-40f6-8967-8b125a21258c
+    name: مبارك
+    sex: male
+    nickname: الشيخ
+    kunya: الكبير
+    fatherId: 0748c25d-a727-4646-b15e-dbfc93aa8be5
+  - id: 124ef483-3206-4af3-8871-7e22172f2021
+    name: جابر
+    sex: male
+    nickname: الشيخ
+    kunya: المبارك
+    fatherId: 9ce9011a-e82b-40f6-8967-8b125a21258c
+  - id: ea89e635-493d-42f3-9d40-7f6b9d78a9cb
+    name: سالم
+    sex: male
+    nickname: الشيخ
+    kunya: المبارك
+    fatherId: 9ce9011a-e82b-40f6-8967-8b125a21258c
+  - id: d9452675-0c27-4678-8e77-4cea4dcbca9b
+    name: أحمد
+    sex: male
+    nickname: الشيخ
+    kunya: الجابر
+    fatherId: 124ef483-3206-4af3-8871-7e22172f2021
+  - id: 418b67f9-e5cc-4cb4-8cca-897f6334e75b
+    name: صباح
+    sex: male
+    nickname: الشيخ
+    kunya: السالم
+    fatherId: ea89e635-493d-42f3-9d40-7f6b9d78a9cb
+  - id: 287a04d6-c9fd-40b3-a4a5-6921502bf58f
+    name: عبد الله
+    sex: male
+    nickname: الشيخ
+    kunya: السالم
+    fatherId: ea89e635-493d-42f3-9d40-7f6b9d78a9cb
+  - id: 879697f7-9c14-4188-ac84-63df15aee765
+    name: جابر
+    sex: male
+    nickname: الشيخ
+    kunya: الأحمد
+    fatherId: d9452675-0c27-4678-8e77-4cea4dcbca9b
+  - id: c5f94878-7d30-46f9-aa8b-6daedc19ba35
+    name: صباح
+    sex: male
+    nickname: الشيخ
+    kunya: الأحمد
+    fatherId: d9452675-0c27-4678-8e77-4cea4dcbca9b
+  - id: 8927340c-4541-448d-a213-e560b67b3b50
+    name: نواف
+    sex: male
+    nickname: الشيخ
+    kunya: الأحمد
+    fatherId: d9452675-0c27-4678-8e77-4cea4dcbca9b
+  - id: dbcad496-ec94-4a0a-bae6-5e809b49058e
+    name: مشعل
+    sex: male
+    nickname: الشيخ
+    kunya: الأحمد
+    fatherId: d9452675-0c27-4678-8e77-4cea4dcbca9b

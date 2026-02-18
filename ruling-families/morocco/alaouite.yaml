@@ -1,0 +1,96 @@
+family:
+  type: aal
+  name: العلويون
+  visibility: public
+  pinned: true
+  suffixMale: العلوي
+  suffixFemale: العلوية
+  hometown: سجلماسة
+  description: |-
+    العلويون (الأسرة العلوية الفيلالية) الأسرة الحاكمة في المغرب منذ عام ١٦٣١م.
+    ينتسبون إلى الحسن بن علي بن أبي طالب عبر إدريس الأول مؤسس دولة الأدارسة.
+    أسس حكمهم مولاي علي الشريف، واستمرت الأسرة في الحكم حتى اليوم.
+persons:
+  - id: 56814941-0468-41d2-8327-ba495aef4342
+    name: علي
+    sex: male
+    nickname: مولاي
+    kunya: الشريف المؤسس
+  - id: 229b2f27-11ba-4706-8036-6be417f70530
+    name: محمد
+    sex: male
+    nickname: مولاي
+    kunya: بن علي الشريف
+    fatherId: 56814941-0468-41d2-8327-ba495aef4342
+  - id: b73e70b4-5de2-48e8-97c1-9761a2bb2546
+    name: الرشيد
+    sex: male
+    nickname: مولاي
+    kunya: بن الشريف
+    fatherId: 56814941-0468-41d2-8327-ba495aef4342
+  - id: c003ed91-4797-443f-ba57-8fa321d9019d
+    name: إسماعيل
+    sex: male
+    nickname: مولاي
+    kunya: بن الشريف
+    fatherId: 56814941-0468-41d2-8327-ba495aef4342
+  - id: 4e027cbb-5e37-4f29-9593-2c7d5df1a9ef
+    name: عبد الله
+    sex: male
+    nickname: مولاي
+    kunya: بن إسماعيل
+    fatherId: c003ed91-4797-443f-ba57-8fa321d9019d
+  - id: 9f1b7e16-e505-44ef-8919-ced592bab243
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الثالث بن عبد الله
+    fatherId: 4e027cbb-5e37-4f29-9593-2c7d5df1a9ef
+  - id: d506fe39-d361-4be2-9726-71324b5fa46d
+    name: سليمان
+    sex: male
+    nickname: مولاي
+    kunya: بن محمد
+    fatherId: 9f1b7e16-e505-44ef-8919-ced592bab243
+  - id: 53ab2ed5-6436-4016-9448-4d63c6f32ce5
+    name: عبد الرحمن
+    sex: male
+    nickname: مولاي
+    kunya: بن هشام
+    fatherId: 9f1b7e16-e505-44ef-8919-ced592bab243
+  - id: dc0db3f0-aa46-4334-b305-1170804f6a9c
+    name: الحسن
+    sex: male
+    nickname: السلطان
+    kunya: الأول
+    fatherId: 53ab2ed5-6436-4016-9448-4d63c6f32ce5
+  - id: 1b965824-40c2-4d5b-bde9-115db18ea765
+    name: عبد العزيز
+    sex: male
+    nickname: السلطان
+    kunya: بن الحسن
+    fatherId: dc0db3f0-aa46-4334-b305-1170804f6a9c
+  - id: ddf02d1a-04f3-4e4a-856f-73de5f8d267c
+    name: يوسف
+    sex: male
+    nickname: السلطان
+    kunya: بن الحسن
+    fatherId: dc0db3f0-aa46-4334-b305-1170804f6a9c
+  - id: 5fa7a8f2-52bc-40a1-8a19-fc07ccc01f6b
+    name: محمد
+    sex: male
+    nickname: الملك
+    kunya: الخامس
+    fatherId: ddf02d1a-04f3-4e4a-856f-73de5f8d267c
+  - id: 48b7e81b-e497-4b87-89ce-f24cbc92a559
+    name: الحسن
+    sex: male
+    nickname: الملك
+    kunya: الثاني
+    fatherId: 5fa7a8f2-52bc-40a1-8a19-fc07ccc01f6b
+  - id: 2a083480-55b8-44cd-8696-67b6380b494c
+    name: محمد
+    sex: male
+    nickname: الملك
+    kunya: السادس
+    fatherId: 48b7e81b-e497-4b87-89ce-f24cbc92a559

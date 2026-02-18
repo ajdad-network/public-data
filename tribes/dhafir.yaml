@@ -1,0 +1,44 @@
+family:
+  type: qabila
+  name: الظفير
+  visibility: public
+  pinned: true
+  suffixMale: الظفيري
+  suffixFemale: الظفيرية
+  hometown: نجد
+  description: |-
+    الظفير قبيلة عربية كبيرة تنتسب إلى بنو لام من طيء.
+    انتشرت في وسط وشرق الجزيرة العربية والكويت والعراق. من أبرز فروعها البطينات والسويط والعمور.
+persons:
+  - id: b32467eb-e80a-40c2-9b6b-4135a9f48543
+    name: طيء
+    sex: male
+    kunya: بن أدد بن زيد
+  - id: 2cda8314-402b-4248-8f7b-912c633d46b8
+    name: ثعلبة
+    sex: male
+    fatherId: b32467eb-e80a-40c2-9b6b-4135a9f48543
+  - id: 3736f41c-1035-45bc-adda-d2e84e0b11df
+    name: لام
+    sex: male
+    fatherId: 2cda8314-402b-4248-8f7b-912c633d46b8
+  - id: ca57de7e-d22c-47fe-a056-c4a1d006c29b
+    name: ظفير
+    sex: male
+    fatherId: 3736f41c-1035-45bc-adda-d2e84e0b11df
+  # ── الفروع الرئيسية ──
+  - id: 2b56dd67-0b46-42f4-a014-ff6e94accda2
+    name: بطين
+    sex: male
+    kunya: جد البطينات
+    fatherId: ca57de7e-d22c-47fe-a056-c4a1d006c29b
+  - id: 028a8703-5192-4719-bb77-756fc45fe88d
+    name: سويط
+    sex: male
+    kunya: جد السويط
+    fatherId: ca57de7e-d22c-47fe-a056-c4a1d006c29b
+  - id: c030461b-3d6a-4c57-8102-4cd5a752e9af
+    name: عمور
+    sex: male
+    kunya: جد العمور
+    fatherId: ca57de7e-d22c-47fe-a056-c4a1d006c29b

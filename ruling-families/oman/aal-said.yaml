@@ -1,0 +1,77 @@
+family:
+  type: aal
+  name: آل سعيد
+  visibility: public
+  pinned: true
+  suffixMale: آل سعيد
+  suffixFemale: آل سعيد
+  hometown: مسقط
+  description: |-
+    آل سعيد (آل بوسعيد) الأسرة الحاكمة في سلطنة عمان منذ عام ١٧٤٤م.
+    أسس الدولة الإمام أحمد بن سعيد الذي طرد الفرس من عمان، وامتد نفوذهم إلى شرق أفريقيا وزنجبار.
+persons:
+  - id: f8fed1d7-b2d5-4ce3-8e51-706d19baee26
+    name: أحمد
+    sex: male
+    nickname: الإمام
+    kunya: بن سعيد المؤسس
+  - id: 8b0dae56-5586-46a7-80b9-7d2fbe9d70f1
+    name: سعيد
+    sex: male
+    nickname: الإمام
+    kunya: بن أحمد
+    fatherId: f8fed1d7-b2d5-4ce3-8e51-706d19baee26
+  - id: 273d43a7-520d-43b4-bc36-0b1fe3be25bf
+    name: سلطان
+    sex: male
+    nickname: السيد
+    kunya: بن أحمد
+    fatherId: f8fed1d7-b2d5-4ce3-8e51-706d19baee26
+  - id: 41cfb0e6-47f7-403c-8fc2-551b780942c5
+    name: سعيد
+    sex: male
+    nickname: السلطان
+    kunya: بن سلطان
+    fatherId: 273d43a7-520d-43b4-bc36-0b1fe3be25bf
+  - id: 6473146a-18c5-4ef9-a756-85ba58576f54
+    name: تركي
+    sex: male
+    nickname: السلطان
+    kunya: بن سعيد
+    fatherId: 41cfb0e6-47f7-403c-8fc2-551b780942c5
+  - id: 3cecb541-5a05-4d49-b514-544bb5d016e3
+    name: فيصل
+    sex: male
+    nickname: السلطان
+    kunya: بن تركي
+    fatherId: 6473146a-18c5-4ef9-a756-85ba58576f54
+  - id: 7bcc4e10-0506-44a1-b502-b60ecfb135ed
+    name: تيمور
+    sex: male
+    nickname: السلطان
+    kunya: بن فيصل
+    fatherId: 3cecb541-5a05-4d49-b514-544bb5d016e3
+  - id: 6a5da973-86eb-471c-b6e4-dbb9792eda3c
+    name: سعيد
+    sex: male
+    nickname: السلطان
+    kunya: بن تيمور
+    fatherId: 7bcc4e10-0506-44a1-b502-b60ecfb135ed
+  - id: 8a17eb47-5618-402d-b067-703aba98a7cb
+    name: قابوس
+    sex: male
+    nickname: السلطان
+    kunya: بن سعيد
+    fatherId: 6a5da973-86eb-471c-b6e4-dbb9792eda3c
+  - id: 558f5fc5-7903-4eb7-a6ab-aba39800dec1
+    name: طارق
+    sex: male
+    nickname: السيد
+    kunya: بن تيمور
+    fatherId: 7bcc4e10-0506-44a1-b502-b60ecfb135ed
+  - id: 4da2ada5-e19f-4054-b0cb-d46d4f90f4de
+    name: هيثم
+    sex: male
+    nickname: السلطان
+    kunya: بن طارق
+    fatherId: 558f5fc5-7903-4eb7-a6ab-aba39800dec1

@@ -1,0 +1,61 @@
+family:
+  type: aal
+  name: آل الشيخ
+  visibility: public
+  pinned: true
+  suffixMale: آل الشيخ
+  suffixFemale: آل الشيخ
+  hometown: الدرعية
+  description: |-
+    آل الشيخ أسرة سعودية بارزة، ذرية الشيخ محمد بن عبد الوهاب مجدد الدعوة السلفية ومؤسس التحالف مع آل سعود.
+    تولى أبناؤه وأحفاده مناصب دينية وحكومية رفيعة في الدولة السعودية عبر تاريخها.
+persons:
+  - id: 790b10de-10bb-4118-a2e0-dd180370d086
+    name: سليمان
+    sex: male
+    kunya: بن علي بن مشرف
+  - id: 5eb337dd-678b-49ab-92ce-81df41bea68d
+    name: عبد الوهاب
+    sex: male
+    fatherId: 790b10de-10bb-4118-a2e0-dd180370d086
+  - id: cd94a15e-e4bb-4281-860e-3ff0d51f75d3
+    name: محمد
+    sex: male
+    nickname: الشيخ
+    kunya: بن عبد الوهاب
+    fatherId: 5eb337dd-678b-49ab-92ce-81df41bea68d
+  - id: 59031088-e74a-44f9-b6a5-6bceec94b30f
+    name: حسين
+    sex: male
+    fatherId: cd94a15e-e4bb-4281-860e-3ff0d51f75d3
+  - id: 2db9540f-de09-415c-a8c9-d0557d81cc1b
+    name: عبد الله
+    sex: male
+    fatherId: cd94a15e-e4bb-4281-860e-3ff0d51f75d3
+  - id: 4d98f3d4-7b66-4de0-96c9-5d42f6f05a01
+    name: علي
+    sex: male
+    fatherId: cd94a15e-e4bb-4281-860e-3ff0d51f75d3
+  - id: 62e18884-65a9-409b-a3f3-fce868bca575
+    name: إبراهيم
+    sex: male
+    fatherId: cd94a15e-e4bb-4281-860e-3ff0d51f75d3
+  - id: f9102971-5512-4ede-8afb-edab51b0037d
+    name: عبد اللطيف
+    sex: male
+    fatherId: 59031088-e74a-44f9-b6a5-6bceec94b30f
+  - id: d921e394-11d1-438f-a930-43a721c7afac
+    name: عبد الرحمن
+    sex: male
+    kunya: بن حسن
+    fatherId: f9102971-5512-4ede-8afb-edab51b0037d
+  - id: 363f6766-ba05-4e90-8d18-832b3b4511b1
+    name: محمد
+    sex: male
+    kunya: بن إبراهيم
+    fatherId: 62e18884-65a9-409b-a3f3-fce868bca575
+  - id: ef817d6a-44c0-4cfa-a21a-2aaa2cd2051b
+    name: عبد العزيز
+    sex: male
+    kunya: بن عبد الله بن محمد
+    fatherId: 2db9540f-de09-415c-a8c9-d0557d81cc1b

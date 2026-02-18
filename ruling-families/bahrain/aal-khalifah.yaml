@@ -1,0 +1,85 @@
+family:
+  type: aal
+  name: آل خليفة
+  visibility: public
+  pinned: true
+  suffixMale: آل خليفة
+  suffixFemale: آل خليفة
+  hometown: المنامة
+  description: |-
+    آل خليفة الأسرة الحاكمة في مملكة البحرين منذ عام ١٧٨٣م، ينتسبون إلى قبيلة عنزة (العتوب).
+    أسس حكمهم في البحرين أحمد بن محمد آل خليفة الملقب بالفاتح.
+persons:
+  - id: e8b49ffc-dc8b-4fdf-8fff-b53455f3832f
+    name: خليفة
+    sex: male
+    kunya: بن محمد الجد الأعلى
+  - id: fd31ca85-0ace-4b05-995a-485f3435bcc6
+    name: محمد
+    sex: male
+    fatherId: e8b49ffc-dc8b-4fdf-8fff-b53455f3832f
+  - id: 22e7d79b-b159-41a5-922a-98a68cfdb800
+    name: أحمد
+    sex: male
+    nickname: الشيخ
+    kunya: الفاتح
+    fatherId: fd31ca85-0ace-4b05-995a-485f3435bcc6
+  - id: a4ccbf61-16ce-477d-a9cd-84115185b129
+    name: سلمان
+    sex: male
+    nickname: الشيخ
+    fatherId: 22e7d79b-b159-41a5-922a-98a68cfdb800
+  - id: 555a133c-a464-4263-85fd-295491ef2e43
+    name: خليفة
+    sex: male
+    nickname: الشيخ
+    kunya: بن سلمان
+    fatherId: a4ccbf61-16ce-477d-a9cd-84115185b129
+  - id: b078a59b-0e29-45d8-8d75-b38623240f67
+    name: محمد
+    sex: male
+    nickname: الشيخ
+    kunya: بن خليفة
+    fatherId: 555a133c-a464-4263-85fd-295491ef2e43
+  - id: e6a9eaf3-d064-4e49-acee-39991db0a0fe
+    name: علي
+    sex: male
+    nickname: الشيخ
+    kunya: بن خليفة
+    fatherId: 555a133c-a464-4263-85fd-295491ef2e43
+  - id: 30ccbaf3-2627-4331-9309-9c07bf5c1a9b
+    name: عيسى
+    sex: male
+    nickname: الشيخ
+    kunya: بن علي
+    fatherId: e6a9eaf3-d064-4e49-acee-39991db0a0fe
+  - id: 63824f97-eb72-437a-904d-d16f53e9c252
+    name: حمد
+    sex: male
+    nickname: الشيخ
+    kunya: بن عيسى
+    fatherId: 30ccbaf3-2627-4331-9309-9c07bf5c1a9b
+  - id: 356924c2-03ee-4864-af33-05ca7b776cc3
+    name: سلمان
+    sex: male
+    nickname: الشيخ
+    kunya: بن حمد
+    fatherId: 63824f97-eb72-437a-904d-d16f53e9c252
+  - id: 3d8a42ac-e119-437b-b881-49722ab19360
+    name: عيسى
+    sex: male
+    nickname: الشيخ
+    kunya: بن سلمان
+    fatherId: 356924c2-03ee-4864-af33-05ca7b776cc3
+  - id: 018c910f-93c7-4b06-8a30-a7ed71843079
+    name: حمد
+    sex: male
+    nickname: الملك
+    kunya: بن عيسى
+    fatherId: 3d8a42ac-e119-437b-b881-49722ab19360
+  - id: 0e0420b4-eac5-4fa7-b61b-f0bf1fb005f6
+    name: حمد
+    sex: male
+    nickname: الملك
+    kunya: بن عيسى بن سلمان
+    fatherId: 3d8a42ac-e119-437b-b881-49722ab19360

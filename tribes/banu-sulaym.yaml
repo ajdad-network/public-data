@@ -1,0 +1,54 @@
+family:
+  type: qabila
+  name: بنو سليم
+  visibility: public
+  pinned: true
+  suffixMale: السلمي
+  suffixFemale: السلمية
+  hometown: الحجاز
+  description: |-
+    بنو سليم قبيلة عربية كبيرة من قيس عيلان بن مضر، سكنت الحجاز بين مكة والمدينة.
+    من أكبر القبائل التي هاجرت إلى شمال أفريقيا مع بني هلال. منها الصحابي العباس بن مرداس.
+persons:
+  - id: 49384717-85bd-4ecf-8a10-fe1bc0b3c651
+    name: مضر
+    sex: male
+    kunya: بن نزار بن معد
+  - id: 0f0e89cf-b4fb-4f21-a35c-f9f816e093f4
+    name: قيس عيلان
+    sex: male
+    fatherId: 49384717-85bd-4ecf-8a10-fe1bc0b3c651
+  - id: 2169cc4b-7819-40b8-8387-ab4130106496
+    name: منصور
+    sex: male
+    fatherId: 0f0e89cf-b4fb-4f21-a35c-f9f816e093f4
+  - id: 3104641e-7571-48e6-8e05-10075f0b89e3
+    name: سليم
+    sex: male
+    fatherId: 2169cc4b-7819-40b8-8387-ab4130106496
+  # ── الفروع الرئيسية ──
+  - id: a72d5488-11e5-44a7-bf35-a67fd330fe17
+    name: بهثة
+    sex: male
+    kunya: جد بنو بهثة
+    fatherId: 3104641e-7571-48e6-8e05-10075f0b89e3
+  - id: 8d3ba3af-b71b-4808-a473-1d097efeb839
+    name: ذكوان
+    sex: male
+    kunya: جد بنو ذكوان
+    fatherId: 3104641e-7571-48e6-8e05-10075f0b89e3
+  # ── العباس بن مرداس ──
+  - id: 5b8d09c4-526e-491d-b82c-6ea0c218557d
+    name: حارثة
+    sex: male
+    fatherId: a72d5488-11e5-44a7-bf35-a67fd330fe17
+  - id: 47e92cc8-d6c9-4a6b-ad2a-f74eaf8df136
+    name: مرداس
+    sex: male
+    fatherId: 5b8d09c4-526e-491d-b82c-6ea0c218557d
+  - id: 590a33ac-78cd-427c-bb7b-3da0fbc891b5
+    name: العباس
+    sex: male
+    nickname: الصحابي
+    kunya: بن مرداس السلمي
+    fatherId: 47e92cc8-d6c9-4a6b-ad2a-f74eaf8df136

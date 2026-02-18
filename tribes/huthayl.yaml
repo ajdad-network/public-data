@@ -1,0 +1,71 @@
+family:
+  type: qabila
+  name: هذيل
+  visibility: public
+  pinned: true
+  suffixMale: الهذلي
+  suffixFemale: الهذلية
+  hometown: الحجاز
+  description: |-
+    هذيل قبيلة عربية عريقة من مضر، تنتسب إلى هذيل بن مدركة بن إلياس بن مضر.
+    سكنت بين مكة والطائف، اشتهرت بالشعر والفصاحة. منها الصحابي عبد الله بن مسعود.
+persons:
+  - id: e171c3ef-536e-40d7-bccb-42654c9a71f8
+    name: مضر
+    sex: male
+    kunya: بن نزار بن معد
+  - id: 08661a47-a165-4770-9a1f-aa5b91ea0777
+    name: إلياس
+    sex: male
+    fatherId: e171c3ef-536e-40d7-bccb-42654c9a71f8
+  - id: 1480a45a-5e4f-4760-901c-4330ea477dfd
+    name: مدركة
+    sex: male
+    fatherId: 08661a47-a165-4770-9a1f-aa5b91ea0777
+  - id: 2ceafd3e-c693-41a8-be2e-4a455612ac0f
+    name: هذيل
+    sex: male
+    fatherId: 1480a45a-5e4f-4760-901c-4330ea477dfd
+  # ── سلسلة نسب عبد الله بن مسعود ──
+  - id: c23bcc00-7d32-4cbd-85b8-b477d09616d6
+    name: لحيان
+    sex: male
+    fatherId: 2ceafd3e-c693-41a8-be2e-4a455612ac0f
+  - id: 4b7ff5eb-f742-4b7a-ac82-38a0b6d33941
+    name: سعد
+    sex: male
+    fatherId: c23bcc00-7d32-4cbd-85b8-b477d09616d6
+  - id: b390f11e-d721-40fd-bf6a-4e2c9a90c6c7
+    name: صاهلة
+    sex: male
+    fatherId: 4b7ff5eb-f742-4b7a-ac82-38a0b6d33941
+  - id: 8e383ee8-6b71-406d-9a93-a10445ffd0e3
+    name: كاهل
+    sex: male
+    fatherId: b390f11e-d721-40fd-bf6a-4e2c9a90c6c7
+  - id: bb3d30e9-4cd9-49a6-b91b-e55ad6e1ca6d
+    name: حبيب
+    sex: male
+    fatherId: 8e383ee8-6b71-406d-9a93-a10445ffd0e3
+  - id: 24baaf5e-db92-4a77-b696-11648ec02502
+    name: شمخ
+    sex: male
+    fatherId: bb3d30e9-4cd9-49a6-b91b-e55ad6e1ca6d
+  - id: 4157032d-1b9d-4524-8581-7c1362eb3377
+    name: مخزوم
+    sex: male
+    fatherId: 24baaf5e-db92-4a77-b696-11648ec02502
+  - id: 61a6e5f0-71c2-457c-aa46-fc99776e2109
+    name: غافل
+    sex: male
+    fatherId: 4157032d-1b9d-4524-8581-7c1362eb3377
+  - id: 72165403-7efd-4000-ab0a-d6dd48a7240e
+    name: مسعود
+    sex: male
+    fatherId: 61a6e5f0-71c2-457c-aa46-fc99776e2109
+  - id: 3dd1b0d6-edd3-41ea-b8b3-73b6ba451275
+    name: عبد الله
+    sex: male
+    nickname: الصحابي
+    kunya: بن مسعود الهذلي
+    fatherId: 72165403-7efd-4000-ab0a-d6dd48a7240e

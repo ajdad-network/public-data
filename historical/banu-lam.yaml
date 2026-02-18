@@ -1,0 +1,49 @@
+family:
+  type: qabila
+  name: بنو لام
+  visibility: public
+  pinned: true
+  suffixMale: اللامي
+  suffixFemale: اللامية
+  hometown: نجد
+  description: |-
+    بنو لام بطن كبير من طيء، تفرعت منهم قبائل عديدة أبرزها الظفير وآل كثير وآل مغيرة.
+    انتشروا في نجد والعراق والشام، وكان لهم دور كبير في تاريخ الجزيرة العربية.
+persons:
+  - id: d435d63b-b00f-49fa-ae8c-2c67b83b8029
+    name: طيء
+    sex: male
+    kunya: بن أدد بن زيد
+  - id: 17d7787b-3223-4531-ae0c-4ea5d4d81f4b
+    name: فطرة
+    sex: male
+    fatherId: d435d63b-b00f-49fa-ae8c-2c67b83b8029
+  - id: 2cfe9d42-4d2b-4b75-82f3-6edb842e002f
+    name: ثعلبة
+    sex: male
+    fatherId: 17d7787b-3223-4531-ae0c-4ea5d4d81f4b
+  - id: af354a1b-bee9-4e62-9908-41b4012bb37b
+    name: لام
+    sex: male
+    fatherId: 2cfe9d42-4d2b-4b75-82f3-6edb842e002f
+  # ── الفروع الرئيسية ──
+  - id: 0f221dcb-fde6-454a-b42c-a08224b0f840
+    name: كثير
+    sex: male
+    kunya: جد آل كثير
+    fatherId: af354a1b-bee9-4e62-9908-41b4012bb37b
+  - id: 654c275d-cec9-454a-bca1-425cb8f96a4e
+    name: مغيرة
+    sex: male
+    kunya: جد آل مغيرة
+    fatherId: af354a1b-bee9-4e62-9908-41b4012bb37b
+  - id: 68db420c-37db-474f-8bbe-a41cd0786e20
+    name: ظفير
+    sex: male
+    kunya: جد الظفير
+    fatherId: af354a1b-bee9-4e62-9908-41b4012bb37b
+  - id: 04992566-2d72-4759-a2e4-590948b7e548
+    name: فضل
+    sex: male
+    kunya: جد آل فضل
+    fatherId: af354a1b-bee9-4e62-9908-41b4012bb37b

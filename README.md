@@ -22,6 +22,11 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [ruling-families/uae/aal-maktoum.yaml](ruling-families/uae/aal-maktoum.yaml) | آل مكتوم | آل | الإمارات |
 | [ruling-families/iraq/hashemite.yaml](ruling-families/iraq/hashemite.yaml) | الهاشميون | عائلة | العراق |
 | [ruling-families/jordan/hashemite.yaml](ruling-families/jordan/hashemite.yaml) | الهاشميون | عائلة | الأردن |
+| [ruling-families/kuwait/aal-sabah.yaml](ruling-families/kuwait/aal-sabah.yaml) | آل صباح | آل | الكويت |
+| [ruling-families/bahrain/aal-khalifah.yaml](ruling-families/bahrain/aal-khalifah.yaml) | آل خليفة | آل | البحرين |
+| [ruling-families/oman/aal-said.yaml](ruling-families/oman/aal-said.yaml) | آل سعيد | آل | عمان |
+| [ruling-families/morocco/alaouite.yaml](ruling-families/morocco/alaouite.yaml) | العلويون | آل | المغرب |
+| [ruling-families/saudi-arabia/aal-alshaikh.yaml](ruling-families/saudi-arabia/aal-alshaikh.yaml) | آل الشيخ | آل | السعودية |
 
 ## Tribes
 
@@ -43,6 +48,11 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [tribes/zahran.yaml](tribes/zahran.yaml) | زهران | الباحة |
 | [tribes/ghamid.yaml](tribes/ghamid.yaml) | غامد | الباحة |
 | [tribes/shahran.yaml](tribes/shahran.yaml) | شهران | عسير |
+| [tribes/banu-sulaym.yaml](tribes/banu-sulaym.yaml) | بنو سليم | الحجاز |
+| [tribes/huthayl.yaml](tribes/huthayl.yaml) | هذيل | الحجاز |
+| [tribes/yam.yaml](tribes/yam.yaml) | يام | نجران |
+| [tribes/dhafir.yaml](tribes/dhafir.yaml) | الظفير | نجد |
+| [tribes/awazim.yaml](tribes/awazim.yaml) | العوازم | الكويت |
 
 ## Historical
 
@@ -59,6 +69,9 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [historical/kindah.yaml](historical/kindah.yaml) | كندة | مملكة كندة وامرؤ القيس |
 | [historical/manadhirah.yaml](historical/manadhirah.yaml) | المناذرة | مملكة الحيرة (بنو لخم) |
 | [historical/ghassanids.yaml](historical/ghassanids.yaml) | الغساسنة | مملكة الغساسنة في الشام |
+| [historical/thaqif.yaml](historical/thaqif.yaml) | ثقيف | قبيلة الطائف والحجاج بن يوسف |
+| [historical/banu-lam.yaml](historical/banu-lam.yaml) | بنو لام | من طيء |
+| [historical/adarisah.yaml](historical/adarisah.yaml) | الأدارسة | إمارة عسير الإدريسية |
 
 ## YAML Format
 

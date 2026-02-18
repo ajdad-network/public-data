@@ -1,0 +1,70 @@
+family:
+  type: qabila
+  name: ثقيف
+  visibility: public
+  pinned: true
+  suffixMale: الثقفي
+  suffixFemale: الثقفية
+  hometown: الطائف
+  description: |-
+    ثقيف قبيلة عربية كبيرة سكنت الطائف، تنتسب إلى قسي بن منبه بن بكر بن هوازن.
+    منها الحجاج بن يوسف الثقفي والي العراق الأموي الشهير، والمختار بن أبي عبيد الثقفي.
+persons:
+  - id: 82d3d648-7c24-49f0-a876-26141ebe699d
+    name: هوازن
+    sex: male
+    kunya: بن منصور بن عكرمة
+  - id: 842ad3cc-ff02-4489-af21-decaa06ee6e0
+    name: بكر
+    sex: male
+    fatherId: 82d3d648-7c24-49f0-a876-26141ebe699d
+  - id: 1a9416a9-bf2a-4b7c-a0bd-d324e836e882
+    name: منبه
+    sex: male
+    fatherId: 842ad3cc-ff02-4489-af21-decaa06ee6e0
+  - id: 91bc3b27-fad3-45e0-b662-03070769c6d0
+    name: قسي
+    sex: male
+    kunya: ثقيف
+    fatherId: 1a9416a9-bf2a-4b7c-a0bd-d324e836e882
+  # ── سلسلة نسب الحجاج بن يوسف ──
+  - id: 454e6c27-322f-41d3-8b24-3f92136c1e41
+    name: عوف
+    sex: male
+    fatherId: 91bc3b27-fad3-45e0-b662-03070769c6d0
+  - id: ac61700a-4ab4-42ea-ad11-d1ff4c869352
+    name: عقدة
+    sex: male
+    fatherId: 454e6c27-322f-41d3-8b24-3f92136c1e41
+  - id: f4ad049b-d105-40f7-aa16-380665b7eae2
+    name: عياض
+    sex: male
+    fatherId: ac61700a-4ab4-42ea-ad11-d1ff4c869352
+  - id: 0722b3a5-ed80-4bf1-b628-889beba7ed61
+    name: الحكم
+    sex: male
+    fatherId: f4ad049b-d105-40f7-aa16-380665b7eae2
+  - id: 85c4d4f9-1ecd-456e-abc5-f923c69a7718
+    name: أبو عقيل
+    sex: male
+    fatherId: 0722b3a5-ed80-4bf1-b628-889beba7ed61
+  - id: 51d6b56e-ff5f-4b21-a2ec-ec3497b28616
+    name: يوسف
+    sex: male
+    fatherId: 85c4d4f9-1ecd-456e-abc5-f923c69a7718
+  - id: 2a5cefe1-78d1-47d3-9251-05ac2119314f
+    name: الحجاج
+    sex: male
+    kunya: بن يوسف الثقفي
+    fatherId: 51d6b56e-ff5f-4b21-a2ec-ec3497b28616
+  # ── المختار الثقفي ──
+  - id: 6e1feacd-1ce1-44df-bd03-f101a836055f
+    name: أبو عبيد
+    sex: male
+    kunya: بن مسعود الثقفي
+    fatherId: 91bc3b27-fad3-45e0-b662-03070769c6d0
+  - id: 9ce2e630-ab57-4dd8-9b14-a5bfa6e8c29c
+    name: المختار
+    sex: male
+    kunya: بن أبي عبيد الثقفي
+    fatherId: 6e1feacd-1ce1-44df-bd03-f101a836055f
