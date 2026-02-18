@@ -1,0 +1,45 @@
+family:
+  type: qabila
+  name: قضاعة
+  visibility: public
+  pinned: true
+  suffixMale: القضاعي
+  suffixFemale: القضاعية
+  hometown: اليمن
+  description: |-
+    قضاعة فرع قبلي كبير اختُلف في نسبه بين عدنان وقحطان.
+    منها بلي وجهينة وكلب والمهرة وبنو نهد. انتشرت فروعها في الشام والحجاز وشرق الجزيرة.
+persons:
+  - id: fded8194-e1f5-4dfa-b0d0-3abc3ebc7917
+    name: معد
+    sex: male
+    kunya: بن عدنان
+  - id: 1e509405-5498-4950-bffa-9643733eb1db
+    name: قضاعة
+    sex: male
+    kunya: جد القبائل القضاعية
+    fatherId: fded8194-e1f5-4dfa-b0d0-3abc3ebc7917
+  - id: ff5bcc6a-f4d5-409f-a0be-664adad37706
+    name: الحاف
+    sex: male
+    kunya: جد المهرة وبلي
+    fatherId: 1e509405-5498-4950-bffa-9643733eb1db
+  - id: fe6ca20e-2e4e-4390-9160-8d166a97ade3
+    name: عمرو
+    sex: male
+    kunya: جد جهينة
+    fatherId: 1e509405-5498-4950-bffa-9643733eb1db
+  - id: e8a6dd91-5c33-483e-aef1-6734a5ab4c0a
+    name: وبرة
+    sex: male
+    fatherId: 1e509405-5498-4950-bffa-9643733eb1db
+  - id: de2243b4-784f-4808-9913-a0962cb6d699
+    name: كلب
+    sex: male
+    kunya: جد بنو كلب
+    fatherId: e8a6dd91-5c33-483e-aef1-6734a5ab4c0a
+  - id: 3c305826-62c0-4fa6-82b2-a95701fe07f4
+    name: نهد
+    sex: male
+    kunya: جد بنو نهد (بنو زيد)
+    fatherId: 1e509405-5498-4950-bffa-9643733eb1db

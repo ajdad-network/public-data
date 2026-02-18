@@ -1,0 +1,49 @@
+family:
+  type: qabila
+  name: جذام
+  visibility: public
+  pinned: true
+  suffixMale: الجذامي
+  suffixFemale: الجذامية
+  hometown: الشام
+  description: |-
+    جذام قبيلة يمنية كبيرة من كهلان. انتشرت في فلسطين والأردن ومصر وكان لها دور في الفتوحات.
+    منها بنو هود ملوك سرقسطة وفروق بن نفاثة. سكنت شرق الأردن وسيناء وصعيد مصر.
+persons:
+  - id: 590a2287-fc40-44c2-8989-dc67164996b5
+    name: كهلان
+    sex: male
+    kunya: بن سبأ
+  - id: a5053023-fc7b-443e-9550-7f1fc208270f
+    name: عدي
+    sex: male
+    fatherId: 590a2287-fc40-44c2-8989-dc67164996b5
+  - id: b665ea60-51da-4678-b594-17876931da12
+    name: الحارث
+    sex: male
+    fatherId: a5053023-fc7b-443e-9550-7f1fc208270f
+  - id: aab922be-50c3-4d65-9fdc-30ad34f4f47c
+    name: جذام
+    sex: male
+    kunya: (عمرو) جد القبيلة
+    fatherId: b665ea60-51da-4678-b594-17876931da12
+  - id: e3884d90-4ffa-4532-ad55-a9542ac5ea7d
+    name: حرام
+    sex: male
+    kunya: جد بنو حرام
+    fatherId: aab922be-50c3-4d65-9fdc-30ad34f4f47c
+  - id: 240dd55e-af9d-4d7b-bdf4-3cbbd9275d64
+    name: غطفان
+    sex: male
+    kunya: جد غطفان جذام
+    fatherId: aab922be-50c3-4d65-9fdc-30ad34f4f47c
+  - id: dc4d3f48-058e-4d99-b535-7fc2d79d2d54
+    name: هود
+    sex: male
+    kunya: جد بنو هود (ملوك سرقسطة)
+    fatherId: aab922be-50c3-4d65-9fdc-30ad34f4f47c
+  - id: 8e39bb0e-166c-4ba4-98dc-cc90ff4a9f66
+    name: نفاثة
+    sex: male
+    kunya: جد بنو نفاثة
+    fatherId: aab922be-50c3-4d65-9fdc-30ad34f4f47c

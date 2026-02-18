@@ -1,0 +1,44 @@
+family:
+  type: qabila
+  name: لخم
+  visibility: public
+  pinned: true
+  suffixMale: اللخمي
+  suffixFemale: اللخمية
+  hometown: الحيرة
+  description: |-
+    لخم قبيلة يمنية كبيرة تنتسب إلى لخم بن عدي بن الحارث بن مرّة بن كهلان.
+    منها المناذرة ملوك الحيرة وبنو عباد ملوك إشبيلية. انتشرت في العراق والشام ومصر والأندلس.
+persons:
+  - id: 2deeabaa-e11b-44ef-8d63-f1d3616482f0
+    name: كهلان
+    sex: male
+    kunya: بن سبأ
+  - id: 3dfa1547-7f78-46f8-9fcd-e28518d025f1
+    name: مرّة
+    sex: male
+    fatherId: 2deeabaa-e11b-44ef-8d63-f1d3616482f0
+  - id: 8c4cf002-ea71-4f83-bba9-b41b04ec8410
+    name: عدي
+    sex: male
+    fatherId: 3dfa1547-7f78-46f8-9fcd-e28518d025f1
+  - id: 17aded76-f0f5-4866-b0da-de9c093b7c0c
+    name: لخم
+    sex: male
+    kunya: جد القبيلة
+    fatherId: 8c4cf002-ea71-4f83-bba9-b41b04ec8410
+  - id: e910216f-0bbf-4752-96b3-ebf4e3a25e8d
+    name: نصر
+    sex: male
+    kunya: جد المناذرة (ملوك الحيرة)
+    fatherId: 17aded76-f0f5-4866-b0da-de9c093b7c0c
+  - id: 0cb2e617-abb2-4474-98e7-e4bd44328ff8
+    name: جذيمة
+    sex: male
+    kunya: جد بنو جذيمة
+    fatherId: 17aded76-f0f5-4866-b0da-de9c093b7c0c
+  - id: 470e33c9-2b9e-4dc4-b759-b69ca6ad4324
+    name: راشدة
+    sex: male
+    kunya: جد بنو راشدة
+    fatherId: 17aded76-f0f5-4866-b0da-de9c093b7c0c

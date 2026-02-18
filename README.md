@@ -168,6 +168,11 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [historical/khuzaah.yaml](historical/khuzaah.yaml) | خزاعة | سدنة مكة قبل قريش |
 | [historical/abd-al-qays.yaml](historical/abd-al-qays.yaml) | بنو عبد القيس | قبيلة البحرين القديمة |
 | [historical/daws.yaml](historical/daws.yaml) | دوس | قبيلة أبي هريرة |
+| [historical/qudaah.yaml](historical/qudaah.yaml) | قضاعة | أصل بلي وجهينة وكلب والمهرة |
+| [historical/lakhm.yaml](historical/lakhm.yaml) | لخم | القبيلة الأم للمناذرة وبنو عباد |
+| [historical/judham.yaml](historical/judham.yaml) | جذام | قبيلة الشام ومصر الكبرى |
+| [historical/banu-kalb.yaml](historical/banu-kalb.yaml) | بنو كلب | قبيلة الشام من قضاعة |
+| [historical/banu-shayban.yaml](historical/banu-shayban.yaml) | بنو شيبان | أبطال ذي قار والإمام أحمد بن حنبل |
 
 ## YAML Format
 

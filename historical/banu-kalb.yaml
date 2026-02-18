@@ -1,0 +1,48 @@
+family:
+  type: qabila
+  name: بنو كلب
+  visibility: public
+  pinned: true
+  suffixMale: الكلبي
+  suffixFemale: الكلبية
+  hometown: دومة الجندل
+  description: |-
+    بنو كلب قبيلة عربية كبيرة من قضاعة. سكنت بادية الشام ودومة الجندل.
+    كان لهم نفوذ كبير في العصر الأموي من خلال مصاهرة معاوية بن أبي سفيان. منهم الشرارات.
+persons:
+  - id: 49349bb1-0f4e-4d0a-bce5-ece394c6d5fe
+    name: وبرة
+    sex: male
+    kunya: بن تغلب بن قضاعة
+  - id: 5fba67b1-9a6c-4922-b1d2-cfba07f4fa85
+    name: كلب
+    sex: male
+    kunya: جد القبيلة
+    fatherId: 49349bb1-0f4e-4d0a-bce5-ece394c6d5fe
+  - id: e4df4628-a50e-47a3-949a-27c747ab77ac
+    name: عليم
+    sex: male
+    fatherId: 5fba67b1-9a6c-4922-b1d2-cfba07f4fa85
+  - id: 3f0e8ada-4df3-4eab-ad84-b94e36ef9f97
+    name: عوف
+    sex: male
+    fatherId: 5fba67b1-9a6c-4922-b1d2-cfba07f4fa85
+  - id: 6e81c0e7-fdb6-4172-9c1f-8b8f40d4475a
+    name: زهير
+    sex: male
+    kunya: جد بنو زهير
+    fatherId: e4df4628-a50e-47a3-949a-27c747ab77ac
+  - id: c524896f-d0c7-4519-b638-0e3f849ad9c6
+    name: عبد ودّ
+    sex: male
+    fatherId: e4df4628-a50e-47a3-949a-27c747ab77ac
+  - id: cdb81f64-d3a8-487d-9d72-6a783f3ddf4c
+    name: حارثة
+    sex: male
+    kunya: جد بنو حارثة
+    fatherId: 3f0e8ada-4df3-4eab-ad84-b94e36ef9f97
+  - id: 0245fa76-d9c0-489c-90c3-5ebe19e0713f
+    name: عُذرة
+    sex: male
+    kunya: جد بنو عذرة (قبيلة الحب العذري)
+    fatherId: 3f0e8ada-4df3-4eab-ad84-b94e36ef9f97

@@ -1,0 +1,75 @@
+family:
+  type: qabila
+  name: بنو شيبان
+  visibility: public
+  pinned: true
+  suffixMale: الشيباني
+  suffixFemale: الشيبانية
+  hometown: الكوفة
+  description: |-
+    بنو شيبان بطن من بكر بن وائل من ربيعة. اشتهروا بمعركة ذي قار (٦٠٩م) حين هزموا الفرس.
+    منهم المثنى بن حارثة قائد الفتوحات والإمام أحمد بن حنبل.
+persons:
+  - id: 0a642f4f-9507-4e54-a1b8-8a1043837604
+    name: وائل
+    sex: male
+    kunya: بن قاسط بن ربيعة
+  - id: 941af05e-4e2d-470c-9e70-0926474a1fa9
+    name: بكر
+    sex: male
+    kunya: جد بكر بن وائل
+    fatherId: 0a642f4f-9507-4e54-a1b8-8a1043837604
+  - id: c49f8f86-9bf1-4518-b937-8d0b6d56dd0e
+    name: علي
+    sex: male
+    fatherId: 941af05e-4e2d-470c-9e70-0926474a1fa9
+  - id: a93aa99f-0de7-454a-9c72-65c09072a289
+    name: ثعلبة
+    sex: male
+    fatherId: c49f8f86-9bf1-4518-b937-8d0b6d56dd0e
+  - id: 78c1fbe5-8f10-4075-a9c8-9b219fcb4a30
+    name: شيبان
+    sex: male
+    kunya: جد القبيلة
+    fatherId: a93aa99f-0de7-454a-9c72-65c09072a289
+  - id: cdbce87c-0984-4cca-a1e4-f2224f0b3afc
+    name: ذهل
+    sex: male
+    fatherId: 78c1fbe5-8f10-4075-a9c8-9b219fcb4a30
+  - id: 7ac1221f-104f-4609-88ab-003532b23b84
+    name: همام
+    sex: male
+    fatherId: cdbce87c-0984-4cca-a1e4-f2224f0b3afc
+  - id: a46593f2-bb17-43bb-884e-0e9d662b4235
+    name: حارثة
+    sex: male
+    fatherId: 7ac1221f-104f-4609-88ab-003532b23b84
+  - id: 6e1b5976-0567-460b-8478-f297367afadc
+    name: المثنى
+    sex: male
+    nickname: القائد
+    kunya: بن حارثة بطل ذي قار
+    fatherId: a46593f2-bb17-43bb-884e-0e9d662b4235
+  # ── فرع الإمام أحمد ──
+  - id: da029ae7-0161-4323-a5e2-821ef3fb9f74
+    name: هلال
+    sex: male
+    fatherId: 78c1fbe5-8f10-4075-a9c8-9b219fcb4a30
+  - id: cf5d4419-82b4-44ba-8e38-82341d44f817
+    name: أسد
+    sex: male
+    fatherId: da029ae7-0161-4323-a5e2-821ef3fb9f74
+  - id: 786c7cb6-5ca3-47ad-b2e2-25531dd81d12
+    name: حنبل
+    sex: male
+    fatherId: cf5d4419-82b4-44ba-8e38-82341d44f817
+  - id: 266ffd47-edcd-4eb6-9685-fc5ea80635b8
+    name: محمد
+    sex: male
+    fatherId: 786c7cb6-5ca3-47ad-b2e2-25531dd81d12
+  - id: 9f250118-bf35-4d79-81ba-5c93ea8ae93d
+    name: أحمد
+    sex: male
+    nickname: الإمام
+    kunya: بن حنبل
+    fatherId: 266ffd47-edcd-4eb6-9685-fc5ea80635b8
