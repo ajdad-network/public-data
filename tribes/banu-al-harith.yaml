@@ -34,3 +34,25 @@ persons:
     sex: male
     kunya: جد بنو زياد
     fatherId: 8e45433a-6f3e-4554-85ff-6b801cfc0294
+  - id: 525be7be-0a06-4a9c-88a4-ae4a62875d69
+    name: ربيعة
+    sex: male
+    kunya: جد بنو ربيعة
+    fatherId: 8e45433a-6f3e-4554-85ff-6b801cfc0294
+  # ── بنو عبد المدان ──
+  - id: 4803ea7e-c7f1-4d69-9f44-69e7adc79f28
+    name: وائل
+    sex: male
+    kunya: بن عبد المدان
+    fatherId: 411d810c-1381-45a1-aa7d-1d9a6aff8f03
+  - id: a191828f-b19b-4203-b077-f801cbe9d42b
+    name: قيس
+    sex: male
+    kunya: ملك نجران
+    fatherId: 4803ea7e-c7f1-4d69-9f44-69e7adc79f28
+  # ── بنو زياد ──
+  - id: 1a0d02e1-3de1-4476-83a7-7ba80eb31172
+    name: يزيد
+    sex: male
+    kunya: بن زياد
+    fatherId: 751fc52c-fbea-4463-919d-5e46505cacdc

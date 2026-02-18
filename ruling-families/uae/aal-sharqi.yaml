@@ -10,13 +10,31 @@ family:
     آل الشرقي الأسرة الحاكمة في إمارة الفجيرة منذ عام ١٩٠١م.
     ينتسبون إلى قبيلة الشرقيين، وكانت الفجيرة آخر الإمارات المتصالحة اعترافاً من بريطانيا عام ١٩٥٢م.
 persons:
+  - id: 3d7f1d75-0597-4254-bc67-d4efe62a256a
+    name: عبد الله
+    sex: male
+    nickname: الشيخ
+    kunya: بن حمد
   - id: 516e9694-3026-4103-8612-bba0100035ab
     name: حمد
     sex: male
     nickname: الشيخ
-    kunya: بن عبد الله
+    kunya: بن عبد الله أول حكام الفجيرة
+    fatherId: 3d7f1d75-0597-4254-bc67-d4efe62a256a
+  - id: 9ada9e4c-dc41-4b98-8e55-ff3557b49829
+    name: سيف
+    sex: male
+    nickname: الشيخ
+    kunya: بن حمد
+    fatherId: 516e9694-3026-4103-8612-bba0100035ab
   - id: 6177f5f1-4d5c-48ba-abd4-706f565fc54f
     name: محمد
+    sex: male
+    nickname: الشيخ
+    kunya: بن حمد حاكم الفجيرة ١٩٥٢-١٩٧٤
+    fatherId: 516e9694-3026-4103-8612-bba0100035ab
+  - id: 9a36a83a-be1e-4564-8bd8-ae58258a083e
+    name: عبد الله
     sex: male
     nickname: الشيخ
     kunya: بن حمد
@@ -25,5 +43,17 @@ persons:
     name: حمد
     sex: male
     nickname: الشيخ
-    kunya: بن محمد
+    kunya: بن محمد حاكم الفجيرة منذ ١٩٧٤
     fatherId: 6177f5f1-4d5c-48ba-abd4-706f565fc54f
+  - id: 8eee7987-1e36-4038-a294-172c24644d14
+    name: محمد
+    sex: male
+    nickname: الشيخ
+    kunya: بن حمد ولي العهد
+    fatherId: da657394-421c-437d-8f38-59bcb039cea0
+  - id: 0879ba67-1268-46bc-83b8-a4486406c6a8
+    name: راشد
+    sex: male
+    nickname: الشيخ
+    kunya: بن حمد
+    fatherId: da657394-421c-437d-8f38-59bcb039cea0

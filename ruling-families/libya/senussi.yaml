@@ -31,9 +31,32 @@ persons:
     name: محمد
     sex: male
     fatherId: eedd5769-6adf-4816-b5de-3c4f333f490a
+  - id: a50e8d96-986e-450b-9b74-470038df4721
+    name: صفيّة
+    sex: female
+    kunya: بنت المهدي
+    fatherId: eedd5769-6adf-4816-b5de-3c4f333f490a
   - id: 1890878e-d966-4cd9-b4e5-b53eaf09aa82
     name: إدريس
     sex: male
     nickname: الملك
-    kunya: الأول ملك ليبيا
+    kunya: الأول ملك ليبيا ١٩٥١-١٩٦٩
     fatherId: 18895bf9-c273-4f52-85f9-8d67f7515135
+  - id: 20af0d90-161b-477b-8877-7348db478839
+    name: رضا
+    sex: male
+    nickname: السيد
+    kunya: بن محمد
+    fatherId: 18895bf9-c273-4f52-85f9-8d67f7515135
+  - id: 8f21bfa7-7b55-4df9-84f4-3fa5ac7a46ac
+    name: الحسن
+    sex: male
+    nickname: الأمير
+    kunya: الرضا ولي العهد
+    fatherId: 20af0d90-161b-477b-8877-7348db478839
+  - id: 3519528f-aa11-4c2b-a880-843e4cfd06fd
+    name: محمد
+    sex: male
+    nickname: الأمير
+    kunya: بن الحسن
+    fatherId: 8f21bfa7-7b55-4df9-84f4-3fa5ac7a46ac

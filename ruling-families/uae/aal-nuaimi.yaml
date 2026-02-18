@@ -25,17 +25,35 @@ persons:
     name: عبد العزيز
     sex: male
     nickname: الشيخ
-    kunya: بن حميد
+    kunya: بن حميد حاكم عجمان ١٩٠٠-١٩١٠
     fatherId: c36d87a6-64c6-4ba9-831d-e0311ec6966c
   - id: 93ca9048-8788-46af-82f2-ab0868500737
     name: راشد
     sex: male
     nickname: الشيخ
-    kunya: بن حميد
+    kunya: بن حميد حاكم عجمان ١٩٢٨-١٩٨١
     fatherId: c36d87a6-64c6-4ba9-831d-e0311ec6966c
+  - id: 547bc669-21f7-41dd-abec-020d4454d078
+    name: حميد
+    sex: male
+    nickname: الشيخ
+    kunya: بن عبد العزيز حاكم عجمان ١٩١٠-١٩٢٨
+    fatherId: 507f9b10-e313-41bc-87c1-9f2da1743dac
   - id: cf518c3b-a65c-4e3f-8080-69dbca2023e5
     name: حميد
     sex: male
     nickname: الشيخ
-    kunya: بن راشد
+    kunya: بن راشد حاكم عجمان منذ ١٩٨١
     fatherId: 93ca9048-8788-46af-82f2-ab0868500737
+  - id: 99ff5360-3e8c-42af-8324-c6906a12c054
+    name: عمّار
+    sex: male
+    nickname: الشيخ
+    kunya: بن حميد ولي العهد
+    fatherId: cf518c3b-a65c-4e3f-8080-69dbca2023e5
+  - id: 16f5bc55-a768-41a3-ad42-be73f9989c12
+    name: راشد
+    sex: male
+    nickname: الشيخ
+    kunya: بن حميد
+    fatherId: cf518c3b-a65c-4e3f-8080-69dbca2023e5

@@ -35,3 +35,25 @@ persons:
     sex: male
     kunya: جد آل قوي
     fatherId: c86d937f-4b33-4706-8616-c639a0633f26
+  # ── فروع آل علي ──
+  - id: b547ac4c-3707-492a-9b5d-0103af61889d
+    name: سويد
+    sex: male
+    kunya: جد السويد
+    fatherId: 4cedad11-3c42-4241-8532-ca1b129be13c
+  - id: e520103d-4d97-4722-87df-d0dcee18ae6b
+    name: ناصر
+    sex: male
+    kunya: جد آل ناصر
+    fatherId: 4cedad11-3c42-4241-8532-ca1b129be13c
+  # ── فروع آل بدران ──
+  - id: f0d115f5-0c60-48db-829f-7012ae776f96
+    name: حمد
+    sex: male
+    kunya: جد آل حمد
+    fatherId: 98bc636d-b3a6-4f0c-84bb-104f09d17e13
+  - id: 109bf1df-e978-423a-ab4d-4f40406e27be
+    name: عبد الله
+    sex: male
+    kunya: جد آل عبد الله
+    fatherId: 98bc636d-b3a6-4f0c-84bb-104f09d17e13

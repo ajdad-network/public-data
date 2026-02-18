@@ -37,3 +37,26 @@ persons:
     sex: male
     kunya: جد بنو سعد
     fatherId: 696a8242-728d-4ee7-abb6-e7e70b9adde2
+  - id: 97f5b0b7-8287-4ae2-9698-d8d3b4515ba0
+    name: عمرو
+    sex: male
+    kunya: جد خولان العالية
+    fatherId: 696a8242-728d-4ee7-abb6-e7e70b9adde2
+  # ── فروع بنو حبيب ──
+  - id: 3e56d33f-a65c-4206-8680-2bb66b2d518d
+    name: مالك
+    sex: male
+    kunya: جد آل مالك
+    fatherId: 6648dfe2-99f6-4d12-be0f-9b082c5d4f5e
+  - id: 660c44bf-c35d-42d4-a95a-9514f9e946bf
+    name: ربيعة
+    sex: male
+    kunya: جد آل ربيعة
+    fatherId: 6648dfe2-99f6-4d12-be0f-9b082c5d4f5e
+  # ── أعلام ──
+  - id: 68af47f9-b3b3-4998-b406-8a828bf7c408
+    name: عبد الله
+    sex: male
+    nickname: أبو مسلم
+    kunya: الخولاني
+    fatherId: 9a8db591-151f-45ff-8d76-113725f001d4

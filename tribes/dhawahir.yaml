@@ -35,3 +35,25 @@ persons:
     sex: male
     kunya: جد العيايلة
     fatherId: 8119dff7-4a7e-44fd-aebe-13e23f5579df
+  # ── فروع آل خييلي ──
+  - id: 23a83492-5290-4cd7-97f1-58a57c899932
+    name: محمد
+    sex: male
+    kunya: جد آل محمد
+    fatherId: 8e26b45c-f3aa-4cf0-b2db-151e254a0f6c
+  - id: 06f56caf-c0a3-4e76-b635-11df5ebaeb69
+    name: سالم
+    sex: male
+    kunya: جد آل سالم
+    fatherId: 8e26b45c-f3aa-4cf0-b2db-151e254a0f6c
+  # ── فروع الشوامس ──
+  - id: 6560b6ca-92fb-42b9-bf2d-4e25b9ab8a5a
+    name: راشد
+    sex: male
+    kunya: جد آل راشد
+    fatherId: 4529b29b-e92f-41b9-9e37-8485c0e9ae71
+  - id: 3894cd42-e2f6-4302-8ec4-af91aee666bb
+    name: خلفان
+    sex: male
+    kunya: جد آل خلفان
+    fatherId: 4529b29b-e92f-41b9-9e37-8485c0e9ae71

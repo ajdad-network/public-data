@@ -30,3 +30,31 @@ persons:
     sex: male
     kunya: جد الوهوب
     fatherId: 8132dd58-30c2-4631-9e69-f67305fc91b6
+  # ── فروع آل محمد ──
+  - id: ee3e18ac-fd58-460c-8de9-bcc46aaf6099
+    name: هادي
+    sex: male
+    kunya: جد الهواديّة
+    fatherId: 79fb3845-6f62-4e3a-be75-30f40c928400
+  - id: c3f3e0a6-30ac-4b82-9e10-d6b6bf22c8dc
+    name: نصّار
+    sex: male
+    kunya: جد النصارات
+    fatherId: 79fb3845-6f62-4e3a-be75-30f40c928400
+  # ── فروع آل سلطان ──
+  - id: 02d083e3-1670-490f-bf0e-d8371c36c5b6
+    name: عيسى
+    sex: male
+    kunya: جد العيسى
+    fatherId: 6db897d7-8b20-4bf0-8daf-6cc5c8e3305a
+  - id: 1f508ea9-d1ee-489b-bfee-4fec779744c9
+    name: فرج
+    sex: male
+    kunya: جد الفروج
+    fatherId: 6db897d7-8b20-4bf0-8daf-6cc5c8e3305a
+  # ── فروع الوهوب ──
+  - id: 76c3a6ae-586d-44cf-afc0-d78068188dfb
+    name: دخيل
+    sex: male
+    kunya: جد الدخيل
+    fatherId: 1906029d-c22e-4196-a1e4-2353ba60412a

@@ -35,3 +35,25 @@ persons:
     sex: male
     kunya: جد بنو جنب
     fatherId: 43c4eeb6-1407-4b28-b5ce-a2a0c2a93b0d
+  # ── فروع آل ثوابة ──
+  - id: 64d94381-e646-4c99-ae15-e3ebf7411410
+    name: سعيد
+    sex: male
+    kunya: جد آل سعيد
+    fatherId: c338b209-baac-416c-ad97-91ce4b3f7f6c
+  - id: 80ecb284-a6ff-49c5-8b36-a8bbef22dc24
+    name: حسن
+    sex: male
+    kunya: جد آل حسن
+    fatherId: c338b209-baac-416c-ad97-91ce4b3f7f6c
+  # ── فروع آل موسى ──
+  - id: 4107900a-aa67-4e9d-81d9-7153ea0176ee
+    name: عبد الله
+    sex: male
+    kunya: جد آل عبد الله
+    fatherId: cce62df7-8e43-485b-baa4-618c6f86bfc8
+  - id: dc91b845-436c-43d5-bc0c-130a26e60f77
+    name: محمد
+    sex: male
+    kunya: جد آل محمد
+    fatherId: cce62df7-8e43-485b-baa4-618c6f86bfc8

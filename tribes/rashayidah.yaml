@@ -30,3 +30,30 @@ persons:
     sex: male
     kunya: جد العجالين
     fatherId: 7e1b94cd-d5f2-49b5-9fad-6dc1a36e9736
+  - id: 9a557e28-81a4-48e8-80f3-d7f6f7babd6d
+    name: معيلي
+    sex: male
+    kunya: جد المعيلية
+    fatherId: 7e1b94cd-d5f2-49b5-9fad-6dc1a36e9736
+  # ── فروع البراركة ──
+  - id: 9b80b9c1-1b67-4657-8113-e80617fa0123
+    name: حمد
+    sex: male
+    kunya: جد آل حمد
+    fatherId: 1f227d0a-3cbb-4c46-8c72-5971f8054c1c
+  - id: 924f674b-1b62-42fc-830f-2ca2c9af6f36
+    name: سالم
+    sex: male
+    kunya: جد آل سالم
+    fatherId: 1f227d0a-3cbb-4c46-8c72-5971f8054c1c
+  # ── فروع الزوايدة ──
+  - id: a6c6812f-335d-4471-955a-bad5e7066808
+    name: غانم
+    sex: male
+    kunya: جد آل غانم
+    fatherId: d41203dd-4e13-4d17-b20b-13deed5b54e2
+  - id: 605f39aa-d36f-44d4-9551-d1391cbf8b9f
+    name: سلامة
+    sex: male
+    kunya: جد آل سلامة
+    fatherId: d41203dd-4e13-4d17-b20b-13deed5b54e2

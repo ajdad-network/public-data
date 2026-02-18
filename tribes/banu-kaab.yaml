@@ -35,3 +35,28 @@ persons:
     sex: male
     kunya: جد الدوارج
     fatherId: 2ae1def4-f199-4fb3-8982-cd1d09131eba
+  # ── أمراء المحمّرة (آل نصّار) ──
+  - id: b32fe13d-b4be-4a0a-b2dd-d2a77f84a731
+    name: مزعل
+    sex: male
+    nickname: الشيخ
+    kunya: بن نصّار أول أمراء المحمّرة
+    fatherId: 0fb9088d-f666-4720-bffd-3a63b0bd03e5
+  - id: 54c31513-2c1f-4d33-80ce-b69adf9e6f26
+    name: جابر
+    sex: male
+    nickname: الشيخ
+    kunya: بن مزعل
+    fatherId: b32fe13d-b4be-4a0a-b2dd-d2a77f84a731
+  - id: a747ad55-c276-4fc9-8b1b-6974c97be251
+    name: خزعل
+    sex: male
+    nickname: الشيخ
+    kunya: بن جابر آخر أمراء عربستان
+    fatherId: 54c31513-2c1f-4d33-80ce-b69adf9e6f26
+  - id: c6a6c372-9332-48bf-b6e1-3dfba13a3b19
+    name: جاسب
+    sex: male
+    nickname: الأمير
+    kunya: بن خزعل
+    fatherId: a747ad55-c276-4fc9-8b1b-6974c97be251

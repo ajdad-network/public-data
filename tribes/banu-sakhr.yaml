@@ -30,3 +30,36 @@ persons:
     sex: male
     kunya: جد الخريشا
     fatherId: e7429f34-9319-4a58-9cfc-3600939e4f91
+  # ── فروع الكعابنة ──
+  - id: 1ceffdb2-a214-4aab-bf04-5cd510b5dbd0
+    name: فايز
+    sex: male
+    kunya: جد الفايز شيوخ بني صخر
+    fatherId: 0d50bee9-d1f4-4dda-8117-0d0fac31cc5f
+  - id: 4b7dec73-f27c-429d-b648-ba7fa1299526
+    name: زبن
+    sex: male
+    kunya: جد الزبنية
+    fatherId: 0d50bee9-d1f4-4dda-8117-0d0fac31cc5f
+  - id: a9020ef3-302d-4e8b-be80-fcbfdba9d0ce
+    name: غبين
+    sex: male
+    kunya: جد الغبين
+    fatherId: 0d50bee9-d1f4-4dda-8117-0d0fac31cc5f
+  # ── مشيخة الفايز ──
+  - id: 8954fd86-1213-4578-85bd-4f1bce4ed164
+    name: سطّام
+    sex: male
+    kunya: بن فايز
+    fatherId: 1ceffdb2-a214-4aab-bf04-5cd510b5dbd0
+  - id: f07d6b08-f584-4320-bad6-4e1cf621b93b
+    name: مثقال
+    sex: male
+    nickname: الشيخ
+    kunya: بن فايز شيخ مشايخ بني صخر
+    fatherId: 1ceffdb2-a214-4aab-bf04-5cd510b5dbd0
+  - id: 623930fb-2b86-44ba-814b-9551e42402e5
+    name: عاكف
+    sex: male
+    kunya: بن فايز
+    fatherId: 1ceffdb2-a214-4aab-bf04-5cd510b5dbd0

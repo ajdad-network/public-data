@@ -35,3 +35,25 @@ persons:
     sex: male
     kunya: جد بني ذهب
     fatherId: 41ec66f4-f94f-4d4d-80f8-da410a7e8438
+  # ── فروع الشتير ──
+  - id: c0eb1cfd-e20b-4870-87ba-4c7c03bd92c7
+    name: محمد
+    sex: male
+    kunya: جد آل محمد
+    fatherId: 147b1e5b-9d25-4636-b013-0a81c730dd62
+  - id: fe9c1947-3a14-46ff-9e98-bc950d03fda9
+    name: سعيد
+    sex: male
+    kunya: جد آل سعيد
+    fatherId: 147b1e5b-9d25-4636-b013-0a81c730dd62
+  # ── فروع الحبوس ──
+  - id: efcadb65-382a-4937-9b20-d537b6631e9a
+    name: علي
+    sex: male
+    kunya: جد آل علي
+    fatherId: 88234cca-1da1-407a-a5f5-60e2eef83c44
+  - id: 198c446e-4be1-429c-aefb-760816beac84
+    name: خلفان
+    sex: male
+    kunya: جد آل خلفان
+    fatherId: 88234cca-1da1-407a-a5f5-60e2eef83c44

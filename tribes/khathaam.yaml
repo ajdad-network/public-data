@@ -35,3 +35,25 @@ persons:
     sex: male
     kunya: جد بنو أكلب
     fatherId: 01ef2905-cec5-4445-8ab5-dcd9d5747185
+  # ── فروع شهران ──
+  - id: 6f07dd40-94e7-4927-9d80-a84a0ec4363e
+    name: الحارث
+    sex: male
+    kunya: جد بنو الحارث
+    fatherId: dcf14559-f5ea-4826-823a-eb32cc3aaef2
+  - id: 81da8c43-9235-4323-b720-333d434c4073
+    name: عامر
+    sex: male
+    kunya: جد بنو عامر
+    fatherId: dcf14559-f5ea-4826-823a-eb32cc3aaef2
+  - id: 49bd74da-22ac-4d71-a614-53616a2f8932
+    name: معاوية
+    sex: male
+    kunya: جد بنو معاوية
+    fatherId: dcf14559-f5ea-4826-823a-eb32cc3aaef2
+  # ── فروع ناهس ──
+  - id: c0ebcdc9-6a57-4f5d-b775-f0e12115b97f
+    name: حرب
+    sex: male
+    kunya: جد بنو حرب
+    fatherId: dac8bedc-a0cf-44c1-8142-908b3363fe80

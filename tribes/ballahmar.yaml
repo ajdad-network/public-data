@@ -35,3 +35,25 @@ persons:
     sex: male
     kunya: جد آل خثعم
     fatherId: b76d2064-6dc1-4274-a4d3-da7ccc6040b7
+  # ── فروع آل يحيى ──
+  - id: 0ed22337-d025-42a2-9401-e65ceb4517ae
+    name: حسن
+    sex: male
+    kunya: جد آل حسن
+    fatherId: 3df54f05-be87-470d-9676-a6a0ffc6991b
+  - id: 5a4989ee-e6a9-4ba3-8cd7-c83d4cce8282
+    name: عبد الله
+    sex: male
+    kunya: جد آل عبد الله
+    fatherId: 3df54f05-be87-470d-9676-a6a0ffc6991b
+  # ── فروع آل سالم ──
+  - id: 0cc44c88-af5d-47e4-b5ad-1d8a43e75e65
+    name: محمد
+    sex: male
+    kunya: جد آل محمد
+    fatherId: b7f19a14-4b04-425f-8ed9-21f94847ff8f
+  - id: 35d580f4-8bc0-4bce-a2b8-00c32fcb735f
+    name: أحمد
+    sex: male
+    kunya: جد آل أحمد
+    fatherId: b7f19a14-4b04-425f-8ed9-21f94847ff8f

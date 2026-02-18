@@ -35,3 +35,25 @@ persons:
     sex: male
     kunya: جد بنو سعد
     fatherId: aa6ddae4-ced5-4605-8824-d65bdfd4d5dc
+  # ── فروع بنو حرير ──
+  - id: 13f69037-ec8d-44b5-89bc-0d1c53076ff9
+    name: ناصر
+    sex: male
+    kunya: جد آل ناصر
+    fatherId: 582921ba-1eec-4331-b6f6-d6b62113ab0e
+  - id: d7d37856-7191-4719-ad41-1d91115769da
+    name: مسفر
+    sex: male
+    kunya: جد آل مسفر
+    fatherId: 582921ba-1eec-4331-b6f6-d6b62113ab0e
+  # ── فروع بنو بجاد ──
+  - id: ff4ceb68-124f-4982-a049-42361c103911
+    name: حسين
+    sex: male
+    kunya: جد آل حسين
+    fatherId: 155f9d2c-6b7f-4867-a4a5-975f73537185
+  - id: 4e9444c2-a1c2-465a-807d-db79ea175a21
+    name: عامر
+    sex: male
+    kunya: جد آل عامر
+    fatherId: 155f9d2c-6b7f-4867-a4a5-975f73537185

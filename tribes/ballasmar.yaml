@@ -35,3 +35,25 @@ persons:
     sex: male
     kunya: جد آل عليان
     fatherId: c7dbedc1-98e3-463c-8700-47a7a8b09996
+  # ── فروع بنو ثابت ──
+  - id: 8714a4d6-8b87-4d19-a323-4333cfd698b0
+    name: سعيد
+    sex: male
+    kunya: جد آل سعيد
+    fatherId: 09d8ca49-cfd4-4246-b2ec-9df179682a6b
+  - id: 6da60a9e-b135-4b2d-8fd9-0d31fbd991e8
+    name: حسن
+    sex: male
+    kunya: جد آل حسن
+    fatherId: 09d8ca49-cfd4-4246-b2ec-9df179682a6b
+  # ── فروع بنو شعبة ──
+  - id: 44586611-5499-44d4-91ba-40ec1bc5cdf4
+    name: محمد
+    sex: male
+    kunya: جد آل محمد
+    fatherId: 1418c6c3-eb93-4432-8cff-901f7abb7de3
+  - id: a610dec0-d29a-4040-bec7-93c282f11db7
+    name: عمر
+    sex: male
+    kunya: جد آل عمر
+    fatherId: 1418c6c3-eb93-4432-8cff-901f7abb7de3

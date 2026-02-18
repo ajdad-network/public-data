@@ -30,3 +30,30 @@ persons:
     sex: male
     kunya: جد الرواشدة
     fatherId: 713ba1a6-9082-4e1f-8256-92adf9c01cc0
+  - id: 159e7cb4-4175-4aba-bc87-b51605ebd5ef
+    name: سليمان
+    sex: male
+    kunya: جد السليمانيين
+    fatherId: 713ba1a6-9082-4e1f-8256-92adf9c01cc0
+  # ── فروع العقيلات ──
+  - id: a9537013-0ee3-4176-8560-e0de04dad9e6
+    name: معيض
+    sex: male
+    kunya: جد المعايضة
+    fatherId: 60ddcd27-42a8-464e-8ee6-766ca788a7e6
+  - id: 7804caa9-267b-4135-b76d-aa0a99c35955
+    name: حمّاد
+    sex: male
+    kunya: جد الحمادات
+    fatherId: 60ddcd27-42a8-464e-8ee6-766ca788a7e6
+  # ── فروع الرواشدة ──
+  - id: 1ef28483-c9ec-4013-a3d0-374c35c8159d
+    name: خليف
+    sex: male
+    kunya: جد الخلفان
+    fatherId: 782ae88c-841d-4a70-af5f-6ee743e9ae03
+  - id: a729d093-2fd0-4912-809b-6c9ef7edf0f5
+    name: سعيد
+    sex: male
+    kunya: جد السعيدات
+    fatherId: 782ae88c-841d-4a70-af5f-6ee743e9ae03

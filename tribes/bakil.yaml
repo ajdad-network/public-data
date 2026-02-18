@@ -46,3 +46,19 @@ persons:
     sex: male
     kunya: جد مرهبة
     fatherId: 02d7f87a-0e84-450b-a370-12ff59accf9b
+  - id: 486166fd-d95b-486b-9243-6f49280e4676
+    name: ذو محمد
+    sex: male
+    kunya: جد ذو محمد
+    fatherId: 02d7f87a-0e84-450b-a370-12ff59accf9b
+  # ── فروع أرحب ──
+  - id: a57f7516-51ce-4e44-8d88-1608ba502d8d
+    name: شاكر
+    sex: male
+    kunya: جد بنو شاكر
+    fatherId: 37b3729d-74ad-4b28-87f1-292216fb21ee
+  - id: 92baf9ba-7269-4e33-9ffa-32a7c50ff84b
+    name: بني ضبيان
+    sex: male
+    kunya: جد ضبيان
+    fatherId: 37b3729d-74ad-4b28-87f1-292216fb21ee

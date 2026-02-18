@@ -30,3 +30,30 @@ persons:
     sex: male
     kunya: جد الفليحان
     fatherId: 9ba05ad9-f9b5-4704-94e7-744dbb75805d
+  - id: 1a0a27f0-1765-498a-933d-f5769278e307
+    name: ضيغم
+    sex: male
+    kunya: جد الضياغم
+    fatherId: 9ba05ad9-f9b5-4704-94e7-744dbb75805d
+  # ── فروع الحلسة ──
+  - id: 3b25d948-a103-4a8b-a933-faafda6c85fb
+    name: سويلم
+    sex: male
+    kunya: جد السويلمات
+    fatherId: 6423631d-1445-4bea-9698-a29f5c9deec2
+  - id: be2197ea-2ab5-49a4-981f-d2443f79565f
+    name: حمدان
+    sex: male
+    kunya: جد الحمادين
+    fatherId: 6423631d-1445-4bea-9698-a29f5c9deec2
+  # ── فروع العزام ──
+  - id: a2c2ce92-23ab-4d1d-a547-562495a6191b
+    name: هويمل
+    sex: male
+    kunya: جد الهويملات
+    fatherId: e28ec92e-83db-4701-8192-cbb852135940
+  - id: ec59f502-2f76-4147-a091-ed677e64865b
+    name: مسلّم
+    sex: male
+    kunya: جد المساليم
+    fatherId: e28ec92e-83db-4701-8192-cbb852135940

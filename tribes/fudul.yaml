@@ -35,3 +35,25 @@ persons:
     sex: male
     kunya: جد آل ظفير
     fatherId: 3da0977c-db61-4937-8194-24f71157636d
+  # ── فروع آل كثير ──
+  - id: 7733559a-1f91-4fcb-b577-ea6b25e206ac
+    name: عساف
+    sex: male
+    kunya: جد العساسفة شيوخ الفضول
+    fatherId: 988d978a-7bfc-4268-b013-c9fb912f6210
+  - id: 419d49f1-b8ce-4ef0-98dc-359efbd06822
+    name: دغيّم
+    sex: male
+    kunya: جد الدغيّم
+    fatherId: 988d978a-7bfc-4268-b013-c9fb912f6210
+  # ── فروع آل جميل ──
+  - id: 9bb946ad-bc3e-44f7-940e-5176aa7a544c
+    name: محمد
+    sex: male
+    kunya: جد المحمد
+    fatherId: 347811c8-2573-4154-982e-5983aa2bfb9a
+  - id: aef7a56c-804c-4be2-98b8-5d0de3001964
+    name: علي
+    sex: male
+    kunya: جد العليان
+    fatherId: 347811c8-2573-4154-982e-5983aa2bfb9a

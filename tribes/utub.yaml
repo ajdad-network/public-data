@@ -18,12 +18,12 @@ persons:
   - id: 41492f84-dad5-401d-b048-fe906d964a85
     name: صباح
     sex: male
-    kunya: جد آل صباح
+    kunya: جد آل صباح حكام الكويت
     fatherId: 814a42f8-19e8-4024-bb9d-547072c17848
   - id: 98b951f7-2262-40a4-bf48-8b7cf5c5b378
     name: خليفة
     sex: male
-    kunya: جد آل خليفة
+    kunya: جد آل خليفة حكام البحرين
     fatherId: 814a42f8-19e8-4024-bb9d-547072c17848
   - id: b6e5e6e6-de0c-4d00-950a-cd8e42bed00f
     name: جلاهمة
@@ -35,3 +35,36 @@ persons:
     sex: male
     kunya: جد الفواضل
     fatherId: 814a42f8-19e8-4024-bb9d-547072c17848
+  # ── فرع آل صباح ──
+  - id: ca232441-94ef-4c22-8c05-0f0c84e2b4a6
+    name: صباح
+    sex: male
+    nickname: الشيخ
+    kunya: بن جابر الأول حاكم الكويت
+    fatherId: 41492f84-dad5-401d-b048-fe906d964a85
+  - id: ab65e2f1-b1b8-46d5-829d-8fa6b4bf341a
+    name: عبد الله
+    sex: male
+    nickname: الشيخ
+    kunya: بن صباح الثاني
+    fatherId: ca232441-94ef-4c22-8c05-0f0c84e2b4a6
+  - id: 2c115884-6603-4eae-8ab8-38e8ab76c01c
+    name: مبارك
+    sex: male
+    nickname: الشيخ
+    kunya: الكبير
+    fatherId: ca232441-94ef-4c22-8c05-0f0c84e2b4a6
+  # ── فرع آل خليفة ──
+  - id: 9cf126a1-8e8c-4335-b237-77a6599aa017
+    name: أحمد
+    sex: male
+    nickname: الشيخ
+    kunya: الفاتح فاتح البحرين
+    fatherId: 98b951f7-2262-40a4-bf48-8b7cf5c5b378
+  # ── فرع آل جلاهمة ──
+  - id: 0288f760-bfbb-4699-915e-9000a96128c5
+    name: رحمة
+    sex: male
+    nickname: الشيخ
+    kunya: بن جابر حاكم بوشهر
+    fatherId: b6e5e6e6-de0c-4d00-950a-cd8e42bed00f

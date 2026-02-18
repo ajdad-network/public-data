@@ -46,3 +46,19 @@ persons:
     sex: male
     kunya: جد خارف
     fatherId: a33a729f-e2c2-4633-893e-6042600b4ff7
+  - id: ef0a280a-c583-4ac5-8d04-9edbf04c37d5
+    name: صنابر
+    sex: male
+    kunya: جد الصنابر
+    fatherId: a33a729f-e2c2-4633-893e-6042600b4ff7
+  # ── فروع عذر ──
+  - id: a53be16b-5c15-4f90-8d42-a3f6e45f63a8
+    name: سنحان
+    sex: male
+    kunya: جد سنحان
+    fatherId: effb9d2c-b605-4eda-8914-b7e713378a6e
+  - id: bd85f40a-bd29-407c-bf10-5f38f5ccc32a
+    name: بلاد الروس
+    sex: male
+    kunya: جد بلاد الروس
+    fatherId: effb9d2c-b605-4eda-8914-b7e713378a6e

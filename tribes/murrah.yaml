@@ -34,3 +34,36 @@ persons:
     sex: male
     kunya: جد آل فهيدة
     fatherId: 31db6042-5464-454c-9a78-39917bf3320f
+  # ── فروع آل شامل ──
+  - id: 7e3f6191-74ed-4437-ac46-e9c5a2f98058
+    name: جابر
+    sex: male
+    kunya: جد الجوابر
+    fatherId: 809626ed-2d96-4d0b-98cf-3be055596274
+  - id: 62d84ecd-72d4-4f2e-93a6-bfe2297a040b
+    name: غفران
+    sex: male
+    kunya: جد آل غفران
+    fatherId: 809626ed-2d96-4d0b-98cf-3be055596274
+  # ── فروع آل عذبة ──
+  - id: 059e848a-bc96-4186-a110-d2bbfab563b0
+    name: ناصر
+    sex: male
+    kunya: جد النواصر
+    fatherId: c2c15a4b-007a-4e46-9b25-f9d793879db1
+  - id: f2768051-1962-4d96-8039-288cca10907a
+    name: علي
+    sex: male
+    kunya: جد العلاويّة
+    fatherId: c2c15a4b-007a-4e46-9b25-f9d793879db1
+  # ── فروع آل فهيدة ──
+  - id: 8e76ee64-6576-46bd-96e0-3f67f4f7fc13
+    name: بهيج
+    sex: male
+    kunya: جد البهجة
+    fatherId: 2969adc2-b811-4b48-a4df-c6ae193d0117
+  - id: 1d4fdb9a-9636-432a-8971-550c97caba30
+    name: مزروع
+    sex: male
+    kunya: جد المزاريع
+    fatherId: 2969adc2-b811-4b48-a4df-c6ae193d0117

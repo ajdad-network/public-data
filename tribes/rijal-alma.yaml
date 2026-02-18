@@ -35,3 +35,25 @@ persons:
     sex: male
     kunya: جد الجونة
     fatherId: 0498d171-f1a7-4757-a7b3-92f5539176bf
+  # ── فروع آل عبد الله ──
+  - id: 305f8b5e-2869-4466-9446-376180f0e639
+    name: سعيد
+    sex: male
+    kunya: جد آل سعيد
+    fatherId: 26be7bdc-3f72-476b-ba77-31faf40fe842
+  - id: 79056c59-ba3b-4176-b780-477f075613c4
+    name: عمر
+    sex: male
+    kunya: جد آل عمر
+    fatherId: 26be7bdc-3f72-476b-ba77-31faf40fe842
+  # ── فروع آل حيان ──
+  - id: cd88827b-0780-4f85-b501-a5aec5a89076
+    name: محمد
+    sex: male
+    kunya: جد آل محمد
+    fatherId: cf75207f-2e29-460f-932f-67d082fbb2fe
+  - id: 9bc447e4-f7d2-47d4-8b70-868865dba5eb
+    name: علي
+    sex: male
+    kunya: جد آل علي
+    fatherId: cf75207f-2e29-460f-932f-67d082fbb2fe

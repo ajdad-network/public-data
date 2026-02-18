@@ -35,3 +35,25 @@ persons:
     sex: male
     kunya: جد الغياثين
     fatherId: 6b9bd77a-1e35-40c7-87f9-9af298b21e4e
+  # ── فروع الراشد ──
+  - id: ca78df68-a3e9-442d-9591-4e7c9072774e
+    name: حمد
+    sex: male
+    kunya: جد آل حمد
+    fatherId: 96c1795d-7563-4c98-8520-587c343d84e9
+  - id: 13145bad-7149-4946-840c-c2ebf468a94e
+    name: فهد
+    sex: male
+    kunya: جد آل فهد
+    fatherId: 96c1795d-7563-4c98-8520-587c343d84e9
+  # ── فروع النويصر ──
+  - id: 80b7ec57-7e50-43e7-b088-87d939a01fee
+    name: عويض
+    sex: male
+    kunya: جد العويضات
+    fatherId: 19be7104-3468-4ee3-af08-6237f8098896
+  - id: 69891512-0f99-4d03-9b71-d438f6c237cc
+    name: هزاع
+    sex: male
+    kunya: جد الهزازعة
+    fatherId: 19be7104-3468-4ee3-af08-6237f8098896

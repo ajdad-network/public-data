@@ -35,3 +35,25 @@ persons:
     sex: male
     kunya: جد بيت ثوعار
     fatherId: d51d2222-1a73-4b8f-afb2-cb6432178f67
+  # ── فروع بيت كليب ──
+  - id: a74602d5-3cef-40be-9fdf-83085c090604
+    name: سالم
+    sex: male
+    kunya: جد آل سالم
+    fatherId: c0582dc8-f2b5-42c4-a857-e8a1e2a31249
+  - id: 3fc55983-e706-4498-91e0-3b99dea7a96c
+    name: محمد
+    sex: male
+    kunya: جد آل محمد
+    fatherId: c0582dc8-f2b5-42c4-a857-e8a1e2a31249
+  # ── فروع بيت جعفر ──
+  - id: 702f0ce9-3b0e-445a-bd0e-22458f2a69ed
+    name: عوض
+    sex: male
+    kunya: جد آل عوض
+    fatherId: e1fca2d9-139a-4920-aca7-7b31c2f5c9f8
+  - id: 3581291d-6740-494e-b0c2-014a2ddb63f2
+    name: بخيت
+    sex: male
+    kunya: جد آل بخيت
+    fatherId: e1fca2d9-139a-4920-aca7-7b31c2f5c9f8

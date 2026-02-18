@@ -35,3 +35,25 @@ persons:
     sex: male
     kunya: جد آل بوحمير
     fatherId: a51d2394-e481-48a9-8376-3791c4605df3
+  # ── فروع آل بوشعر ──
+  - id: c89e5ce3-45ac-48e3-9282-f8f09974b10e
+    name: خلفان
+    sex: male
+    kunya: جد آل خلفان
+    fatherId: ee3c0289-a79a-4db1-9bda-6e279e2518eb
+  - id: 07eeae23-e305-43be-9845-cefa70513da9
+    name: سعيد
+    sex: male
+    kunya: جد آل سعيد
+    fatherId: ee3c0289-a79a-4db1-9bda-6e279e2518eb
+  # ── فروع آل بومنذر ──
+  - id: 0265cce5-aaf1-4e6a-8b39-0dd48d1364b3
+    name: حمد
+    sex: male
+    kunya: جد آل حمد
+    fatherId: ca17f742-abd2-4975-8154-721d2a6a9213
+  - id: d7633bf6-a259-49ae-8b98-4cdb64cef09c
+    name: سالم
+    sex: male
+    kunya: جد آل سالم
+    fatherId: ca17f742-abd2-4975-8154-721d2a6a9213

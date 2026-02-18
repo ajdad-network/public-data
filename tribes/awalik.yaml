@@ -35,3 +35,29 @@ persons:
     sex: male
     kunya: جد آل محمد
     fatherId: 2c898792-5b99-40f1-b047-82471f861c74
+  # ── سلاطين العوالق العليا ──
+  - id: 56d47300-7dec-4224-aaad-b3d205d7b724
+    name: صالح
+    sex: male
+    nickname: السلطان
+    kunya: بن حيدرة
+    fatherId: d75c3eee-1b4e-4d17-ae1f-801cf6db0295
+  - id: a0367ae8-ebd5-49b0-9fb6-bc1719fc869e
+    name: عوض
+    sex: male
+    nickname: السلطان
+    kunya: بن صالح
+    fatherId: 56d47300-7dec-4224-aaad-b3d205d7b724
+  # ── سلاطين العوالق السفلى ──
+  - id: 6d749c91-a963-40f3-ace8-9c4c7bdde4e1
+    name: أحمد
+    sex: male
+    nickname: السلطان
+    kunya: بن يزيد
+    fatherId: 1ac28516-c48b-4f1c-917b-f297967d411e
+  - id: f4e76314-1b71-442e-b13a-61ed9d8d8f06
+    name: عبد الله
+    sex: male
+    nickname: السلطان
+    kunya: بن أحمد
+    fatherId: 6d749c91-a963-40f3-ace8-9c4c7bdde4e1

@@ -35,3 +35,25 @@ persons:
     sex: male
     kunya: جد آل بوشامس
     fatherId: d95c2cd9-c774-477e-9e42-caa3be017f48
+  # ── فروع آل بوخريبان ──
+  - id: aa39965b-1103-475a-ad80-66cc8cd6f996
+    name: راشد
+    sex: male
+    kunya: جد آل راشد
+    fatherId: fcff11c4-e659-45ca-aa69-c2ccd3fed1e1
+  - id: e7b036cb-e9aa-4e76-8fdf-7141a6574dba
+    name: سعيد
+    sex: male
+    kunya: جد آل سعيد
+    fatherId: fcff11c4-e659-45ca-aa69-c2ccd3fed1e1
+  # ── فروع الخواطر ──
+  - id: 986d8f39-ea11-4a1b-ba0b-03916e6005cb
+    name: علي
+    sex: male
+    kunya: جد آل علي
+    fatherId: d3aa0c3d-a8c2-47f3-98d0-8deda0da7d51
+  - id: 807fc4a6-c532-4ce1-b5fa-03c109a826de
+    name: حمد
+    sex: male
+    kunya: جد آل حمد
+    fatherId: d3aa0c3d-a8c2-47f3-98d0-8deda0da7d51

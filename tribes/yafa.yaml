@@ -30,6 +30,11 @@ persons:
     sex: male
     kunya: جد الناخبي
     fatherId: 40b4d044-9bf1-4cb5-a589-1c49631ee9da
+  - id: 30b5da1e-03e6-49ee-a9f6-3e42665d780a
+    name: السعدي
+    sex: male
+    kunya: جد آل السعدي
+    fatherId: 40b4d044-9bf1-4cb5-a589-1c49631ee9da
   # ── يافع السفلى ──
   - id: 3b763f80-f911-412c-80e2-866ddbe09bdc
     name: يهر
@@ -45,4 +50,9 @@ persons:
     name: مفلحي
     sex: male
     kunya: جد المفلحي
+    fatherId: 3b763f80-f911-412c-80e2-866ddbe09bdc
+  - id: 680015d8-874b-4070-8e90-7d95daa578f0
+    name: الحضارم
+    sex: male
+    kunya: جد آل الحضارم
     fatherId: 3b763f80-f911-412c-80e2-866ddbe09bdc

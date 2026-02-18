@@ -35,3 +35,32 @@ persons:
     sex: male
     kunya: جد السويلميين
     fatherId: 4af5b220-a3a7-4a97-84b4-2ffd5477d7b9
+  # ── فروع العمران ──
+  - id: 4a3d7f40-8ddf-4f47-b0fe-a8b9feaf2d58
+    name: عطيّة
+    sex: male
+    kunya: جد العطيّات
+    fatherId: 29f5a38c-6e6b-4bc6-81c4-8ae0af435050
+  - id: e2d6f5d9-cf03-433c-a593-17ebae7e425a
+    name: مساعد
+    sex: male
+    kunya: جد المساعيد
+    fatherId: 29f5a38c-6e6b-4bc6-81c4-8ae0af435050
+  # ── فروع العلاوين ──
+  - id: 98311970-4699-407a-92af-1385acfe180c
+    name: دبّاغ
+    sex: male
+    kunya: جد الدبابغة
+    fatherId: 62b03ddc-d8b6-47ff-b9a7-dda1eed4cbe0
+  # ── شيوخ بنو جازي ──
+  - id: ea97145f-6e54-4751-9fbb-6508ad84c435
+    name: عودة
+    sex: male
+    nickname: الشيخ
+    kunya: أبو تايه قائد الثورة العربية
+    fatherId: 668c3a6f-54c7-4287-b5e6-828a78ffc912
+  - id: 14d40003-314b-4dd2-a4b7-888bac24632f
+    name: محمد
+    sex: male
+    kunya: بن عودة
+    fatherId: ea97145f-6e54-4751-9fbb-6508ad84c435

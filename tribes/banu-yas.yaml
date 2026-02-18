@@ -55,3 +55,29 @@ persons:
     sex: male
     kunya: جد القبيسات
     fatherId: 39d17335-c29c-4d50-968f-8615fd6176d7
+  # ── آل بوفلاح (آل نهيان) ──
+  - id: 96e00dc5-4196-4816-9e6c-5cab33d4cf15
+    name: نهيان
+    sex: male
+    nickname: الشيخ
+    kunya: بن فلاح جد آل نهيان
+    fatherId: 7f9670c1-74b3-48a9-b4dd-b30c58209c92
+  - id: d4b19fb6-69ec-4564-b496-685b75cf592d
+    name: عيسى
+    sex: male
+    nickname: الشيخ
+    kunya: بن نهيان
+    fatherId: 96e00dc5-4196-4816-9e6c-5cab33d4cf15
+  # ── آل بوفلاسة (آل مكتوم) ──
+  - id: 06f33c4b-de93-4977-9bf4-a05233c9034b
+    name: مكتوم
+    sex: male
+    nickname: الشيخ
+    kunya: بن بطي جد آل مكتوم
+    fatherId: 28967848-2d1f-4abd-bd78-adf26de4c887
+  - id: 5b3552de-c67c-43c2-bc26-45778f0ad35f
+    name: حشر
+    sex: male
+    nickname: الشيخ
+    kunya: بن مكتوم
+    fatherId: 06f33c4b-de93-4977-9bf4-a05233c9034b

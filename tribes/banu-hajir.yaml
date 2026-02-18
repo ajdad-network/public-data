@@ -35,3 +35,31 @@ persons:
     sex: male
     kunya: جد المهاشير
     fatherId: 9bf30a62-b1d3-4ffe-b780-4605a098179a
+  # ── فروع آل محمد ──
+  - id: b83b9822-92b3-4f36-adff-45aaba84b201
+    name: شاهين
+    sex: male
+    kunya: جد الشواهين
+    fatherId: 04ae0274-1bc7-4df9-b534-4b81c51d1710
+  - id: e508ac58-588b-4094-b3a5-9d115a908e2e
+    name: قرينيس
+    sex: male
+    kunya: جد القرينيس
+    fatherId: 04ae0274-1bc7-4df9-b534-4b81c51d1710
+  # ── فروع آل مخلص ──
+  - id: 995dc716-c273-4de5-93e4-9340cacbac6e
+    name: جبران
+    sex: male
+    kunya: جد الجبارين
+    fatherId: 2ec9bfd1-22e2-4289-8372-ff9e3dda1660
+  - id: 618f8ac6-14ff-4f4f-a6f7-121917c0ddaa
+    name: سند
+    sex: male
+    kunya: جد السنود
+    fatherId: 2ec9bfd1-22e2-4289-8372-ff9e3dda1660
+  # ── فروع المهاشير ──
+  - id: 54801eb8-552f-4c5f-b2c0-881e7e6df9c1
+    name: حمد
+    sex: male
+    kunya: جد آل حمد
+    fatherId: ceb21f45-2351-4374-b8ba-b44f88213d03

@@ -35,3 +35,25 @@ persons:
     sex: male
     kunya: جد آل شبيب
     fatherId: c5fbf8dd-74c6-411a-b15c-9787bb118fca
+  # ── فروع بنو بحير ──
+  - id: 63bb5278-8ba1-471f-b87e-79e23ff292aa
+    name: حسن
+    sex: male
+    kunya: جد آل حسن
+    fatherId: 5bafa817-f10a-4e6f-85d1-372af39958b1
+  - id: eab51596-0b4b-4240-9634-ac1ea09460d2
+    name: عثمان
+    sex: male
+    kunya: جد آل عثمان
+    fatherId: 5bafa817-f10a-4e6f-85d1-372af39958b1
+  # ── فروع بنو عمرو ──
+  - id: fdd30624-aaec-45d5-b163-7b81e7a68e03
+    name: سعيد
+    sex: male
+    kunya: جد آل سعيد
+    fatherId: 9945b08f-8702-428a-bb83-a5c5b8b509cc
+  - id: c079002f-f1d2-4d94-ac76-756e100f25fa
+    name: جابر
+    sex: male
+    kunya: جد آل جابر
+    fatherId: 9945b08f-8702-428a-bb83-a5c5b8b509cc
