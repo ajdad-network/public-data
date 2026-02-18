@@ -1,0 +1,49 @@
+family:
+  type: qabila
+  name: شهران
+  visibility: public
+  pinned: true
+  suffixMale: الشهراني
+  suffixFemale: الشهرانية
+  hometown: عسير
+  description: |-
+    شهران قبيلة عربية كبيرة من خثعم، موطنها منطقة عسير في جنوب غرب المملكة العربية السعودية.
+    تنتسب إلى شهران بن عفرس بن حلف بن أفتل بن أنمار. من أبرز فروعها بنو الأسمر وبنو شهر وبلقرن.
+persons:
+  - id: b32073b3-838f-410b-a9aa-61718ed772f9
+    name: أنمار
+    sex: male
+    kunya: بن إراش بن عمرو
+  - id: f41a4a11-6682-4855-b556-926160254946
+    name: أفتل
+    sex: male
+    kunya: خثعم
+    fatherId: b32073b3-838f-410b-a9aa-61718ed772f9
+  - id: e478fa73-93af-42d7-b08f-0a5029a37c72
+    name: حلف
+    sex: male
+    fatherId: f41a4a11-6682-4855-b556-926160254946
+  - id: a4fda589-465f-4938-96cf-de03b75b9ec0
+    name: عفرس
+    sex: male
+    fatherId: e478fa73-93af-42d7-b08f-0a5029a37c72
+  - id: 5b9819b7-02a4-4312-8262-8a7286d6877e
+    name: شهران
+    sex: male
+    fatherId: a4fda589-465f-4938-96cf-de03b75b9ec0
+  # ── الفروع الرئيسية ──
+  - id: e0d4989c-a95d-4788-abb9-7094a8e84bad
+    name: الأسمر
+    sex: male
+    kunya: جد بنو الأسمر
+    fatherId: 5b9819b7-02a4-4312-8262-8a7286d6877e
+  - id: 35a0fe49-e131-4c68-a2e7-d30f70a2f905
+    name: شهر
+    sex: male
+    kunya: جد بنو شهر
+    fatherId: 5b9819b7-02a4-4312-8262-8a7286d6877e
+  - id: 7793475f-4a99-4440-8123-79b897a087a3
+    name: قرن
+    sex: male
+    kunya: جد بلقرن
+    fatherId: 5b9819b7-02a4-4312-8262-8a7286d6877e

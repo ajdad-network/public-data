@@ -1,0 +1,41 @@
+family:
+  type: qabila
+  name: العجمان
+  visibility: public
+  pinned: true
+  suffixMale: العجمي
+  suffixFemale: العجمية
+  hometown: الأحساء
+  description: |-
+    العجمان قبيلة عربية كبيرة تنتسب إلى يام بن همدان، موطنها الأصلي نجران ثم انتقلت إلى شرق الجزيرة العربية.
+    من أبرز فروعها آل سليمان وآل حبيش وآل شامر.
+persons:
+  - id: 2b4e84ed-747a-4b8d-8318-0068e3518c5c
+    name: همدان
+    sex: male
+    kunya: بن مالك بن زيد
+  - id: d10bf7d9-f138-4fb2-8da6-c901ff6fb650
+    name: يام
+    sex: male
+    fatherId: 2b4e84ed-747a-4b8d-8318-0068e3518c5c
+  - id: 5c9dadfe-6eaa-4ac3-ba5f-d1270981d104
+    name: عجيم
+    sex: male
+    kunya: جد العجمان
+    fatherId: d10bf7d9-f138-4fb2-8da6-c901ff6fb650
+  # ── الفروع الرئيسية ──
+  - id: 4368bb89-838e-46a4-b984-bed649ab30e2
+    name: سليمان
+    sex: male
+    kunya: جد آل سليمان
+    fatherId: 5c9dadfe-6eaa-4ac3-ba5f-d1270981d104
+  - id: 5f46b763-648f-4f85-90b3-cbb951d2923a
+    name: حبيش
+    sex: male
+    kunya: جد آل حبيش
+    fatherId: 5c9dadfe-6eaa-4ac3-ba5f-d1270981d104
+  - id: 6c450bf6-488c-47fc-83cf-27037d73b8bc
+    name: شامر
+    sex: male
+    kunya: جد آل شامر
+    fatherId: 5c9dadfe-6eaa-4ac3-ba5f-d1270981d104

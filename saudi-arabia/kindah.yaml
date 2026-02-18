@@ -1,0 +1,62 @@
+family:
+  type: qabila
+  name: كندة
+  visibility: public
+  pinned: true
+  suffixMale: الكندي
+  suffixFemale: الكندية
+  hometown: حضرموت
+  description: |-
+    كندة قبيلة يمنية قحطانية كبيرة أسست مملكة قوية في وسط الجزيرة العربية.
+    منها الشاعر امرؤ القيس بن حجر صاحب أشهر المعلقات، وكانت ملوكها يحكمون نجداً قبل الإسلام.
+persons:
+  - id: a47b5e75-5c60-4ba8-a002-0ffc221a0f17
+    name: كندة
+    sex: male
+    kunya: بن عفير بن عدي
+  - id: 46e06bea-4239-4275-ab4a-58c36baa83e6
+    name: معاوية
+    sex: male
+    kunya: بن كندة
+    fatherId: a47b5e75-5c60-4ba8-a002-0ffc221a0f17
+  - id: 061f4696-6b99-49e7-8b4a-b247f6721379
+    name: ثور
+    sex: male
+    kunya: مرتع
+    fatherId: 46e06bea-4239-4275-ab4a-58c36baa83e6
+  - id: 88048e26-ae7e-46a4-b87d-cc0d6414b443
+    name: معاوية
+    sex: male
+    kunya: الأكرمين
+    fatherId: 061f4696-6b99-49e7-8b4a-b247f6721379
+  # ── ملوك كندة ──
+  - id: 6a3038ab-ff2a-412a-920c-e490a140fb6f
+    name: حجر
+    sex: male
+    nickname: الملك
+    kunya: آكل المرار
+    fatherId: 88048e26-ae7e-46a4-b87d-cc0d6414b443
+  - id: e916de3e-0857-4e79-8722-4fac0b82bd21
+    name: عمرو
+    sex: male
+    nickname: الملك
+    kunya: المقصور
+    fatherId: 6a3038ab-ff2a-412a-920c-e490a140fb6f
+  - id: 55be93d5-3f86-411b-a597-6f2e844901cd
+    name: الحارث
+    sex: male
+    nickname: الملك
+    kunya: بن عمرو
+    fatherId: e916de3e-0857-4e79-8722-4fac0b82bd21
+  - id: 501e59ea-1a1c-4a1c-b17f-cc64d53729c7
+    name: حجر
+    sex: male
+    nickname: الملك
+    kunya: بن الحارث
+    fatherId: 55be93d5-3f86-411b-a597-6f2e844901cd
+  - id: e09054de-3e96-4e74-a49e-60a91396ed2a
+    name: امرؤ القيس
+    sex: male
+    nickname: الشاعر
+    kunya: الملك الضليل
+    fatherId: 501e59ea-1a1c-4a1c-b17f-cc64d53729c7

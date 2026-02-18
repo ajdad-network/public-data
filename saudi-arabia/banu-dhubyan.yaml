@@ -1,0 +1,69 @@
+family:
+  type: qabila
+  name: بنو ذبيان
+  visibility: public
+  pinned: true
+  suffixMale: الذبياني
+  suffixFemale: الذبيانية
+  hometown: نجد
+  description: |-
+    بنو ذبيان قبيلة عربية شهيرة من غطفان بن سعد بن قيس عيلان بن مضر.
+    منها الشاعر النابغة الذبياني أحد أصحاب المعلقات، وكان لها دور كبير في حرب داحس والغبراء.
+persons:
+  - id: 7aa5ecfe-650d-4ebd-8a74-26aa6512f657
+    name: قيس عيلان
+    sex: male
+    kunya: بن مضر بن نزار
+  - id: 049510f1-3a51-427a-98a4-dfd6d0550d44
+    name: سعد
+    sex: male
+    fatherId: 7aa5ecfe-650d-4ebd-8a74-26aa6512f657
+  - id: aafe1e5f-429a-400a-a8da-811402cbc353
+    name: غطفان
+    sex: male
+    fatherId: 049510f1-3a51-427a-98a4-dfd6d0550d44
+  - id: cd49ca5b-bdeb-4356-bd78-21e701376c09
+    name: بغيض
+    sex: male
+    fatherId: aafe1e5f-429a-400a-a8da-811402cbc353
+  - id: 1023f851-3f3e-4ac4-b244-475e0e519d21
+    name: ذبيان
+    sex: male
+    fatherId: cd49ca5b-bdeb-4356-bd78-21e701376c09
+  # ── سلسلة نسب النابغة ──
+  - id: 10bbc415-f42c-410b-aa91-580bfb780451
+    name: مرة
+    sex: male
+    fatherId: 1023f851-3f3e-4ac4-b244-475e0e519d21
+  - id: a5cdea18-d9c7-43d7-acc2-3bbaa67c0560
+    name: سعد
+    sex: male
+    kunya: بن مرة
+    fatherId: 10bbc415-f42c-410b-aa91-580bfb780451
+  - id: 74badc9d-a203-4629-9b2b-de9655b0e52a
+    name: ذبيان
+    sex: male
+    kunya: بن سعد
+    fatherId: a5cdea18-d9c7-43d7-acc2-3bbaa67c0560
+  - id: 15a7f6c0-7e73-4aaa-8710-b139e1d96f8f
+    name: جابر
+    sex: male
+    fatherId: 74badc9d-a203-4629-9b2b-de9655b0e52a
+  - id: 0cb22dad-e8c8-4542-87a7-ad9b0249e026
+    name: حبيب
+    sex: male
+    fatherId: 15a7f6c0-7e73-4aaa-8710-b139e1d96f8f
+  - id: 8a655fe8-fc91-43b1-aaef-3071445f0bb9
+    name: معاوية
+    sex: male
+    fatherId: 0cb22dad-e8c8-4542-87a7-ad9b0249e026
+  - id: 4e20c0f3-7085-402d-a3f0-b0d23fcdf8b4
+    name: ضمضم
+    sex: male
+    fatherId: 8a655fe8-fc91-43b1-aaef-3071445f0bb9
+  - id: 3e1bfd96-1950-4dfe-9939-84c31a6cfbe9
+    name: زياد
+    sex: male
+    nickname: النابغة
+    kunya: الذبياني
+    fatherId: 4e20c0f3-7085-402d-a3f0-b0d23fcdf8b4

@@ -1,0 +1,63 @@
+family:
+  type: qabila
+  name: غامد
+  visibility: public
+  pinned: true
+  suffixMale: الغامدي
+  suffixFemale: الغامدية
+  hometown: الباحة
+  description: |-
+    غامد قبيلة عربية كبيرة من الأزد، تنتسب إلى غامد بن عبد الله بن كعب بن الحارث بن كعب بن عبد الله بن مالك بن نصر بن الأزد.
+    موطنها منطقة الباحة في جنوب غرب المملكة العربية السعودية، وهي شقيقة قبيلة زهران.
+persons:
+  - id: 3fbb8f20-510d-4980-b4dd-3f34d5b1b438
+    name: الأزد
+    sex: male
+    kunya: بن الغوث بن نبت
+  - id: d54a4e8b-2ce9-49d0-8989-181574ad4150
+    name: نصر
+    sex: male
+    kunya: بن الأزد
+    fatherId: 3fbb8f20-510d-4980-b4dd-3f34d5b1b438
+  - id: 6fd98f48-484c-4eee-a971-2a5e99cefb42
+    name: مالك
+    sex: male
+    fatherId: d54a4e8b-2ce9-49d0-8989-181574ad4150
+  - id: c9c93507-7985-4dab-9b2d-eaea4e175a2c
+    name: عبد الله
+    sex: male
+    fatherId: 6fd98f48-484c-4eee-a971-2a5e99cefb42
+  - id: 690f190e-e9ad-4d7b-a27b-3b6ac975adf9
+    name: كعب
+    sex: male
+    kunya: بن عبد الله
+    fatherId: c9c93507-7985-4dab-9b2d-eaea4e175a2c
+  - id: 6127c8aa-63c7-48a4-a069-69e084a1a1be
+    name: الحارث
+    sex: male
+    fatherId: 690f190e-e9ad-4d7b-a27b-3b6ac975adf9
+  - id: 36ffd0ff-eaa5-4a76-afbe-3d0d830c2cb4
+    name: كعب
+    sex: male
+    kunya: بن الحارث
+    fatherId: 6127c8aa-63c7-48a4-a069-69e084a1a1be
+  - id: ef6f84e5-4849-44c8-91fd-ce5fd771952e
+    name: عبد الله
+    sex: male
+    kunya: بن كعب
+    fatherId: 36ffd0ff-eaa5-4a76-afbe-3d0d830c2cb4
+  - id: 7fe5e142-d4bc-468e-b672-bf277c577582
+    name: غامد
+    sex: male
+    fatherId: ef6f84e5-4849-44c8-91fd-ce5fd771952e
+  # ── الفروع الرئيسية ──
+  - id: afb185c8-53a4-4c5a-ac24-b4a01f7b2007
+    name: ثابت
+    sex: male
+    kunya: جد بنو ثابت
+    fatherId: 7fe5e142-d4bc-468e-b672-bf277c577582
+  - id: 54d11390-fcbe-450b-b00a-c5e7e7969ee2
+    name: ظبيان
+    sex: male
+    kunya: جد بنو ظبيان
+    fatherId: 7fe5e142-d4bc-468e-b672-bf277c577582

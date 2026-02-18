@@ -1,0 +1,51 @@
+family:
+  type: qabila
+  name: جهينة
+  visibility: public
+  pinned: true
+  suffixMale: الجهني
+  suffixFemale: الجهنية
+  hometown: المدينة المنورة
+  description: |-
+    جهينة من أكبر قبائل الحجاز، تنتسب إلى جهينة بن زيد بن ليث بن سود بن أسلم بن الحاف بن قضاعة.
+    من أوائل القبائل التي ناصرت النبي ﷺ، ولها انتشار واسع في غرب الجزيرة العربية.
+persons:
+  - id: d25bc936-b761-4d9b-a9c4-395e64936258
+    name: قضاعة
+    sex: male
+    kunya: بن معد بن عدنان
+  - id: a0315a1c-5752-426d-8ef7-6c24ed709cdc
+    name: الحاف
+    sex: male
+    fatherId: d25bc936-b761-4d9b-a9c4-395e64936258
+  - id: a5dd49d2-ec27-4370-a825-c5b70b72ee29
+    name: أسلم
+    sex: male
+    fatherId: a0315a1c-5752-426d-8ef7-6c24ed709cdc
+  - id: 37312b38-5563-4c98-903b-cce2f991627a
+    name: سود
+    sex: male
+    fatherId: a5dd49d2-ec27-4370-a825-c5b70b72ee29
+  - id: 96f306d0-f891-47b1-8946-828d705ebd62
+    name: ليث
+    sex: male
+    fatherId: 37312b38-5563-4c98-903b-cce2f991627a
+  - id: 2c166e99-9a19-4331-8724-eb0ec50e62a1
+    name: زيد
+    sex: male
+    fatherId: 96f306d0-f891-47b1-8946-828d705ebd62
+  - id: 6ead9871-e71c-4049-8540-5516db9ef477
+    name: جهينة
+    sex: male
+    fatherId: 2c166e99-9a19-4331-8724-eb0ec50e62a1
+  # ── الفروع الرئيسية ──
+  - id: a6c716c9-7f74-407d-9bf2-1dc7323abdb0
+    name: مالك
+    sex: male
+    kunya: جد بنو مالك
+    fatherId: 6ead9871-e71c-4049-8540-5516db9ef477
+  - id: eceda7b3-e808-4386-ad13-7f28ca1f04a8
+    name: موسى
+    sex: male
+    kunya: جد بنو موسى
+    fatherId: 6ead9871-e71c-4049-8540-5516db9ef477

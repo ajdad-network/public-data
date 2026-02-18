@@ -1,0 +1,56 @@
+family:
+  type: qabila
+  name: بنو حنيفة
+  visibility: public
+  pinned: true
+  suffixMale: الحنفي
+  suffixFemale: الحنفية
+  hometown: اليمامة
+  description: |-
+    بنو حنيفة قبيلة عربية كبيرة من بكر بن وائل، سكنوا اليمامة وأسسوا حضارة زراعية متقدمة فيها.
+    منها مسيلمة بن حبيب الذي ادعى النبوة، وثمامة بن أثال الذي كان سيد أهل اليمامة وأسلم.
+persons:
+  - id: 64715263-54e4-4c56-9b46-73abbed68411
+    name: وائل
+    sex: male
+    kunya: بن قاسط بن هنب
+  - id: 08a6b1f1-3676-47ae-a2f7-6507ad32aa79
+    name: بكر
+    sex: male
+    fatherId: 64715263-54e4-4c56-9b46-73abbed68411
+  - id: e9670f3d-d8ee-433b-8dc1-4d7fdcac645a
+    name: شيبان
+    sex: male
+    fatherId: 08a6b1f1-3676-47ae-a2f7-6507ad32aa79
+  - id: 7ef91b9a-d242-418d-8c7e-807e3a5a74da
+    name: لجيم
+    sex: male
+    fatherId: 08a6b1f1-3676-47ae-a2f7-6507ad32aa79
+  - id: 05defd3d-fec9-4dab-bb40-5a6708d37386
+    name: صعب
+    sex: male
+    fatherId: 7ef91b9a-d242-418d-8c7e-807e3a5a74da
+  - id: b7455485-ba5f-45a2-b2ef-3139a6759b2e
+    name: حنيفة
+    sex: male
+    fatherId: 05defd3d-fec9-4dab-bb40-5a6708d37386
+  # ── أعلام ──
+  - id: 4833a19f-ec0b-48ce-8f3d-691627046c20
+    name: حبيب
+    sex: male
+    fatherId: b7455485-ba5f-45a2-b2ef-3139a6759b2e
+  - id: d9caed40-05ff-4d8b-b2d8-e971bcde1ed1
+    name: مسيلمة
+    sex: male
+    kunya: الكذاب
+    fatherId: 4833a19f-ec0b-48ce-8f3d-691627046c20
+  - id: fbe23f95-250f-4e8a-b2bf-fc719fd4704b
+    name: أثال
+    sex: male
+    fatherId: b7455485-ba5f-45a2-b2ef-3139a6759b2e
+  - id: 4ba0fdb9-8a57-46fb-bdc5-ba782d74bed4
+    name: ثمامة
+    sex: male
+    nickname: الصحابي
+    kunya: بن أثال سيد اليمامة
+    fatherId: fbe23f95-250f-4e8a-b2bf-fc719fd4704b

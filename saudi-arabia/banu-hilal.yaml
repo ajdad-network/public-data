@@ -1,0 +1,52 @@
+family:
+  type: qabila
+  name: بنو هلال
+  visibility: public
+  pinned: true
+  suffixMale: الهلالي
+  suffixFemale: الهلالية
+  hometown: نجد
+  description: |-
+    بنو هلال قبيلة عربية شهيرة من عامر بن صعصعة بن هوازن، اشتهرت بتغريبة بني هلال وهجرتها الكبرى إلى شمال أفريقيا في القرن الحادي عشر الميلادي.
+    من أبرز شخصياتها أبو زيد الهلالي بطل السيرة الشعبية الشهيرة.
+persons:
+  - id: 0c531a1e-b2a5-4c7b-93f9-88da01318405
+    name: هوازن
+    sex: male
+    kunya: بن منصور بن عكرمة
+  - id: fdbae9f3-d317-45fe-9fb0-9d10c529f279
+    name: بكر
+    sex: male
+    fatherId: 0c531a1e-b2a5-4c7b-93f9-88da01318405
+  - id: 44b7779d-815c-45a3-893d-4f994cd54b13
+    name: معاوية
+    sex: male
+    fatherId: fdbae9f3-d317-45fe-9fb0-9d10c529f279
+  - id: c79c0c21-3303-4816-b627-d4d6a5d6dc5b
+    name: صعصعة
+    sex: male
+    fatherId: 44b7779d-815c-45a3-893d-4f994cd54b13
+  - id: 5a58fc67-0125-42c9-807f-0c61cd8e2e24
+    name: عامر
+    sex: male
+    kunya: بن صعصعة
+    fatherId: c79c0c21-3303-4816-b627-d4d6a5d6dc5b
+  - id: 4285a645-51be-4a95-9c1a-a5898527908a
+    name: هلال
+    sex: male
+    fatherId: 5a58fc67-0125-42c9-807f-0c61cd8e2e24
+  # ── الفروع الرئيسية ──
+  - id: 39dd20f9-25c7-4323-81f0-a36c2fe5faf7
+    name: عبد مناف
+    sex: male
+    fatherId: 4285a645-51be-4a95-9c1a-a5898527908a
+  - id: 5a1a0a34-4de3-467e-90b0-b497b37c2a6e
+    name: رياح
+    sex: male
+    kunya: جد بنو رياح
+    fatherId: 4285a645-51be-4a95-9c1a-a5898527908a
+  - id: d23c9bb4-b428-4a40-a688-f2d2c68762ae
+    name: عامر
+    sex: male
+    kunya: جد بنو عامر من هلال
+    fatherId: 4285a645-51be-4a95-9c1a-a5898527908a

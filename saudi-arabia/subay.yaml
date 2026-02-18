@@ -1,0 +1,48 @@
+family:
+  type: qabila
+  name: سبيع
+  visibility: public
+  pinned: true
+  suffixMale: السبيعي
+  suffixFemale: السبيعية
+  hometown: نجد
+  description: |-
+    سبيع من القبائل العربية الكبيرة في نجد، تنتسب إلى عامر بن صعصعة بن معاوية بن بكر بن هوازن.
+    تنقسم إلى قسمين رئيسيين: بنو عامر وآل عمور، ولها انتشار واسع في وسط الجزيرة العربية.
+persons:
+  - id: 6c3588fe-c525-445b-a0f2-7a320735f57c
+    name: هوازن
+    sex: male
+    kunya: بن منصور بن عكرمة
+  - id: fae09865-67d2-4243-aa92-a06a03dcbc6f
+    name: بكر
+    sex: male
+    fatherId: 6c3588fe-c525-445b-a0f2-7a320735f57c
+  - id: 32287a37-218f-469f-9ea9-dc6cb79cdc12
+    name: معاوية
+    sex: male
+    fatherId: fae09865-67d2-4243-aa92-a06a03dcbc6f
+  - id: c098be7f-d614-412b-bba1-881669aad3d5
+    name: صعصعة
+    sex: male
+    fatherId: 32287a37-218f-469f-9ea9-dc6cb79cdc12
+  - id: f231d7fa-a796-42b4-bc3a-b878684b4e39
+    name: عامر
+    sex: male
+    kunya: بن صعصعة
+    fatherId: c098be7f-d614-412b-bba1-881669aad3d5
+  - id: 7347664a-7712-4dcf-a530-edd90eff8ace
+    name: سبيع
+    sex: male
+    fatherId: f231d7fa-a796-42b4-bc3a-b878684b4e39
+  # ── القسمان الرئيسيان ──
+  - id: 42243bd3-8640-4477-a7e7-984550880eea
+    name: عامر
+    sex: male
+    kunya: جد بنو عامر من سبيع
+    fatherId: 7347664a-7712-4dcf-a530-edd90eff8ace
+  - id: 8341dcbb-a734-4fa5-bbf7-d6a76208eaea
+    name: عمور
+    sex: male
+    kunya: جد آل عمور
+    fatherId: 7347664a-7712-4dcf-a530-edd90eff8ace

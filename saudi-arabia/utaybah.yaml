@@ -1,0 +1,47 @@
+family:
+  type: qabila
+  name: عتيبة
+  visibility: public
+  pinned: true
+  suffixMale: العتيبي
+  suffixFemale: العتيبية
+  hometown: نجد
+  description: |-
+    عتيبة من أكبر القبائل العربية في الجزيرة العربية، تنتسب إلى هوازن بن منصور بن عكرمة بن خصفة بن قيس عيلان بن مضر.
+    تنقسم إلى قسمين رئيسيين: بَرْقا ورُوْق، ولها انتشار واسع في نجد والحجاز.
+persons:
+  - id: 897e9b86-3dc9-437e-8259-976634f44eac
+    name: عتيبة
+    sex: male
+    kunya: من هوازن
+  # ── القسمان الرئيسيان ──
+  - id: 7bd53ff5-c644-48e7-99d7-d3e5eba3d24f
+    name: برقا
+    sex: male
+    fatherId: 897e9b86-3dc9-437e-8259-976634f44eac
+  - id: 7de1dfb2-e260-40e5-9953-63e4f78f0a82
+    name: روق
+    sex: male
+    fatherId: 897e9b86-3dc9-437e-8259-976634f44eac
+  # ── فروع برقا ──
+  - id: 2504fde7-8e6d-44ee-b47b-e64347dcd8e6
+    name: نافع
+    sex: male
+    kunya: جد النفعة
+    fatherId: 7bd53ff5-c644-48e7-99d7-d3e5eba3d24f
+  - id: aa75e115-6014-43b5-913b-7b32cf617e8e
+    name: دعيج
+    sex: male
+    kunya: جد الدعاجين
+    fatherId: 7bd53ff5-c644-48e7-99d7-d3e5eba3d24f
+  # ── فروع روق ──
+  - id: 5cad7fb0-05c6-4a4a-b376-cb24f85c47eb
+    name: مزاحم
+    sex: male
+    kunya: جد المزاحمة
+    fatherId: 7de1dfb2-e260-40e5-9953-63e4f78f0a82
+  - id: 7ecea9c5-0641-48ef-b293-90f2de3c9a18
+    name: ثبيت
+    sex: male
+    kunya: جد ذوي ثبيت
+    fatherId: 7de1dfb2-e260-40e5-9953-63e4f78f0a82

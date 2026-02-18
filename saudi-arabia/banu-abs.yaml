@@ -1,0 +1,67 @@
+family:
+  type: qabila
+  name: بنو عبس
+  visibility: public
+  pinned: true
+  suffixMale: العبسي
+  suffixFemale: العبسية
+  hometown: نجد
+  description: |-
+    بنو عبس قبيلة عربية شهيرة من غطفان بن سعد بن قيس عيلان بن مضر.
+    اشتهرت بحرب داحس والغبراء، ومنها الفارس الشاعر عنترة بن شداد.
+persons:
+  - id: 328c1b9e-7d50-4b2c-be6f-84e734d0f2cc
+    name: قيس عيلان
+    sex: male
+    kunya: بن مضر بن نزار
+  - id: b04d8726-4de2-4a6d-9874-017877184962
+    name: سعد
+    sex: male
+    fatherId: 328c1b9e-7d50-4b2c-be6f-84e734d0f2cc
+  - id: fb4157e9-82a4-4566-9ab4-2f7d0f0deb07
+    name: غطفان
+    sex: male
+    fatherId: b04d8726-4de2-4a6d-9874-017877184962
+  - id: bb111934-a05c-4743-9d25-e4e3ff7412a4
+    name: بغيض
+    sex: male
+    fatherId: fb4157e9-82a4-4566-9ab4-2f7d0f0deb07
+  - id: 78ffb6e0-cc97-495b-bb29-719f2bea21a8
+    name: عبس
+    sex: male
+    fatherId: bb111934-a05c-4743-9d25-e4e3ff7412a4
+  # ── سلسلة نسب عنترة ──
+  - id: a1c0f0fe-6689-47ef-9883-fe750203a4b6
+    name: قراد
+    sex: male
+    fatherId: 78ffb6e0-cc97-495b-bb29-719f2bea21a8
+  - id: 16278db2-6267-437b-b66a-41b55b2ed1d4
+    name: مخزوم
+    sex: male
+    fatherId: a1c0f0fe-6689-47ef-9883-fe750203a4b6
+  - id: bc808497-cb53-4e8e-ab68-76a89015141b
+    name: ربيعة
+    sex: male
+    fatherId: 16278db2-6267-437b-b66a-41b55b2ed1d4
+  - id: 4b3d9f4a-f03e-4ea5-a812-b40035f9ec25
+    name: زياد
+    sex: male
+    fatherId: bc808497-cb53-4e8e-ab68-76a89015141b
+  - id: bad5ad82-672e-4b46-94f8-0c1d243c60a7
+    name: عوف
+    sex: male
+    fatherId: 4b3d9f4a-f03e-4ea5-a812-b40035f9ec25
+  - id: a07de153-6e89-48f9-b484-cbe5d94ff83f
+    name: معاوية
+    sex: male
+    fatherId: bad5ad82-672e-4b46-94f8-0c1d243c60a7
+  - id: e3fb1cb6-45b0-4285-9b79-3ba0bf01a39b
+    name: شداد
+    sex: male
+    fatherId: a07de153-6e89-48f9-b484-cbe5d94ff83f
+  - id: 3da0f500-bd10-4437-bb3e-63fbe89e33a2
+    name: عنترة
+    sex: male
+    nickname: الفارس
+    kunya: بن شداد العبسي
+    fatherId: e3fb1cb6-45b0-4285-9b79-3ba0bf01a39b

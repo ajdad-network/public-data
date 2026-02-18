@@ -1,0 +1,61 @@
+family:
+  type: qabila
+  name: الغساسنة
+  visibility: public
+  pinned: true
+  suffixMale: الغساني
+  suffixFemale: الغسانية
+  hometown: الشام
+  description: |-
+    الغساسنة (بنو غسان) سلالة عربية من الأزد حكمت مملكة في بلاد الشام كتابعين للإمبراطورية البيزنطية.
+    امتدت مملكتهم من القرن الثالث حتى الفتح الإسلامي، وكان مقرهم في الجابية والجولان.
+persons:
+  - id: e9d2588a-1ad2-4d65-a4b5-a58ed574219b
+    name: الأزد
+    sex: male
+    kunya: بن الغوث بن نبت
+  - id: 4716c1dd-0bb5-431a-8fb0-6250263c4e96
+    name: مازن
+    sex: male
+    fatherId: e9d2588a-1ad2-4d65-a4b5-a58ed574219b
+  - id: f5875e16-9a87-43e1-a7f2-5e7034936ae0
+    name: غسان
+    sex: male
+    fatherId: 4716c1dd-0bb5-431a-8fb0-6250263c4e96
+  # ── ملوك الغساسنة ──
+  - id: ee7e3fff-af25-423e-9ec3-ed47a414c26d
+    name: جفنة
+    sex: male
+    nickname: الملك
+    kunya: بن عمرو مؤسس السلالة
+    fatherId: f5875e16-9a87-43e1-a7f2-5e7034936ae0
+  - id: 3ef65e1f-eb17-4759-8e6f-2393dd9c06ef
+    name: الحارث
+    sex: male
+    nickname: الملك
+    kunya: بن جبلة
+    fatherId: ee7e3fff-af25-423e-9ec3-ed47a414c26d
+  - id: 7a414d41-65fe-4039-9ce7-c8e40a7228db
+    name: المنذر
+    sex: male
+    nickname: الملك
+    kunya: بن الحارث
+    fatherId: 3ef65e1f-eb17-4759-8e6f-2393dd9c06ef
+  - id: 5d08aff1-48a6-49e2-8b15-2edcabbb3197
+    name: النعمان
+    sex: male
+    nickname: الملك
+    kunya: بن المنذر
+    fatherId: 7a414d41-65fe-4039-9ce7-c8e40a7228db
+  - id: 25d37cee-9e7d-42a1-b07b-6c318cbc2fd0
+    name: الحارث
+    sex: male
+    nickname: الملك
+    kunya: بن الحارث بن جبلة
+    fatherId: 3ef65e1f-eb17-4759-8e6f-2393dd9c06ef
+  - id: e8670854-8041-442c-875a-0050c22161f6
+    name: جبلة
+    sex: male
+    nickname: الملك
+    kunya: بن الأيهم آخر ملوك الغساسنة
+    fatherId: 25d37cee-9e7d-42a1-b07b-6c318cbc2fd0

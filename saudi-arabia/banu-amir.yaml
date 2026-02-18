@@ -1,0 +1,73 @@
+family:
+  type: qabila
+  name: بنو عامر بن صعصعة
+  visibility: public
+  pinned: true
+  suffixMale: العامري
+  suffixFemale: العامرية
+  hometown: نجد
+  description: |-
+    بنو عامر بن صعصعة من أكبر القبائل العربية، تنتسب إلى عامر بن صعصعة بن معاوية بن بكر بن هوازن.
+    منها فروع كثيرة أبرزها بنو كلاب وبنو نمير وبنو هلال وبنو كعب وبنو قشير. أنجبت شعراء وفرساناً كثيرين منهم لبيد بن ربيعة.
+persons:
+  - id: ed355a09-a198-4ee6-9fda-7a6b9ed36183
+    name: هوازن
+    sex: male
+    kunya: بن منصور بن عكرمة
+  - id: 126161bf-bce1-4eeb-87fc-a2a97a35ac4e
+    name: بكر
+    sex: male
+    fatherId: ed355a09-a198-4ee6-9fda-7a6b9ed36183
+  - id: fdd9f6d5-977c-411c-bc7b-61c6681a0504
+    name: معاوية
+    sex: male
+    fatherId: 126161bf-bce1-4eeb-87fc-a2a97a35ac4e
+  - id: 3695bff4-d1f4-4a14-8e72-e613b577bdb9
+    name: صعصعة
+    sex: male
+    fatherId: fdd9f6d5-977c-411c-bc7b-61c6681a0504
+  - id: ab6efa16-126b-444d-89a7-d0613f1613c3
+    name: عامر
+    sex: male
+    kunya: بن صعصعة
+    fatherId: 3695bff4-d1f4-4a14-8e72-e613b577bdb9
+  # ── الفروع الرئيسية ──
+  - id: 45016c56-09f8-41c7-bab6-0d7694561b6c
+    name: كلاب
+    sex: male
+    kunya: جد بنو كلاب
+    fatherId: ab6efa16-126b-444d-89a7-d0613f1613c3
+  - id: c5db024d-725a-491f-b89c-b143607fa5f0
+    name: نمير
+    sex: male
+    kunya: جد بنو نمير
+    fatherId: ab6efa16-126b-444d-89a7-d0613f1613c3
+  - id: d4b79322-ff0d-4cc4-b35c-16d5f7667349
+    name: كعب
+    sex: male
+    kunya: جد بنو كعب
+    fatherId: ab6efa16-126b-444d-89a7-d0613f1613c3
+  - id: 825494b1-c0fd-41e2-b781-c689c9f3b6df
+    name: قشير
+    sex: male
+    kunya: جد بنو قشير
+    fatherId: ab6efa16-126b-444d-89a7-d0613f1613c3
+  # ── سلسلة نسب لبيد بن ربيعة ──
+  - id: eb868ff0-9594-4114-b5ff-6514a16b2778
+    name: جعفر
+    sex: male
+    fatherId: 45016c56-09f8-41c7-bab6-0d7694561b6c
+  - id: 5e72f65e-a058-45fc-8cd6-6d16175aacd3
+    name: مالك
+    sex: male
+    fatherId: eb868ff0-9594-4114-b5ff-6514a16b2778
+  - id: 6d33e6c5-7571-4476-a041-5afdc5e2a53f
+    name: ربيعة
+    sex: male
+    fatherId: 5e72f65e-a058-45fc-8cd6-6d16175aacd3
+  - id: 5b02a570-3f87-4731-8e1b-481e7dd199ef
+    name: لبيد
+    sex: male
+    nickname: الشاعر
+    kunya: بن ربيعة العامري
+    fatherId: 6d33e6c5-7571-4476-a041-5afdc5e2a53f

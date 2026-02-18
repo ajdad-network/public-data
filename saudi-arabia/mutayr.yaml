@@ -1,0 +1,42 @@
+family:
+  type: qabila
+  name: مطير
+  visibility: public
+  pinned: true
+  suffixMale: المطيري
+  suffixFemale: المطيرية
+  hometown: نجد
+  description: |-
+    مطير من القبائل العربية الكبيرة في نجد، تنتسب إلى غطفان بن سعد بن قيس عيلان بن مضر.
+    تنقسم إلى ثلاثة أقسام رئيسية: بنو عبد الله وعلوى (بريه) وواصل.
+persons:
+  - id: 174b9557-352b-4a73-a76f-5d75f7e0c909
+    name: مطير
+    sex: male
+    kunya: من غطفان
+  # ── الأقسام الرئيسية ──
+  - id: d30cae17-971a-421d-87f1-9fed76e381cc
+    name: عبد الله
+    sex: male
+    kunya: جد بنو عبد الله
+    fatherId: 174b9557-352b-4a73-a76f-5d75f7e0c909
+  - id: d36ce772-3fd0-4f40-a124-15aee10e7dab
+    name: علوى
+    sex: male
+    kunya: بريه
+    fatherId: 174b9557-352b-4a73-a76f-5d75f7e0c909
+  - id: 8a920728-1730-424e-9d1d-a0c468586ebf
+    name: واصل
+    sex: male
+    fatherId: 174b9557-352b-4a73-a76f-5d75f7e0c909
+  # ── فروع بنو عبد الله ──
+  - id: 1bf4bebe-2bd3-4453-8dbd-4930be1b6b52
+    name: شلوى
+    sex: male
+    kunya: جد الشلاوى
+    fatherId: d30cae17-971a-421d-87f1-9fed76e381cc
+  - id: 2f4c4e42-88b9-4016-a07b-c46d357cf56f
+    name: عون
+    sex: male
+    kunya: جد ذوي عون
+    fatherId: d30cae17-971a-421d-87f1-9fed76e381cc

@@ -1,0 +1,39 @@
+family:
+  type: qabila
+  name: بلي
+  visibility: public
+  pinned: true
+  suffixMale: البلوي
+  suffixFemale: البلوية
+  hometown: تبوك
+  description: |-
+    بلي قبيلة عربية كبيرة من قضاعة، تنتسب إلى بلي بن عمرو بن الحاف بن قضاعة.
+    موطنها شمال غرب الجزيرة العربية في منطقة تبوك ووادي القرى، ولها حضور تاريخي كبير.
+persons:
+  - id: d1c5598e-6fc5-4c2e-85ca-762e0529bbe4
+    name: قضاعة
+    sex: male
+    kunya: بن معد بن عدنان
+  - id: e23e0d47-5a5e-475b-be16-4bf7e0468cc5
+    name: الحاف
+    sex: male
+    fatherId: d1c5598e-6fc5-4c2e-85ca-762e0529bbe4
+  - id: 5cff5e03-e5cf-4a28-bd3d-c34259852b8a
+    name: عمرو
+    sex: male
+    fatherId: e23e0d47-5a5e-475b-be16-4bf7e0468cc5
+  - id: 51805c8f-e4a9-45c6-97c7-0e477eeb3958
+    name: بلي
+    sex: male
+    fatherId: 5cff5e03-e5cf-4a28-bd3d-c34259852b8a
+  # ── الفروع الرئيسية ──
+  - id: 7e732f97-0024-4e2d-884a-2d7e0c6f0b41
+    name: هُنيء
+    sex: male
+    kunya: جد بنو هنيء
+    fatherId: 51805c8f-e4a9-45c6-97c7-0e477eeb3958
+  - id: 3efd33b3-49ad-4d90-8085-009be1487b2f
+    name: فِران
+    sex: male
+    kunya: جد بنو فران
+    fatherId: 51805c8f-e4a9-45c6-97c7-0e477eeb3958

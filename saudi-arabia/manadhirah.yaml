@@ -1,0 +1,71 @@
+family:
+  type: qabila
+  name: المناذرة
+  visibility: public
+  pinned: true
+  suffixMale: اللخمي
+  suffixFemale: اللخمية
+  hometown: الحيرة
+  description: |-
+    المناذرة (بنو لخم) سلالة عربية حكمت مملكة الحيرة في جنوب العراق كتابعين للإمبراطورية الساسانية.
+    امتدت مملكتهم من القرن الثالث حتى القرن السابع الميلادي، وكان بلاطهم مركزاً للشعر والأدب العربي.
+persons:
+  - id: 20c782f0-114e-406e-9238-b2763e9db759
+    name: لخم
+    sex: male
+    kunya: بن عدي بن الحارث
+  - id: baaf198b-1c2b-4b54-84bd-7938acbb6d0b
+    name: عمرو
+    sex: male
+    fatherId: 20c782f0-114e-406e-9238-b2763e9db759
+  - id: 57bb2924-0e50-4bfb-9488-a9aa3e4066ec
+    name: عدي
+    sex: male
+    fatherId: baaf198b-1c2b-4b54-84bd-7938acbb6d0b
+  - id: 57b67ca8-8c61-487c-ae6e-2ce8da3df979
+    name: نصر
+    sex: male
+    fatherId: 57bb2924-0e50-4bfb-9488-a9aa3e4066ec
+  # ── ملوك الحيرة ──
+  - id: 2b3f24e1-53a6-4cb0-8b94-861c8b1790a9
+    name: عمرو
+    sex: male
+    nickname: الملك
+    kunya: بن عدي مؤسس مملكة الحيرة
+    fatherId: 57bb2924-0e50-4bfb-9488-a9aa3e4066ec
+  - id: d1fb4d6f-611b-47a1-b6f9-6022d96520aa
+    name: امرؤ القيس
+    sex: male
+    nickname: الملك
+    kunya: بن عمرو
+    fatherId: 2b3f24e1-53a6-4cb0-8b94-861c8b1790a9
+  - id: 450a94ca-a657-4844-a48e-1785243cf9f0
+    name: النعمان
+    sex: male
+    nickname: الملك
+    kunya: الأول
+    fatherId: d1fb4d6f-611b-47a1-b6f9-6022d96520aa
+  - id: 2a36a2b7-c826-4397-b9a5-320705fee170
+    name: المنذر
+    sex: male
+    nickname: الملك
+    kunya: الأول
+    fatherId: 450a94ca-a657-4844-a48e-1785243cf9f0
+  - id: 43dea285-27a0-419b-add7-435a3c041693
+    name: المنذر
+    sex: male
+    nickname: الملك
+    kunya: الثالث ابن ماء السماء
+    fatherId: 2a36a2b7-c826-4397-b9a5-320705fee170
+  - id: 392aaeca-97da-465a-a18c-2f5c776ee7f1
+    name: عمرو
+    sex: male
+    nickname: الملك
+    kunya: بن هند
+    fatherId: 43dea285-27a0-419b-add7-435a3c041693
+  - id: dcc77138-e386-4939-a253-36a97522fc7a
+    name: النعمان
+    sex: male
+    nickname: الملك
+    kunya: الثالث أبو قابوس
+    fatherId: 43dea285-27a0-419b-add7-435a3c041693

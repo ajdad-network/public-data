@@ -1,0 +1,41 @@
+family:
+  type: qabila
+  name: قحطان
+  visibility: public
+  pinned: true
+  suffixMale: القحطاني
+  suffixFemale: القحطانية
+  hometown: جنوب نجد
+  description: |-
+    قحطان من أكبر القبائل العربية في جنوب الجزيرة العربية، تنتسب إلى مذحج بن أدد بن زيد بن يشجب بن عريب بن زيد بن كهلان بن سبأ بن يشجب بن يعرب بن قحطان.
+    تنقسم إلى عدة بطون رئيسية أبرزها جنب وسنحان وعبيدة والحباب ورفيدة.
+persons:
+  - id: 525327b4-bc6d-4651-bd66-3bdff452ff89
+    name: قحطان
+    sex: male
+  - id: 7c6bcbb3-33ca-47d3-9774-094a34e0f63a
+    name: مذحج
+    sex: male
+    kunya: بن أدد
+    fatherId: 525327b4-bc6d-4651-bd66-3bdff452ff89
+  # ── البطون الرئيسية ──
+  - id: 942c0fa3-ac88-40a5-89bc-6c7555077666
+    name: جنب
+    sex: male
+    fatherId: 7c6bcbb3-33ca-47d3-9774-094a34e0f63a
+  - id: 10bd8c3d-82e9-4a8b-9264-ce8b154c48f1
+    name: سنحان
+    sex: male
+    fatherId: 7c6bcbb3-33ca-47d3-9774-094a34e0f63a
+  - id: 0797dfe3-6efe-42ad-9448-c53ceac8b1eb
+    name: عبيدة
+    sex: male
+    fatherId: 7c6bcbb3-33ca-47d3-9774-094a34e0f63a
+  - id: 116ee4a5-dcb5-470d-a743-5729edc1e922
+    name: الحباب
+    sex: male
+    fatherId: 7c6bcbb3-33ca-47d3-9774-094a34e0f63a
+  - id: d2ea8d70-507a-4c92-9ce9-5ab3f4e9fb28
+    name: رفيدة
+    sex: male
+    fatherId: 7c6bcbb3-33ca-47d3-9774-094a34e0f63a
