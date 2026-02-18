@@ -1,0 +1,61 @@
+family:
+  type: aal
+  name: البويهيون
+  visibility: public
+  pinned: true
+  suffixMale: البويهي
+  suffixFemale: البويهية
+  hometown: بغداد
+  description: |-
+    البويهيون (آل بويه) سلالة ديلمية فارسية حكمت العراق وفارس (٩٣٤-١٠٦٢م).
+    سيطروا على الخلافة العباسية في بغداد وحكموا باسم الخليفة. أسسها الإخوة الثلاثة أبناء بويه.
+persons:
+  - id: e1051e9f-7f7a-4fe9-b692-0e9af52728df
+    name: بويه
+    sex: male
+    kunya: بن فناخسرو الجد الأعلى
+  - id: 74df07ab-6ac5-4274-bc07-e1244cd6393f
+    name: علي
+    sex: male
+    nickname: الأمير
+    kunya: عماد الدولة
+    fatherId: e1051e9f-7f7a-4fe9-b692-0e9af52728df
+  - id: fc1e719e-67bf-450c-aed0-d2e0046cfa27
+    name: الحسن
+    sex: male
+    nickname: الأمير
+    kunya: ركن الدولة
+    fatherId: e1051e9f-7f7a-4fe9-b692-0e9af52728df
+  - id: 8c2d4bcf-87e0-45b8-b3e3-f41a47092ce2
+    name: أحمد
+    sex: male
+    nickname: الأمير
+    kunya: معز الدولة
+    fatherId: e1051e9f-7f7a-4fe9-b692-0e9af52728df
+  - id: 6996f6c6-1a0f-4dcb-89cf-b87fd8b50e40
+    name: فناخسرو
+    sex: male
+    nickname: الملك
+    kunya: عضد الدولة
+    fatherId: fc1e719e-67bf-450c-aed0-d2e0046cfa27
+  - id: 856fbdb0-5c0c-4178-86be-c2d6a9720c19
+    name: شرف الدولة
+    sex: male
+    fatherId: 6996f6c6-1a0f-4dcb-89cf-b87fd8b50e40
+  - id: 8f61498b-042a-40af-b5db-90b81d0a96d1
+    name: بهاء الدولة
+    sex: male
+    fatherId: 6996f6c6-1a0f-4dcb-89cf-b87fd8b50e40
+  - id: 1900d913-000e-4026-b307-1bc6b304694b
+    name: سلطان الدولة
+    sex: male
+    fatherId: 8f61498b-042a-40af-b5db-90b81d0a96d1
+  - id: da6d8829-9e28-4eea-a1ed-0ed134a7b014
+    name: أبو كاليجار
+    sex: male
+    fatherId: 1900d913-000e-4026-b307-1bc6b304694b
+  - id: 7d758e1c-6f74-429d-8025-100cb29bf9a6
+    name: الرحيم
+    sex: male
+    kunya: آخر البويهيين
+    fatherId: da6d8829-9e28-4eea-a1ed-0ed134a7b014

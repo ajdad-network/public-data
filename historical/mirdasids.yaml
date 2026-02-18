@@ -1,0 +1,52 @@
+family:
+  type: aal
+  name: بنو مرداس
+  visibility: public
+  pinned: true
+  suffixMale: المرداسي
+  suffixFemale: المرداسية
+  hometown: حلب
+  description: |-
+    بنو مرداس سلالة عربية من بني كلاب حكمت حلب (١٠٢٤-١٠٨٠م).
+    أسسها صالح بن مرداس وعُرفوا بصراعهم مع الفاطميين والبيزنطيين.
+persons:
+  - id: 9d4befc4-a026-410e-85cc-4f94e4c327f3
+    name: مرداس
+    sex: male
+    kunya: بن إدريس الكلابي
+  - id: d4dec5d5-3d1a-4bae-a4f9-029a480386ab
+    name: صالح
+    sex: male
+    nickname: الأمير
+    kunya: أسد الدولة المؤسس
+    fatherId: 9d4befc4-a026-410e-85cc-4f94e4c327f3
+  - id: dc798857-76f6-412a-aa90-c49ffb6cc00d
+    name: نصر
+    sex: male
+    nickname: الأمير
+    kunya: شبل الدولة
+    fatherId: d4dec5d5-3d1a-4bae-a4f9-029a480386ab
+  - id: 71b32783-ef0e-4ec5-9d3f-9963cb5d439b
+    name: ثمال
+    sex: male
+    nickname: الأمير
+    kunya: معز الدولة
+    fatherId: d4dec5d5-3d1a-4bae-a4f9-029a480386ab
+  - id: 0c20a94c-9fac-441c-b4b4-11e8154cdf88
+    name: عطية
+    sex: male
+    nickname: الأمير
+    kunya: رشيد الدولة
+    fatherId: d4dec5d5-3d1a-4bae-a4f9-029a480386ab
+  - id: 838af472-3548-48d1-8c1e-58e3f2538a65
+    name: محمود
+    sex: male
+    nickname: الأمير
+    kunya: نصر الدولة
+    fatherId: dc798857-76f6-412a-aa90-c49ffb6cc00d
+  - id: 513cf663-65ca-4781-9a57-4c48e30535bd
+    name: نصر
+    sex: male
+    nickname: الأمير
+    kunya: آخر بني مرداس
+    fatherId: 838af472-3548-48d1-8c1e-58e3f2538a65

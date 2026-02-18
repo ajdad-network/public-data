@@ -1,0 +1,37 @@
+family:
+  type: qabila
+  name: العتوب
+  visibility: public
+  pinned: true
+  suffixMale: العتبي
+  suffixFemale: العتبية
+  hometown: الكويت
+  description: |-
+    العتوب حلف قبلي عربي من عنزة هاجر من نجد إلى الساحل في القرن السابع عشر.
+    منهم آل صباح حكام الكويت وآل خليفة حكام البحرين وآل جلاهمة.
+persons:
+  - id: 814a42f8-19e8-4024-bb9d-547072c17848
+    name: عتبة
+    sex: male
+    kunya: الجد الأعلى
+  # ── الفروع الرئيسية ──
+  - id: 41492f84-dad5-401d-b048-fe906d964a85
+    name: صباح
+    sex: male
+    kunya: جد آل صباح
+    fatherId: 814a42f8-19e8-4024-bb9d-547072c17848
+  - id: 98b951f7-2262-40a4-bf48-8b7cf5c5b378
+    name: خليفة
+    sex: male
+    kunya: جد آل خليفة
+    fatherId: 814a42f8-19e8-4024-bb9d-547072c17848
+  - id: b6e5e6e6-de0c-4d00-950a-cd8e42bed00f
+    name: جلاهمة
+    sex: male
+    kunya: جد آل جلاهمة
+    fatherId: 814a42f8-19e8-4024-bb9d-547072c17848
+  - id: e1a19ede-bccb-4ebe-aa0c-493840d8143c
+    name: فاضل
+    sex: male
+    kunya: جد الفواضل
+    fatherId: 814a42f8-19e8-4024-bb9d-547072c17848

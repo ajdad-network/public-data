@@ -1,0 +1,57 @@
+family:
+  type: qabila
+  name: بنو ياس
+  visibility: public
+  pinned: true
+  suffixMale: اليسّي
+  suffixFemale: اليسّية
+  hometown: أبوظبي
+  description: |-
+    بنو ياس حلف قبلي كبير في الإمارات يضم نحو عشرين قبيلة.
+    منهم آل نهيان حكام أبوظبي وآل مكتوم حكام دبي. موطنهم الأصلي واحة ليوا.
+persons:
+  - id: 39d17335-c29c-4d50-968f-8615fd6176d7
+    name: ياس
+    sex: male
+    kunya: الجد الأعلى
+  # ── الفروع الرئيسية ──
+  - id: 28967848-2d1f-4abd-bd78-adf26de4c887
+    name: فلاسة
+    sex: male
+    kunya: جد آل بوفلاسة (آل مكتوم)
+    fatherId: 39d17335-c29c-4d50-968f-8615fd6176d7
+  - id: 7f9670c1-74b3-48a9-b4dd-b30c58209c92
+    name: فلاح
+    sex: male
+    kunya: جد آل بوفلاح (آل نهيان)
+    fatherId: 39d17335-c29c-4d50-968f-8615fd6176d7
+  - id: eecc8d84-ea97-4e77-a243-645536df1e89
+    name: مهير
+    sex: male
+    kunya: جد المهيرات
+    fatherId: 39d17335-c29c-4d50-968f-8615fd6176d7
+  - id: 3d9e00b8-3881-47bb-9dbc-cdbcc7e3bf78
+    name: رميثة
+    sex: male
+    kunya: جد الرميثات
+    fatherId: 39d17335-c29c-4d50-968f-8615fd6176d7
+  - id: aa610f23-0317-470f-88e7-6d951c3a8166
+    name: سودان
+    sex: male
+    kunya: جد السودان
+    fatherId: 39d17335-c29c-4d50-968f-8615fd6176d7
+  - id: 89786272-f9be-4966-b547-62ba362dede9
+    name: مزروع
+    sex: male
+    kunya: جد المزاريع
+    fatherId: 39d17335-c29c-4d50-968f-8615fd6176d7
+  - id: 3474f68a-13cb-424b-9ad6-30d35da98720
+    name: حامد
+    sex: male
+    kunya: جد آل بوحامد
+    fatherId: 39d17335-c29c-4d50-968f-8615fd6176d7
+  - id: 9e247d59-df51-40d5-809b-8259bbf9307a
+    name: قبيس
+    sex: male
+    kunya: جد القبيسات
+    fatherId: 39d17335-c29c-4d50-968f-8615fd6176d7

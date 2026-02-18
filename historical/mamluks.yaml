@@ -1,0 +1,96 @@
+family:
+  type: aal
+  name: المماليك
+  visibility: public
+  pinned: true
+  suffixMale: المملوكي
+  suffixFemale: المملوكية
+  hometown: القاهرة
+  description: |-
+    دولة المماليك حكمت مصر والشام (١٢٥٠-١٥١٧م).
+    بدأت بالمماليك البحرية (أتراك وكيبتشاق) ثم البرجية (شراكسة). هزموا المغول في عين جالوت وطردوا الصليبيين.
+persons:
+  - id: 5eff16c0-5ba6-4012-ab46-c340e1fdf072
+    name: عز الدين
+    sex: male
+    nickname: السلطان
+    kunya: أيبك المعزّي
+  - id: eeb0d2c1-08ac-4506-9c57-1e98b018de45
+    name: علي
+    sex: male
+    nickname: السلطان
+    kunya: المنصور
+    fatherId: 5eff16c0-5ba6-4012-ab46-c340e1fdf072
+  - id: 95de2f23-5d00-4676-8633-ba6088e6258f
+    name: قطز
+    sex: male
+    nickname: السلطان
+    kunya: المظفر سيف الدين
+    fatherId: 5eff16c0-5ba6-4012-ab46-c340e1fdf072
+  - id: 96a35686-922d-462e-9f84-76aa5c6d849d
+    name: بيبرس
+    sex: male
+    nickname: السلطان
+    kunya: الظاهر ركن الدين
+    fatherId: 5eff16c0-5ba6-4012-ab46-c340e1fdf072
+  - id: 7e588ce8-ee46-4dbf-b983-b646bd696468
+    name: بركة خان
+    sex: male
+    nickname: السلطان
+    kunya: السعيد
+    fatherId: 96a35686-922d-462e-9f84-76aa5c6d849d
+  - id: 5777511c-cedf-4216-8db8-00ea964d7a07
+    name: قلاوون
+    sex: male
+    nickname: السلطان
+    kunya: المنصور سيف الدين
+    fatherId: 96a35686-922d-462e-9f84-76aa5c6d849d
+  - id: 709675d6-54db-40f7-83eb-12c800af46a8
+    name: خليل
+    sex: male
+    nickname: السلطان
+    kunya: الأشرف فاتح عكا
+    fatherId: 5777511c-cedf-4216-8db8-00ea964d7a07
+  - id: 5fd47547-e0e0-498c-be12-4da3ec24d081
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الناصر
+    fatherId: 5777511c-cedf-4216-8db8-00ea964d7a07
+  - id: 3ad95984-2727-4a15-8af9-4b4f1d60654b
+    name: حسن
+    sex: male
+    nickname: السلطان
+    kunya: الناصر
+    fatherId: 5fd47547-e0e0-498c-be12-4da3ec24d081
+  # ── المماليك البرجية ──
+  - id: e2c274b8-7e13-414d-b2ee-a6dc19b2b88e
+    name: برقوق
+    sex: male
+    nickname: السلطان
+    kunya: الظاهر سيف الدين
+    fatherId: 5fd47547-e0e0-498c-be12-4da3ec24d081
+  - id: 66945795-d43d-494f-8075-ee1617dc489c
+    name: فرج
+    sex: male
+    nickname: السلطان
+    kunya: الناصر
+    fatherId: e2c274b8-7e13-414d-b2ee-a6dc19b2b88e
+  - id: dd3084f9-c43e-4e27-bbaa-39b5886d7162
+    name: برسباي
+    sex: male
+    nickname: السلطان
+    kunya: الأشرف سيف الدين
+    fatherId: e2c274b8-7e13-414d-b2ee-a6dc19b2b88e
+  - id: e28a663c-1f89-4c4a-ae9c-400b5d7a45ef
+    name: قايتباي
+    sex: male
+    nickname: السلطان
+    kunya: الأشرف سيف الدين
+    fatherId: e2c274b8-7e13-414d-b2ee-a6dc19b2b88e
+  - id: bdb2a0b0-6eb3-49e4-a249-a1382e7b4c39
+    name: قانصوه
+    sex: male
+    nickname: السلطان
+    kunya: الغوري آخر المماليك
+    fatherId: e2c274b8-7e13-414d-b2ee-a6dc19b2b88e

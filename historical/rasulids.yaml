@@ -1,0 +1,62 @@
+family:
+  type: aal
+  name: الرسوليون
+  visibility: public
+  pinned: true
+  suffixMale: الرسولي
+  suffixFemale: الرسولية
+  hometown: تعز
+  description: |-
+    الرسوليون سلالة تركمانية حكمت اليمن (١٢٢٩-١٤٥٤م) وهي أطول الدول اليمنية عمراً.
+    أسسها عمر بن رسول واتخذوا تعز عاصمة لهم. اشتهروا برعاية العلوم والمعارف.
+persons:
+  - id: f5f45435-faa7-4eea-bc1f-9daf0ffaad94
+    name: رسول
+    sex: male
+    kunya: الجد الأعلى
+  - id: 006dd766-8e05-49ad-a8b9-7b11a72776ee
+    name: هارون
+    sex: male
+    fatherId: f5f45435-faa7-4eea-bc1f-9daf0ffaad94
+  - id: c68f7c4f-c8ce-4fba-8432-795d866a14b8
+    name: علي
+    sex: male
+    nickname: نور الدين
+    kunya: بن رسول
+    fatherId: f5f45435-faa7-4eea-bc1f-9daf0ffaad94
+  - id: 3b24a908-2b9c-4244-aab1-fc490033433d
+    name: عمر
+    sex: male
+    nickname: السلطان
+    kunya: المنصور المؤسس
+    fatherId: c68f7c4f-c8ce-4fba-8432-795d866a14b8
+  - id: 6596749a-a031-4e3b-b75e-035a395201e7
+    name: يوسف
+    sex: male
+    nickname: السلطان
+    kunya: المظفر
+    fatherId: 3b24a908-2b9c-4244-aab1-fc490033433d
+  - id: c61da7d5-9e6d-4b2d-9cc1-4792c506d3ac
+    name: داود
+    sex: male
+    nickname: السلطان
+    kunya: المؤيد
+    fatherId: 6596749a-a031-4e3b-b75e-035a395201e7
+  - id: 0d30d61e-fddf-4f21-8eeb-fd2468379f02
+    name: إسماعيل
+    sex: male
+    nickname: السلطان
+    kunya: الأشرف
+    fatherId: c61da7d5-9e6d-4b2d-9cc1-4792c506d3ac
+  - id: 230681e7-86b5-4648-adf7-88523bab8e78
+    name: عباس
+    sex: male
+    nickname: السلطان
+    kunya: الأفضل
+    fatherId: 0d30d61e-fddf-4f21-8eeb-fd2468379f02
+  - id: a238c099-7fcf-468e-b6b4-21c7fb8ae454
+    name: إسماعيل
+    sex: male
+    nickname: السلطان
+    kunya: الأشرف الثاني
+    fatherId: 230681e7-86b5-4648-adf7-88523bab8e78

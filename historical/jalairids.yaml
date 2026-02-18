@@ -1,0 +1,44 @@
+family:
+  type: aal
+  name: بنو جلاير
+  visibility: public
+  pinned: true
+  suffixMale: الجلايري
+  suffixFemale: الجلايرية
+  hometown: بغداد
+  description: |-
+    الجلايريون سلالة مغولية حكمت العراق وأذربيجان (١٣٣٥-١٤٣٢م).
+    نشأت بعد انهيار الإلخانات المغولية. أسسها حسن بزرك واتخذوا بغداد عاصمة لهم.
+persons:
+  - id: 0f2451e2-75d9-4547-8722-c3e7327dee2f
+    name: حسن
+    sex: male
+    nickname: السلطان
+    kunya: بزرك المؤسس
+  - id: 29d26041-54fc-4db0-ab2e-498321f255cb
+    name: أويس
+    sex: male
+    nickname: السلطان
+    kunya: الأول
+    fatherId: 0f2451e2-75d9-4547-8722-c3e7327dee2f
+  - id: afa0f1a3-d924-4902-820c-a2508f6745a2
+    name: حسين
+    sex: male
+    nickname: السلطان
+    fatherId: 29d26041-54fc-4db0-ab2e-498321f255cb
+  - id: cf26a75f-c09c-48ba-9765-026649d45ade
+    name: أحمد
+    sex: male
+    nickname: السلطان
+    fatherId: 29d26041-54fc-4db0-ab2e-498321f255cb
+  - id: f39e8ebf-aa33-4d40-b3f4-72e2943385fc
+    name: شاه ولد
+    sex: male
+    nickname: السلطان
+    fatherId: cf26a75f-c09c-48ba-9765-026649d45ade
+  - id: 6b652a6c-6876-4d76-af6f-961a7bd0ef86
+    name: حسين
+    sex: male
+    nickname: السلطان
+    kunya: الثاني آخر الجلايريين
+    fatherId: cf26a75f-c09c-48ba-9765-026649d45ade

@@ -1,0 +1,37 @@
+family:
+  type: qabila
+  name: بنو مالك
+  visibility: public
+  pinned: true
+  suffixMale: المالكي
+  suffixFemale: المالكية
+  hometown: عسير
+  description: |-
+    بنو مالك قبيلة عربية كبيرة من الأزد تسكن منطقة عسير جنوب السعودية.
+    تنتسب إلى مالك بن عمرو بن الأزد. من أكبر قبائل المنطقة وتنتشر في السراة وتهامة.
+persons:
+  - id: 43c4eeb6-1407-4b28-b5ce-a2a0c2a93b0d
+    name: مالك
+    sex: male
+    kunya: بن عمرو بن الأزد
+  # ── الفروع الرئيسية ──
+  - id: c338b209-baac-416c-ad97-91ce4b3f7f6c
+    name: ثوابة
+    sex: male
+    kunya: جد آل ثوابة
+    fatherId: 43c4eeb6-1407-4b28-b5ce-a2a0c2a93b0d
+  - id: cce62df7-8e43-485b-baa4-618c6f86bfc8
+    name: موسى
+    sex: male
+    kunya: جد آل موسى
+    fatherId: 43c4eeb6-1407-4b28-b5ce-a2a0c2a93b0d
+  - id: b49a072c-eafc-42e2-87a9-e48834fb8225
+    name: منبّه
+    sex: male
+    kunya: جد آل منبّه
+    fatherId: 43c4eeb6-1407-4b28-b5ce-a2a0c2a93b0d
+  - id: edbaa7fc-d431-4613-a6be-98a73204fdf2
+    name: جنب
+    sex: male
+    kunya: جد بنو جنب
+    fatherId: 43c4eeb6-1407-4b28-b5ce-a2a0c2a93b0d

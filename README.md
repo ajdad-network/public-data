@@ -76,6 +76,11 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [tribes/banu-shahr.yaml](tribes/banu-shahr.yaml) | بنو شهر | النماص |
 | [tribes/balqarn.yaml](tribes/balqarn.yaml) | بلقرن | بلقرن |
 | [tribes/fudul.yaml](tribes/fudul.yaml) | الفضول | نجد |
+| [tribes/banu-yas.yaml](tribes/banu-yas.yaml) | بنو ياس | أبوظبي |
+| [tribes/utub.yaml](tribes/utub.yaml) | العتوب | الكويت |
+| [tribes/sarhan.yaml](tribes/sarhan.yaml) | السرحان | الجوف |
+| [tribes/rijal-alma.yaml](tribes/rijal-alma.yaml) | رجال ألمع | رجال ألمع |
+| [tribes/banu-malik.yaml](tribes/banu-malik.yaml) | بنو مالك | عسير |
 
 ## Historical
 
@@ -116,6 +121,13 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [historical/mahdiyyah.yaml](historical/mahdiyyah.yaml) | المهدية | الدولة المهدية في السودان |
 | [historical/ikhshidids.yaml](historical/ikhshidids.yaml) | الإخشيديون | حكام مصر قبل الفاطميين |
 | [historical/seljuks.yaml](historical/seljuks.yaml) | السلاجقة | الدولة السلجوقية |
+| [historical/buyids.yaml](historical/buyids.yaml) | البويهيون | حكام بغداد وفارس |
+| [historical/rasulids.yaml](historical/rasulids.yaml) | الرسوليون | حكام اليمن |
+| [historical/uqaylids.yaml](historical/uqaylids.yaml) | العقيليون | حكام الموصل |
+| [historical/mirdasids.yaml](historical/mirdasids.yaml) | بنو مرداس | حكام حلب |
+| [historical/mamluks.yaml](historical/mamluks.yaml) | المماليك | سلاطين مصر والشام |
+| [historical/rustamids.yaml](historical/rustamids.yaml) | الرستميون | حكام تاهرت |
+| [historical/jalairids.yaml](historical/jalairids.yaml) | بنو جلاير | حكام العراق بعد المغول |
 
 ## YAML Format
 

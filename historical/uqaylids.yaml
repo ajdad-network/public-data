@@ -1,0 +1,46 @@
+family:
+  type: aal
+  name: العقيليون
+  visibility: public
+  pinned: true
+  suffixMale: العقيلي
+  suffixFemale: العقيلية
+  hometown: الموصل
+  description: |-
+    العقيليون سلالة عربية من بني عقيل بن كعب حكمت الموصل وشمال العراق (٩٩٦-١٠٩٦م).
+    أسسها أبو الذوّاد محمد بن المسيّب. حكموا في ظل نفوذ البويهيين ثم السلاجقة.
+persons:
+  - id: 80efeb3a-ebe9-495c-b47e-25f7262c07ea
+    name: المسيّب
+    sex: male
+    kunya: بن رافع العقيلي
+  - id: ebc78730-8766-41a2-97d2-8bd28f2b1fb2
+    name: محمد
+    sex: male
+    nickname: الأمير
+    kunya: أبو الذوّاد المؤسس
+    fatherId: 80efeb3a-ebe9-495c-b47e-25f7262c07ea
+  - id: 498bb24d-9cb6-4099-abce-23f04e94a4ed
+    name: حسام الدولة
+    sex: male
+    nickname: الأمير
+    kunya: المقلّد
+    fatherId: ebc78730-8766-41a2-97d2-8bd28f2b1fb2
+  - id: 5cc5b724-ed15-4486-8892-2d8981e5aea1
+    name: معتمد الدولة
+    sex: male
+    nickname: الأمير
+    kunya: قرواش
+    fatherId: 498bb24d-9cb6-4099-abce-23f04e94a4ed
+  - id: 59621d38-bf77-42e8-bad3-0e8ef3489620
+    name: علم الدين
+    sex: male
+    nickname: الأمير
+    kunya: قريش
+    fatherId: 498bb24d-9cb6-4099-abce-23f04e94a4ed
+  - id: 22976a28-5c99-49aa-87d1-742d691ec466
+    name: شرف الدولة
+    sex: male
+    nickname: الأمير
+    kunya: مسلم آخر العقيليين
+    fatherId: 59621d38-bf77-42e8-bad3-0e8ef3489620

@@ -1,0 +1,49 @@
+family:
+  type: aal
+  name: الرستميون
+  visibility: public
+  pinned: true
+  suffixMale: الرستمي
+  suffixFemale: الرستمية
+  hometown: تاهرت
+  description: |-
+    الرستميون سلالة فارسية إباضية حكمت المغرب الأوسط من تاهرت (٧٧٦-٩٠٩م).
+    أسسها عبد الرحمن بن رستم. عُرفت دولتهم بالتسامح والازدهار العلمي حتى أسقطها الفاطميون.
+persons:
+  - id: 0099be2c-e30a-480b-80a3-df475b78e8e3
+    name: رستم
+    sex: male
+    kunya: الجد الأعلى
+  - id: f3bfc144-9015-4b1d-8eda-9f7239215e7f
+    name: عبد الرحمن
+    sex: male
+    nickname: الإمام
+    kunya: المؤسس
+    fatherId: 0099be2c-e30a-480b-80a3-df475b78e8e3
+  - id: 9bf91953-0b54-4521-a62a-ed2c4312c903
+    name: عبد الوهاب
+    sex: male
+    nickname: الإمام
+    fatherId: f3bfc144-9015-4b1d-8eda-9f7239215e7f
+  - id: eee135e0-35dc-442c-986e-d81d136b9622
+    name: أفلح
+    sex: male
+    nickname: الإمام
+    fatherId: 9bf91953-0b54-4521-a62a-ed2c4312c903
+  - id: 83092694-e500-4ca6-a40e-68fffa533ace
+    name: أبو بكر
+    sex: male
+    nickname: الإمام
+    fatherId: eee135e0-35dc-442c-986e-d81d136b9622
+  - id: 68df8c22-84c5-4ea7-ad08-abf5975e094d
+    name: أبو حاتم
+    sex: male
+    nickname: الإمام
+    kunya: يوسف
+    fatherId: eee135e0-35dc-442c-986e-d81d136b9622
+  - id: 76e72c8a-f7f6-4b15-8c3c-8867822a668e
+    name: يعقوب
+    sex: male
+    nickname: الإمام
+    kunya: آخر الرستميين
+    fatherId: eee135e0-35dc-442c-986e-d81d136b9622

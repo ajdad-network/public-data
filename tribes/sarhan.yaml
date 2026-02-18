@@ -1,0 +1,37 @@
+family:
+  type: qabila
+  name: السرحان
+  visibility: public
+  pinned: true
+  suffixMale: السرحاني
+  suffixFemale: السرحانية
+  hometown: الجوف
+  description: |-
+    السرحان قبيلة عربية من كلب بن وبرة من قضاعة.
+    تنتشر في الجوف شمال السعودية وشرق الأردن. من فروعها الراشد والنويصر والمسند.
+persons:
+  - id: 6b9bd77a-1e35-40c7-87f9-9af298b21e4e
+    name: سرحان
+    sex: male
+    kunya: الجد الأعلى
+  # ── الفروع الرئيسية ──
+  - id: 96c1795d-7563-4c98-8520-587c343d84e9
+    name: راشد
+    sex: male
+    kunya: جد الراشد
+    fatherId: 6b9bd77a-1e35-40c7-87f9-9af298b21e4e
+  - id: 19be7104-3468-4ee3-af08-6237f8098896
+    name: نويصر
+    sex: male
+    kunya: جد النويصر
+    fatherId: 6b9bd77a-1e35-40c7-87f9-9af298b21e4e
+  - id: 2ad2067e-d943-41f3-a3b8-f8e030611532
+    name: مسند
+    sex: male
+    kunya: جد المسند
+    fatherId: 6b9bd77a-1e35-40c7-87f9-9af298b21e4e
+  - id: 0aa3c43f-de9b-4354-b354-7d8c2ecbf0ed
+    name: غياث
+    sex: male
+    kunya: جد الغياثين
+    fatherId: 6b9bd77a-1e35-40c7-87f9-9af298b21e4e
