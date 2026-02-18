@@ -1,0 +1,66 @@
+family:
+  type: aal
+  name: بنو زيري
+  visibility: public
+  pinned: true
+  suffixMale: الزيري
+  suffixFemale: الزيرية
+  hometown: القيروان
+  description: |-
+    بنو زيري سلالة أمازيغية صنهاجية حكمت إفريقية (٩٧٢-١١٤٨م).
+    أسسها بلكين بن زيري نائباً عن الفاطميين. انقسمت إلى فرعين: بنو زيري في إفريقية وبنو حمّاد في المغرب الأوسط.
+persons:
+  - id: ae0ecc25-e978-43e9-8cdf-5d8260fda2ce
+    name: مناد
+    sex: male
+    kunya: بن منقوش الصنهاجي
+  - id: 496cfc61-6c7b-4b03-aab2-73f6813037b1
+    name: زيري
+    sex: male
+    nickname: الأمير
+    fatherId: ae0ecc25-e978-43e9-8cdf-5d8260fda2ce
+  - id: 3c341f67-c943-46d5-b0e5-7e8b18a32f20
+    name: بلكين
+    sex: male
+    nickname: الأمير
+    kunya: المؤسس
+    fatherId: 496cfc61-6c7b-4b03-aab2-73f6813037b1
+  - id: 3e9d68e2-77ed-4d71-9e6b-34d3f6abdbcd
+    name: المنصور
+    sex: male
+    nickname: الأمير
+    fatherId: 3c341f67-c943-46d5-b0e5-7e8b18a32f20
+  - id: e3e6e267-daee-47c7-8ec9-09fa6e59772c
+    name: باديس
+    sex: male
+    nickname: الأمير
+    fatherId: 3e9d68e2-77ed-4d71-9e6b-34d3f6abdbcd
+  - id: ac1de19e-657c-4ecd-9aa9-376a60f96b5b
+    name: المعز
+    sex: male
+    nickname: الأمير
+    kunya: بن باديس
+    fatherId: e3e6e267-daee-47c7-8ec9-09fa6e59772c
+  - id: 24332758-530a-4172-b3f4-cb873ab3bed7
+    name: تميم
+    sex: male
+    nickname: الأمير
+    fatherId: ac1de19e-657c-4ecd-9aa9-376a60f96b5b
+  # ── فرع بنو حمّاد ──
+  - id: c99b63e3-2ef8-4421-ab32-12f92a0dd77b
+    name: حمّاد
+    sex: male
+    nickname: الأمير
+    kunya: مؤسس القلعة
+    fatherId: 3c341f67-c943-46d5-b0e5-7e8b18a32f20
+  - id: c33d12e4-8397-4d2d-9454-19818aa3af8e
+    name: القائد
+    sex: male
+    nickname: الأمير
+    fatherId: c99b63e3-2ef8-4421-ab32-12f92a0dd77b
+  - id: 6cc06ed9-beec-442c-bc81-281ed5ae5ae2
+    name: الناصر
+    sex: male
+    nickname: الأمير
+    kunya: بن علناس
+    fatherId: c99b63e3-2ef8-4421-ab32-12f92a0dd77b

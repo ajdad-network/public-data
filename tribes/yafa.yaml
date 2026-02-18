@@ -1,0 +1,48 @@
+family:
+  type: qabila
+  name: يافع
+  visibility: public
+  pinned: true
+  suffixMale: اليافعي
+  suffixFemale: اليافعية
+  hometown: يافع
+  description: |-
+    يافع قبيلة عربية كبيرة من حِمْيَر تسكن جنوب اليمن وحضرموت.
+    تنقسم إلى يافع العليا ويافع السفلى. لهم حضور كبير في عدن والخليج وشرق أفريقيا.
+persons:
+  - id: c0c60019-9b71-4662-92e6-9aad4be2a1c8
+    name: يافع
+    sex: male
+    kunya: بن قاول بن زيد
+  # ── يافع العليا ──
+  - id: 40b4d044-9bf1-4cb5-a589-1c49631ee9da
+    name: الموسطة
+    sex: male
+    kunya: جد يافع العليا
+    fatherId: c0c60019-9b71-4662-92e6-9aad4be2a1c8
+  - id: 1bc182a9-4bc2-46a5-a624-d4c3976d234d
+    name: كلد
+    sex: male
+    kunya: جد آل كلد
+    fatherId: 40b4d044-9bf1-4cb5-a589-1c49631ee9da
+  - id: 76d888d8-b0be-4098-8492-105646b19568
+    name: ناخب
+    sex: male
+    kunya: جد الناخبي
+    fatherId: 40b4d044-9bf1-4cb5-a589-1c49631ee9da
+  # ── يافع السفلى ──
+  - id: 3b763f80-f911-412c-80e2-866ddbe09bdc
+    name: يهر
+    sex: male
+    kunya: جد يافع السفلى
+    fatherId: c0c60019-9b71-4662-92e6-9aad4be2a1c8
+  - id: 1b49086a-03f1-42be-bc1d-2e06ee97488f
+    name: لبعوس
+    sex: male
+    kunya: جد آل لبعوس
+    fatherId: 3b763f80-f911-412c-80e2-866ddbe09bdc
+  - id: 9fade0d7-d92f-4e0e-8adf-3ac8d1bf6c25
+    name: مفلحي
+    sex: male
+    kunya: جد المفلحي
+    fatherId: 3b763f80-f911-412c-80e2-866ddbe09bdc

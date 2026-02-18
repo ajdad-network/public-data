@@ -1,0 +1,72 @@
+family:
+  type: qabila
+  name: طيء
+  visibility: public
+  pinned: true
+  suffixMale: الطائي
+  suffixFemale: الطائية
+  hometown: حائل
+  description: |-
+    طيء قبيلة عربية كبرى من كهلان بن سبأ، تُنسب إلى طيء بن أدد.
+    منها حاتم الطائي المشهور بالكرم، وعنترة بن شداد. من فروعها شمّر وبنو لام والفضول. موطنها الأصلي جبلا أجا وسلمى.
+persons:
+  - id: 7be70ac7-1cb8-4880-a984-4c51ca73f5cf
+    name: أدد
+    sex: male
+    kunya: بن زيد بن كهلان
+  - id: 8f588deb-730a-4ab4-b988-629c8dbcff67
+    name: طيء
+    sex: male
+    kunya: جد القبيلة
+    fatherId: 7be70ac7-1cb8-4880-a984-4c51ca73f5cf
+  - id: f7dbd61a-da35-4c65-bdf6-08ebe600cb04
+    name: فطرة
+    sex: male
+    fatherId: 8f588deb-730a-4ab4-b988-629c8dbcff67
+  - id: 4cbdcdb7-dd5e-4da8-9710-f0cdb99c9397
+    name: جُندب
+    sex: male
+    fatherId: f7dbd61a-da35-4c65-bdf6-08ebe600cb04
+  - id: aebc468c-6fac-41ab-9fd1-7c98a068c777
+    name: ثعل
+    sex: male
+    kunya: جد ثعلبة طيء
+    fatherId: 4cbdcdb7-dd5e-4da8-9710-f0cdb99c9397
+  - id: 0ca36160-bdbf-44d0-9e2f-582e0a5330c0
+    name: نبهان
+    sex: male
+    kunya: جد بنو نبهان
+    fatherId: aebc468c-6fac-41ab-9fd1-7c98a068c777
+  - id: a7459d97-967b-490a-94ff-ca53ad70867a
+    name: عبد الله
+    sex: male
+    fatherId: 0ca36160-bdbf-44d0-9e2f-582e0a5330c0
+  - id: 22e84247-f583-4983-bce6-fc04c65ac779
+    name: سعد
+    sex: male
+    fatherId: a7459d97-967b-490a-94ff-ca53ad70867a
+  - id: 0a2e2c6d-fa43-4cfb-a45a-582679759d1e
+    name: حاتم
+    sex: male
+    nickname: الجواد
+    kunya: الطائي
+    fatherId: 22e84247-f583-4983-bce6-fc04c65ac779
+  - id: 740155a4-3a95-4668-815e-af7479162b8b
+    name: عدي
+    sex: male
+    kunya: الصحابي
+    fatherId: 0a2e2c6d-fa43-4cfb-a45a-582679759d1e
+  # ── لام بن عمرو ──
+  - id: 74d1f52c-e163-4d64-8859-086a084762dd
+    name: الغوث
+    sex: male
+    fatherId: 8f588deb-730a-4ab4-b988-629c8dbcff67
+  - id: 99f6496f-960e-4ad4-b5f1-ef4cec5b0c0d
+    name: عمرو
+    sex: male
+    fatherId: 74d1f52c-e163-4d64-8859-086a084762dd
+  - id: 3b3b1d1a-0745-46a7-8dee-381dd11678bb
+    name: لام
+    sex: male
+    kunya: جد بنو لام
+    fatherId: 99f6496f-960e-4ad4-b5f1-ef4cec5b0c0d

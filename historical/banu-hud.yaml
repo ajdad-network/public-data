@@ -1,0 +1,46 @@
+family:
+  type: aal
+  name: بنو هود
+  visibility: public
+  pinned: true
+  suffixMale: الهودي
+  suffixFemale: الهودية
+  hometown: سرقسطة
+  description: |-
+    بنو هود سلالة عربية من جذام حكمت سرقسطة في الأندلس (١٠٣٩-١١١٠م).
+    أسسها سليمان بن هود المستعين. من أكبر ملوك الطوائف وأوسعهم مُلكاً.
+persons:
+  - id: bf51d265-e9eb-47dd-840f-90f7743ab757
+    name: هود
+    sex: male
+    kunya: الجد الأعلى
+  - id: 85bca8d8-a379-4086-8419-6633bff21927
+    name: سليمان
+    sex: male
+    nickname: الملك
+    kunya: المستعين بالله
+    fatherId: bf51d265-e9eb-47dd-840f-90f7743ab757
+  - id: aaa33f6e-b55f-4de4-967d-3e4e00b68f62
+    name: أحمد
+    sex: male
+    nickname: الملك
+    kunya: المقتدر بالله
+    fatherId: 85bca8d8-a379-4086-8419-6633bff21927
+  - id: 8a8ef06c-c4ac-410c-b7c5-2bd7d6466d1c
+    name: يوسف
+    sex: male
+    nickname: الملك
+    kunya: المؤتمن
+    fatherId: aaa33f6e-b55f-4de4-967d-3e4e00b68f62
+  - id: fac8af13-0f1f-465a-a88f-a03c856b05de
+    name: أحمد
+    sex: male
+    nickname: الملك
+    kunya: المستعين الثاني
+    fatherId: 8a8ef06c-c4ac-410c-b7c5-2bd7d6466d1c
+  - id: 64c9f0ea-081c-441f-a2ee-08089f0b8856
+    name: عبد الملك
+    sex: male
+    nickname: الملك
+    kunya: عماد الدولة آخر بني هود
+    fatherId: fac8af13-0f1f-465a-a88f-a03c856b05de

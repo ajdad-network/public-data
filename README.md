@@ -81,6 +81,12 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [tribes/sarhan.yaml](tribes/sarhan.yaml) | السرحان | الجوف |
 | [tribes/rijal-alma.yaml](tribes/rijal-alma.yaml) | رجال ألمع | رجال ألمع |
 | [tribes/banu-malik.yaml](tribes/banu-malik.yaml) | بنو مالك | عسير |
+| [tribes/banu-kaab.yaml](tribes/banu-kaab.yaml) | بنو كعب | الأحواز |
+| [tribes/yafa.yaml](tribes/yafa.yaml) | يافع | يافع |
+| [tribes/shihuh.yaml](tribes/shihuh.yaml) | الشحوح | رأس الخيمة |
+| [tribes/manasir.yaml](tribes/manasir.yaml) | المناصير | الظفرة |
+| [tribes/dhawahir.yaml](tribes/dhawahir.yaml) | الظواهر | العين |
+| [tribes/manahil.yaml](tribes/manahil.yaml) | المناهيل | حضرموت |
 
 ## Historical
 
@@ -128,6 +134,12 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [historical/mamluks.yaml](historical/mamluks.yaml) | المماليك | سلاطين مصر والشام |
 | [historical/rustamids.yaml](historical/rustamids.yaml) | الرستميون | حكام تاهرت |
 | [historical/jalairids.yaml](historical/jalairids.yaml) | بنو جلاير | حكام العراق بعد المغول |
+| [historical/tayy.yaml](historical/tayy.yaml) | طيء | حاتم الطائي وأصل شمّر وبنو لام |
+| [historical/zirids.yaml](historical/zirids.yaml) | بنو زيري | حكام إفريقية وبنو حمّاد |
+| [historical/qarmatians.yaml](historical/qarmatians.yaml) | القرامطة | دولة البحرين والأحساء |
+| [historical/sulayhids.yaml](historical/sulayhids.yaml) | الصليحيون | حكام اليمن والملكة أروى |
+| [historical/tahirids-yemen.yaml](historical/tahirids-yemen.yaml) | الطاهريون | حكام اليمن بعد الرسوليين |
+| [historical/banu-hud.yaml](historical/banu-hud.yaml) | بنو هود | ملوك سرقسطة |
 
 ## YAML Format
 

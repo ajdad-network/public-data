@@ -1,0 +1,45 @@
+family:
+  type: aal
+  name: الطاهريون
+  visibility: public
+  pinned: true
+  suffixMale: الطاهري
+  suffixFemale: الطاهرية
+  hometown: المقرانة
+  description: |-
+    الطاهريون سلالة يمنية حكمت اليمن (١٤٥٤-١٥١٧م) بعد سقوط الدولة الرسولية.
+    أسسها طاهر بن معوضة. انتهت بالغزو المملوكي ثم العثماني لليمن.
+persons:
+  - id: b2da9815-dfd6-44ec-b5ac-93976d201da2
+    name: معوضة
+    sex: male
+    kunya: بن طاهر
+  - id: 94a57380-3993-45eb-9f9e-d20f26c47cc4
+    name: طاهر
+    sex: male
+    nickname: السلطان
+    kunya: المؤسس
+    fatherId: b2da9815-dfd6-44ec-b5ac-93976d201da2
+  - id: 31f2e08e-73e6-4bfa-a278-72d2826db748
+    name: عبد الوهاب
+    sex: male
+    nickname: السلطان
+    fatherId: 94a57380-3993-45eb-9f9e-d20f26c47cc4
+  - id: b05043eb-8792-44b2-a933-0d267228a437
+    name: عامر
+    sex: male
+    nickname: السلطان
+    kunya: المظفر
+    fatherId: 31f2e08e-73e6-4bfa-a278-72d2826db748
+  - id: 736d5871-80b7-49da-b0d1-f5d7eeb9035e
+    name: عبد الوهاب
+    sex: male
+    nickname: السلطان
+    kunya: الثاني
+    fatherId: b05043eb-8792-44b2-a933-0d267228a437
+  - id: c3614ea4-58eb-4a31-96ce-3cbe6299b864
+    name: عامر
+    sex: male
+    nickname: السلطان
+    kunya: الثاني آخر الطاهريين
+    fatherId: 736d5871-80b7-49da-b0d1-f5d7eeb9035e
