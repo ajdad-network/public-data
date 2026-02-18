@@ -1,0 +1,50 @@
+family:
+  type: qabila
+  name: ربيعة
+  visibility: public
+  pinned: true
+  suffixMale: الربعي
+  suffixFemale: الربعية
+  hometown: اليمامة
+  description: |-
+    ربيعة بن نزار أحد أكبر فرعي العدنانيين. منه تفرعت عنزة وبكر بن وائل وتغلب وعبد القيس وبنو حنيفة.
+    سكنت فروعها اليمامة والبحرين والعراق.
+persons:
+  - id: 04d4ddbb-ba92-4bc2-9a47-e6b6bf81b786
+    name: نزار
+    sex: male
+    kunya: بن معد بن عدنان
+  - id: 1fa2fb8e-c1d9-4bfc-9c54-971e3fb45f70
+    name: ربيعة
+    sex: male
+    kunya: جد القبائل الربعية
+    fatherId: 04d4ddbb-ba92-4bc2-9a47-e6b6bf81b786
+  - id: 75a13aff-926f-417b-a6b6-5a1cdcaec459
+    name: أسد
+    sex: male
+    fatherId: 1fa2fb8e-c1d9-4bfc-9c54-971e3fb45f70
+  - id: 2dd40a71-cc09-42dd-a095-a6ca4732e9eb
+    name: وائل
+    sex: male
+    kunya: جد بكر وتغلب
+    fatherId: 75a13aff-926f-417b-a6b6-5a1cdcaec459
+  - id: bf9471b9-983a-486d-bb2d-8c1f006ca79f
+    name: عنزة
+    sex: male
+    kunya: جد قبيلة عنزة
+    fatherId: 75a13aff-926f-417b-a6b6-5a1cdcaec459
+  - id: 0f0db025-c559-4c7e-a406-cd179346f963
+    name: بكر
+    sex: male
+    kunya: جد بكر بن وائل
+    fatherId: 2dd40a71-cc09-42dd-a095-a6ca4732e9eb
+  - id: cad8989f-c679-4a1a-b9c8-b0263f488d72
+    name: تغلب
+    sex: male
+    kunya: جد بنو تغلب
+    fatherId: 2dd40a71-cc09-42dd-a095-a6ca4732e9eb
+  - id: 46b81f87-8dda-45c9-87ec-a00ab2096a9f
+    name: عبد القيس
+    sex: male
+    kunya: جد بنو عبد القيس
+    fatherId: 75a13aff-926f-417b-a6b6-5a1cdcaec459

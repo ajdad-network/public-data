@@ -1,0 +1,41 @@
+family:
+  type: qabila
+  name: بنو عبد القيس
+  visibility: public
+  pinned: true
+  suffixMale: العبدي
+  suffixFemale: العبدية
+  hometown: البحرين
+  description: |-
+    بنو عبد القيس قبيلة عربية ربعية من أكبر قبائل شرق الجزيرة العربية.
+    سكنت البحرين (الأحساء والقطيف) وكانت من أوائل القبائل إسلاماً. وفدهم على النبي ﷺ مشهور.
+persons:
+  - id: 387a6517-3064-4206-95af-bceee8ea61d2
+    name: أسد
+    sex: male
+    kunya: بن ربيعة بن نزار
+  - id: e0faecef-802f-42e5-9243-c169b8e1b360
+    name: عبد القيس
+    sex: male
+    kunya: جد القبيلة
+    fatherId: 387a6517-3064-4206-95af-bceee8ea61d2
+  - id: 6fdbcd4d-749e-44fe-9b78-b1728efacac3
+    name: أفصى
+    sex: male
+    fatherId: e0faecef-802f-42e5-9243-c169b8e1b360
+  - id: 281c8d67-7578-4edc-8aaf-0988929ad988
+    name: نكرة
+    sex: male
+    kunya: جد بنو نكرة
+    fatherId: 6fdbcd4d-749e-44fe-9b78-b1728efacac3
+  - id: 5e4f54b3-88e5-4463-ae06-97de1097d327
+    name: عجل
+    sex: male
+    kunya: جد بنو عجل
+    fatherId: 6fdbcd4d-749e-44fe-9b78-b1728efacac3
+  - id: 4233eb56-6bda-4162-bdfc-22666e792369
+    name: المنذر
+    sex: male
+    nickname: الصحابي
+    kunya: بن عائذ الأشجّ (سيد عبد القيس)
+    fatherId: 281c8d67-7578-4edc-8aaf-0988929ad988

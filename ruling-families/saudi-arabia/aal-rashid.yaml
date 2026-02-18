@@ -1,0 +1,75 @@
+family:
+  type: aal
+  name: بنو الرشيد
+  visibility: public
+  pinned: true
+  suffixMale: الرشيدي
+  suffixFemale: الرشيدية
+  hometown: حائل
+  description: |-
+    بنو الرشيد (آل رشيد) أسرة من عبدة من شمّر حكمت إمارة حائل (١٨٣٦-١٩٢١م).
+    أسسها عبد الله بن رشيد. بلغت أوجها في عهد محمد بن عبد الله الذي وحّد شمال نجد. انتهت بسيطرة آل سعود.
+persons:
+  - id: 0d598dc8-9037-4d2b-aef6-b5052ee5a1ed
+    name: رشيد
+    sex: male
+    kunya: الجد الأعلى
+  - id: 2cabc133-b1a1-48f7-8f5d-4e086346443e
+    name: عبد الله
+    sex: male
+    nickname: الأمير
+    kunya: المؤسس
+    fatherId: 0d598dc8-9037-4d2b-aef6-b5052ee5a1ed
+  - id: be4a3d37-190c-4fb6-a36c-142a23d487ab
+    name: طلال
+    sex: male
+    nickname: الأمير
+    fatherId: 2cabc133-b1a1-48f7-8f5d-4e086346443e
+  - id: 365d5078-c766-4081-99d9-9641385c16a1
+    name: متعب
+    sex: male
+    nickname: الأمير
+    fatherId: 2cabc133-b1a1-48f7-8f5d-4e086346443e
+  - id: a25f2bd3-1939-4cfd-aa1d-bcb6b3d7b222
+    name: محمد
+    sex: male
+    nickname: الأمير
+    kunya: الكبير
+    fatherId: 2cabc133-b1a1-48f7-8f5d-4e086346443e
+  - id: 09b5f517-07d1-49a0-8524-e76b739292e6
+    name: عبد العزيز
+    sex: male
+    nickname: الأمير
+    fatherId: 365d5078-c766-4081-99d9-9641385c16a1
+  - id: f3e5194b-411d-457a-9607-0d31316fd1a0
+    name: بندر
+    sex: male
+    nickname: الأمير
+    fatherId: be4a3d37-190c-4fb6-a36c-142a23d487ab
+  - id: 03910254-2c92-468e-b239-8ccca06b4926
+    name: نواف
+    sex: male
+    nickname: الأمير
+    fatherId: be4a3d37-190c-4fb6-a36c-142a23d487ab
+  - id: 0216a7a7-084f-4042-8bb8-30723a5a5052
+    name: متعب
+    sex: male
+    nickname: الأمير
+    kunya: الثاني
+    fatherId: 09b5f517-07d1-49a0-8524-e76b739292e6
+  - id: 5d051211-b705-491d-9a72-26b81c6066c2
+    name: سلطان
+    sex: male
+    nickname: الأمير
+    fatherId: 0216a7a7-084f-4042-8bb8-30723a5a5052
+  - id: 929f1dd2-e907-48d9-9f91-aff010f6f3ce
+    name: سعود
+    sex: male
+    nickname: الأمير
+    fatherId: 0216a7a7-084f-4042-8bb8-30723a5a5052
+  - id: eff614bc-cd7f-4ae0-8172-99583566459f
+    name: محمد
+    sex: male
+    nickname: الأمير
+    kunya: بن طلال آخر أمراء حائل
+    fatherId: be4a3d37-190c-4fb6-a36c-142a23d487ab

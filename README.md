@@ -34,6 +34,7 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [ruling-families/egypt/muhammad-ali.yaml](ruling-families/egypt/muhammad-ali.yaml) | أسرة محمد علي | آل | مصر |
 | [ruling-families/libya/senussi.yaml](ruling-families/libya/senussi.yaml) | السنوسيون | آل | ليبيا |
 | [ruling-families/yemen/aal-hamid-al-din.yaml](ruling-families/yemen/aal-hamid-al-din.yaml) | آل حميد الدين | آل | اليمن |
+| [ruling-families/saudi-arabia/aal-rashid.yaml](ruling-families/saudi-arabia/aal-rashid.yaml) | بنو الرشيد | آل | السعودية |
 
 ## Tribes
 
@@ -160,6 +161,13 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [historical/bajila.yaml](historical/bajila.yaml) | بجيلة | قبيلة جرير بن عبد الله |
 | [historical/aftasids.yaml](historical/aftasids.yaml) | بنو الأفطس | ملوك بطليوس |
 | [historical/musha-sha-iyyah.yaml](historical/musha-sha-iyyah.yaml) | الموشعشعيون | حكام الأحواز |
+| [historical/mudar.yaml](historical/mudar.yaml) | مُضَر | أصل قريش وتميم وهوازن وغطفان |
+| [historical/rabia.yaml](historical/rabia.yaml) | ربيعة | أصل عنزة وبكر وتغلب وعبد القيس |
+| [historical/hawazin.yaml](historical/hawazin.yaml) | هوازن | أصل عتيبة وبنو عامر |
+| [historical/ghatafan.yaml](historical/ghatafan.yaml) | غطفان | أصل عبس وذبيان وفزارة |
+| [historical/khuzaah.yaml](historical/khuzaah.yaml) | خزاعة | سدنة مكة قبل قريش |
+| [historical/abd-al-qays.yaml](historical/abd-al-qays.yaml) | بنو عبد القيس | قبيلة البحرين القديمة |
+| [historical/daws.yaml](historical/daws.yaml) | دوس | قبيلة أبي هريرة |
 
 ## YAML Format
 

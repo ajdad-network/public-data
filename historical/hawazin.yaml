@@ -1,0 +1,48 @@
+family:
+  type: qabila
+  name: هوازن
+  visibility: public
+  pinned: true
+  suffixMale: الهوازني
+  suffixFemale: الهوازنية
+  hometown: نجد
+  description: |-
+    هوازن بن منصور حلف قبلي عدناني كبير من قيس عيلان.
+    منها عتيبة وبنو عامر بن صعصعة وثقيف وبنو سعد (مرضعة النبي ﷺ). خاضوا معركة حنين ضد المسلمين ثم أسلموا.
+persons:
+  - id: d3772283-ff18-4b48-bbdf-940a8db781a7
+    name: منصور
+    sex: male
+    kunya: بن عكرمة بن قيس عيلان
+  - id: 8bb48577-4bf8-4f7e-801e-3601391b842f
+    name: هوازن
+    sex: male
+    kunya: جد القبيلة
+    fatherId: d3772283-ff18-4b48-bbdf-940a8db781a7
+  - id: 53072f77-5cc0-4b98-9bd4-425a86bd027c
+    name: بكر
+    sex: male
+    fatherId: 8bb48577-4bf8-4f7e-801e-3601391b842f
+  - id: 11a5d095-0709-4401-8a34-dca9a308d968
+    name: معاوية
+    sex: male
+    fatherId: 53072f77-5cc0-4b98-9bd4-425a86bd027c
+  - id: e3eefa6a-d814-433d-a8f6-24c299fcabd8
+    name: صعصعة
+    sex: male
+    fatherId: 11a5d095-0709-4401-8a34-dca9a308d968
+  - id: b6fce771-cd63-43b6-a2ff-74d0512089e2
+    name: عامر
+    sex: male
+    kunya: جد بنو عامر بن صعصعة
+    fatherId: e3eefa6a-d814-433d-a8f6-24c299fcabd8
+  - id: 2a701c1c-a225-4a6b-ae84-354501dd4ea8
+    name: سعد
+    sex: male
+    kunya: جد بنو سعد (حاضنة النبي ﷺ)
+    fatherId: 53072f77-5cc0-4b98-9bd4-425a86bd027c
+  - id: 4cae9865-2264-438d-b370-ff08fc190926
+    name: جشم
+    sex: male
+    kunya: جد بنو جشم
+    fatherId: 8bb48577-4bf8-4f7e-801e-3601391b842f

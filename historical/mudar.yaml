@@ -1,0 +1,48 @@
+family:
+  type: qabila
+  name: مُضَر
+  visibility: public
+  pinned: true
+  suffixMale: المُضَري
+  suffixFemale: المُضَرية
+  hometown: مكة
+  description: |-
+    مُضَر بن نزار أحد أكبر فرعي العدنانيين. منه تفرعت قريش وكنانة وتميم وهوازن وغطفان وهذيل وسليم.
+    يشكل نسله غالبية قبائل شمال ووسط الجزيرة العربية.
+persons:
+  - id: b3257818-15a4-4798-80d1-255fb2ef0024
+    name: عدنان
+    sex: male
+    kunya: الجد الأعلى
+  - id: 63c91e70-d650-491a-a5d8-a70f41197432
+    name: معد
+    sex: male
+    fatherId: b3257818-15a4-4798-80d1-255fb2ef0024
+  - id: 707cbe86-565b-4ed4-a0a9-923414633ccd
+    name: نزار
+    sex: male
+    fatherId: 63c91e70-d650-491a-a5d8-a70f41197432
+  - id: dae5de8a-6ecb-4669-8b3b-2d8a1a276b23
+    name: مُضَر
+    sex: male
+    kunya: جد القبائل المُضَرية
+    fatherId: 707cbe86-565b-4ed4-a0a9-923414633ccd
+  - id: 13d7edb5-47b9-4f07-9d17-daccce1ec6c0
+    name: إلياس
+    sex: male
+    kunya: جد قريش وكنانة وهذيل
+    fatherId: dae5de8a-6ecb-4669-8b3b-2d8a1a276b23
+  - id: 3cf27f01-5ede-4f12-b511-f065059e01bf
+    name: قيس عيلان
+    sex: male
+    kunya: جد هوازن وغطفان وسليم وتميم
+    fatherId: dae5de8a-6ecb-4669-8b3b-2d8a1a276b23
+  - id: 346ab404-e702-42d1-8930-dac66d86c885
+    name: خندف
+    sex: male
+    fatherId: 13d7edb5-47b9-4f07-9d17-daccce1ec6c0
+  - id: 5bcc5564-76e2-494c-b4d6-920bff1290a3
+    name: كنانة
+    sex: male
+    kunya: جد قريش
+    fatherId: 346ab404-e702-42d1-8930-dac66d86c885

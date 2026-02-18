@@ -1,0 +1,49 @@
+family:
+  type: qabila
+  name: غطفان
+  visibility: public
+  pinned: true
+  suffixMale: الغطفاني
+  suffixFemale: الغطفانية
+  hometown: نجد
+  description: |-
+    غطفان بن سعد بن قيس عيلان حلف قبلي عدناني كبير.
+    منها بنو عبس (قبيلة عنترة) وبنو ذبيان (قبيلة النابغة) وبنو فزارة وأشجع.
+persons:
+  - id: ff3c44d1-4b3d-4ebe-a3f5-17c989d87fd6
+    name: سعد
+    sex: male
+    kunya: بن قيس عيلان
+  - id: d073d22a-d630-4fc6-93c5-80f9c55dd547
+    name: غطفان
+    sex: male
+    kunya: جد القبيلة
+    fatherId: ff3c44d1-4b3d-4ebe-a3f5-17c989d87fd6
+  - id: 0e6b7f0f-5954-4f6a-82ae-bb66e599be21
+    name: ريث
+    sex: male
+    fatherId: d073d22a-d630-4fc6-93c5-80f9c55dd547
+  - id: 398197e4-b2e4-4fa0-8e17-d24cbfe6ad95
+    name: بغيض
+    sex: male
+    fatherId: d073d22a-d630-4fc6-93c5-80f9c55dd547
+  - id: 75d058dd-68a9-4c83-ac9d-cc3df97c7944
+    name: عبس
+    sex: male
+    kunya: جد بنو عبس
+    fatherId: 398197e4-b2e4-4fa0-8e17-d24cbfe6ad95
+  - id: 4a6059a7-1ee6-4127-bfcf-699c43de1d12
+    name: ذبيان
+    sex: male
+    kunya: جد بنو ذبيان
+    fatherId: 398197e4-b2e4-4fa0-8e17-d24cbfe6ad95
+  - id: a5b3c00a-685d-4591-bedb-aa00228e1700
+    name: أشجع
+    sex: male
+    kunya: جد بنو أشجع
+    fatherId: 0e6b7f0f-5954-4f6a-82ae-bb66e599be21
+  - id: c20636b7-c973-4b7c-8c14-1ed5291552ea
+    name: فزارة
+    sex: male
+    kunya: جد بنو فزارة
+    fatherId: 0e6b7f0f-5954-4f6a-82ae-bb66e599be21

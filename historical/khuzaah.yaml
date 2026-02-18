@@ -1,0 +1,46 @@
+family:
+  type: qabila
+  name: خزاعة
+  visibility: public
+  pinned: true
+  suffixMale: الخزاعي
+  suffixFemale: الخزاعية
+  hometown: مكة
+  description: |-
+    خزاعة قبيلة عربية من الأزد. كانت سادنة الكعبة وحاكمة مكة قبل قريش.
+    أسس عمرو بن لُحَيّ عبادة الأصنام فيها حسب الرواية. حالفوا النبي ﷺ وكان نقض قريش لعهدهم سبب فتح مكة.
+persons:
+  - id: e98b877b-5625-46b0-a28d-b4bf49888607
+    name: مازن
+    sex: male
+    kunya: بن الأزد
+  - id: 7c917a66-52aa-454d-ac0e-0d18f8aa624c
+    name: حارثة
+    sex: male
+    kunya: (خزاعة) جد القبيلة
+    fatherId: e98b877b-5625-46b0-a28d-b4bf49888607
+  - id: 474a0494-e1a8-4bd8-be77-bde6e7de429b
+    name: عمرو
+    sex: male
+    kunya: بن لُحَيّ
+    fatherId: 7c917a66-52aa-454d-ac0e-0d18f8aa624c
+  - id: bf1466dc-a983-4e6c-9b3d-8e3c9680dad1
+    name: كعب
+    sex: male
+    fatherId: 474a0494-e1a8-4bd8-be77-bde6e7de429b
+  - id: 0ee34cb4-6eb9-4db1-9cb5-35927a15d20f
+    name: مُلَيح
+    sex: male
+    kunya: جد بنو مُلَيح
+    fatherId: 7c917a66-52aa-454d-ac0e-0d18f8aa624c
+  - id: a6e8c94c-00f7-4206-8bed-72a600f2e219
+    name: عدي
+    sex: male
+    kunya: جد بنو عدي
+    fatherId: 7c917a66-52aa-454d-ac0e-0d18f8aa624c
+  - id: 47399c65-8921-47c7-89bc-60a0af2055e2
+    name: بديل
+    sex: male
+    nickname: الصحابي
+    kunya: بن ورقاء الخزاعي
+    fatherId: bf1466dc-a983-4e6c-9b3d-8e3c9680dad1

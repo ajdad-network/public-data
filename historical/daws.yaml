@@ -1,0 +1,65 @@
+family:
+  type: qabila
+  name: دوس
+  visibility: public
+  pinned: true
+  suffixMale: الدوسي
+  suffixFemale: الدوسية
+  hometown: الباحة
+  description: |-
+    دوس قبيلة عربية من الأزد تنتسب إلى دوس بن عدثان بن عبد الله بن زهران.
+    اشتهر منها الصحابي أبو هريرة والطفيل بن عمرو الدوسي. موطنها منطقة الباحة.
+persons:
+  - id: a8f9440f-e6da-4513-b825-3e2beb488315
+    name: زهران
+    sex: male
+    kunya: بن كعب بن الأزد
+  - id: 05866aa1-307c-4c18-b8da-06bc54e1d81a
+    name: عبد الله
+    sex: male
+    fatherId: a8f9440f-e6da-4513-b825-3e2beb488315
+  - id: 8e5e4e16-51b2-4928-a6ea-e3b885c1422c
+    name: عدثان
+    sex: male
+    fatherId: 05866aa1-307c-4c18-b8da-06bc54e1d81a
+  - id: b8ce0c84-4ca3-42b7-b47d-aa4bd3f4521c
+    name: دوس
+    sex: male
+    kunya: جد القبيلة
+    fatherId: 8e5e4e16-51b2-4928-a6ea-e3b885c1422c
+  - id: 59dc0776-d77f-4ead-82c7-a7ceb078bdb2
+    name: منهب
+    sex: male
+    fatherId: b8ce0c84-4ca3-42b7-b47d-aa4bd3f4521c
+  - id: 47c55dcc-23d5-49b0-9b3d-501d2064e69b
+    name: عمرو
+    sex: male
+    fatherId: 59dc0776-d77f-4ead-82c7-a7ceb078bdb2
+  - id: 9aec56ad-2397-4a0e-bae3-9c923be3ab0f
+    name: الطفيل
+    sex: male
+    nickname: الصحابي
+    kunya: بن عمرو ذو النور
+    fatherId: 47c55dcc-23d5-49b0-9b3d-501d2064e69b
+  - id: b62d1204-6cc3-4f38-a2ed-6e98b9ec31ab
+    name: سليم
+    sex: male
+    fatherId: b8ce0c84-4ca3-42b7-b47d-aa4bd3f4521c
+  - id: 53ea0654-e7d4-4d3b-b21b-81ff82c02a9f
+    name: عامر
+    sex: male
+    fatherId: b62d1204-6cc3-4f38-a2ed-6e98b9ec31ab
+  - id: dc60a98b-175d-4734-8ae3-5d7e05149115
+    name: صخر
+    sex: male
+    fatherId: 53ea0654-e7d4-4d3b-b21b-81ff82c02a9f
+  - id: 30d21be4-b967-4ee9-be3c-86c91adb4907
+    name: عامر
+    sex: male
+    fatherId: dc60a98b-175d-4734-8ae3-5d7e05149115
+  - id: 9d404008-a449-4065-aa89-f3915406e17d
+    name: عبد الرحمن
+    sex: male
+    nickname: الصحابي
+    kunya: أبو هريرة
+    fatherId: 30d21be4-b967-4ee9-be3c-86c91adb4907
