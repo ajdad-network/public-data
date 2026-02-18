@@ -1,0 +1,55 @@
+family:
+  type: qabila
+  name: حِمْيَر
+  visibility: public
+  pinned: true
+  suffixMale: الحميري
+  suffixFemale: الحميرية
+  hometown: ظفار يريم
+  description: |-
+    حِمْيَر مملكة يمنية قديمة (١١٠ق.م-٥٢٥م) ورثت سبأ وحضرموت.
+    حكمت اليمن بأكمله وتنتسب إليها كثير من قبائل الجنوب. عاصمتها ظفار يريم.
+persons:
+  - id: e46bf941-5a47-4d5b-9ddd-87b9275c1271
+    name: حِمْيَر
+    sex: male
+    kunya: بن سبأ بن يشجب
+  - id: eeabbb8f-e184-4ac5-a898-069e64e1a137
+    name: الهميسع
+    sex: male
+    fatherId: e46bf941-5a47-4d5b-9ddd-87b9275c1271
+  - id: 54fa8d3f-cea3-49b5-b555-62ded5b270a5
+    name: ذو رعين
+    sex: male
+    kunya: جد بنو ذي رعين
+    fatherId: e46bf941-5a47-4d5b-9ddd-87b9275c1271
+  - id: 38650864-b1bf-4ba4-90fa-0e7fc8b9d045
+    name: العُرَيب
+    sex: male
+    fatherId: eeabbb8f-e184-4ac5-a898-069e64e1a137
+  - id: 2fdccce6-21e2-48ee-818b-e1f97487f03e
+    name: عمرو
+    sex: male
+    kunya: ذو الأذعار
+    fatherId: 38650864-b1bf-4ba4-90fa-0e7fc8b9d045
+  - id: 1548f162-2ce0-414a-b9ae-6f7e85febd5f
+    name: أفريقيس
+    sex: male
+    fatherId: 2fdccce6-21e2-48ee-818b-e1f97487f03e
+  - id: f08cbb9c-0772-4e58-8144-2948eb76fb0d
+    name: شمّر
+    sex: male
+    kunya: يرعش
+    fatherId: 1548f162-2ce0-414a-b9ae-6f7e85febd5f
+  - id: f62cf334-b218-4225-ad8e-cae9dec81e8e
+    name: تُبّع
+    sex: male
+    nickname: الملك
+    kunya: أسعد أبو كرب
+    fatherId: f08cbb9c-0772-4e58-8144-2948eb76fb0d
+  - id: 4fdecc10-c388-4611-abe7-f469985fb3c0
+    name: ذو نواس
+    sex: male
+    nickname: الملك
+    kunya: آخر ملوك حِمْيَر
+    fatherId: f62cf334-b218-4225-ad8e-cae9dec81e8e

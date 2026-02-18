@@ -1,0 +1,44 @@
+family:
+  type: aal
+  name: الكثيري
+  visibility: public
+  pinned: true
+  suffixMale: الكثيري
+  suffixFemale: الكثيرية
+  hometown: سيئون
+  description: |-
+    الدولة الكثيرية سلطنة عربية حكمت حضرموت (١٣٩٥-١٩٦٧م).
+    أسسها بدر بن عبد الله الكثيري من كندة. اتخذوا سيئون عاصمة لهم.
+persons:
+  - id: 39a13527-ad9c-499d-9b25-5770bfdf9408
+    name: عبد الله
+    sex: male
+    kunya: بن كثير الكندي
+  - id: 767afbc4-667e-4975-ad2e-116969b3b7c4
+    name: بدر
+    sex: male
+    nickname: السلطان
+    kunya: المؤسس (بو طويرق)
+    fatherId: 39a13527-ad9c-499d-9b25-5770bfdf9408
+  - id: bae29438-c8f5-465e-8d09-2fec862e9361
+    name: عبد الله
+    sex: male
+    nickname: السلطان
+    fatherId: 767afbc4-667e-4975-ad2e-116969b3b7c4
+  - id: d294f510-aae9-4205-9d5b-7fdbe5a6b6c9
+    name: بدر
+    sex: male
+    nickname: السلطان
+    kunya: بو طويرق الثاني
+    fatherId: bae29438-c8f5-465e-8d09-2fec862e9361
+  - id: e99c6f56-1724-4956-92b4-65a3fb8f3d49
+    name: غالب
+    sex: male
+    nickname: السلطان
+    fatherId: d294f510-aae9-4205-9d5b-7fdbe5a6b6c9
+  - id: 22f72119-19d8-477f-a9c2-1a855d908a7e
+    name: حسين
+    sex: male
+    nickname: السلطان
+    kunya: آخر السلاطين الكثيريين
+    fatherId: e99c6f56-1724-4956-92b4-65a3fb8f3d49

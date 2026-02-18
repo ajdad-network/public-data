@@ -1,0 +1,41 @@
+family:
+  type: aal
+  name: الوطاسيون
+  visibility: public
+  pinned: true
+  suffixMale: الوطاسي
+  suffixFemale: الوطاسية
+  hometown: فاس
+  description: |-
+    الوطاسيون سلالة أمازيغية زناتية حكمت المغرب (١٤٧٢-١٥٥٤م).
+    كانوا أقارب المرينيين وخلفوهم في الحكم. انتهت دولتهم على يد السعديين.
+persons:
+  - id: add11692-dcff-44e4-8738-23ea980474e0
+    name: محمد
+    sex: male
+    nickname: الأمير
+    kunya: الشيخ الوطاسي
+  - id: b5cb5a59-0c7a-4449-ac65-d3ecec9f6493
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الشيخ المهدي المؤسس
+    fatherId: add11692-dcff-44e4-8738-23ea980474e0
+  - id: d655907e-4d5c-4000-b08e-503283cee083
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: البرتغالي
+    fatherId: b5cb5a59-0c7a-4449-ac65-d3ecec9f6493
+  - id: 3e9c7a2f-f9ef-4313-8ab5-13a58bc22fde
+    name: أحمد
+    sex: male
+    nickname: السلطان
+    kunya: الوطاسي
+    fatherId: d655907e-4d5c-4000-b08e-503283cee083
+  - id: 6ddbb340-dc32-47c7-a244-78fd24d101a6
+    name: أبو حسون
+    sex: male
+    nickname: السلطان
+    kunya: علي آخر الوطاسيين
+    fatherId: d655907e-4d5c-4000-b08e-503283cee083

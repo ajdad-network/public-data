@@ -1,0 +1,37 @@
+family:
+  type: qabila
+  name: بللسمر
+  visibility: public
+  pinned: true
+  suffixMale: البلسمري
+  suffixFemale: البلسمرية
+  hometown: النماص
+  description: |-
+    بللسمر قبيلة عربية كبيرة من الأزد تسكن منطقة عسير جنوب السعودية.
+    تنتسب إلى سمر بن ربيعة. من أبرز فروعها بنو ثابت وبنو شعبة وآل فيصل.
+persons:
+  - id: c7dbedc1-98e3-463c-8700-47a7a8b09996
+    name: سمر
+    sex: male
+    kunya: بن ربيعة بن الأزد
+  # ── الفروع الرئيسية ──
+  - id: 09d8ca49-cfd4-4246-b2ec-9df179682a6b
+    name: ثابت
+    sex: male
+    kunya: جد بنو ثابت
+    fatherId: c7dbedc1-98e3-463c-8700-47a7a8b09996
+  - id: 1418c6c3-eb93-4432-8cff-901f7abb7de3
+    name: شعبة
+    sex: male
+    kunya: جد بنو شعبة
+    fatherId: c7dbedc1-98e3-463c-8700-47a7a8b09996
+  - id: 546322b8-a805-4169-8ce1-996ea35dbc60
+    name: فيصل
+    sex: male
+    kunya: جد آل فيصل
+    fatherId: c7dbedc1-98e3-463c-8700-47a7a8b09996
+  - id: d8f68cee-6345-47e3-9002-2f864cabe73f
+    name: عليان
+    sex: male
+    kunya: جد آل عليان
+    fatherId: c7dbedc1-98e3-463c-8700-47a7a8b09996

@@ -1,0 +1,37 @@
+family:
+  type: qabila
+  name: العوالق
+  visibility: public
+  pinned: true
+  suffixMale: العولقي
+  suffixFemale: العولقية
+  hometown: شبوة
+  description: |-
+    العوالق قبيلة عربية كبيرة تسكن محافظة شبوة في جنوب اليمن.
+    أسسوا سلطنتين: العوالق العليا والعوالق السفلى. تنتسب إلى عولق بن عبد الله.
+persons:
+  - id: 2c898792-5b99-40f1-b047-82471f861c74
+    name: عولق
+    sex: male
+    kunya: بن عبد الله
+  # ── الفروع الرئيسية ──
+  - id: d75c3eee-1b4e-4d17-ae1f-801cf6db0295
+    name: حيدرة
+    sex: male
+    kunya: جد العوالق العليا
+    fatherId: 2c898792-5b99-40f1-b047-82471f861c74
+  - id: 1ac28516-c48b-4f1c-917b-f297967d411e
+    name: يزيد
+    sex: male
+    kunya: جد العوالق السفلى
+    fatherId: 2c898792-5b99-40f1-b047-82471f861c74
+  - id: 7eae4b1f-1ae3-4dac-bdf0-04aade82c560
+    name: لقموش
+    sex: male
+    kunya: جد آل لقموش
+    fatherId: 2c898792-5b99-40f1-b047-82471f861c74
+  - id: 730e385d-bfbf-4171-a424-087239725bd9
+    name: محمد
+    sex: male
+    kunya: جد آل محمد
+    fatherId: 2c898792-5b99-40f1-b047-82471f861c74

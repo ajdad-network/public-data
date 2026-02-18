@@ -87,6 +87,9 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [tribes/manasir.yaml](tribes/manasir.yaml) | المناصير | الظفرة |
 | [tribes/dhawahir.yaml](tribes/dhawahir.yaml) | الظواهر | العين |
 | [tribes/manahil.yaml](tribes/manahil.yaml) | المناهيل | حضرموت |
+| [tribes/awalik.yaml](tribes/awalik.yaml) | العوالق | شبوة |
+| [tribes/ballasmar.yaml](tribes/ballasmar.yaml) | بللسمر | النماص |
+| [tribes/ballahmar.yaml](tribes/ballahmar.yaml) | بللحمر | خميس مشيط |
 
 ## Historical
 
@@ -140,6 +143,13 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [historical/sulayhids.yaml](historical/sulayhids.yaml) | الصليحيون | حكام اليمن والملكة أروى |
 | [historical/tahirids-yemen.yaml](historical/tahirids-yemen.yaml) | الطاهريون | حكام اليمن بعد الرسوليين |
 | [historical/banu-hud.yaml](historical/banu-hud.yaml) | بنو هود | ملوك سرقسطة |
+| [historical/idrissids.yaml](historical/idrissids.yaml) | الإدريسيون | أول دولة إسلامية في المغرب |
+| [historical/wattasids.yaml](historical/wattasids.yaml) | الوطاسيون | حكام المغرب بعد المرينيين |
+| [historical/khwarazmians.yaml](historical/khwarazmians.yaml) | الخوارزميون | الدولة الخوارزمشاهية |
+| [historical/nabhanids.yaml](historical/nabhanids.yaml) | بنو نبهان | حكام عمان قبل اليعاربة |
+| [historical/himyar.yaml](historical/himyar.yaml) | حِمْيَر | المملكة الحميرية القديمة |
+| [historical/kathiri.yaml](historical/kathiri.yaml) | الكثيري | سلطنة حضرموت |
+| [historical/quaiti.yaml](historical/quaiti.yaml) | القعيطي | سلطنة المكلا |
 
 ## YAML Format
 

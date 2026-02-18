@@ -1,0 +1,52 @@
+family:
+  type: aal
+  name: الإدريسيون
+  visibility: public
+  pinned: true
+  suffixMale: الإدريسي
+  suffixFemale: الإدريسية
+  hometown: فاس
+  description: |-
+    الإدريسيون سلالة علوية حسنية أسست أول دولة إسلامية مستقلة في المغرب (٧٨٨-٩٧٤م).
+    أسسها إدريس بن عبد الله الذي فرّ من موقعة فخ. بنى ابنه إدريس الثاني مدينة فاس.
+persons:
+  - id: c86819af-295d-455d-819f-426011a6f843
+    name: عبد الله
+    sex: male
+    kunya: الكامل بن الحسن المثنى
+  - id: 68322d40-9819-48f2-add5-98b683f1e03e
+    name: إدريس
+    sex: male
+    nickname: الإمام
+    kunya: الأول المؤسس
+    fatherId: c86819af-295d-455d-819f-426011a6f843
+  - id: 3a37e38e-bdcd-4b87-a459-b2cc2f859032
+    name: إدريس
+    sex: male
+    nickname: الإمام
+    kunya: الثاني باني فاس
+    fatherId: 68322d40-9819-48f2-add5-98b683f1e03e
+  - id: 6d5aef59-4f65-4182-9058-0177917b5f6c
+    name: محمد
+    sex: male
+    fatherId: 3a37e38e-bdcd-4b87-a459-b2cc2f859032
+  - id: 683bc963-9650-4ca5-bacc-30ea8b5287b9
+    name: علي
+    sex: male
+    nickname: حيدرة
+    fatherId: 6d5aef59-4f65-4182-9058-0177917b5f6c
+  - id: 39360fec-6fd3-49fe-9a6a-83cbdcbfca2e
+    name: يحيى
+    sex: male
+    fatherId: 6d5aef59-4f65-4182-9058-0177917b5f6c
+  - id: 2d7bccdf-39e9-4814-9bbd-6243f89ec0c0
+    name: يحيى
+    sex: male
+    kunya: الرابع
+    fatherId: 39360fec-6fd3-49fe-9a6a-83cbdcbfca2e
+  - id: 732d1361-4344-4034-854d-72c4446f3196
+    name: الحسن
+    sex: male
+    nickname: الأمير
+    kunya: الحجّام آخر الأدارسة
+    fatherId: 2d7bccdf-39e9-4814-9bbd-6243f89ec0c0

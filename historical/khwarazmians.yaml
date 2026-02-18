@@ -1,0 +1,51 @@
+family:
+  type: aal
+  name: الخوارزميون
+  visibility: public
+  pinned: true
+  suffixMale: الخوارزمي
+  suffixFemale: الخوارزمية
+  hometown: خوارزم
+  description: |-
+    الخوارزمشاهية سلالة تركية حكمت خوارزم وخراسان وإيران (١٠٧٧-١٢٣١م).
+    بلغت أوجها في عهد علاء الدين محمد. واجهت الغزو المغولي وانتهت بمقتل جلال الدين منكبرتي.
+persons:
+  - id: 854f5997-0f25-4b39-a7f2-b551ba226d2f
+    name: أنوشتكين
+    sex: male
+    nickname: الأمير
+    kunya: غرجة المؤسس
+  - id: 4802d4f6-2c29-451f-8f46-1e55d121a89b
+    name: قطب الدين
+    sex: male
+    nickname: خوارزمشاه
+    kunya: محمد
+    fatherId: 854f5997-0f25-4b39-a7f2-b551ba226d2f
+  - id: b21e02f1-1f7b-49f3-9058-cd494fe73cf5
+    name: أتسز
+    sex: male
+    nickname: خوارزمشاه
+    fatherId: 4802d4f6-2c29-451f-8f46-1e55d121a89b
+  - id: d356b063-d5a5-4f01-a38d-baa3db5ef32a
+    name: إيل أرسلان
+    sex: male
+    nickname: خوارزمشاه
+    fatherId: b21e02f1-1f7b-49f3-9058-cd494fe73cf5
+  - id: 83f8c151-6b9b-4cbd-9e55-3502858c63d2
+    name: تكش
+    sex: male
+    nickname: خوارزمشاه
+    kunya: علاء الدين
+    fatherId: d356b063-d5a5-4f01-a38d-baa3db5ef32a
+  - id: 360bdb0b-089e-4d3a-b20b-3e444c12ba32
+    name: محمد
+    sex: male
+    nickname: خوارزمشاه
+    kunya: علاء الدين الثاني
+    fatherId: 83f8c151-6b9b-4cbd-9e55-3502858c63d2
+  - id: 008de3de-0bd2-4c24-8e1e-370e62650280
+    name: جلال الدين
+    sex: male
+    nickname: السلطان
+    kunya: منكبرتي آخر الخوارزميين
+    fatherId: 360bdb0b-089e-4d3a-b20b-3e444c12ba32
