@@ -7,12 +7,58 @@ This directory is planned to become a standalone public repository so that anyon
 ## Directory Structure
 
 ```
-data/
-  {country}/
-    {family-name}.yaml
+ruling-families/{country}/{name}.yaml   — Modern ruling/royal families
+tribes/{name}.yaml                      — Major tribes with active modern identity
+historical/{name}.yaml                  — Historical tribes, kingdoms, dynasties
 ```
 
-Example: `data/saudi-arabia/al-saud.yaml`
+## Ruling Families
+
+| File | الاسم | النوع | البلد |
+|------|-------|-------|-------|
+| [ruling-families/saudi-arabia/aal-saud.yaml](ruling-families/saudi-arabia/aal-saud.yaml) | آل سعود | آل | السعودية |
+| [ruling-families/qatar/aal-thani.yaml](ruling-families/qatar/aal-thani.yaml) | آل ثاني | آل | قطر |
+| [ruling-families/uae/aal-nahyan.yaml](ruling-families/uae/aal-nahyan.yaml) | آل نهيان | آل | الإمارات |
+| [ruling-families/uae/aal-maktoum.yaml](ruling-families/uae/aal-maktoum.yaml) | آل مكتوم | آل | الإمارات |
+| [ruling-families/iraq/hashemite.yaml](ruling-families/iraq/hashemite.yaml) | الهاشميون | عائلة | العراق |
+| [ruling-families/jordan/hashemite.yaml](ruling-families/jordan/hashemite.yaml) | الهاشميون | عائلة | الأردن |
+
+## Tribes
+
+| File | الاسم | الموطن |
+|------|-------|--------|
+| [tribes/utaybah.yaml](tribes/utaybah.yaml) | عتيبة | نجد |
+| [tribes/qahtan.yaml](tribes/qahtan.yaml) | قحطان | جنوب نجد |
+| [tribes/mutayr.yaml](tribes/mutayr.yaml) | مطير | نجد |
+| [tribes/shammar.yaml](tribes/shammar.yaml) | شمّر | حائل |
+| [tribes/anazah.yaml](tribes/anazah.yaml) | عنزة | نجد |
+| [tribes/harb.yaml](tribes/harb.yaml) | حرب | الحجاز |
+| [tribes/banu-tamim.yaml](tribes/banu-tamim.yaml) | بنو تميم | نجد |
+| [tribes/dawasir.yaml](tribes/dawasir.yaml) | الدواسر | وادي الدواسر |
+| [tribes/banu-khalid.yaml](tribes/banu-khalid.yaml) | بنو خالد | الأحساء |
+| [tribes/subay.yaml](tribes/subay.yaml) | سبيع | نجد |
+| [tribes/juhaynah.yaml](tribes/juhaynah.yaml) | جهينة | المدينة المنورة |
+| [tribes/bali.yaml](tribes/bali.yaml) | بلي | تبوك |
+| [tribes/ujman.yaml](tribes/ujman.yaml) | العجمان | الأحساء |
+| [tribes/zahran.yaml](tribes/zahran.yaml) | زهران | الباحة |
+| [tribes/ghamid.yaml](tribes/ghamid.yaml) | غامد | الباحة |
+| [tribes/shahran.yaml](tribes/shahran.yaml) | شهران | عسير |
+
+## Historical
+
+| File | الاسم | الوصف |
+|------|-------|-------|
+| [historical/aal-hashim.yaml](historical/aal-hashim.yaml) | بنو عبد مناف | قريش والأمويون والعباسيون |
+| [historical/al-ansar.yaml](historical/al-ansar.yaml) | الأوس والخزرج | أنصار المدينة المنورة |
+| [historical/banu-asad.yaml](historical/banu-asad.yaml) | بنو أسد | بنو أسد بن خزيمة |
+| [historical/banu-abs.yaml](historical/banu-abs.yaml) | بنو عبس | قبيلة عنترة بن شداد |
+| [historical/banu-dhubyan.yaml](historical/banu-dhubyan.yaml) | بنو ذبيان | قبيلة النابغة الذبياني |
+| [historical/banu-hilal.yaml](historical/banu-hilal.yaml) | بنو هلال | أصحاب التغريبة الشهيرة |
+| [historical/banu-amir.yaml](historical/banu-amir.yaml) | بنو عامر بن صعصعة | من هوازن |
+| [historical/banu-hanifah.yaml](historical/banu-hanifah.yaml) | بنو حنيفة | من بكر بن وائل |
+| [historical/kindah.yaml](historical/kindah.yaml) | كندة | مملكة كندة وامرؤ القيس |
+| [historical/manadhirah.yaml](historical/manadhirah.yaml) | المناذرة | مملكة الحيرة (بنو لخم) |
+| [historical/ghassanids.yaml](historical/ghassanids.yaml) | الغساسنة | مملكة الغساسنة في الشام |
 
 ## YAML Format
 
@@ -45,13 +91,6 @@ persons:
     sex: male
     fatherId: 3fa85f64-5717-4562-b3fc-2c963f66afa6
     motherId: ...            # optional — references another person's id
-
-  - id: 7b2a9f31-4e68-4c0a-a512-8d3e5f6a7b9c
-    name: فهد
-    sex: male
-    nickname: الملك          # prefix title
-    kunya: الخامس            # postfix identifier
-    fatherId: ...
 ```
 
 ## Person Fields
@@ -91,7 +130,7 @@ When imported via the admin panel at `/admin/import`:
 
 ## Contributing
 
-1. Create a YAML file under the appropriate `data/{country}/` directory
+1. Create a YAML file under the appropriate directory
 2. Generate real UUIDv4 IDs for each person (do not use placeholder or hand-written IDs)
 3. Ensure parents are listed before children
 4. Submit a pull request
