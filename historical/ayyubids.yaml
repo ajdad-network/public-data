@@ -1,0 +1,74 @@
+family:
+  type: aal
+  name: الأيوبيون
+  visibility: public
+  pinned: true
+  suffixMale: الأيوبي
+  suffixFemale: الأيوبية
+  hometown: القاهرة
+  description: |-
+    الأيوبيون سلالة كردية إسلامية أسسها صلاح الدين الأيوبي بعد إسقاط الدولة الفاطمية في مصر عام ١١٧١م.
+    حكموا مصر والشام والحجاز واليمن، واشتهروا بتحرير القدس من الصليبيين عام ١١٨٧م.
+persons:
+  - id: df2fbda1-3f68-47c6-9496-b7b78003ab72
+    name: شاذي
+    sex: male
+    kunya: بن مروان
+  - id: 0bc018b1-1a60-4c46-be61-08aa714daa82
+    name: نجم الدين
+    sex: male
+    kunya: أيوب بن شاذي
+    fatherId: df2fbda1-3f68-47c6-9496-b7b78003ab72
+  - id: 79d9928b-7f0c-4f13-b766-d3733f8fc221
+    name: أسد الدين
+    sex: male
+    kunya: شيركوه
+    fatherId: df2fbda1-3f68-47c6-9496-b7b78003ab72
+  - id: b84c84a1-459c-4252-9c50-ea53472956d5
+    name: صلاح الدين
+    sex: male
+    nickname: السلطان
+    kunya: الأيوبي الناصر
+    fatherId: 0bc018b1-1a60-4c46-be61-08aa714daa82
+  - id: fcb22f34-40fb-4458-a2d4-12e4293b8d12
+    name: العادل
+    sex: male
+    nickname: السلطان
+    kunya: سيف الدين أبو بكر
+    fatherId: 0bc018b1-1a60-4c46-be61-08aa714daa82
+  - id: aae59d48-3a60-4062-a2e3-04431171888d
+    name: الأفضل
+    sex: male
+    nickname: الملك
+    kunya: نور الدين علي
+    fatherId: b84c84a1-459c-4252-9c50-ea53472956d5
+  - id: 66b9592b-cbd1-4f00-8fc6-89e517025cd4
+    name: العزيز
+    sex: male
+    nickname: الملك
+    kunya: عماد الدين عثمان
+    fatherId: b84c84a1-459c-4252-9c50-ea53472956d5
+  - id: e40f60b5-63eb-4f03-87a9-a922ef41f47c
+    name: الظاهر
+    sex: male
+    nickname: الملك
+    kunya: غياث الدين غازي
+    fatherId: b84c84a1-459c-4252-9c50-ea53472956d5
+  - id: 9efb02be-647f-4043-a1ec-bc892c609fac
+    name: الكامل
+    sex: male
+    nickname: السلطان
+    kunya: ناصر الدين محمد
+    fatherId: fcb22f34-40fb-4458-a2d4-12e4293b8d12
+  - id: c79fe5c3-70ae-4f9f-949e-be9e6552dd1e
+    name: الصالح
+    sex: male
+    nickname: السلطان
+    kunya: نجم الدين أيوب
+    fatherId: 9efb02be-647f-4043-a1ec-bc892c609fac
+  - id: 462b0f6d-a2b9-4735-8a2f-469e6ce1be13
+    name: المعظم
+    sex: male
+    nickname: السلطان
+    kunya: توران شاه
+    fatherId: c79fe5c3-70ae-4f9f-949e-be9e6552dd1e

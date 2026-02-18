@@ -27,6 +27,10 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [ruling-families/oman/aal-said.yaml](ruling-families/oman/aal-said.yaml) | آل سعيد | آل | عمان |
 | [ruling-families/morocco/alaouite.yaml](ruling-families/morocco/alaouite.yaml) | العلويون | آل | المغرب |
 | [ruling-families/saudi-arabia/aal-alshaikh.yaml](ruling-families/saudi-arabia/aal-alshaikh.yaml) | آل الشيخ | آل | السعودية |
+| [ruling-families/uae/aal-mualla.yaml](ruling-families/uae/aal-mualla.yaml) | آل المعلا | آل | الإمارات |
+| [ruling-families/uae/aal-sharqi.yaml](ruling-families/uae/aal-sharqi.yaml) | آل الشرقي | آل | الإمارات |
+| [ruling-families/uae/aal-nuaimi.yaml](ruling-families/uae/aal-nuaimi.yaml) | آل النعيمي | آل | الإمارات |
+| [ruling-families/uae/aal-qasimi-sharjah.yaml](ruling-families/uae/aal-qasimi-sharjah.yaml) | آل القاسمي | آل | الإمارات |
 
 ## Tribes
 
@@ -53,6 +57,14 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [tribes/yam.yaml](tribes/yam.yaml) | يام | نجران |
 | [tribes/dhafir.yaml](tribes/dhafir.yaml) | الظفير | نجد |
 | [tribes/awazim.yaml](tribes/awazim.yaml) | العوازم | الكويت |
+| [tribes/murrah.yaml](tribes/murrah.yaml) | المرة | الربع الخالي |
+| [tribes/banu-hajir.yaml](tribes/banu-hajir.yaml) | بنو هاجر | نجد |
+| [tribes/rashayidah.yaml](tribes/rashayidah.yaml) | الرشايدة | نجد |
+| [tribes/suhul.yaml](tribes/suhul.yaml) | السهول | نجد |
+| [tribes/banu-al-harith.yaml](tribes/banu-al-harith.yaml) | بنو الحارث | نجران |
+| [tribes/hashid.yaml](tribes/hashid.yaml) | حاشد | صنعاء |
+| [tribes/bakil.yaml](tribes/bakil.yaml) | بكيل | صنعاء |
+| [tribes/khawlan.yaml](tribes/khawlan.yaml) | خولان | صعدة |
 
 ## Historical
 
@@ -72,6 +84,13 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [historical/thaqif.yaml](historical/thaqif.yaml) | ثقيف | قبيلة الطائف والحجاج بن يوسف |
 | [historical/banu-lam.yaml](historical/banu-lam.yaml) | بنو لام | من طيء |
 | [historical/adarisah.yaml](historical/adarisah.yaml) | الأدارسة | إمارة عسير الإدريسية |
+| [historical/ottomans.yaml](historical/ottomans.yaml) | آل عثمان | الدولة العثمانية |
+| [historical/ayyubids.yaml](historical/ayyubids.yaml) | الأيوبيون | صلاح الدين والأيوبيون |
+| [historical/fatimids.yaml](historical/fatimids.yaml) | الفاطميون | الخلافة الفاطمية في مصر |
+| [historical/hamdanids.yaml](historical/hamdanids.yaml) | الحمدانيون | سيف الدولة وأبو فراس |
+| [historical/tulunids.yaml](historical/tulunids.yaml) | الطولونيون | أحمد بن طولون في مصر |
+| [historical/banu-kinanah.yaml](historical/banu-kinanah.yaml) | بنو كنانة | القبيلة الأم لقريش |
+| [historical/banu-taghlib.yaml](historical/banu-taghlib.yaml) | بنو تغلب | حرب البسوس وعمرو بن كلثوم |
 
 ## YAML Format
 

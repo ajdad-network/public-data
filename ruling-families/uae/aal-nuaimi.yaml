@@ -1,0 +1,41 @@
+family:
+  type: aal
+  name: آل النعيمي
+  visibility: public
+  pinned: true
+  suffixMale: النعيمي
+  suffixFemale: النعيمية
+  hometown: عجمان
+  description: |-
+    آل النعيمي الأسرة الحاكمة في إمارة عجمان منذ عام ١٨١٦م.
+    ينتسبون إلى قبيلة النعيم، وهي من القبائل العربية العريقة في المنطقة.
+persons:
+  - id: 46c613d9-ee31-4034-ae9a-5ffb68b054b2
+    name: راشد
+    sex: male
+    nickname: الشيخ
+    kunya: بن حميد المؤسس
+  - id: c36d87a6-64c6-4ba9-831d-e0311ec6966c
+    name: حميد
+    sex: male
+    nickname: الشيخ
+    kunya: بن راشد
+    fatherId: 46c613d9-ee31-4034-ae9a-5ffb68b054b2
+  - id: 507f9b10-e313-41bc-87c1-9f2da1743dac
+    name: عبد العزيز
+    sex: male
+    nickname: الشيخ
+    kunya: بن حميد
+    fatherId: c36d87a6-64c6-4ba9-831d-e0311ec6966c
+  - id: 93ca9048-8788-46af-82f2-ab0868500737
+    name: راشد
+    sex: male
+    nickname: الشيخ
+    kunya: بن حميد
+    fatherId: c36d87a6-64c6-4ba9-831d-e0311ec6966c
+  - id: cf518c3b-a65c-4e3f-8080-69dbca2023e5
+    name: حميد
+    sex: male
+    nickname: الشيخ
+    kunya: بن راشد
+    fatherId: 93ca9048-8788-46af-82f2-ab0868500737

@@ -1,0 +1,32 @@
+family:
+  type: qabila
+  name: السهول
+  visibility: public
+  pinned: true
+  suffixMale: السهلي
+  suffixFemale: السهلية
+  hometown: نجد
+  description: |-
+    السهول قبيلة عربية نجدية تنتسب إلى بنو سهل من بنو عامر بن صعصعة بن هوازن.
+    منتشرة في وسط نجد والقصيم. من أبرز فروعها آل محمد وآل سلطان والوهوب.
+persons:
+  - id: 8132dd58-30c2-4631-9e69-f67305fc91b6
+    name: سهل
+    sex: male
+    kunya: من بنو عامر بن صعصعة
+  # ── الفروع الرئيسية ──
+  - id: 79fb3845-6f62-4e3a-be75-30f40c928400
+    name: محمد
+    sex: male
+    kunya: جد آل محمد
+    fatherId: 8132dd58-30c2-4631-9e69-f67305fc91b6
+  - id: 6db897d7-8b20-4bf0-8daf-6cc5c8e3305a
+    name: سلطان
+    sex: male
+    kunya: جد آل سلطان
+    fatherId: 8132dd58-30c2-4631-9e69-f67305fc91b6
+  - id: 1906029d-c22e-4196-a1e4-2353ba60412a
+    name: وهب
+    sex: male
+    kunya: جد الوهوب
+    fatherId: 8132dd58-30c2-4631-9e69-f67305fc91b6

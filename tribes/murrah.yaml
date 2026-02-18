@@ -1,0 +1,36 @@
+family:
+  type: qabila
+  name: المرة
+  visibility: public
+  pinned: true
+  suffixMale: المري
+  suffixFemale: المرية
+  hometown: الربع الخالي
+  description: |-
+    المرة قبيلة عربية كبيرة من يام بن همدان، موطنها الأصلي الربع الخالي وانتشرت في السعودية وقطر والإمارات.
+    تُعرف بخبرتها العميقة بالصحراء والربع الخالي. من أبرز فروعها آل شامل وآل عذبة وآل فهيدة.
+persons:
+  - id: 59b33264-06ad-4ba1-bdff-b2a98f48f105
+    name: يام
+    sex: male
+    kunya: بن همدان
+  - id: 31db6042-5464-454c-9a78-39917bf3320f
+    name: مرة
+    sex: male
+    fatherId: 59b33264-06ad-4ba1-bdff-b2a98f48f105
+  # ── الفروع الرئيسية ──
+  - id: 809626ed-2d96-4d0b-98cf-3be055596274
+    name: شامل
+    sex: male
+    kunya: جد آل شامل
+    fatherId: 31db6042-5464-454c-9a78-39917bf3320f
+  - id: c2c15a4b-007a-4e46-9b25-f9d793879db1
+    name: عذبة
+    sex: male
+    kunya: جد آل عذبة
+    fatherId: 31db6042-5464-454c-9a78-39917bf3320f
+  - id: 2969adc2-b811-4b48-a4df-c6ae193d0117
+    name: فهيدة
+    sex: male
+    kunya: جد آل فهيدة
+    fatherId: 31db6042-5464-454c-9a78-39917bf3320f

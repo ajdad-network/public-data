@@ -1,0 +1,83 @@
+family:
+  type: qabila
+  name: بنو تغلب
+  visibility: public
+  pinned: true
+  suffixMale: التغلبي
+  suffixFemale: التغلبية
+  hometown: الجزيرة الفراتية
+  description: |-
+    بنو تغلب قبيلة عربية كبيرة من ربيعة بن نزار، سكنت الجزيرة الفراتية وشمال العراق.
+    اشتهرت بحرب البسوس مع بني بكر التي دامت أربعين سنة. منها الشاعر عمرو بن كلثوم صاحب المعلقة الشهيرة.
+persons:
+  - id: f1d7369d-fd0d-4bac-a5a4-cab69b611a60
+    name: نزار
+    sex: male
+    kunya: بن معد بن عدنان
+  - id: 9e1801a4-4613-4f4f-aeaa-dd13b3ae7ecb
+    name: ربيعة
+    sex: male
+    fatherId: f1d7369d-fd0d-4bac-a5a4-cab69b611a60
+  - id: 90e17e49-6868-4e17-87cd-7c6c12e42876
+    name: وائل
+    sex: male
+    fatherId: 9e1801a4-4613-4f4f-aeaa-dd13b3ae7ecb
+  - id: 3ad99681-9ed7-4449-b613-a7851b7fbb47
+    name: تغلب
+    sex: male
+    fatherId: 90e17e49-6868-4e17-87cd-7c6c12e42876
+  - id: 7f8e7b46-7d0a-44ea-a0da-0fe55af21c0e
+    name: بكر
+    sex: male
+    fatherId: 90e17e49-6868-4e17-87cd-7c6c12e42876
+  # ── سلسلة نسب عمرو بن كلثوم ──
+  - id: bf342f15-5430-4447-9d18-8b1b9fe7f62d
+    name: جشم
+    sex: male
+    fatherId: 3ad99681-9ed7-4449-b613-a7851b7fbb47
+  - id: da84643f-3fd3-4183-b04f-74194c37791f
+    name: حبيب
+    sex: male
+    fatherId: bf342f15-5430-4447-9d18-8b1b9fe7f62d
+  - id: 7c368c2e-5f56-4555-9b99-7576768065fe
+    name: عتاب
+    sex: male
+    fatherId: da84643f-3fd3-4183-b04f-74194c37791f
+  - id: 4e95bd34-766e-4c77-a503-3a380e2ee777
+    name: كلثوم
+    sex: male
+    fatherId: 7c368c2e-5f56-4555-9b99-7576768065fe
+  - id: b09c4906-bbe2-467d-ac4d-e36a579719ef
+    name: عمرو
+    sex: male
+    nickname: الشاعر
+    kunya: بن كلثوم صاحب المعلقة
+    fatherId: 4e95bd34-766e-4c77-a503-3a380e2ee777
+  # ── جساس بن مرة (حرب البسوس) ──
+  - id: 4b737b7d-610a-4602-818a-991436099093
+    name: مرة
+    sex: male
+    fatherId: bf342f15-5430-4447-9d18-8b1b9fe7f62d
+  - id: e62a9ac8-2a15-470c-aa70-77f885132e61
+    name: جساس
+    sex: male
+    kunya: قاتل كليب في حرب البسوس
+    fatherId: 4b737b7d-610a-4602-818a-991436099093
+  # ── كليب بن ربيعة (ملك العرب) ──
+  - id: 04dbbece-eee5-4427-9a4c-eff2de2735bc
+    name: ربيعة
+    sex: male
+    kunya: بن الحارث
+    fatherId: 3ad99681-9ed7-4449-b613-a7851b7fbb47
+  - id: 5812c8a4-1e93-485e-bf89-69451ea4ea11
+    name: كليب
+    sex: male
+    nickname: الملك
+    kunya: بن ربيعة ملك العرب
+    fatherId: 04dbbece-eee5-4427-9a4c-eff2de2735bc
+  - id: d062254e-4b2f-46c7-91b9-26a479883a49
+    name: المهلهل
+    sex: male
+    nickname: الشاعر
+    kunya: عدي بن ربيعة الزير سالم
+    fatherId: 04dbbece-eee5-4427-9a4c-eff2de2735bc

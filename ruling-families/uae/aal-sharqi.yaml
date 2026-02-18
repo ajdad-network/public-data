@@ -1,0 +1,29 @@
+family:
+  type: aal
+  name: آل الشرقي
+  visibility: public
+  pinned: true
+  suffixMale: الشرقي
+  suffixFemale: الشرقية
+  hometown: الفجيرة
+  description: |-
+    آل الشرقي الأسرة الحاكمة في إمارة الفجيرة منذ عام ١٩٠١م.
+    ينتسبون إلى قبيلة الشرقيين، وكانت الفجيرة آخر الإمارات المتصالحة اعترافاً من بريطانيا عام ١٩٥٢م.
+persons:
+  - id: 516e9694-3026-4103-8612-bba0100035ab
+    name: حمد
+    sex: male
+    nickname: الشيخ
+    kunya: بن عبد الله
+  - id: 6177f5f1-4d5c-48ba-abd4-706f565fc54f
+    name: محمد
+    sex: male
+    nickname: الشيخ
+    kunya: بن حمد
+    fatherId: 516e9694-3026-4103-8612-bba0100035ab
+  - id: da657394-421c-437d-8f38-59bcb039cea0
+    name: حمد
+    sex: male
+    nickname: الشيخ
+    kunya: بن محمد
+    fatherId: 6177f5f1-4d5c-48ba-abd4-706f565fc54f

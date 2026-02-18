@@ -1,0 +1,96 @@
+family:
+  type: aal
+  name: الفاطميون
+  visibility: public
+  pinned: true
+  suffixMale: الفاطمي
+  suffixFemale: الفاطمية
+  hometown: القاهرة
+  description: |-
+    الفاطميون سلالة شيعية إسماعيلية ادعت النسب إلى فاطمة الزهراء بنت النبي ﷺ.
+    أسسوا الخلافة الفاطمية في المغرب عام ٩٠٩م ثم انتقلوا إلى مصر وأسسوا القاهرة عام ٩٦٩م.
+    حكموا حتى عام ١١٧١م حين أسقطهم صلاح الدين الأيوبي.
+persons:
+  - id: fbee2cac-c42e-44f3-bd1b-809b317edb68
+    name: عبد الله
+    sex: male
+    nickname: الإمام
+    kunya: المهدي بالله المؤسس
+  - id: 3f2a0694-d7c7-4b58-b436-a1ee35dbeb5c
+    name: محمد
+    sex: male
+    nickname: الخليفة
+    kunya: القائم بأمر الله
+    fatherId: fbee2cac-c42e-44f3-bd1b-809b317edb68
+  - id: e0e9c5bd-6e11-4012-9273-6f0f0b214e31
+    name: إسماعيل
+    sex: male
+    nickname: الخليفة
+    kunya: المنصور بالله
+    fatherId: 3f2a0694-d7c7-4b58-b436-a1ee35dbeb5c
+  - id: 442b038d-056f-4936-918c-a88119204d0a
+    name: معد
+    sex: male
+    nickname: الخليفة
+    kunya: المعز لدين الله فاتح مصر
+    fatherId: e0e9c5bd-6e11-4012-9273-6f0f0b214e31
+  - id: 3bfc27de-6b75-4f43-9f4d-a0ee608f64f3
+    name: نزار
+    sex: male
+    nickname: الخليفة
+    kunya: العزيز بالله
+    fatherId: 442b038d-056f-4936-918c-a88119204d0a
+  - id: 8944be63-fee7-4d36-96c3-e4a00f405455
+    name: منصور
+    sex: male
+    nickname: الخليفة
+    kunya: الحاكم بأمر الله
+    fatherId: 3bfc27de-6b75-4f43-9f4d-a0ee608f64f3
+  - id: d9cfb756-3ffc-4d0a-a385-44e61496627d
+    name: علي
+    sex: male
+    nickname: الخليفة
+    kunya: الظاهر لإعزاز دين الله
+    fatherId: 8944be63-fee7-4d36-96c3-e4a00f405455
+  - id: d859bdc7-d151-45b2-8681-b1182ce006a7
+    name: معد
+    sex: male
+    nickname: الخليفة
+    kunya: المستنصر بالله
+    fatherId: d9cfb756-3ffc-4d0a-a385-44e61496627d
+  - id: 5856fda9-0ae3-4583-b349-0d340af91ba3
+    name: أحمد
+    sex: male
+    nickname: الخليفة
+    kunya: المستعلي بالله
+    fatherId: d859bdc7-d151-45b2-8681-b1182ce006a7
+  - id: 6d625f0c-d1a6-491c-bcd0-234926385c76
+    name: المنصور
+    sex: male
+    nickname: الخليفة
+    kunya: الآمر بأحكام الله
+    fatherId: 5856fda9-0ae3-4583-b349-0d340af91ba3
+  - id: f138be4b-8741-45cf-8ec2-6df3c75285d0
+    name: عبد المجيد
+    sex: male
+    nickname: الخليفة
+    kunya: الحافظ لدين الله
+    fatherId: 442b038d-056f-4936-918c-a88119204d0a
+  - id: ea822521-d2d4-45a8-bcf8-cc2e2b112427
+    name: إسماعيل
+    sex: male
+    nickname: الخليفة
+    kunya: الظافر بأمر الله
+    fatherId: f138be4b-8741-45cf-8ec2-6df3c75285d0
+  - id: af4f4140-5718-407e-8293-e9ec5b67f8cb
+    name: عيسى
+    sex: male
+    nickname: الخليفة
+    kunya: الفائز بنصر الله
+    fatherId: ea822521-d2d4-45a8-bcf8-cc2e2b112427
+  - id: 4f6915a0-c025-4971-814a-787de31a2612
+    name: عبد الله
+    sex: male
+    nickname: الخليفة
+    kunya: العاضد لدين الله آخر الفاطميين
+    fatherId: ea822521-d2d4-45a8-bcf8-cc2e2b112427

@@ -1,0 +1,53 @@
+family:
+  type: qabila
+  name: بنو كنانة
+  visibility: public
+  pinned: true
+  suffixMale: الكناني
+  suffixFemale: الكنانية
+  hometown: مكة المكرمة
+  description: |-
+    بنو كنانة قبيلة عربية عدنانية كبرى، تنتسب إلى كنانة بن خزيمة بن مدركة بن إلياس بن مضر.
+    منها قريش (بطن النضر بن كنانة)، وهي القبيلة الأم التي ينتسب إليها النبي ﷺ. من فروعها أيضاً بنو ليث وبنو الدئل.
+persons:
+  - id: 6b651763-2c34-44d1-b20e-3977be24013e
+    name: مضر
+    sex: male
+    kunya: بن نزار بن معد
+  - id: 9a036972-d5b0-4cdd-839c-3bca4e71e4a6
+    name: إلياس
+    sex: male
+    fatherId: 6b651763-2c34-44d1-b20e-3977be24013e
+  - id: d4cd911f-82a7-425b-9286-bac456ce3e58
+    name: مدركة
+    sex: male
+    fatherId: 9a036972-d5b0-4cdd-839c-3bca4e71e4a6
+  - id: 132f433d-c927-4351-a240-f68106a9feec
+    name: خزيمة
+    sex: male
+    fatherId: d4cd911f-82a7-425b-9286-bac456ce3e58
+  - id: 790ee734-8611-42cb-aa33-d0b38d156673
+    name: كنانة
+    sex: male
+    fatherId: 132f433d-c927-4351-a240-f68106a9feec
+  # ── الفروع الرئيسية ──
+  - id: 910df84b-df16-47be-aac1-4abf5f7bb1de
+    name: النضر
+    sex: male
+    kunya: قريش
+    fatherId: 790ee734-8611-42cb-aa33-d0b38d156673
+  - id: 006167bc-3aaa-489c-8e27-b2e89f38b1d2
+    name: ليث
+    sex: male
+    kunya: جد بنو ليث
+    fatherId: 790ee734-8611-42cb-aa33-d0b38d156673
+  - id: fc72b0f1-704d-4637-bcb7-895fec295aff
+    name: الدئل
+    sex: male
+    kunya: جد بنو الدئل
+    fatherId: 790ee734-8611-42cb-aa33-d0b38d156673
+  - id: 64ed3aeb-56aa-403a-81ed-a5624da66bd8
+    name: عبد مناة
+    sex: male
+    kunya: جد بنو عبد مناة
+    fatherId: 790ee734-8611-42cb-aa33-d0b38d156673

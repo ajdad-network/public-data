@@ -1,0 +1,66 @@
+family:
+  type: aal
+  name: آل القاسمي
+  visibility: public
+  pinned: true
+  suffixMale: القاسمي
+  suffixFemale: القاسمية
+  hometown: الشارقة
+  description: |-
+    آل القاسمي الأسرة الحاكمة في إمارتي الشارقة ورأس الخيمة.
+    كانوا يحكمون قوة بحرية كبيرة في الخليج العربي، عُرفوا بالقواسم. يحكمون الشارقة منذ عام ١٧٢٧م.
+persons:
+  - id: d7285409-1bf0-4f70-b9b5-7ea94957da3e
+    name: قاسم
+    sex: male
+    nickname: الشيخ
+    kunya: الجد الأعلى
+  - id: d99c9746-7421-40f3-9a53-4a90dda01319
+    name: صقر
+    sex: male
+    nickname: الشيخ
+    kunya: بن راشد
+    fatherId: d7285409-1bf0-4f70-b9b5-7ea94957da3e
+  - id: d0a0210d-dc3e-494a-8595-85dd13b44840
+    name: سلطان
+    sex: male
+    nickname: الشيخ
+    kunya: بن صقر
+    fatherId: d99c9746-7421-40f3-9a53-4a90dda01319
+  - id: f9bb6090-0c2b-4d00-93df-a8a084d0da0d
+    name: خالد
+    sex: male
+    nickname: الشيخ
+    kunya: بن سلطان
+    fatherId: d0a0210d-dc3e-494a-8595-85dd13b44840
+  - id: a37dadf6-9395-4d1c-a7f1-6d533dd70cc4
+    name: صقر
+    sex: male
+    nickname: الشيخ
+    kunya: بن خالد
+    fatherId: f9bb6090-0c2b-4d00-93df-a8a084d0da0d
+  - id: 9673ea2b-4cc7-4c04-a937-9040e0458239
+    name: محمد
+    sex: male
+    nickname: الشيخ
+    kunya: بن صقر
+    fatherId: a37dadf6-9395-4d1c-a7f1-6d533dd70cc4
+  - id: 1944fa03-c156-4527-a55e-abc7a736c160
+    name: سلطان
+    sex: male
+    nickname: الشيخ
+    kunya: بن محمد
+    fatherId: 9673ea2b-4cc7-4c04-a937-9040e0458239
+  # ── فرع رأس الخيمة ──
+  - id: d50bd758-68f9-4f6a-975a-6797be8c5031
+    name: صقر
+    sex: male
+    nickname: الشيخ
+    kunya: بن محمد حاكم رأس الخيمة
+    fatherId: 9673ea2b-4cc7-4c04-a937-9040e0458239
+  - id: 9096295f-f6c0-4623-8fac-f3fee3533449
+    name: سعود
+    sex: male
+    nickname: الشيخ
+    kunya: بن صقر حاكم رأس الخيمة
+    fatherId: d50bd758-68f9-4f6a-975a-6797be8c5031

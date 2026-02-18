@@ -1,0 +1,47 @@
+family:
+  type: aal
+  name: آل المعلا
+  visibility: public
+  pinned: true
+  suffixMale: المعلا
+  suffixFemale: المعلا
+  hometown: أم القيوين
+  description: |-
+    آل المعلا الأسرة الحاكمة في إمارة أم القيوين منذ عام ١٧٧٥م تقريباً.
+    ينتسبون إلى قبيلة آل علي من بني ياس.
+persons:
+  - id: 7883542c-ab6c-4054-98f1-01a374cf82ae
+    name: ماجد
+    sex: male
+    nickname: الشيخ
+    kunya: المؤسس
+  - id: a4121190-96fa-421d-ad56-4db934c10da0
+    name: راشد
+    sex: male
+    nickname: الشيخ
+    kunya: بن ماجد
+    fatherId: 7883542c-ab6c-4054-98f1-01a374cf82ae
+  - id: 6a6791a0-7540-4da4-bea7-d928556a343e
+    name: عبد الله
+    sex: male
+    nickname: الشيخ
+    kunya: بن راشد
+    fatherId: a4121190-96fa-421d-ad56-4db934c10da0
+  - id: 4baf0dfe-2114-44a1-861f-1cd1bfee0991
+    name: أحمد
+    sex: male
+    nickname: الشيخ
+    kunya: بن عبد الله
+    fatherId: 6a6791a0-7540-4da4-bea7-d928556a343e
+  - id: 9b155cc3-16f8-4952-a1a7-97dd862054f1
+    name: راشد
+    sex: male
+    nickname: الشيخ
+    kunya: بن أحمد
+    fatherId: 4baf0dfe-2114-44a1-861f-1cd1bfee0991
+  - id: 1112d276-79ef-44c3-b7d6-31d968c939ce
+    name: سعود
+    sex: male
+    nickname: الشيخ
+    kunya: بن راشد
+    fatherId: 9b155cc3-16f8-4952-a1a7-97dd862054f1

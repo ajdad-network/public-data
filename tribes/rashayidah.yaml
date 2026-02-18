@@ -1,0 +1,32 @@
+family:
+  type: qabila
+  name: الرشايدة
+  visibility: public
+  pinned: true
+  suffixMale: الرشيدي
+  suffixFemale: الرشيدية
+  hometown: نجد
+  description: |-
+    الرشايدة قبيلة عربية تنتسب إلى بنو عبس من غطفان بن سعد بن قيس عيلان.
+    انتشرت في السعودية والكويت والسودان وإريتريا، وهاجر جزء كبير منها إلى شرق أفريقيا في القرن التاسع عشر.
+persons:
+  - id: 7e1b94cd-d5f2-49b5-9fad-6dc1a36e9736
+    name: رشيد
+    sex: male
+    kunya: من بنو عبس
+  # ── الفروع الرئيسية ──
+  - id: 1f227d0a-3cbb-4c46-8c72-5971f8054c1c
+    name: براك
+    sex: male
+    kunya: جد البراركة
+    fatherId: 7e1b94cd-d5f2-49b5-9fad-6dc1a36e9736
+  - id: d41203dd-4e13-4d17-b20b-13deed5b54e2
+    name: زويد
+    sex: male
+    kunya: جد الزوايدة
+    fatherId: 7e1b94cd-d5f2-49b5-9fad-6dc1a36e9736
+  - id: c73bd682-7670-47e7-962e-8cfe623c31cf
+    name: عجيل
+    sex: male
+    kunya: جد العجالين
+    fatherId: 7e1b94cd-d5f2-49b5-9fad-6dc1a36e9736

@@ -1,0 +1,57 @@
+family:
+  type: aal
+  name: الحمدانيون
+  visibility: public
+  pinned: true
+  suffixMale: الحمداني
+  suffixFemale: الحمدانية
+  hometown: حلب
+  description: |-
+    الحمدانيون سلالة عربية من بني تغلب حكمت الموصل وحلب في القرنين العاشر والحادي عشر الميلاديين.
+    أشهرهم سيف الدولة الحمداني الذي جعل بلاطه في حلب مركزاً للأدب والشعر، وكان المتنبي وأبو فراس الحمداني من شعراء بلاطه.
+persons:
+  - id: 7ef40c3d-610c-4628-a432-a05b724446c8
+    name: حمدان
+    sex: male
+    kunya: بن حمدون التغلبي
+  - id: 8e735243-b6a4-46b9-a8f6-cf125e801682
+    name: عبد الله
+    sex: male
+    fatherId: 7ef40c3d-610c-4628-a432-a05b724446c8
+  - id: a16185e9-7022-4b4c-b8bf-7c19315e54b0
+    name: الحسن
+    sex: male
+    nickname: الأمير
+    kunya: ناصر الدولة صاحب الموصل
+    fatherId: 8e735243-b6a4-46b9-a8f6-cf125e801682
+  - id: 5d47cc37-8b1d-434c-8dd6-2bf802eac989
+    name: علي
+    sex: male
+    nickname: الأمير
+    kunya: سيف الدولة صاحب حلب
+    fatherId: 8e735243-b6a4-46b9-a8f6-cf125e801682
+  # ── فرع الموصل ──
+  - id: 774a8f77-3701-48e2-a952-cc506037d762
+    name: أبو تغلب
+    sex: male
+    nickname: الأمير
+    kunya: الغضنفر
+    fatherId: a16185e9-7022-4b4c-b8bf-7c19315e54b0
+  # ── فرع حلب ──
+  - id: 06a99ab4-4471-412c-bffe-d964b14d0753
+    name: سعد الدولة
+    sex: male
+    nickname: الأمير
+    kunya: شريف بن سيف الدولة
+    fatherId: 5d47cc37-8b1d-434c-8dd6-2bf802eac989
+  # ── أبو فراس الحمداني ──
+  - id: 1bf7d00a-c8c0-4ce6-960f-b116362030e4
+    name: سعيد
+    sex: male
+    fatherId: 7ef40c3d-610c-4628-a432-a05b724446c8
+  - id: 087abe31-959d-48cd-ba65-6302c63b5a54
+    name: الحارث
+    sex: male
+    nickname: الشاعر
+    kunya: أبو فراس الحمداني
+    fatherId: 1bf7d00a-c8c0-4ce6-960f-b116362030e4

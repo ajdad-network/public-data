@@ -1,0 +1,48 @@
+family:
+  type: qabila
+  name: حاشد
+  visibility: public
+  pinned: true
+  suffixMale: الحاشدي
+  suffixFemale: الحاشدية
+  hometown: صنعاء
+  description: |-
+    حاشد من أكبر قبائل اليمن، تنتسب إلى حاشد بن جشم بن خيران بن نوف بن همدان.
+    تشكل مع بكيل اتحاد همدان القبلي الأكبر في اليمن. من أبرز فروعها عذر وحجور وخارف.
+persons:
+  - id: 77c23783-5d28-4695-8283-70d4d87b003d
+    name: همدان
+    sex: male
+    kunya: بن مالك بن زيد
+  - id: 44d0a104-1a13-4794-bdca-bdd58e352739
+    name: نوف
+    sex: male
+    fatherId: 77c23783-5d28-4695-8283-70d4d87b003d
+  - id: 98ead56e-ebf5-4133-9a2f-8c47e7264435
+    name: خيران
+    sex: male
+    fatherId: 44d0a104-1a13-4794-bdca-bdd58e352739
+  - id: e145a6f0-abec-4076-a648-a5de63269ecc
+    name: جشم
+    sex: male
+    fatherId: 98ead56e-ebf5-4133-9a2f-8c47e7264435
+  - id: a33a729f-e2c2-4633-893e-6042600b4ff7
+    name: حاشد
+    sex: male
+    fatherId: e145a6f0-abec-4076-a648-a5de63269ecc
+  # ── الفروع الرئيسية ──
+  - id: effb9d2c-b605-4eda-8914-b7e713378a6e
+    name: عذر
+    sex: male
+    kunya: جد بنو عذر
+    fatherId: a33a729f-e2c2-4633-893e-6042600b4ff7
+  - id: 0e9cafce-b379-42b4-bd86-1b7a11ac298b
+    name: حجور
+    sex: male
+    kunya: جد حجور
+    fatherId: a33a729f-e2c2-4633-893e-6042600b4ff7
+  - id: ecd6e828-0ee2-44b0-b30b-f621787b4c16
+    name: خارف
+    sex: male
+    kunya: جد خارف
+    fatherId: a33a729f-e2c2-4633-893e-6042600b4ff7

@@ -1,0 +1,42 @@
+family:
+  type: aal
+  name: الطولونيون
+  visibility: public
+  pinned: true
+  suffixMale: الطولوني
+  suffixFemale: الطولونية
+  hometown: القاهرة
+  description: |-
+    الطولونيون أول سلالة مستقلة حكمت مصر عن الخلافة العباسية (٨٦٨-٩٠٥م).
+    أسسها أحمد بن طولون الذي بنى مسجده الشهير في القاهرة ووسع حكمه إلى الشام.
+persons:
+  - id: 13bdd9c2-f8f6-489e-b910-1d8fdf92e31e
+    name: طولون
+    sex: male
+    kunya: مملوك تركي
+  - id: 7cf48bc3-c586-416e-8947-2cecaae5453c
+    name: أحمد
+    sex: male
+    nickname: الأمير
+    kunya: بن طولون مؤسس الدولة
+    fatherId: 13bdd9c2-f8f6-489e-b910-1d8fdf92e31e
+  - id: 15e59826-7c90-40bb-a0ce-af95679219e8
+    name: خمارويه
+    sex: male
+    nickname: الأمير
+    fatherId: 7cf48bc3-c586-416e-8947-2cecaae5453c
+  - id: be72ef1b-f248-4005-a386-fa591511f16d
+    name: جيش
+    sex: male
+    nickname: الأمير
+    fatherId: 15e59826-7c90-40bb-a0ce-af95679219e8
+  - id: 935e4d1a-9587-4fb8-8a0d-ac6dc3fc2134
+    name: هارون
+    sex: male
+    nickname: الأمير
+    fatherId: 15e59826-7c90-40bb-a0ce-af95679219e8
+  - id: 0c771e5a-b186-40d1-b10e-72e067d25906
+    name: شيبان
+    sex: male
+    nickname: الأمير
+    fatherId: 7cf48bc3-c586-416e-8947-2cecaae5453c

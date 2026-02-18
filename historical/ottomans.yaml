@@ -1,0 +1,193 @@
+family:
+  type: aal
+  name: آل عثمان
+  visibility: public
+  pinned: true
+  suffixMale: العثماني
+  suffixFemale: العثمانية
+  hometown: بورصة
+  description: |-
+    آل عثمان (الدولة العثمانية) سلالة تركية حكمت إمبراطورية امتدت من أوروبا إلى آسيا وأفريقيا (١٢٩٩-١٩٢٢م).
+    أسسها عثمان بن أرطغرل، وتولت الخلافة الإسلامية بعد فتح القسطنطينية عام ١٤٥٣م على يد محمد الفاتح.
+persons:
+  - id: a3fd40a4-8b61-418b-b428-020f2ab01aa7
+    name: أرطغرل
+    sex: male
+    kunya: بن سليمان شاه
+  - id: b272ab55-6598-4926-99db-8b904e586da9
+    name: عثمان
+    sex: male
+    nickname: السلطان
+    kunya: المؤسس
+    fatherId: a3fd40a4-8b61-418b-b428-020f2ab01aa7
+  - id: d7491286-2ff6-418f-b9bc-c78446b7d8b5
+    name: أورخان
+    sex: male
+    nickname: السلطان
+    fatherId: b272ab55-6598-4926-99db-8b904e586da9
+  - id: da8d4bb6-38a7-4dd5-a0da-2d7f4931fc2b
+    name: مراد
+    sex: male
+    nickname: السلطان
+    kunya: الأول
+    fatherId: d7491286-2ff6-418f-b9bc-c78446b7d8b5
+  - id: dca558c9-491f-47f2-b614-46d97dffb43a
+    name: بايزيد
+    sex: male
+    nickname: السلطان
+    kunya: الصاعقة
+    fatherId: da8d4bb6-38a7-4dd5-a0da-2d7f4931fc2b
+  - id: 47eccd50-fee7-4d09-bd9d-2b024d50dba7
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الأول جلبي
+    fatherId: dca558c9-491f-47f2-b614-46d97dffb43a
+  - id: 34e07ced-1c7a-44be-8a0e-c8629d37d510
+    name: مراد
+    sex: male
+    nickname: السلطان
+    kunya: الثاني
+    fatherId: 47eccd50-fee7-4d09-bd9d-2b024d50dba7
+  - id: 8c43631f-6bd7-4c77-a3a6-616c0e5e5128
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الفاتح
+    fatherId: 34e07ced-1c7a-44be-8a0e-c8629d37d510
+  - id: 42eeec01-2806-4fac-821f-6a98d8019813
+    name: بايزيد
+    sex: male
+    nickname: السلطان
+    kunya: الثاني
+    fatherId: 8c43631f-6bd7-4c77-a3a6-616c0e5e5128
+  - id: 6baa96d0-9a0f-4720-a889-82f69f7b3a8e
+    name: سليم
+    sex: male
+    nickname: السلطان
+    kunya: الأول
+    fatherId: 42eeec01-2806-4fac-821f-6a98d8019813
+  - id: 243fc70a-1e17-42a7-a1ed-0c24a5a48353
+    name: سليمان
+    sex: male
+    nickname: السلطان
+    kunya: القانوني
+    fatherId: 6baa96d0-9a0f-4720-a889-82f69f7b3a8e
+  - id: 7f882c91-e39b-4f5d-b6be-eed2fadbdbf7
+    name: سليم
+    sex: male
+    nickname: السلطان
+    kunya: الثاني
+    fatherId: 243fc70a-1e17-42a7-a1ed-0c24a5a48353
+  - id: af4ff9ce-9715-4fb0-991c-f77d467de885
+    name: مراد
+    sex: male
+    nickname: السلطان
+    kunya: الثالث
+    fatherId: 7f882c91-e39b-4f5d-b6be-eed2fadbdbf7
+  - id: 34dd8929-b063-466e-8c58-3d141e9b4002
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الثالث
+    fatherId: af4ff9ce-9715-4fb0-991c-f77d467de885
+  - id: 19eb8f0e-2bfa-4b29-82bf-f4d89bf66d31
+    name: أحمد
+    sex: male
+    nickname: السلطان
+    kunya: الأول
+    fatherId: 34dd8929-b063-466e-8c58-3d141e9b4002
+  - id: 89f9ff5f-5de8-408c-8600-a18cd015a230
+    name: عثمان
+    sex: male
+    nickname: السلطان
+    kunya: الثاني
+    fatherId: 19eb8f0e-2bfa-4b29-82bf-f4d89bf66d31
+  - id: 380f797e-38e4-491d-8343-5725f61993f8
+    name: مراد
+    sex: male
+    nickname: السلطان
+    kunya: الرابع
+    fatherId: 19eb8f0e-2bfa-4b29-82bf-f4d89bf66d31
+  - id: f6b80690-c10b-428b-90bc-57f2a4040dfe
+    name: إبراهيم
+    sex: male
+    nickname: السلطان
+    fatherId: 19eb8f0e-2bfa-4b29-82bf-f4d89bf66d31
+  - id: 518455ec-2d86-40da-87a6-ed35fe4cd8d3
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: الرابع
+    fatherId: f6b80690-c10b-428b-90bc-57f2a4040dfe
+  - id: 3e084ace-0e28-4698-b1a6-e87fb63ccdc8
+    name: مصطفى
+    sex: male
+    nickname: السلطان
+    kunya: الثاني
+    fatherId: 518455ec-2d86-40da-87a6-ed35fe4cd8d3
+  - id: c09c696a-2bc5-446f-80e7-ef8f9c15ea3c
+    name: أحمد
+    sex: male
+    nickname: السلطان
+    kunya: الثالث
+    fatherId: 518455ec-2d86-40da-87a6-ed35fe4cd8d3
+  - id: 936aaa60-4318-45c4-94bd-0347342f82e9
+    name: محمود
+    sex: male
+    nickname: السلطان
+    kunya: الأول
+    fatherId: 3e084ace-0e28-4698-b1a6-e87fb63ccdc8
+  - id: a9150e93-eff4-4b95-a5b8-995f7ef0d4d5
+    name: عثمان
+    sex: male
+    nickname: السلطان
+    kunya: الثالث
+    fatherId: 936aaa60-4318-45c4-94bd-0347342f82e9
+  - id: 3540fda7-b35c-4403-91ef-0893a0dfefad
+    name: عبد الحميد
+    sex: male
+    nickname: السلطان
+    kunya: الأول
+    fatherId: c09c696a-2bc5-446f-80e7-ef8f9c15ea3c
+  - id: a29900ad-f5e5-4064-907e-1dbebc730585
+    name: محمود
+    sex: male
+    nickname: السلطان
+    kunya: الثاني
+    fatherId: 3540fda7-b35c-4403-91ef-0893a0dfefad
+  - id: 4d1a0175-9376-42b8-bc93-3e1ce23fb98a
+    name: عبد المجيد
+    sex: male
+    nickname: السلطان
+    kunya: الأول
+    fatherId: a29900ad-f5e5-4064-907e-1dbebc730585
+  - id: 5e515887-246a-44e5-90f7-870a4ba6bad0
+    name: عبد العزيز
+    sex: male
+    nickname: السلطان
+    fatherId: a29900ad-f5e5-4064-907e-1dbebc730585
+  - id: 300f435d-cd60-4243-8d2a-e077ae56433d
+    name: مراد
+    sex: male
+    nickname: السلطان
+    kunya: الخامس
+    fatherId: 4d1a0175-9376-42b8-bc93-3e1ce23fb98a
+  - id: 41f982b7-5a9f-4330-9dc8-05d529460cc3
+    name: عبد الحميد
+    sex: male
+    nickname: السلطان
+    kunya: الثاني
+    fatherId: 4d1a0175-9376-42b8-bc93-3e1ce23fb98a
+  - id: ddc10d21-33af-4105-8906-efd9369f820e
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: رشاد الخامس
+    fatherId: 4d1a0175-9376-42b8-bc93-3e1ce23fb98a
+  - id: 363b5a0d-9e67-49c3-a3f5-89a5ff199e9a
+    name: محمد
+    sex: male
+    nickname: السلطان
+    kunya: وحيد الدين السادس
+    fatherId: 5e515887-246a-44e5-90f7-870a4ba6bad0

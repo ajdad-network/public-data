@@ -1,0 +1,48 @@
+family:
+  type: qabila
+  name: بكيل
+  visibility: public
+  pinned: true
+  suffixMale: البكيلي
+  suffixFemale: البكيلية
+  hometown: صنعاء
+  description: |-
+    بكيل من أكبر قبائل اليمن، شقيقة حاشد في اتحاد همدان القبلي.
+    تنتسب إلى بكيل بن جشم بن خيران بن نوف بن همدان. من أبرز فروعها أرحب ونهم وذو محمد ومرهبة.
+persons:
+  - id: e369904e-229c-47f6-bd6b-daf0712229b7
+    name: همدان
+    sex: male
+    kunya: بن مالك بن زيد
+  - id: d9019150-7f6f-4c72-9825-c1e1a373e836
+    name: نوف
+    sex: male
+    fatherId: e369904e-229c-47f6-bd6b-daf0712229b7
+  - id: 295b6db8-ddcd-4131-a307-e7d7dc71ea2c
+    name: خيران
+    sex: male
+    fatherId: d9019150-7f6f-4c72-9825-c1e1a373e836
+  - id: ce828406-993a-42f3-ac82-13c6471fe078
+    name: جشم
+    sex: male
+    fatherId: 295b6db8-ddcd-4131-a307-e7d7dc71ea2c
+  - id: 02d7f87a-0e84-450b-a370-12ff59accf9b
+    name: بكيل
+    sex: male
+    fatherId: ce828406-993a-42f3-ac82-13c6471fe078
+  # ── الفروع الرئيسية ──
+  - id: 37b3729d-74ad-4b28-87f1-292216fb21ee
+    name: أرحب
+    sex: male
+    kunya: جد أرحب
+    fatherId: 02d7f87a-0e84-450b-a370-12ff59accf9b
+  - id: 7658604e-4a51-4ee4-96f1-31aabb7b0250
+    name: نهم
+    sex: male
+    kunya: جد نهم
+    fatherId: 02d7f87a-0e84-450b-a370-12ff59accf9b
+  - id: 99136fb4-6928-4dd1-bd57-2a11f761ea8e
+    name: مرهبة
+    sex: male
+    kunya: جد مرهبة
+    fatherId: 02d7f87a-0e84-450b-a370-12ff59accf9b
