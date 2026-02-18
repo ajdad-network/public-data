@@ -1,0 +1,495 @@
+family:
+  type: aal
+  name: بنو عبد مناف
+  visibility: public
+  pinned: true
+  suffixMale: الهاشمي
+  suffixFemale: الهاشمية
+  hometown: مكة المكرمة
+  description: |-
+    بنو عبد مناف هم أحد أبرز بطون قبيلة قريش، ومنهم ثلاثة فروع رئيسية: بنو هاشم ومنهم النبي محمد ﷺ وأهل بيته الكرام، وبنو أمية مؤسسو الدولة الأموية، وبنو العباس مؤسسو الدولة العباسية.
+    يرجع نسبهم جميعًا إلى عبد مناف بن قصي بن كلاب سيد قريش.
+persons:
+  - id: df5da40d-30af-4698-a906-0bae7cacf87a
+    name: عبد مناف
+    sex: male
+    kunya: بن قصي
+  - id: 991943c8-4aaf-4817-8ced-36dd637b8b5d
+    name: هاشم
+    sex: male
+    kunya: بن عبد مناف
+    fatherId: df5da40d-30af-4698-a906-0bae7cacf87a
+  - id: 6d8b86ed-de52-4fcf-9400-c6ced301ce41
+    name: عبد المطلب
+    sex: male
+    kunya: شيبة الحمد
+    fatherId: 991943c8-4aaf-4817-8ced-36dd637b8b5d
+  - id: ab70e7e0-d274-46e5-a7d5-af6b3a902e91
+    name: أسد
+    sex: male
+    fatherId: 991943c8-4aaf-4817-8ced-36dd637b8b5d
+  - id: 32faf6b4-31bb-4c64-b597-abc5f599ca8f
+    name: فاطمة
+    sex: female
+    kunya: بنت أسد
+    fatherId: ab70e7e0-d274-46e5-a7d5-af6b3a902e91
+  - id: dc73f841-3355-4071-a560-2790518cb1b3
+    name: عبد الله
+    sex: male
+    fatherId: 6d8b86ed-de52-4fcf-9400-c6ced301ce41
+  - id: dd70592b-a9cd-458a-bc25-0379008bde64
+    name: أبو طالب
+    sex: male
+    fatherId: 6d8b86ed-de52-4fcf-9400-c6ced301ce41
+  - id: 30c5e489-5ab9-4efa-b007-6a3c32c04bf2
+    name: حمزة
+    sex: male
+    kunya: سيد الشهداء
+    fatherId: 6d8b86ed-de52-4fcf-9400-c6ced301ce41
+  - id: 6ce51136-c7f8-4fe2-aae7-c01562fa43fa
+    name: العباس
+    sex: male
+    fatherId: 6d8b86ed-de52-4fcf-9400-c6ced301ce41
+  - id: 5ffc524e-96e2-4e5f-839b-ffc2f9c55291
+    name: أبو لهب
+    sex: male
+    fatherId: 6d8b86ed-de52-4fcf-9400-c6ced301ce41
+  - id: 22537bde-5c4c-443d-a136-c1eeaa97d663
+    name: آمنة
+    sex: female
+    kunya: بنت وهب
+  - id: b0538cf8-f981-4bba-91cd-9946f9a2f4d2
+    name: محمد
+    sex: male
+    nickname: النبي
+    kunya: ﷺ
+    fatherId: dc73f841-3355-4071-a560-2790518cb1b3
+    motherId: 22537bde-5c4c-443d-a136-c1eeaa97d663
+  - id: 6ef23de9-b462-4cb3-b657-019b480ff042
+    name: خديجة
+    sex: female
+    nickname: أم المؤمنين
+    kunya: بنت خويلد
+  - id: b320a345-3be5-4821-9765-000b6e2e9019
+    name: علي
+    sex: male
+    nickname: الإمام
+    kunya: كرم الله وجهه
+    fatherId: dd70592b-a9cd-458a-bc25-0379008bde64
+    motherId: 32faf6b4-31bb-4c64-b597-abc5f599ca8f
+  - id: cfae7b6d-bb0d-4403-9974-4fb824738cce
+    name: جعفر
+    sex: male
+    kunya: الطيار
+    fatherId: dd70592b-a9cd-458a-bc25-0379008bde64
+    motherId: 32faf6b4-31bb-4c64-b597-abc5f599ca8f
+  - id: 9a04eb2a-19c1-436a-99c7-5ab46021cd57
+    name: عقيل
+    sex: male
+    fatherId: dd70592b-a9cd-458a-bc25-0379008bde64
+    motherId: 32faf6b4-31bb-4c64-b597-abc5f599ca8f
+  - id: 45392e57-3a6d-49ac-82e9-c1877e01ec64
+    name: فاطمة
+    sex: female
+    kunya: الزهراء
+    fatherId: b0538cf8-f981-4bba-91cd-9946f9a2f4d2
+    motherId: 6ef23de9-b462-4cb3-b657-019b480ff042
+  - id: 376f70a9-b1ff-49a6-9caa-ed51177a7744
+    name: الحسن
+    sex: male
+    nickname: الإمام
+    fatherId: b320a345-3be5-4821-9765-000b6e2e9019
+    motherId: 45392e57-3a6d-49ac-82e9-c1877e01ec64
+  - id: 252760d3-77ba-4d0d-857e-e241c058b5b3
+    name: الحسين
+    sex: male
+    nickname: الإمام
+    kunya: سيد الشهداء
+    fatherId: b320a345-3be5-4821-9765-000b6e2e9019
+    motherId: 45392e57-3a6d-49ac-82e9-c1877e01ec64
+  # ── بنو أمية ──
+  - id: a2d32693-7bc8-47c7-a91f-6f4b0fe8d0db
+    name: عبد شمس
+    sex: male
+    fatherId: df5da40d-30af-4698-a906-0bae7cacf87a
+  - id: c4316628-fd66-4009-9801-c6619d6a2282
+    name: أمية
+    sex: male
+    fatherId: a2d32693-7bc8-47c7-a91f-6f4b0fe8d0db
+  - id: 6d2532b1-30cc-46f4-a07e-4acceb516a04
+    name: حرب
+    sex: male
+    fatherId: c4316628-fd66-4009-9801-c6619d6a2282
+  - id: 75223a66-f9dd-47fb-a045-6cd4b8e2f322
+    name: أبو العاص
+    sex: male
+    fatherId: c4316628-fd66-4009-9801-c6619d6a2282
+  - id: d8677011-be4a-4c8a-89ee-4fc7f9a7cf34
+    name: أبو سفيان
+    sex: male
+    kunya: صخر بن حرب
+    fatherId: 6d2532b1-30cc-46f4-a07e-4acceb516a04
+  - id: 46fe38ad-468c-449b-855b-d111dacf96d9
+    name: الحكم
+    sex: male
+    fatherId: 75223a66-f9dd-47fb-a045-6cd4b8e2f322
+  - id: cf8f8fd3-66d0-4be0-ac66-be2554a41666
+    name: عفان
+    sex: male
+    fatherId: 75223a66-f9dd-47fb-a045-6cd4b8e2f322
+  - id: a26e463c-f754-45a2-9e22-bba2d7b9849b
+    name: عثمان
+    sex: male
+    nickname: الخليفة
+    kunya: ذو النورين
+    fatherId: cf8f8fd3-66d0-4be0-ac66-be2554a41666
+  - id: c48e064f-dbb7-4ce1-a34b-6be6b664c9c6
+    name: معاوية
+    sex: male
+    nickname: الخليفة
+    kunya: الأول
+    fatherId: d8677011-be4a-4c8a-89ee-4fc7f9a7cf34
+  - id: 29fc4489-7077-4fbd-8949-e80a16527e4f
+    name: مروان
+    sex: male
+    nickname: الخليفة
+    kunya: بن الحكم
+    fatherId: 46fe38ad-468c-449b-855b-d111dacf96d9
+  - id: 39c22ef4-5cca-4645-8896-60d8bc3a89e3
+    name: يزيد
+    sex: male
+    nickname: الخليفة
+    fatherId: c48e064f-dbb7-4ce1-a34b-6be6b664c9c6
+  - id: 6489a5c0-b020-451d-9fb5-596049dd1d51
+    name: معاوية
+    sex: male
+    nickname: الخليفة
+    kunya: الثاني
+    fatherId: 39c22ef4-5cca-4645-8896-60d8bc3a89e3
+  - id: aa64d840-c6f3-4142-865f-3dc71fb58d50
+    name: عبد الملك
+    sex: male
+    nickname: الخليفة
+    fatherId: 29fc4489-7077-4fbd-8949-e80a16527e4f
+  - id: c6042de1-a860-455d-af28-97b4774137e8
+    name: عبد العزيز
+    sex: male
+    fatherId: 29fc4489-7077-4fbd-8949-e80a16527e4f
+  - id: c6dc61d1-9b45-4740-b617-4ba59a3f3000
+    name: محمد
+    sex: male
+    fatherId: 29fc4489-7077-4fbd-8949-e80a16527e4f
+  - id: e9e1443a-c65f-4441-936d-68d0090d6a68
+    name: الوليد
+    sex: male
+    nickname: الخليفة
+    kunya: الأول
+    fatherId: aa64d840-c6f3-4142-865f-3dc71fb58d50
+  - id: ae97e89c-f752-4aa1-9a70-c14a2cd70631
+    name: سليمان
+    sex: male
+    nickname: الخليفة
+    fatherId: aa64d840-c6f3-4142-865f-3dc71fb58d50
+  - id: 6e95d033-d04d-40dc-8d1a-b93ab8990def
+    name: يزيد
+    sex: male
+    nickname: الخليفة
+    kunya: الثاني
+    fatherId: aa64d840-c6f3-4142-865f-3dc71fb58d50
+  - id: a8d22a1b-32cf-4c0d-9fd1-c8ba37a4b735
+    name: هشام
+    sex: male
+    nickname: الخليفة
+    fatherId: aa64d840-c6f3-4142-865f-3dc71fb58d50
+  - id: 52447b69-c7bc-400f-b9ba-e51b3216bd9c
+    name: عمر
+    sex: male
+    nickname: الخليفة
+    kunya: بن عبد العزيز
+    fatherId: c6042de1-a860-455d-af28-97b4774137e8
+  - id: c80e6c07-a9dc-4486-a1a1-27c136cfe76b
+    name: مروان
+    sex: male
+    nickname: الخليفة
+    kunya: بن محمد
+    fatherId: c6dc61d1-9b45-4740-b617-4ba59a3f3000
+  - id: 051df110-97f3-4515-ba0a-5d92e23e588e
+    name: الوليد
+    sex: male
+    nickname: الخليفة
+    kunya: الثاني
+    fatherId: 6e95d033-d04d-40dc-8d1a-b93ab8990def
+  - id: b27967fa-07b1-4d54-a3eb-d83353b39e41
+    name: يزيد
+    sex: male
+    nickname: الخليفة
+    kunya: الثالث
+    fatherId: e9e1443a-c65f-4441-936d-68d0090d6a68
+  - id: 62e89b49-fbe8-410f-ab2e-106581b9066d
+    name: إبراهيم
+    sex: male
+    nickname: الخليفة
+    kunya: بن الوليد
+    fatherId: e9e1443a-c65f-4441-936d-68d0090d6a68
+  # ── بنو العباس ──
+  - id: 8d39656a-12b6-46c2-96fb-d51e4817ba45
+    name: عبد الله
+    sex: male
+    kunya: بن العباس
+    fatherId: 6ce51136-c7f8-4fe2-aae7-c01562fa43fa
+  - id: 0becaee8-f62f-4a10-a073-a4c512dd0b89
+    name: علي
+    sex: male
+    kunya: بن عبد الله
+    fatherId: 8d39656a-12b6-46c2-96fb-d51e4817ba45
+  - id: c6e9038d-3a51-4b91-a202-9a1039650eb2
+    name: محمد
+    sex: male
+    kunya: بن علي
+    fatherId: 0becaee8-f62f-4a10-a073-a4c512dd0b89
+  - id: 670339f1-4bae-4023-8549-d9ee6479951c
+    name: إبراهيم
+    sex: male
+    kunya: الإمام
+    fatherId: c6e9038d-3a51-4b91-a202-9a1039650eb2
+  - id: 5af07022-dc30-424d-a9b4-48d742c012d9
+    name: أبو العباس
+    sex: male
+    nickname: الخليفة
+    kunya: السفاح
+    fatherId: c6e9038d-3a51-4b91-a202-9a1039650eb2
+  - id: 78be7d1d-1144-4e44-958c-22af985ea0c7
+    name: أبو جعفر
+    sex: male
+    nickname: الخليفة
+    kunya: المنصور
+    fatherId: c6e9038d-3a51-4b91-a202-9a1039650eb2
+  - id: d8b93e3c-7f93-4f00-94ab-705139e7eb61
+    name: محمد
+    sex: male
+    nickname: الخليفة
+    kunya: المهدي
+    fatherId: 78be7d1d-1144-4e44-958c-22af985ea0c7
+  - id: 47387560-7648-4e04-aa1c-e804700ef814
+    name: موسى
+    sex: male
+    nickname: الخليفة
+    kunya: الهادي
+    fatherId: d8b93e3c-7f93-4f00-94ab-705139e7eb61
+  - id: 56efaf59-dfe0-42b7-861b-2bb54f65aa7a
+    name: هارون
+    sex: male
+    nickname: الخليفة
+    kunya: الرشيد
+    fatherId: d8b93e3c-7f93-4f00-94ab-705139e7eb61
+  - id: e0196d13-d737-4207-8cdb-a29d30739450
+    name: محمد
+    sex: male
+    nickname: الخليفة
+    kunya: الأمين
+    fatherId: 56efaf59-dfe0-42b7-861b-2bb54f65aa7a
+  - id: 405fdd79-8b4d-4f16-9573-2985bc8a7f49
+    name: عبد الله
+    sex: male
+    nickname: الخليفة
+    kunya: المأمون
+    fatherId: 56efaf59-dfe0-42b7-861b-2bb54f65aa7a
+  - id: f39513ed-be5b-49b1-8bbe-45a2001b17bf
+    name: محمد
+    sex: male
+    nickname: الخليفة
+    kunya: المعتصم بالله
+    fatherId: 56efaf59-dfe0-42b7-861b-2bb54f65aa7a
+  - id: da847de7-bcbf-4130-8acd-106c921a7f3d
+    name: محمد
+    sex: male
+    kunya: بن المعتصم
+    fatherId: f39513ed-be5b-49b1-8bbe-45a2001b17bf
+  - id: 484ec1c1-7d7c-4f5e-9e3f-3bda8a0aa59c
+    name: هارون
+    sex: male
+    nickname: الخليفة
+    kunya: الواثق بالله
+    fatherId: f39513ed-be5b-49b1-8bbe-45a2001b17bf
+  - id: c3fd6b7d-78ec-4184-beee-645e95f340eb
+    name: جعفر
+    sex: male
+    nickname: الخليفة
+    kunya: المتوكل على الله
+    fatherId: f39513ed-be5b-49b1-8bbe-45a2001b17bf
+  - id: fcae221b-4753-4597-aff3-86cc1b95783c
+    name: أحمد
+    sex: male
+    nickname: الخليفة
+    kunya: المستعين بالله
+    fatherId: da847de7-bcbf-4130-8acd-106c921a7f3d
+  - id: cdf22aeb-a4e1-48d9-b196-48a5a0175340
+    name: محمد
+    sex: male
+    nickname: الخليفة
+    kunya: المنتصر بالله
+    fatherId: c3fd6b7d-78ec-4184-beee-645e95f340eb
+  - id: 693a3416-f3c0-4887-80c2-9c82615bb273
+    name: الزبير
+    sex: male
+    nickname: الخليفة
+    kunya: المعتز بالله
+    fatherId: c3fd6b7d-78ec-4184-beee-645e95f340eb
+  - id: 491bf393-f342-467b-85e3-dd19e994d5fe
+    name: أحمد
+    sex: male
+    nickname: الخليفة
+    kunya: المعتمد على الله
+    fatherId: c3fd6b7d-78ec-4184-beee-645e95f340eb
+  - id: 29e35e4d-5f22-4c6a-81e6-3edfb502bb3d
+    name: طلحة
+    sex: male
+    kunya: الموفق
+    fatherId: c3fd6b7d-78ec-4184-beee-645e95f340eb
+  - id: 791ddcd4-47ed-4e44-b080-046883d3b34f
+    name: محمد
+    sex: male
+    nickname: الخليفة
+    kunya: المهتدي بالله
+    fatherId: 484ec1c1-7d7c-4f5e-9e3f-3bda8a0aa59c
+  - id: aedfce35-8f57-49ee-85e5-a3e8142d5d22
+    name: أحمد
+    sex: male
+    nickname: الخليفة
+    kunya: المعتضد بالله
+    fatherId: 29e35e4d-5f22-4c6a-81e6-3edfb502bb3d
+  - id: 78f38c30-edeb-498a-9eb3-fb144745b87d
+    name: علي
+    sex: male
+    nickname: الخليفة
+    kunya: المكتفي بالله
+    fatherId: aedfce35-8f57-49ee-85e5-a3e8142d5d22
+  - id: 03b41575-0667-4d2f-b218-84f02e9ba666
+    name: جعفر
+    sex: male
+    nickname: الخليفة
+    kunya: المقتدر بالله
+    fatherId: aedfce35-8f57-49ee-85e5-a3e8142d5d22
+  - id: fbb1e9ae-8c59-4fd2-a905-e55884c25244
+    name: محمد
+    sex: male
+    nickname: الخليفة
+    kunya: القاهر بالله
+    fatherId: aedfce35-8f57-49ee-85e5-a3e8142d5d22
+  - id: 11cb4869-fb16-4dee-81e4-bd16a6e7c7a2
+    name: عبد الله
+    sex: male
+    nickname: الخليفة
+    kunya: المستكفي بالله
+    fatherId: 78f38c30-edeb-498a-9eb3-fb144745b87d
+  - id: 7daecb14-ca37-43c3-9248-c9603964dd7e
+    name: محمد
+    sex: male
+    nickname: الخليفة
+    kunya: الراضي بالله
+    fatherId: 03b41575-0667-4d2f-b218-84f02e9ba666
+  - id: 45127d98-7531-434c-b6ff-6b176a9de9b6
+    name: إبراهيم
+    sex: male
+    nickname: الخليفة
+    kunya: المتقي لله
+    fatherId: 03b41575-0667-4d2f-b218-84f02e9ba666
+  - id: d14f47ff-ca57-4716-9468-f564c994ae4d
+    name: الفضل
+    sex: male
+    nickname: الخليفة
+    kunya: المطيع لله
+    fatherId: 03b41575-0667-4d2f-b218-84f02e9ba666
+  - id: d3140bcd-e3f9-43eb-bd29-24d3ba2baf70
+    name: إسحاق
+    sex: male
+    fatherId: 03b41575-0667-4d2f-b218-84f02e9ba666
+  - id: 8ba6c06c-8cee-4edf-afb0-37c613db0e39
+    name: عبد الكريم
+    sex: male
+    nickname: الخليفة
+    kunya: الطائع لله
+    fatherId: d14f47ff-ca57-4716-9468-f564c994ae4d
+  - id: 673fe558-e2d4-463e-999f-41f38cc72cc2
+    name: أحمد
+    sex: male
+    nickname: الخليفة
+    kunya: القادر بالله
+    fatherId: d3140bcd-e3f9-43eb-bd29-24d3ba2baf70
+  - id: a1d71bc5-d553-42dd-a88a-aaf8672e1ba1
+    name: عبد الله
+    sex: male
+    nickname: الخليفة
+    kunya: القائم بأمر الله
+    fatherId: 673fe558-e2d4-463e-999f-41f38cc72cc2
+  - id: bfc20e1a-4815-4e76-932e-c1268000998b
+    name: محمد
+    sex: male
+    kunya: الذخيرة
+    fatherId: a1d71bc5-d553-42dd-a88a-aaf8672e1ba1
+  - id: fa478027-75c2-4e75-a2aa-3e9fd5fe991a
+    name: عبد الله
+    sex: male
+    nickname: الخليفة
+    kunya: المقتدي بأمر الله
+    fatherId: bfc20e1a-4815-4e76-932e-c1268000998b
+  - id: 86557491-d343-40f0-8cc6-d3d2a75eb007
+    name: أحمد
+    sex: male
+    nickname: الخليفة
+    kunya: المستظهر بالله
+    fatherId: fa478027-75c2-4e75-a2aa-3e9fd5fe991a
+  - id: 935d1de9-1bf0-4317-b353-71e3241abcd6
+    name: الفضل
+    sex: male
+    nickname: الخليفة
+    kunya: المسترشد بالله
+    fatherId: 86557491-d343-40f0-8cc6-d3d2a75eb007
+  - id: 5f60090c-4816-4bbb-84fb-24e2f72cdea0
+    name: محمد
+    sex: male
+    nickname: الخليفة
+    kunya: المقتفي لأمر الله
+    fatherId: 86557491-d343-40f0-8cc6-d3d2a75eb007
+  - id: 389164e0-e3a6-42e8-b47c-b7cd7c38b9c8
+    name: منصور
+    sex: male
+    nickname: الخليفة
+    kunya: الراشد بالله
+    fatherId: 935d1de9-1bf0-4317-b353-71e3241abcd6
+  - id: f9913cb8-14d3-4de5-ad79-a7a21679f329
+    name: يوسف
+    sex: male
+    nickname: الخليفة
+    kunya: المستنجد بالله
+    fatherId: 5f60090c-4816-4bbb-84fb-24e2f72cdea0
+  - id: dbf806a9-f341-486d-a597-1934387b3514
+    name: الحسن
+    sex: male
+    nickname: الخليفة
+    kunya: المستضيء بأمر الله
+    fatherId: f9913cb8-14d3-4de5-ad79-a7a21679f329
+  - id: d1f592be-098f-4935-9611-d26b196fcea0
+    name: أحمد
+    sex: male
+    nickname: الخليفة
+    kunya: الناصر لدين الله
+    fatherId: dbf806a9-f341-486d-a597-1934387b3514
+  - id: ceaeba9c-6908-40da-9d67-c037fd9aeacb
+    name: محمد
+    sex: male
+    nickname: الخليفة
+    kunya: الظاهر بأمر الله
+    fatherId: d1f592be-098f-4935-9611-d26b196fcea0
+  - id: d6b3b68f-b71b-45d7-a0d1-3f98beae21a7
+    name: منصور
+    sex: male
+    nickname: الخليفة
+    kunya: المستنصر بالله
+    fatherId: ceaeba9c-6908-40da-9d67-c037fd9aeacb
+  - id: b1fbc655-b9e4-40e5-a8ff-db33bdf3f8ff
+    name: عبد الله
+    sex: male
+    nickname: الخليفة
+    kunya: المستعصم بالله
+    fatherId: d6b3b68f-b71b-45d7-a0d1-3f98beae21a7

@@ -1,0 +1,74 @@
+family:
+  type: qabila
+  name: بنو خالد
+  visibility: public
+  pinned: true
+  suffixMale: الخالدي
+  suffixFemale: الخالدية
+  hometown: الأحساء
+  description: |-
+    بنو خالد قبيلة عربية كبيرة ينتسبون إلى خالد بن الوليد بن المغيرة المخزومي القرشي سيف الله المسلول. حكموا شرق الجزيرة العربية (الأحساء والقطيف) لعدة قرون قبل قيام الدولة السعودية.
+    من أبرز فروعهم الحاكمة آل حميد الذين أسسوا إمارة قوية في الأحساء في القرنين السابع عشر والثامن عشر الميلاديين.
+persons:
+  # ── نسب خالد بن الوليد (بنو مخزوم من قريش) ──
+  - id: 273af644-d98a-4e3d-886f-e38781bf5d4b
+    name: مخزوم
+    sex: male
+    kunya: بن يقظة من قريش
+  - id: 975ed383-7b56-46a4-9408-ae12887b059f
+    name: عمرو
+    sex: male
+    fatherId: 273af644-d98a-4e3d-886f-e38781bf5d4b
+  - id: a8c29c2c-bf64-434d-8599-9a6ffeecea02
+    name: عبد الله
+    sex: male
+    fatherId: 975ed383-7b56-46a4-9408-ae12887b059f
+  - id: ca64f525-dab8-478c-b46c-62c7ba5a3ab9
+    name: المغيرة
+    sex: male
+    fatherId: a8c29c2c-bf64-434d-8599-9a6ffeecea02
+  - id: 6f928fb5-36de-4619-8287-9478fc1446c6
+    name: الوليد
+    sex: male
+    fatherId: ca64f525-dab8-478c-b46c-62c7ba5a3ab9
+  - id: c8b199ea-7b88-4128-82c2-d01711e5c31d
+    name: خالد
+    sex: male
+    nickname: الصحابي
+    kunya: سيف الله المسلول
+    fatherId: 6f928fb5-36de-4619-8287-9478fc1446c6
+  # ── آل حميد (حكام الأحساء) ──
+  - id: 7331949c-e45c-45cd-bad0-e0f4bdc5ace7
+    name: حميد
+    sex: male
+    kunya: من ذرية خالد
+    fatherId: c8b199ea-7b88-4128-82c2-d01711e5c31d
+  - id: 256ac91d-5f6b-4749-b9cd-ca121d73cfc8
+    name: غرير
+    sex: male
+    fatherId: 7331949c-e45c-45cd-bad0-e0f4bdc5ace7
+  - id: a0f31663-ddb3-4b64-bd87-19e4a8dba097
+    name: دجين
+    sex: male
+    fatherId: 7331949c-e45c-45cd-bad0-e0f4bdc5ace7
+  - id: 8a2ad584-6699-4a9f-9fae-42bbd35ed0ec
+    name: براك
+    sex: male
+    nickname: الأمير
+    fatherId: 256ac91d-5f6b-4749-b9cd-ca121d73cfc8
+  - id: 65216d6a-fbab-4acf-a5a6-9177f60a938f
+    name: محمد
+    sex: male
+    nickname: الأمير
+    kunya: بن غرير
+    fatherId: 256ac91d-5f6b-4749-b9cd-ca121d73cfc8
+  - id: 6b50c3f5-68f3-4c70-8c54-f3c7f2f02bea
+    name: سعدون
+    sex: male
+    nickname: الأمير
+    fatherId: 65216d6a-fbab-4acf-a5a6-9177f60a938f
+  - id: c027c102-aafd-47fb-8f4b-1d0865c38be2
+    name: عريعر
+    sex: male
+    nickname: الأمير
+    fatherId: a0f31663-ddb3-4b64-bd87-19e4a8dba097

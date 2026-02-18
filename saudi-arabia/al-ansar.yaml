@@ -1,0 +1,169 @@
+family:
+  type: qabila
+  name: الأوس والخزرج
+  visibility: public
+  pinned: true
+  suffixMale: الأنصاري
+  suffixFemale: الأنصارية
+  hometown: المدينة المنورة
+  description: |-
+    الأوس والخزرج هما القبيلتان العربيتان اللتان سكنتا يثرب (المدينة المنورة)، وهما أبناء حارثة بن ثعلبة بن عمرو مزيقياء، ويُعرفون ببنو قيلة نسبةً إلى أمهم قيلة.
+    لُقّبوا بالأنصار لنصرتهم النبي محمد ﷺ بعد هجرته إلى المدينة. ومن أبرز أعلامهم سعد بن معاذ سيد الأوس وحسان بن ثابت شاعر النبي وأسعد بن زرارة أول من أسلم من أهل المدينة.
+persons:
+  # ── الجذع المشترك ──
+  - id: d54148e5-a608-4f29-a26c-2cf896266577
+    name: ثعلبة
+    sex: male
+    kunya: بن عمرو مزيقياء
+  - id: 9664edbd-987c-422f-bc03-058f345901a5
+    name: حارثة
+    sex: male
+    fatherId: d54148e5-a608-4f29-a26c-2cf896266577
+  - id: b4851a8b-9ab0-4261-a213-62d709027aca
+    name: قيلة
+    sex: female
+  - id: 281b0b6d-65db-4ee6-bf2c-2fb35cbcccb2
+    name: أوس
+    sex: male
+    fatherId: 9664edbd-987c-422f-bc03-058f345901a5
+    motherId: b4851a8b-9ab0-4261-a213-62d709027aca
+  - id: 7c124f87-7eec-4a6e-acff-fae9362b9708
+    name: خزرج
+    sex: male
+    fatherId: 9664edbd-987c-422f-bc03-058f345901a5
+    motherId: b4851a8b-9ab0-4261-a213-62d709027aca
+  # ── الأوس → بنو عبد الأشهل → سعد بن معاذ ──
+  - id: 44dc0606-89e7-468f-8214-40281c8bfe08
+    name: مالك
+    sex: male
+    kunya: بن الأوس
+    fatherId: 281b0b6d-65db-4ee6-bf2c-2fb35cbcccb2
+  - id: 51ee73cb-f439-42b8-9bbc-1d2245e6a1fd
+    name: عمرو
+    sex: male
+    kunya: بن مالك
+    fatherId: 44dc0606-89e7-468f-8214-40281c8bfe08
+  - id: a60a8fac-e418-4c9f-ac41-9cbf422d14e2
+    name: خزرج
+    sex: male
+    kunya: بن عمرو
+    fatherId: 51ee73cb-f439-42b8-9bbc-1d2245e6a1fd
+  - id: 43e5d10a-7eca-420b-9073-b68561dcce3b
+    name: الحارث
+    sex: male
+    fatherId: a60a8fac-e418-4c9f-ac41-9cbf422d14e2
+  - id: 28931f97-419b-479c-a828-8b5c8b80a052
+    name: جشم
+    sex: male
+    fatherId: 43e5d10a-7eca-420b-9073-b68561dcce3b
+  - id: 26c1f910-81c4-45cf-b0d0-14b9f200b40e
+    name: عبد الأشهل
+    sex: male
+    fatherId: 28931f97-419b-479c-a828-8b5c8b80a052
+  - id: b5d4ae15-b73c-4da6-abd4-63d773970145
+    name: زيد
+    sex: male
+    fatherId: 26c1f910-81c4-45cf-b0d0-14b9f200b40e
+  - id: 5e5abbc0-7f8c-4d50-a0cc-f73303ba7e48
+    name: امرؤ القيس
+    sex: male
+    fatherId: b5d4ae15-b73c-4da6-abd4-63d773970145
+  - id: f9cd3009-ea8c-4f2e-9854-675814804da2
+    name: النعمان
+    sex: male
+    fatherId: 5e5abbc0-7f8c-4d50-a0cc-f73303ba7e48
+  - id: ce9c5174-2717-43d3-b95e-854f987bc775
+    name: معاذ
+    sex: male
+    fatherId: f9cd3009-ea8c-4f2e-9854-675814804da2
+  - id: a0a8b5ea-b81b-4f3f-9007-e756083f1298
+    name: سعد
+    sex: male
+    nickname: الصحابي
+    kunya: سيد الأوس
+    fatherId: ce9c5174-2717-43d3-b95e-854f987bc775
+  # ── الخزرج → بنو النجار → حسان بن ثابت ──
+  - id: d852b246-db4b-4d86-a071-5181bb8302a8
+    name: عمرو
+    sex: male
+    kunya: بن الخزرج
+    fatherId: 7c124f87-7eec-4a6e-acff-fae9362b9708
+  - id: d643c22f-78ef-48b4-826f-a26f30a664e4
+    name: ثعلبة
+    sex: male
+    kunya: بن عمرو
+    fatherId: d852b246-db4b-4d86-a071-5181bb8302a8
+  - id: 21c98825-a101-42ce-aecd-07788d8a074f
+    name: النجار
+    sex: male
+    kunya: تيم الله
+    fatherId: d643c22f-78ef-48b4-826f-a26f30a664e4
+  - id: 7c552b28-8c71-4941-af2e-94794fc86800
+    name: مالك
+    sex: male
+    kunya: بن النجار
+    fatherId: 21c98825-a101-42ce-aecd-07788d8a074f
+  - id: 132aadb4-5f9c-48da-a55d-8fcbcd08e431
+    name: عمرو
+    sex: male
+    kunya: بن مالك بن النجار
+    fatherId: 7c552b28-8c71-4941-af2e-94794fc86800
+  - id: 406b332f-9641-473f-af87-c06d0cb20997
+    name: عدي
+    sex: male
+    fatherId: 132aadb4-5f9c-48da-a55d-8fcbcd08e431
+  - id: fa542486-22e1-4d0c-9e38-a55db74c8e8a
+    name: زيد مناة
+    sex: male
+    fatherId: 406b332f-9641-473f-af87-c06d0cb20997
+  - id: dde8da9f-3455-4b8c-9dd3-2acb3046847e
+    name: عمرو
+    sex: male
+    kunya: بن زيد مناة
+    fatherId: fa542486-22e1-4d0c-9e38-a55db74c8e8a
+  - id: c734a0aa-b9f3-4fb2-9bc1-43288daa8fb2
+    name: حرام
+    sex: male
+    fatherId: dde8da9f-3455-4b8c-9dd3-2acb3046847e
+  - id: 766d7391-ccfa-4375-bc22-e7d48033b22a
+    name: المنذر
+    sex: male
+    fatherId: c734a0aa-b9f3-4fb2-9bc1-43288daa8fb2
+  - id: 1f4961c4-48a3-47b7-aa98-8b2aef5e0efe
+    name: ثابت
+    sex: male
+    fatherId: 766d7391-ccfa-4375-bc22-e7d48033b22a
+  - id: 8f41583f-8c5c-4e58-8cdd-cb1a71f6947c
+    name: حسان
+    sex: male
+    nickname: الشاعر
+    kunya: شاعر النبي ﷺ
+    fatherId: 1f4961c4-48a3-47b7-aa98-8b2aef5e0efe
+  # ── الخزرج → بنو النجار → أسعد بن زرارة ──
+  - id: e9036892-6bb8-416b-9868-5a15a04e5f43
+    name: غنم
+    sex: male
+    fatherId: 7c552b28-8c71-4941-af2e-94794fc86800
+  - id: fd707332-238d-4366-9d05-80c212aaccd1
+    name: ثعلبة
+    sex: male
+    kunya: بن غنم
+    fatherId: e9036892-6bb8-416b-9868-5a15a04e5f43
+  - id: a8d87dfc-b36e-41c4-8eda-86bbee7bba3f
+    name: عبيد
+    sex: male
+    fatherId: fd707332-238d-4366-9d05-80c212aaccd1
+  - id: 30dea49d-1ec9-4b51-beee-e280d644a6b1
+    name: عدس
+    sex: male
+    fatherId: a8d87dfc-b36e-41c4-8eda-86bbee7bba3f
+  - id: e2c63685-a465-4ecd-bff9-418b63be95b3
+    name: زرارة
+    sex: male
+    fatherId: 30dea49d-1ec9-4b51-beee-e280d644a6b1
+  - id: e026e349-de4c-42d0-8f54-a9202a6f3e35
+    name: أسعد
+    sex: male
+    nickname: الصحابي
+    kunya: أول من أسلم بالمدينة
+    fatherId: e2c63685-a465-4ecd-bff9-418b63be95b3

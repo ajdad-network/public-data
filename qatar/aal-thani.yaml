@@ -1,0 +1,76 @@
+family:
+  type: aal
+  name: آل ثاني
+  visibility: public
+  pinned: true
+  suffixMale: آل ثاني
+  suffixFemale: آل ثاني
+  description: |-
+    آل ثاني هم الأسرة الحاكمة في دولة قطر، يرجع نسبهم إلى قبيلة بني تميم. سُمّيت الأسرة نسبةً إلى الشيخ ثاني بن محمد. تولى ابنه الشيخ محمد بن ثاني حكم قطر في منتصف القرن التاسع عشر، ثم أسّس الشيخ جاسم بن محمد آل ثاني دولة قطر الحديثة.
+    حكم آل ثاني قطر دون انقطاع منذ ذلك الحين، وأصبحت قطر دولة مستقلة عام ١٩٧١.
+persons:
+  - id: d9560dad-e421-4eb5-bc63-c362c43e6c85
+    name: ثاني
+    sex: male
+    nickname: الشيخ
+    kunya: بن محمد
+  - id: 21cb3d91-9a76-447b-a90e-5dde35c4ccac
+    name: محمد
+    sex: male
+    nickname: الشيخ
+    fatherId: d9560dad-e421-4eb5-bc63-c362c43e6c85
+  - id: 700de434-b599-41c2-9409-9753441d679a
+    name: جاسم
+    sex: male
+    nickname: الشيخ
+    kunya: المؤسس
+    birthdate: '١٨٢٥'
+    fatherId: 21cb3d91-9a76-447b-a90e-5dde35c4ccac
+  - id: 31f66111-3f5d-45ad-a835-9bc803dcb42d
+    name: عبد الله
+    sex: male
+    nickname: الشيخ
+    birthdate: '١٨٨٠'
+    fatherId: 700de434-b599-41c2-9409-9753441d679a
+  - id: 9f7b486d-4600-474e-bb93-e8bf2d7143e0
+    name: علي
+    sex: male
+    nickname: الشيخ
+    birthdate: '١٨٩٥'
+    fatherId: 31f66111-3f5d-45ad-a835-9bc803dcb42d
+  - id: 9cc054ad-7198-4359-a598-d01e40db3951
+    name: حمد
+    sex: male
+    nickname: الشيخ
+    fatherId: 31f66111-3f5d-45ad-a835-9bc803dcb42d
+  - id: 1bfcc1dd-a8d7-400b-98ed-1a779e192d96
+    name: أحمد
+    sex: male
+    nickname: الأمير
+    birthdate: '١٩١٧'
+    fatherId: 9f7b486d-4600-474e-bb93-e8bf2d7143e0
+  - id: 0edd7d9d-14cc-4f1f-8874-531094d10a16
+    name: خليفة
+    sex: male
+    nickname: الأمير
+    birthdate: '١٩٣٢'
+    fatherId: 9cc054ad-7198-4359-a598-d01e40db3951
+  - id: 5434fd6e-f1ff-472e-a3b4-bcf57a2e73a2
+    name: حمد
+    sex: male
+    nickname: الأمير الوالد
+    birthdate: '١٩٥٢'
+    fatherId: 0edd7d9d-14cc-4f1f-8874-531094d10a16
+  - id: 5233b0a2-ad14-4409-a0a6-66ac91af8d59
+    name: موزة
+    sex: female
+    nickname: الشيخة
+    kunya: بنت ناصر المسند
+    birthdate: '١٩٥٩'
+  - id: df71745b-7e57-4728-bc77-240c88d8c571
+    name: تميم
+    sex: male
+    nickname: الأمير
+    birthdate: '١٩٨٠'
+    fatherId: 5434fd6e-f1ff-472e-a3b4-bcf57a2e73a2
+    motherId: 5233b0a2-ad14-4409-a0a6-66ac91af8d59

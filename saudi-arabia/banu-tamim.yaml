@@ -1,0 +1,128 @@
+family:
+  type: qabila
+  name: بنو تميم
+  visibility: public
+  pinned: true
+  suffixMale: التميمي
+  suffixFemale: التميمية
+  hometown: نجد
+  description: |-
+    بنو تميم من أكبر القبائل العربية وأشهرها، ينتسبون إلى تميم بن مر بن أد بن طابخة بن إلياس بن مضر. موطنهم الأصلي إقليم نجد في وسط الجزيرة العربية وانتشروا في أنحاء الخليج العربي.
+    من أبرز بطونهم بنو سعد وبنو حنظلة وبنو عمرو، ومنهم شعراء مشهورون كالفرزدق وجرير وصحابة أجلاء كالأقرع بن حابس.
+persons:
+  # ── الجذع ──
+  - id: d1f5acb5-5928-49b7-8154-02e3f1619bb6
+    name: تميم
+    sex: male
+    kunya: بن مر
+  - id: c74cde8f-3ce1-472a-af2c-92e2a7c877e3
+    name: زيد مناة
+    sex: male
+    fatherId: d1f5acb5-5928-49b7-8154-02e3f1619bb6
+  - id: b05998b1-1349-4024-a67d-1f3709318a8c
+    name: عمرو
+    sex: male
+    fatherId: d1f5acb5-5928-49b7-8154-02e3f1619bb6
+  # ── بنو سعد ──
+  - id: 6f0ca52b-4c66-4e0b-a43e-f14d715a8524
+    name: سعد
+    sex: male
+    fatherId: c74cde8f-3ce1-472a-af2c-92e2a7c877e3
+  # ── بنو حنظلة ──
+  - id: c2517e68-2a88-4b92-b722-ea9ce66b613c
+    name: مالك
+    sex: male
+    fatherId: c74cde8f-3ce1-472a-af2c-92e2a7c877e3
+  - id: 34f53dcf-a022-47bf-acea-5d2afb5dbaea
+    name: حنظلة
+    sex: male
+    fatherId: c2517e68-2a88-4b92-b722-ea9ce66b613c
+  - id: 362fb4ff-ceb0-43af-ad9c-ae44dfd8cd5f
+    name: مالك
+    sex: male
+    kunya: بن حنظلة
+    fatherId: 34f53dcf-a022-47bf-acea-5d2afb5dbaea
+  # ── بنو دارم → الفرزدق ──
+  - id: 997eb10c-411f-434e-9647-dcb0a25f3893
+    name: دارم
+    sex: male
+    fatherId: 362fb4ff-ceb0-43af-ad9c-ae44dfd8cd5f
+  - id: ed1e4e6f-b5bb-41dd-8364-683a5d15f08e
+    name: مجاشع
+    sex: male
+    fatherId: 997eb10c-411f-434e-9647-dcb0a25f3893
+  - id: b125beca-45d5-4b52-a0e9-8afebdd3aab1
+    name: سفيان
+    sex: male
+    fatherId: ed1e4e6f-b5bb-41dd-8364-683a5d15f08e
+  - id: eb93c9df-3d16-44f6-b677-241d2dc54a9b
+    name: محمد
+    sex: male
+    fatherId: b125beca-45d5-4b52-a0e9-8afebdd3aab1
+  - id: c1deae89-4731-4ab4-a0d5-da1fb5774010
+    name: عقال
+    sex: male
+    fatherId: eb93c9df-3d16-44f6-b677-241d2dc54a9b
+  - id: cbc3336d-3a41-44c6-b11d-8888cd256aa2
+    name: ناجية
+    sex: male
+    fatherId: c1deae89-4731-4ab4-a0d5-da1fb5774010
+  - id: cd31911f-3d0c-42ee-a899-f48c0a4bb658
+    name: حابس
+    sex: male
+    fatherId: c1deae89-4731-4ab4-a0d5-da1fb5774010
+  - id: 67b61197-cde4-4e6d-9ed0-eb631598cd66
+    name: الأقرع
+    sex: male
+    kunya: بن حابس
+    fatherId: cd31911f-3d0c-42ee-a899-f48c0a4bb658
+  - id: 0a7ebdb9-9340-4e95-8398-54e36a1fafb8
+    name: صعصعة
+    sex: male
+    kunya: محيي الموؤودات
+    fatherId: cbc3336d-3a41-44c6-b11d-8888cd256aa2
+  - id: 75b718b6-9778-41b0-a0a2-4497e8da8343
+    name: غالب
+    sex: male
+    fatherId: 0a7ebdb9-9340-4e95-8398-54e36a1fafb8
+  - id: 1a757b1e-4817-4786-80ac-6299a107fd5f
+    name: همام
+    sex: male
+    nickname: الشاعر
+    kunya: الفرزدق
+    fatherId: 75b718b6-9778-41b0-a0a2-4497e8da8343
+  # ── بنو يربوع → جرير ──
+  - id: 1e5abc8f-4ccc-4422-acda-1cd116aba452
+    name: يربوع
+    sex: male
+    fatherId: 362fb4ff-ceb0-43af-ad9c-ae44dfd8cd5f
+  - id: e17bf42c-19c4-46f5-8d96-2ce03729287b
+    name: كليب
+    sex: male
+    fatherId: 1e5abc8f-4ccc-4422-acda-1cd116aba452
+  - id: 6ef8b026-f650-479d-a93a-e179295e9191
+    name: عوف
+    sex: male
+    fatherId: e17bf42c-19c4-46f5-8d96-2ce03729287b
+  - id: 2763fe12-919c-4abe-befa-8c72a75ab017
+    name: سلمة
+    sex: male
+    fatherId: 6ef8b026-f650-479d-a93a-e179295e9191
+  - id: df29e8ff-93e3-4d57-8c80-9d3a954c7e8b
+    name: بدر
+    sex: male
+    fatherId: 2763fe12-919c-4abe-befa-8c72a75ab017
+  - id: 1f8f3d67-1987-47c2-a140-9dd763fb7281
+    name: حذيفة
+    sex: male
+    kunya: الخطفي
+    fatherId: df29e8ff-93e3-4d57-8c80-9d3a954c7e8b
+  - id: 38654d59-ac9a-4ee3-b71b-be4851ecc79b
+    name: عطية
+    sex: male
+    fatherId: 1f8f3d67-1987-47c2-a140-9dd763fb7281
+  - id: 8cc683b9-a3b4-4f75-8186-6ed420c2bf85
+    name: جرير
+    sex: male
+    nickname: الشاعر
+    fatherId: 38654d59-ac9a-4ee3-b71b-be4851ecc79b

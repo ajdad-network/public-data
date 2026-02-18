@@ -1,0 +1,90 @@
+family:
+  type: qabila
+  name: بنو أسد
+  visibility: public
+  pinned: true
+  suffixMale: الأسدي
+  suffixFemale: الأسدية
+  hometown: نجد
+  description: |-
+    بنو أسد بن خزيمة بن مدركة من القبائل العدنانية الكبرى، موطنهم الأصلي في نجد بين الكوفة ومكة.
+    من أبرز بطونهم بنو دودان وبنو كاهل وبنو عمرو. ومن أشهر أعلامهم طليحة بن خويلد الذي ادّعى النبوة ثم أسلم وحسن إسلامه وشهد فتوحات العراق وفارس.
+persons:
+  # ── الجذع ──
+  - id: 55c8a6a9-0236-402e-8422-ea44439c5bf3
+    name: خزيمة
+    sex: male
+    kunya: بن مدركة
+  - id: 5b86dbee-de15-4e5e-9081-e8c9e49a01db
+    name: أسد
+    sex: male
+    fatherId: 55c8a6a9-0236-402e-8422-ea44439c5bf3
+  # ── البطون الرئيسية ──
+  - id: ef806038-2c97-49ea-a9d2-6660f5c8dd90
+    name: دودان
+    sex: male
+    fatherId: 5b86dbee-de15-4e5e-9081-e8c9e49a01db
+  - id: 20727af7-3aeb-4689-b59e-7850ac8854d9
+    name: كاهل
+    sex: male
+    fatherId: 5b86dbee-de15-4e5e-9081-e8c9e49a01db
+  - id: c07f87ba-dbf6-4af4-8c3b-cdce9ceab436
+    name: عمرو
+    sex: male
+    fatherId: 5b86dbee-de15-4e5e-9081-e8c9e49a01db
+  # ── بنو دودان ──
+  - id: 633b2512-b4bd-4b20-8580-7fb686123b03
+    name: غنم
+    sex: male
+    fatherId: ef806038-2c97-49ea-a9d2-6660f5c8dd90
+  - id: a7409c17-7bc3-491f-bbf6-924f1e563349
+    name: ثعلبة
+    sex: male
+    fatherId: ef806038-2c97-49ea-a9d2-6660f5c8dd90
+  # ── ثعلبة → فقعس → طليحة بن خويلد ──
+  - id: a98d8046-da18-4c73-8fc2-a23ce470e926
+    name: الحارث
+    sex: male
+    fatherId: a7409c17-7bc3-491f-bbf6-924f1e563349
+  - id: 2d23dc08-b1ba-4892-8356-c02d41ee50d6
+    name: قعين
+    sex: male
+    fatherId: a98d8046-da18-4c73-8fc2-a23ce470e926
+  - id: 96f08412-87e2-46c2-9b53-52fbf6b4020d
+    name: عمرو
+    sex: male
+    kunya: بن قعين
+    fatherId: 2d23dc08-b1ba-4892-8356-c02d41ee50d6
+  - id: 4a01b7a8-b904-4f4f-9182-b2772ed1ed31
+    name: طريف
+    sex: male
+    fatherId: 96f08412-87e2-46c2-9b53-52fbf6b4020d
+  - id: 9f453044-9abf-4c05-b18d-ed254c059c26
+    name: فقعس
+    sex: male
+    fatherId: 4a01b7a8-b904-4f4f-9182-b2772ed1ed31
+  - id: aa0229ae-a922-44d8-84e0-b06b016fbe71
+    name: جحوان
+    sex: male
+    fatherId: 9f453044-9abf-4c05-b18d-ed254c059c26
+  - id: 14b17a4d-7eb5-4294-bd29-143c59eb341a
+    name: الأشتر
+    sex: male
+    fatherId: aa0229ae-a922-44d8-84e0-b06b016fbe71
+  - id: 33ca5a89-3ff7-4c75-86e2-a6ad01dd7900
+    name: نضلة
+    sex: male
+    fatherId: 14b17a4d-7eb5-4294-bd29-143c59eb341a
+  - id: 100c13cd-55a6-4661-9183-b6ff71bc3509
+    name: نوفل
+    sex: male
+    fatherId: 33ca5a89-3ff7-4c75-86e2-a6ad01dd7900
+  - id: da9f7587-e1bb-4e4b-8f08-c547e4f6c631
+    name: خويلد
+    sex: male
+    fatherId: 100c13cd-55a6-4661-9183-b6ff71bc3509
+  - id: c5fcb5a5-1037-4585-b8a9-a247523ca6cf
+    name: طليحة
+    sex: male
+    nickname: الصحابي
+    fatherId: da9f7587-e1bb-4e4b-8f08-c547e4f6c631

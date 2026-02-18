@@ -1,0 +1,68 @@
+family:
+  type: qabila
+  name: عنزة
+  visibility: public
+  pinned: true
+  suffixMale: العنزي
+  suffixFemale: العنزية
+  hometown: نجد
+  description: |-
+    عنزة من أكبر القبائل العربية على الإطلاق، تنتسب إلى عنزة بن أسد بن ربيعة بن نزار بن معد بن عدنان. انتشرت من نجد إلى بادية الشام والعراق والخليج.
+    تنقسم إلى قسمين رئيسيين: ضنا بشر ومنهم العمارات والفدعان والسبعة وولد سليمان، وضنا مسلم ومنهم بنو وهب والجلاس. ومن بنو وهب ولد علي والرولة أكبر بطون البادية.
+persons:
+  # ── النسب الأعلى ──
+  - id: cfff667f-a516-4ed3-bcb1-3a2f84e2e69d
+    name: نزار
+    sex: male
+    kunya: بن معد
+  - id: 09565e57-7697-496d-a458-cf0fc4633942
+    name: ربيعة
+    sex: male
+    fatherId: cfff667f-a516-4ed3-bcb1-3a2f84e2e69d
+  - id: b979f0ae-e40a-4ac5-94bd-fe3df3126bc6
+    name: أسد
+    sex: male
+    fatherId: 09565e57-7697-496d-a458-cf0fc4633942
+  - id: 2d7f1545-84c6-45fc-84fa-2ba5b8c77217
+    name: عنزة
+    sex: male
+    fatherId: b979f0ae-e40a-4ac5-94bd-fe3df3126bc6
+  # ── ضنا بشر ──
+  - id: ded12edb-c1c2-493d-95fa-79d978547060
+    name: بشر
+    sex: male
+    fatherId: 2d7f1545-84c6-45fc-84fa-2ba5b8c77217
+  - id: 7190fece-497e-4a94-b390-604aab5a54d1
+    name: عمّار
+    sex: male
+    fatherId: ded12edb-c1c2-493d-95fa-79d978547060
+  - id: 7261afab-1bfe-491a-be5b-f1090d1baa24
+    name: فدعان
+    sex: male
+    fatherId: ded12edb-c1c2-493d-95fa-79d978547060
+  - id: 89876d11-e580-486b-8166-9c435b55d393
+    name: سبيع
+    sex: male
+    fatherId: ded12edb-c1c2-493d-95fa-79d978547060
+  - id: 12aa6af2-d3de-4ed6-ba1d-f287df0efc70
+    name: سليمان
+    sex: male
+    fatherId: ded12edb-c1c2-493d-95fa-79d978547060
+  # ── ضنا مسلم ──
+  - id: 620898e7-a181-4a0a-8a5a-417bad7e71e9
+    name: مسلم
+    sex: male
+    fatherId: 2d7f1545-84c6-45fc-84fa-2ba5b8c77217
+  - id: ef6c6542-c10f-4795-bf58-b4641b4890be
+    name: وهب
+    sex: male
+    fatherId: 620898e7-a181-4a0a-8a5a-417bad7e71e9
+  - id: cc67d6a3-9b77-4832-af99-54a1311dcd5e
+    name: الجلاس
+    sex: male
+    fatherId: 620898e7-a181-4a0a-8a5a-417bad7e71e9
+  - id: 7253c127-9cde-4a19-acd8-79df65125a23
+    name: علي
+    sex: male
+    kunya: جد ولد علي
+    fatherId: ef6c6542-c10f-4795-bf58-b4641b4890be

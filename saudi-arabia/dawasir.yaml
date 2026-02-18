@@ -1,0 +1,61 @@
+family:
+  type: qabila
+  name: الدواسر
+  visibility: public
+  pinned: true
+  suffixMale: الدوسري
+  suffixFemale: الدوسرية
+  hometown: وادي الدواسر
+  description: |-
+    الدواسر قبيلة عربية كبيرة من تغلب بن وائل، موطنها الأصلي وادي الدواسر في جنوب نجد وانتشرت في أنحاء الخليج العربي.
+    تنقسم إلى قسمين رئيسيين: آل زايد ومنهم آل سالم والوداعين والرجبان والمشاوية، وتغلب ومنهم الحقبان وآل محمد والبدارين.
+persons:
+  # ── النسب الأعلى ──
+  - id: eaa45720-9e12-474c-a9ee-151eac1a3aa0
+    name: وائل
+    sex: male
+    kunya: بن قاسط
+  - id: e435e594-bd01-4acf-953f-24dc5bcdc725
+    name: تغلب
+    sex: male
+    fatherId: eaa45720-9e12-474c-a9ee-151eac1a3aa0
+  - id: 342c1814-83c9-4e24-8b40-e23e0cc74251
+    name: بكر
+    sex: male
+    fatherId: eaa45720-9e12-474c-a9ee-151eac1a3aa0
+  # ── آل زايد ──
+  - id: 8e609e0b-e161-4649-9ece-5d98f1628124
+    name: زايد
+    sex: male
+    fatherId: e435e594-bd01-4acf-953f-24dc5bcdc725
+  - id: 0b5c5744-5b5d-426d-b33f-d0000b271e76
+    name: سالم
+    sex: male
+    kunya: جد آل سالم
+    fatherId: 8e609e0b-e161-4649-9ece-5d98f1628124
+  - id: e9e86b53-c5ff-45d0-9fed-f50ca422464c
+    name: ودعان
+    sex: male
+    kunya: جد الوداعين
+    fatherId: 8e609e0b-e161-4649-9ece-5d98f1628124
+  - id: 0319a7bc-80e2-4caf-b30c-097b79622719
+    name: رجب
+    sex: male
+    kunya: جد الرجبان
+    fatherId: 8e609e0b-e161-4649-9ece-5d98f1628124
+  # ── تغلب (الفرع المحافظ على الاسم) ──
+  - id: 7c4a9644-5459-4b24-af56-fda7c580973e
+    name: حقب
+    sex: male
+    kunya: جد الحقبان
+    fatherId: e435e594-bd01-4acf-953f-24dc5bcdc725
+  - id: b773fc2a-4c12-472c-ba47-bead87edb755
+    name: محمد
+    sex: male
+    kunya: جد آل محمد
+    fatherId: e435e594-bd01-4acf-953f-24dc5bcdc725
+  - id: a76cdca2-6c89-4562-9669-26ec9f3bb8bd
+    name: بدران
+    sex: male
+    kunya: جد البدارين
+    fatherId: e435e594-bd01-4acf-953f-24dc5bcdc725

@@ -1,0 +1,68 @@
+family:
+  suffixFemale: الهاشمية
+  name: الهاشميون
+  visibility: public
+  pinned: true
+  suffixMale: الهاشمي
+  description: |-
+    الهاشميون في العراق هم الأسرة الملكية التي حكمت المملكة العراقية من عام ١٩٢١ حتى ثورة ١٤ تموز ١٩٥٨. أسس المملكة الملك فيصل الأول بن الشريف الحسين بن علي شريف مكة، وتعاقب على حكم العراق ثلاثة ملوك هاشميين: فيصل الأول وغازي وفيصل الثاني.
+    انتهى الحكم الملكي الهاشمي في العراق بعد انقلاب عسكري قاده عبد الكريم قاسم أطاح بالملك فيصل الثاني والوصي عبد الإله.
+  type: aila
+persons:
+  - id: 7ea93b3f-f55b-483a-a602-24e59e5cdd2c
+    name: الحسين
+    sex: male
+    nickname: الشريف
+    kunya: بن علي
+    birthdate: '١٨٥٤'
+  - id: c00feff0-ced0-44d4-a30c-037c554b9d08
+    name: عبدية
+    sex: female
+    birthdate: '١٨٧٠'
+  - id: 5fc2e4bd-028a-4e11-afae-be2a10ba39c0
+    name: علي
+    sex: male
+    nickname: الملك
+    birthdate: '١٨٧٩'
+    fatherId: 7ea93b3f-f55b-483a-a602-24e59e5cdd2c
+    motherId: c00feff0-ced0-44d4-a30c-037c554b9d08
+  - id: 42cbc4c8-d4d3-4066-bd1d-a873539d9705
+    name: فيصل
+    sex: male
+    nickname: الملك
+    kunya: الأول
+    birthdate: '١٨٨٥'
+    fatherId: 7ea93b3f-f55b-483a-a602-24e59e5cdd2c
+    motherId: c00feff0-ced0-44d4-a30c-037c554b9d08
+  - id: ee2f3a2c-8cdb-4cb8-bf84-f3825b887c2d
+    name: حزيمة
+    sex: female
+    nickname: الشريفة
+    kunya: بنت ناصر
+  - id: c5a18300-c556-4869-90e6-689bdfddb8ae
+    name: عالية
+    sex: female
+    nickname: الملكة
+    birthdate: '١٩١١'
+    fatherId: 5fc2e4bd-028a-4e11-afae-be2a10ba39c0
+  - id: 4e16b062-31e1-4200-8706-8fa0378c9fc1
+    name: عبد الإله
+    sex: male
+    nickname: الوصي
+    birthdate: '١٩١٣'
+    fatherId: 5fc2e4bd-028a-4e11-afae-be2a10ba39c0
+  - id: 18cab21f-30e2-4de7-95d9-f4899e939857
+    name: غازي
+    sex: male
+    nickname: الملك
+    birthdate: '١٩١٢'
+    fatherId: 42cbc4c8-d4d3-4066-bd1d-a873539d9705
+    motherId: ee2f3a2c-8cdb-4cb8-bf84-f3825b887c2d
+  - id: 23dd1c11-64fc-4fcb-bcc6-0a61abf1c9d7
+    name: فيصل
+    sex: male
+    nickname: الملك
+    kunya: الثاني
+    birthdate: '١٩٣٥'
+    fatherId: 18cab21f-30e2-4de7-95d9-f4899e939857
+    motherId: c5a18300-c556-4869-90e6-689bdfddb8ae

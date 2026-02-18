@@ -1,0 +1,60 @@
+family:
+  type: qabila
+  name: حرب
+  visibility: public
+  pinned: true
+  suffixMale: الحربي
+  suffixFemale: الحربية
+  hometown: الحجاز
+  description: |-
+    قبيلة حرب من أكبر القبائل العربية في الحجاز ونجد، هاجرت من اليمن واستوطنت بين الحرمين الشريفين.
+    تنقسم إلى قسمين رئيسيين: بنو سالم ومنهم ميمون ومروّح، وبنو مسروح ومنهم بنو عمرو وبنو عوف. وهي من القبائل ذات العدد الكبير والانتشار الواسع في الجزيرة العربية.
+persons:
+  # ── الجذع ──
+  - id: 66e55c88-8ad0-4a14-b3d0-0aafa6d6e0fd
+    name: حرب
+    sex: male
+  # ── القسمان الرئيسيان ──
+  - id: aac52492-5ec5-4cfe-a4ad-3e716a0337c7
+    name: سالم
+    sex: male
+    fatherId: 66e55c88-8ad0-4a14-b3d0-0aafa6d6e0fd
+  - id: 01bf4fbe-1233-4876-93f9-f9d0dc9e92e3
+    name: مسروح
+    sex: male
+    fatherId: 66e55c88-8ad0-4a14-b3d0-0aafa6d6e0fd
+  # ── بنو سالم ──
+  - id: c56fb5e8-e8e3-47e6-9a21-faa6f98bcb19
+    name: ميمون
+    sex: male
+    fatherId: aac52492-5ec5-4cfe-a4ad-3e716a0337c7
+  - id: 96cf61d9-dd87-442d-9011-37926a80d9cb
+    name: مروّح
+    sex: male
+    fatherId: aac52492-5ec5-4cfe-a4ad-3e716a0337c7
+  # ── فروع ميمون ──
+  - id: eee3a69a-3202-4ea9-b586-7802445010fd
+    name: أحمد
+    sex: male
+    kunya: جد الأحامدة
+    fatherId: c56fb5e8-e8e3-47e6-9a21-faa6f98bcb19
+  - id: 4c5ef4cd-59a5-4492-b16c-099159f1ed65
+    name: حازم
+    sex: male
+    kunya: جد الحوازم
+    fatherId: c56fb5e8-e8e3-47e6-9a21-faa6f98bcb19
+  # ── فروع مروّح ──
+  - id: 883de1ee-141f-409a-9d94-7e3e60f4044a
+    name: علي
+    sex: male
+    kunya: جد بني علي
+    fatherId: 96cf61d9-dd87-442d-9011-37926a80d9cb
+  # ── بنو مسروح ──
+  - id: 21cc4752-0b50-48fd-8034-f07e834029f7
+    name: عمرو
+    sex: male
+    fatherId: 01bf4fbe-1233-4876-93f9-f9d0dc9e92e3
+  - id: 4e60b015-6891-405b-b16b-86b75bd6542f
+    name: عوف
+    sex: male
+    fatherId: 01bf4fbe-1233-4876-93f9-f9d0dc9e92e3

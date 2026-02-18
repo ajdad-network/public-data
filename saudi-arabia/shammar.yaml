@@ -1,0 +1,111 @@
+family:
+  type: qabila
+  name: شمّر
+  visibility: public
+  pinned: true
+  suffixMale: الشمري
+  suffixFemale: الشمرية
+  hometown: حائل
+  description: |-
+    شمّر من أكبر القبائل العربية وأعرقها، تنتسب إلى طيء بن أدد. موطنها الأصلي جبلا أجا وسلمى (جبل شمّر) في منطقة حائل بنجد، وانتشرت في العراق وسوريا والخليج.
+    من أبرز بطونها عبدة والأسلم وزوبع. أسّس آل رشيد من فرع الجعفر من عبدة إمارة حائل التي نافست الدولة السعودية حتى سقوطها عام ١٩٢١.
+persons:
+  # ── الجذع ──
+  - id: dcb28d08-4244-4313-9913-15a3e8d9ebba
+    name: شمّر
+    sex: male
+    kunya: من طيء
+  # ── البطون الرئيسية ──
+  - id: ff3f3a51-1965-4328-acfe-9b0e91f789a7
+    name: عبدة
+    sex: male
+    fatherId: dcb28d08-4244-4313-9913-15a3e8d9ebba
+  - id: 4e153d7f-177b-4751-938a-33acf688fb2c
+    name: الأسلم
+    sex: male
+    fatherId: dcb28d08-4244-4313-9913-15a3e8d9ebba
+  - id: 2b10e98f-8858-4dbd-ae07-a5c07a427ba8
+    name: زوبع
+    sex: male
+    fatherId: dcb28d08-4244-4313-9913-15a3e8d9ebba
+  # ── آل رشيد (من الجعفر من عبدة) ──
+  - id: 7c31e8a7-4eb3-4ce7-b5db-819fabbe88dc
+    name: رشيد
+    sex: male
+    kunya: من الجعفر
+    fatherId: ff3f3a51-1965-4328-acfe-9b0e91f789a7
+  - id: c27b8987-91ad-47bb-afbf-7d8f4335bfe1
+    name: علي
+    sex: male
+    fatherId: 7c31e8a7-4eb3-4ce7-b5db-819fabbe88dc
+  - id: db6cb9f1-efb2-4a14-bc5a-f15b57c76b75
+    name: عبيد
+    sex: male
+    fatherId: 7c31e8a7-4eb3-4ce7-b5db-819fabbe88dc
+  # ── أمراء حائل ──
+  - id: ef6fdedf-942c-47e1-adbd-2d415a4bf596
+    name: عبد الله
+    sex: male
+    nickname: الأمير
+    kunya: مؤسس إمارة حائل
+    fatherId: c27b8987-91ad-47bb-afbf-7d8f4335bfe1
+  - id: 3f2dbfb8-e4b9-4324-ba90-d4b03fc84b8c
+    name: حمود
+    sex: male
+    fatherId: db6cb9f1-efb2-4a14-bc5a-f15b57c76b75
+  - id: 8c210f6e-dac2-4da1-922d-0f898c578dc0
+    name: طلال
+    sex: male
+    nickname: الأمير
+    fatherId: ef6fdedf-942c-47e1-adbd-2d415a4bf596
+  - id: 352e9374-317f-44e6-8bcb-7393885417f1
+    name: متعب
+    sex: male
+    nickname: الأمير
+    kunya: بن عبد الله
+    fatherId: ef6fdedf-942c-47e1-adbd-2d415a4bf596
+  - id: 08f5a9ae-a8c8-43b3-b67d-c6fa34a81f1d
+    name: محمد
+    sex: male
+    nickname: الأمير
+    kunya: بن عبد الله
+    fatherId: ef6fdedf-942c-47e1-adbd-2d415a4bf596
+  - id: 7cc61868-a77d-46dc-9d2c-ff030c8d48fe
+    name: بندر
+    sex: male
+    nickname: الأمير
+    fatherId: 8c210f6e-dac2-4da1-922d-0f898c578dc0
+  - id: 209885bd-8910-4da8-a624-37e24eac3bfd
+    name: عبد العزيز
+    sex: male
+    nickname: الأمير
+    fatherId: 352e9374-317f-44e6-8bcb-7393885417f1
+  - id: 78a84f4b-6c46-4dc9-bdc8-034676be8bb8
+    name: سلطان
+    sex: male
+    nickname: الأمير
+    fatherId: 3f2dbfb8-e4b9-4324-ba90-d4b03fc84b8c
+  - id: b1aa787f-4013-4c04-a8bf-f1018272f790
+    name: سعود
+    sex: male
+    nickname: الأمير
+    kunya: بن حمود
+    fatherId: 3f2dbfb8-e4b9-4324-ba90-d4b03fc84b8c
+  - id: 8404e187-da3a-4d9b-a71a-a944bfe8a1e3
+    name: متعب
+    sex: male
+    nickname: الأمير
+    kunya: بن عبد العزيز
+    fatherId: 209885bd-8910-4da8-a624-37e24eac3bfd
+  - id: 0043d190-6056-4126-89dc-910cbc0ccaff
+    name: سعود
+    sex: male
+    nickname: الأمير
+    kunya: بن عبد العزيز
+    fatherId: 209885bd-8910-4da8-a624-37e24eac3bfd
+  - id: 187ed1a1-00a9-4570-b43d-9931d8ad34d5
+    name: عبد الله
+    sex: male
+    nickname: الأمير
+    kunya: آخر أمراء حائل
+    fatherId: 8404e187-da3a-4d9b-a71a-a944bfe8a1e3
