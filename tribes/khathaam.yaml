@@ -1,0 +1,37 @@
+family:
+  type: qabila
+  name: خثعم
+  visibility: public
+  pinned: true
+  suffixMale: الخثعمي
+  suffixFemale: الخثعمية
+  hometown: بيشة
+  description: |-
+    خثعم قبيلة عربية كبيرة من أنمار بن إراش تسكن منطقة عسير جنوب السعودية.
+    تنتشر في بيشة وسراة عبيدة والنماص. من فروعها شهران وناهس وأكلب.
+persons:
+  - id: 677ac29d-4ded-44dd-b01b-fbfc62116d02
+    name: أنمار
+    sex: male
+    kunya: بن إراش بن عمرو
+  - id: 01ef2905-cec5-4445-8ab5-dcd9d5747185
+    name: خثعم
+    sex: male
+    kunya: (أفتل) جد القبيلة
+    fatherId: 677ac29d-4ded-44dd-b01b-fbfc62116d02
+  # ── الفروع الرئيسية ──
+  - id: dcf14559-f5ea-4826-823a-eb32cc3aaef2
+    name: شهران
+    sex: male
+    kunya: جد قبيلة شهران
+    fatherId: 01ef2905-cec5-4445-8ab5-dcd9d5747185
+  - id: dac8bedc-a0cf-44c1-8142-908b3363fe80
+    name: ناهس
+    sex: male
+    kunya: جد بنو ناهس
+    fatherId: 01ef2905-cec5-4445-8ab5-dcd9d5747185
+  - id: 730850fe-66b0-45bf-9a78-400796cb8f4e
+    name: أكلب
+    sex: male
+    kunya: جد بنو أكلب
+    fatherId: 01ef2905-cec5-4445-8ab5-dcd9d5747185

@@ -1,0 +1,49 @@
+family:
+  type: qabila
+  name: هَمدان
+  visibility: public
+  pinned: true
+  suffixMale: الهمداني
+  suffixFemale: الهمدانية
+  hometown: صنعاء
+  description: |-
+    هَمدان قبيلة يمنية كبرى تنتسب إلى همدان بن مالك بن زيد بن كهلان.
+    منها فرعا حاشد وبكيل اللذان يشكلان أكبر تحالف قبلي في اليمن. موطنها صنعاء وما حولها.
+persons:
+  - id: 754d776f-4231-48d0-a858-7d711c822111
+    name: كهلان
+    sex: male
+    kunya: بن سبأ
+  - id: f5994224-f5c6-4ace-97ed-e9891ca58d64
+    name: مالك
+    sex: male
+    kunya: بن زيد
+    fatherId: 754d776f-4231-48d0-a858-7d711c822111
+  - id: af7284e1-935b-4f56-ba4d-ec3ea0139192
+    name: همدان
+    sex: male
+    kunya: جد القبيلة
+    fatherId: f5994224-f5c6-4ace-97ed-e9891ca58d64
+  - id: 39f786ff-acb2-4087-8522-9d062e24e8a9
+    name: نوف
+    sex: male
+    fatherId: af7284e1-935b-4f56-ba4d-ec3ea0139192
+  - id: 50f1199d-7c8d-4c32-92bd-7c1e58d819ef
+    name: حاشد
+    sex: male
+    kunya: جد قبيلة حاشد
+    fatherId: 39f786ff-acb2-4087-8522-9d062e24e8a9
+  - id: 5961ef0a-fa72-49bc-80ef-8271979402fd
+    name: بكيل
+    sex: male
+    kunya: جد قبيلة بكيل
+    fatherId: 39f786ff-acb2-4087-8522-9d062e24e8a9
+  - id: 7847e036-cbbb-4701-8062-6984ddba08b6
+    name: جُشَم
+    sex: male
+    fatherId: af7284e1-935b-4f56-ba4d-ec3ea0139192
+  - id: b1cce4ff-57a5-464b-a929-8a9cf69b0ef9
+    name: يام
+    sex: male
+    kunya: جد قبيلة يام
+    fatherId: 7847e036-cbbb-4701-8062-6984ddba08b6

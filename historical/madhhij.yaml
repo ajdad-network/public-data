@@ -1,0 +1,46 @@
+family:
+  type: qabila
+  name: مَذحج
+  visibility: public
+  pinned: true
+  suffixMale: المذحجي
+  suffixFemale: المذحجية
+  hometown: اليمن
+  description: |-
+    مَذحج حلف قبلي يمني كبير ينتسب إلى مذحج بن أدد بن كهلان.
+    من فروعها مُراد وعَنْس وزُبَيد والنخع. كان لهم دور كبير في الفتوحات الإسلامية.
+persons:
+  - id: d9ae9ead-b20a-44b2-befd-428e9aab930e
+    name: أدد
+    sex: male
+    kunya: بن زيد بن كهلان
+  - id: b6b2cf36-d312-45c9-b2a2-1e1546eaebf0
+    name: مذحج
+    sex: male
+    kunya: (مالك) جد القبيلة
+    fatherId: d9ae9ead-b20a-44b2-befd-428e9aab930e
+  - id: ff0354ab-c886-4597-95a3-54e56227a09c
+    name: مراد
+    sex: male
+    kunya: جد قبيلة مُراد
+    fatherId: b6b2cf36-d312-45c9-b2a2-1e1546eaebf0
+  - id: 9a3d0e75-ce06-49a4-9a91-42518253b6df
+    name: عنس
+    sex: male
+    kunya: جد قبيلة عَنْس
+    fatherId: b6b2cf36-d312-45c9-b2a2-1e1546eaebf0
+  - id: 506f4b82-818d-4705-9dad-cd65d535b68d
+    name: زبيد
+    sex: male
+    kunya: (منبّه) جد قبيلة زُبَيد
+    fatherId: b6b2cf36-d312-45c9-b2a2-1e1546eaebf0
+  - id: 5621495b-c3dd-4ccc-97bf-eb277786c7b8
+    name: النخع
+    sex: male
+    kunya: جد قبيلة النخع
+    fatherId: b6b2cf36-d312-45c9-b2a2-1e1546eaebf0
+  - id: 260268df-1061-4da9-9f7f-02f3d7b62346
+    name: جَنْب
+    sex: male
+    kunya: جد بنو جَنْب
+    fatherId: b6b2cf36-d312-45c9-b2a2-1e1546eaebf0

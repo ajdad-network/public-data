@@ -1,0 +1,49 @@
+family:
+  type: qabila
+  name: الأزد
+  visibility: public
+  pinned: true
+  suffixMale: الأزدي
+  suffixFemale: الأزدية
+  hometown: مأرب
+  description: |-
+    الأزد قبيلة عربية كبرى من كهلان بن سبأ. هاجرت من اليمن بعد انهيار سدّ مأرب.
+    منها الأوس والخزرج وغسان وزهران وغامد وبنو شهر وبللسمر وخزاعة. من أوسع القبائل انتشاراً.
+persons:
+  - id: 77335b0e-b181-4bd2-8210-9e8b65ac9701
+    name: كهلان
+    sex: male
+    kunya: بن سبأ
+  - id: c0d268b1-7448-4aed-a5ce-2dd1654bb3f9
+    name: زيد
+    sex: male
+    fatherId: 77335b0e-b181-4bd2-8210-9e8b65ac9701
+  - id: 910b7c5d-cdcd-491d-8282-65813dcd9e54
+    name: عريب
+    sex: male
+    fatherId: c0d268b1-7448-4aed-a5ce-2dd1654bb3f9
+  - id: ba9221d8-235a-4762-81c1-0e6375aaddfc
+    name: الأزد
+    sex: male
+    kunya: (دراء بن الغوث)
+    fatherId: 910b7c5d-cdcd-491d-8282-65813dcd9e54
+  - id: f8f2f3b9-ff5b-49ac-aa2b-399ba7fd88a9
+    name: مازن
+    sex: male
+    kunya: جد الأوس والخزرج وخزاعة
+    fatherId: ba9221d8-235a-4762-81c1-0e6375aaddfc
+  - id: 133e7733-a672-4380-8532-fc1cf13c3b74
+    name: عمرو
+    sex: male
+    kunya: جد غسان
+    fatherId: ba9221d8-235a-4762-81c1-0e6375aaddfc
+  - id: 5400fdef-66a9-42ca-b649-f4aca144157f
+    name: نصر
+    sex: male
+    kunya: جد زهران وغامد وبنو شهر
+    fatherId: ba9221d8-235a-4762-81c1-0e6375aaddfc
+  - id: b52d864d-24db-4a1b-868e-b9615b544632
+    name: عبد الله
+    sex: male
+    kunya: جد دوس وألمع
+    fatherId: ba9221d8-235a-4762-81c1-0e6375aaddfc

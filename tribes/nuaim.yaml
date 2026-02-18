@@ -1,0 +1,37 @@
+family:
+  type: qabila
+  name: النعيم
+  visibility: public
+  pinned: true
+  suffixMale: النعيمي
+  suffixFemale: النعيمية
+  hometown: البريمي
+  description: |-
+    النعيم قبيلة عربية كبيرة تنتشر في الإمارات وعمان وقطر.
+    منها آل النعيمي حكام عجمان. تسكن البريمي والعين وعجمان. من فروعها آل بوخريبان والخواطر والشوامس.
+persons:
+  - id: d95c2cd9-c774-477e-9e42-caa3be017f48
+    name: نعيم
+    sex: male
+    kunya: الجد الأعلى
+  # ── الفروع الرئيسية ──
+  - id: fcff11c4-e659-45ca-aa69-c2ccd3fed1e1
+    name: بوخريبان
+    sex: male
+    kunya: جد آل بوخريبان
+    fatherId: d95c2cd9-c774-477e-9e42-caa3be017f48
+  - id: d3aa0c3d-a8c2-47f3-98d0-8deda0da7d51
+    name: خاطر
+    sex: male
+    kunya: جد الخواطر
+    fatherId: d95c2cd9-c774-477e-9e42-caa3be017f48
+  - id: 49fbd51f-258a-4bce-8d8f-4e8dabe0ddb3
+    name: شامس
+    sex: male
+    kunya: جد الشوامس
+    fatherId: d95c2cd9-c774-477e-9e42-caa3be017f48
+  - id: 9034501d-56f6-405a-bd66-956c02fdcbe6
+    name: بوشامس
+    sex: male
+    kunya: جد آل بوشامس
+    fatherId: d95c2cd9-c774-477e-9e42-caa3be017f48

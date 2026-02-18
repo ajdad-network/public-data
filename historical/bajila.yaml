@@ -1,0 +1,45 @@
+family:
+  type: qabila
+  name: بجيلة
+  visibility: public
+  pinned: true
+  suffixMale: البجلي
+  suffixFemale: البجلية
+  hometown: السراة
+  description: |-
+    بجيلة قبيلة عربية كبيرة من أنمار بن إراش. اشتهر منها الصحابي جرير بن عبد الله البجلي.
+    سكنت السراة ثم انتشرت في الكوفة والعراق بعد الفتوحات الإسلامية.
+persons:
+  - id: bcb6f251-4f49-404f-9ca4-3cc372d4e400
+    name: أنمار
+    sex: male
+    kunya: بن إراش بن عمرو
+  - id: ceba5f9b-ab91-4ee8-8bc7-e3f87b587d40
+    name: بجيلة
+    sex: male
+    kunya: جد القبيلة
+    fatherId: bcb6f251-4f49-404f-9ca4-3cc372d4e400
+  - id: cef39404-f684-4579-92ac-3aa48114c800
+    name: عبقر
+    sex: male
+    fatherId: ceba5f9b-ab91-4ee8-8bc7-e3f87b587d40
+  - id: fc58b9c3-96c8-479d-8d8f-28c180e666c5
+    name: أحمس
+    sex: male
+    kunya: جد بنو أحمس
+    fatherId: ceba5f9b-ab91-4ee8-8bc7-e3f87b587d40
+  - id: 947b7d7e-d6d0-4bc0-a7b2-98bc87db6d92
+    name: قسر
+    sex: male
+    kunya: جد بنو قسر
+    fatherId: cef39404-f684-4579-92ac-3aa48114c800
+  - id: 186be6e5-fdb6-4a72-a108-29b469575e8f
+    name: عبد الله
+    sex: male
+    fatherId: fc58b9c3-96c8-479d-8d8f-28c180e666c5
+  - id: 79310a40-6a52-4bb3-93c5-0d932edeb9a2
+    name: جرير
+    sex: male
+    nickname: الصحابي
+    kunya: بن عبد الله البجلي
+    fatherId: 186be6e5-fdb6-4a72-a108-29b469575e8f

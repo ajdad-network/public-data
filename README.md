@@ -90,6 +90,9 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [tribes/awalik.yaml](tribes/awalik.yaml) | العوالق | شبوة |
 | [tribes/ballasmar.yaml](tribes/ballasmar.yaml) | بللسمر | النماص |
 | [tribes/ballahmar.yaml](tribes/ballahmar.yaml) | بللحمر | خميس مشيط |
+| [tribes/khathaam.yaml](tribes/khathaam.yaml) | خثعم | بيشة |
+| [tribes/nuaim.yaml](tribes/nuaim.yaml) | النعيم | البريمي |
+| [tribes/banu-zayd.yaml](tribes/banu-zayd.yaml) | بنو زيد | شقراء |
 
 ## Historical
 
@@ -150,6 +153,13 @@ historical/{name}.yaml                  — Historical tribes, kingdoms, dynasti
 | [historical/himyar.yaml](historical/himyar.yaml) | حِمْيَر | المملكة الحميرية القديمة |
 | [historical/kathiri.yaml](historical/kathiri.yaml) | الكثيري | سلطنة حضرموت |
 | [historical/quaiti.yaml](historical/quaiti.yaml) | القعيطي | سلطنة المكلا |
+| [historical/saba.yaml](historical/saba.yaml) | سبأ | مملكة سبأ القديمة |
+| [historical/hamdan.yaml](historical/hamdan.yaml) | هَمدان | القبيلة الأم لحاشد وبكيل |
+| [historical/madhhij.yaml](historical/madhhij.yaml) | مَذحج | مُراد وعَنْس وزُبَيد |
+| [historical/azd.yaml](historical/azd.yaml) | الأزد | القبيلة الأم لزهران وغامد وغسان |
+| [historical/bajila.yaml](historical/bajila.yaml) | بجيلة | قبيلة جرير بن عبد الله |
+| [historical/aftasids.yaml](historical/aftasids.yaml) | بنو الأفطس | ملوك بطليوس |
+| [historical/musha-sha-iyyah.yaml](historical/musha-sha-iyyah.yaml) | الموشعشعيون | حكام الأحواز |
 
 ## YAML Format
 

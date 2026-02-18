@@ -1,0 +1,43 @@
+family:
+  type: aal
+  name: الموشعشعيون
+  visibility: public
+  pinned: true
+  suffixMale: الموشعشعي
+  suffixFemale: الموشعشعية
+  hometown: الحويزة
+  description: |-
+    الموشعشعيون سلالة عربية هاشمية حكمت الأحواز (خوزستان) والبصرة (١٤٣٦-١٧٢٤م).
+    أسسها محمد بن فلاح الموشعشعي. حكموا من الحويزة واستقلوا عن الدول المجاورة.
+persons:
+  - id: 47b4572e-a95f-4a56-9014-107a6afe7a4c
+    name: فلاح
+    sex: male
+    kunya: بن هبة الله الموسوي
+  - id: eb153a1e-1599-45cf-b489-16ee63b328bb
+    name: محمد
+    sex: male
+    nickname: الأمير
+    kunya: المؤسس (المهدي)
+    fatherId: 47b4572e-a95f-4a56-9014-107a6afe7a4c
+  - id: d8a3ec3e-696a-4cae-8169-7cee8ae38981
+    name: علي
+    sex: male
+    nickname: الأمير
+    fatherId: eb153a1e-1599-45cf-b489-16ee63b328bb
+  - id: e2c0abc6-2d9d-4dd7-bb56-26294b388dde
+    name: محسن
+    sex: male
+    nickname: الأمير
+    fatherId: d8a3ec3e-696a-4cae-8169-7cee8ae38981
+  - id: 4f1267ea-b222-4657-bf82-bdb1d1b621ac
+    name: عبد الله
+    sex: male
+    nickname: الأمير
+    fatherId: e2c0abc6-2d9d-4dd7-bb56-26294b388dde
+  - id: 40c02d87-03d7-4fe2-84a5-a1cde467c3e1
+    name: فرج الله
+    sex: male
+    nickname: الأمير
+    kunya: آخر الموشعشعيين
+    fatherId: 4f1267ea-b222-4657-bf82-bdb1d1b621ac

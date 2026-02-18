@@ -1,0 +1,54 @@
+family:
+  type: qabila
+  name: سبأ
+  visibility: public
+  pinned: true
+  suffixMale: السبئي
+  suffixFemale: السبئية
+  hometown: مأرب
+  description: |-
+    سبأ مملكة يمنية قديمة عاصمتها مأرب (١٢٠٠ق.م-٢٧٥م).
+    اشتهرت بسدّ مأرب وبلقيس ملكة سبأ. منها تفرعت حِمْيَر وكهلان أصل كثير من القبائل العربية.
+persons:
+  - id: 765198a1-00c5-4674-a626-8efeda7012d6
+    name: يشجب
+    sex: male
+    kunya: بن يعرب بن قحطان
+  - id: 5681717d-6c3d-4e58-b0e9-f5db632ccdfb
+    name: سبأ
+    sex: male
+    kunya: الأكبر
+    fatherId: 765198a1-00c5-4674-a626-8efeda7012d6
+  - id: 289597c7-e52d-4a7e-a387-700b7419c17d
+    name: حِمْيَر
+    sex: male
+    kunya: جد الحميريين
+    fatherId: 5681717d-6c3d-4e58-b0e9-f5db632ccdfb
+  - id: 2a9e7998-c41a-462a-8679-11fb11c182b2
+    name: كهلان
+    sex: male
+    kunya: جد القبائل الكهلانية
+    fatherId: 5681717d-6c3d-4e58-b0e9-f5db632ccdfb
+  - id: da0b06b1-6cbd-4da0-b199-8ed6e067b07f
+    name: زيد
+    sex: male
+    fatherId: 2a9e7998-c41a-462a-8679-11fb11c182b2
+  - id: 1518f52d-8115-4dc0-96f3-9f47a7994b76
+    name: عريب
+    sex: male
+    fatherId: da0b06b1-6cbd-4da0-b199-8ed6e067b07f
+  - id: 6d8ef950-b05c-4164-98fb-af46200b20a4
+    name: الأزد
+    sex: male
+    kunya: جد قبائل الأزد
+    fatherId: 1518f52d-8115-4dc0-96f3-9f47a7994b76
+  - id: 86c927c7-081f-49e0-92c0-ef252c0c62d7
+    name: مالك
+    sex: male
+    kunya: (طيء) جد همدان
+    fatherId: 2a9e7998-c41a-462a-8679-11fb11c182b2
+  - id: 2242f12d-fdd9-4924-8840-e5864033cf3d
+    name: أدد
+    sex: male
+    kunya: جد مَذحج وطيء
+    fatherId: 2a9e7998-c41a-462a-8679-11fb11c182b2
