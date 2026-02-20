@@ -1,14 +1,15 @@
 family:
+  id: e23107f4-a60c-48e0-ba1a-2ba312165694
   type: qabila
   name: طيء
   visibility: public
-  pinned: true
   suffixMale: الطائي
   suffixFemale: الطائية
   hometown: حائل
   description: |-
     طيء قبيلة عربية كبرى من كهلان بن سبأ، تُنسب إلى طيء بن أدد.
     منها حاتم الطائي المشهور بالكرم، وعنترة بن شداد. من فروعها شمّر وبنو لام والفضول. موطنها الأصلي جبلا أجا وسلمى.
+  category: historical
 persons:
   - id: 7be70ac7-1cb8-4880-a984-4c51ca73f5cf
     name: أدد

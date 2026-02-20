@@ -1,14 +1,15 @@
 family:
+  id: 91e137e3-d647-47a0-b869-9904f3f0d89c
   type: qabila
   name: ربيعة
   visibility: public
-  pinned: true
   suffixMale: الربعي
   suffixFemale: الربعية
   hometown: اليمامة
   description: |-
     ربيعة بن نزار أحد أكبر فرعي العدنانيين. منه تفرعت عنزة وبكر بن وائل وتغلب وعبد القيس وبنو حنيفة.
     سكنت فروعها اليمامة والبحرين والعراق.
+  category: historical
 persons:
   - id: 04d4ddbb-ba92-4bc2-9a47-e6b6bf81b786
     name: نزار

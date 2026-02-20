@@ -1,14 +1,15 @@
 family:
+  id: 6354832a-6d40-4ba9-b136-a52613801e53
   type: aal
   name: الإدريسيون
   visibility: public
-  pinned: true
   suffixMale: الإدريسي
   suffixFemale: الإدريسية
   hometown: فاس
   description: |-
     الإدريسيون سلالة علوية حسنية أسست أول دولة إسلامية مستقلة في المغرب (٧٨٨-٩٧٤م).
     أسسها إدريس بن عبد الله الذي فرّ من موقعة فخ. بنى ابنه إدريس الثاني مدينة فاس.
+  category: historical
 persons:
   - id: c86819af-295d-455d-819f-426011a6f843
     name: عبد الله

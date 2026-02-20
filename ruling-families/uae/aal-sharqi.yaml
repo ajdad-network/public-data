@@ -1,14 +1,15 @@
 family:
+  id: 8b879bb7-ae30-46f3-8903-dceaf945551a
   type: aal
   name: آل الشرقي
   visibility: public
-  pinned: true
   suffixMale: الشرقي
   suffixFemale: الشرقية
   hometown: الفجيرة
   description: |-
     آل الشرقي الأسرة الحاكمة في إمارة الفجيرة منذ عام ١٩٠١م.
     ينتسبون إلى قبيلة الشرقيين، وكانت الفجيرة آخر الإمارات المتصالحة اعترافاً من بريطانيا عام ١٩٥٢م.
+  category: ruling
 persons:
   - id: 3d7f1d75-0597-4254-bc67-d4efe62a256a
     name: عبد الله

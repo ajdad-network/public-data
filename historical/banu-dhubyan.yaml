@@ -1,14 +1,15 @@
 family:
+  id: a3a21ff0-8500-4ffe-a072-021336bf39bb
   type: qabila
   name: بنو ذبيان
   visibility: public
-  pinned: true
   suffixMale: الذبياني
   suffixFemale: الذبيانية
   hometown: نجد
   description: |-
     بنو ذبيان قبيلة عربية شهيرة من غطفان بن سعد بن قيس عيلان بن مضر.
     منها الشاعر النابغة الذبياني أحد أصحاب المعلقات، وكان لها دور كبير في حرب داحس والغبراء.
+  category: historical
 persons:
   - id: 7aa5ecfe-650d-4ebd-8a74-26aa6512f657
     name: قيس عيلان

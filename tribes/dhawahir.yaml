@@ -1,14 +1,15 @@
 family:
+  id: 835f1b8e-1b50-49b7-8a4f-76c1741e8a4e
   type: qabila
   name: الظواهر
   visibility: public
-  pinned: true
   suffixMale: الظاهري
   suffixFemale: الظاهرية
   hometown: العين
   description: |-
     الظواهر قبيلة عربية تسكن مدينة العين والمنطقة الظاهرة في الإمارات وعمان.
     تنتسب إلى ظاهر. من أبرز فروعها آل خييلي والشوامس والنوادر.
+  category: tribes
 persons:
   - id: 8119dff7-4a7e-44fd-aebe-13e23f5579df
     name: ظاهر

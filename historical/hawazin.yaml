@@ -1,14 +1,15 @@
 family:
+  id: a8f3de3b-09d9-45e9-9b8a-3a1a3abb30f5
   type: qabila
   name: هوازن
   visibility: public
-  pinned: true
   suffixMale: الهوازني
   suffixFemale: الهوازنية
   hometown: نجد
   description: |-
     هوازن بن منصور حلف قبلي عدناني كبير من قيس عيلان.
     منها عتيبة وبنو عامر بن صعصعة وثقيف وبنو سعد (مرضعة النبي ﷺ). خاضوا معركة حنين ضد المسلمين ثم أسلموا.
+  category: historical
 persons:
   - id: d3772283-ff18-4b48-bbdf-940a8db781a7
     name: منصور

@@ -1,14 +1,15 @@
 family:
+  id: a3f4569b-ae1f-47db-92c3-185dd7d08d31
   type: aal
   name: الزنكيون
   visibility: public
-  pinned: true
   suffixMale: الزنكي
   suffixFemale: الزنكية
   hometown: الموصل
   description: |-
     الزنكيون سلالة تركمانية حكمت الموصل وحلب ودمشق في القرنين الثاني عشر والثالث عشر الميلاديين.
     أسسها عماد الدين زنكي، واشتهر ابنه نور الدين محمود بتوحيد الشام ومصر تمهيداً لتحرير القدس على يد صلاح الدين الأيوبي.
+  category: historical
 persons:
   - id: 9ecb45c2-842e-40ee-9ba2-1e82c9d03189
     name: آق سنقر

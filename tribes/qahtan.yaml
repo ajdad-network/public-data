@@ -1,14 +1,15 @@
 family:
+  id: f87be39c-f0fd-4b7f-a942-207d3eafc2c4
   type: qabila
   name: قحطان
   visibility: public
-  pinned: true
   suffixMale: القحطاني
   suffixFemale: القحطانية
   hometown: جنوب نجد
   description: |-
     قحطان من أكبر القبائل العربية في جنوب الجزيرة العربية، تنتسب إلى مذحج بن أدد بن زيد بن يشجب بن عريب بن زيد بن كهلان بن سبأ بن يشجب بن يعرب بن قحطان.
     تنقسم إلى عدة بطون رئيسية أبرزها جنب وسنحان وعبيدة والحباب ورفيدة.
+  category: tribes
 persons:
   - id: 525327b4-bc6d-4651-bd66-3bdff452ff89
     name: قحطان

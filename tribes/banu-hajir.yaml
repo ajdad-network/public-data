@@ -1,14 +1,15 @@
 family:
+  id: 2f9d5a4d-ef84-4336-b64a-969b45705a48
   type: qabila
   name: بنو هاجر
   visibility: public
-  pinned: true
   suffixMale: الهاجري
   suffixFemale: الهاجرية
   hometown: نجد
   description: |-
     بنو هاجر قبيلة عربية كبيرة من قحطان، منتشرة في السعودية والكويت وقطر والإمارات.
     من أبرز فروعها آل محمد وآل مخلص وشريف والمهاشير.
+  category: tribes
 persons:
   - id: 9bf30a62-b1d3-4ffe-b780-4605a098179a
     name: هاجر

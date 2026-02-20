@@ -1,14 +1,15 @@
 family:
+  id: 5fbd7528-5022-4c62-917f-3be8ee838c8d
   type: qabila
   name: خزاعة
   visibility: public
-  pinned: true
   suffixMale: الخزاعي
   suffixFemale: الخزاعية
   hometown: مكة
   description: |-
     خزاعة قبيلة عربية من الأزد. كانت سادنة الكعبة وحاكمة مكة قبل قريش.
     أسس عمرو بن لُحَيّ عبادة الأصنام فيها حسب الرواية. حالفوا النبي ﷺ وكان نقض قريش لعهدهم سبب فتح مكة.
+  category: historical
 persons:
   - id: e98b877b-5625-46b0-a28d-b4bf49888607
     name: مازن

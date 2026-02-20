@@ -1,14 +1,15 @@
 family:
+  id: c1436c13-8b24-4822-8657-10eadca13426
   type: qabila
   name: رجال ألمع
   visibility: public
-  pinned: true
   suffixMale: الألمعي
   suffixFemale: الألمعية
   hometown: رجال ألمع
   description: |-
     رجال ألمع قبيلة عربية كبيرة من الأزد تسكن منطقة عسير جنوب السعودية.
     تنتسب إلى ألمع بن عمرو بن الأزد. تشتهر منطقتهم بالقرى التراثية والعمارة الحجرية الفريدة.
+  category: tribes
 persons:
   - id: 0498d171-f1a7-4757-a7b3-92f5539176bf
     name: ألمع

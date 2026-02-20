@@ -1,8 +1,8 @@
 family:
+  id: 951c6e59-2999-4dab-a94b-f83e0b6bf240
   type: qabila
   name: يام
   visibility: public
-  pinned: true
   suffixMale: اليامي
   suffixFemale: اليامية
   hometown: نجران
@@ -10,6 +10,7 @@ family:
     يام قبيلة عربية كبيرة من همدان، موطنها نجران في جنوب المملكة العربية السعودية.
     تنتسب إلى يام بن أصبي بن دافع بن مالك بن جشم بن حاشد بن جشم بن خيران بن نوف بن همدان.
     من أبرز فروعها آل فاطمة وآل عجمان (العجمان) ودهم ومرهبة.
+  category: tribes
 persons:
   - id: 6115d824-299d-414e-9e50-1825b5ab4b70
     name: همدان

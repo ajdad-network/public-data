@@ -1,14 +1,15 @@
 family:
+  id: 1045f7c3-16c0-4414-901b-50cfc721c3c8
   type: aal
   name: آل خليفة
   visibility: public
-  pinned: true
   suffixMale: آل خليفة
   suffixFemale: آل خليفة
   hometown: المنامة
   description: |-
     آل خليفة الأسرة الحاكمة في مملكة البحرين منذ عام ١٧٨٣م، ينتسبون إلى قبيلة عنزة (العتوب).
     أسس حكمهم في البحرين أحمد بن محمد آل خليفة الملقب بالفاتح.
+  category: ruling
 persons:
   - id: e8b49ffc-dc8b-4fdf-8fff-b53455f3832f
     name: خليفة

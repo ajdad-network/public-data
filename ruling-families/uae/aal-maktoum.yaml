@@ -1,13 +1,14 @@
 family:
+  id: 8174cfa0-9f0c-47e1-bd9b-8ce9ca959c84
   type: aal
   description: الأسرة الحاكمة في إمارة دبي، من فخذ آل بوفلاسة من قبيلة بني ياس، حكام دبي منذ عام ١٨٣٣ ومن مؤسسي دولة الإمارات العربية المتحدة
   hometown: دبي
   suffixFemale: المكتومية
-  pinned: true
   createdBy: b8HOIr2dR5ds4Be8N3tQhA7wpJt2
   suffixMale: المكتومي
   visibility: public
   name: آل مكتوم
+  category: ruling
 persons:
   # الجيل الأول - الجد الأعلى
   - id: 96ef460f-9878-4d2a-b47c-af7b973f4325

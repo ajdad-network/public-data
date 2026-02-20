@@ -1,14 +1,15 @@
 family:
+  id: 30111719-6c23-49ca-8429-c1339dd89afb
   type: qabila
   name: يافع
   visibility: public
-  pinned: true
   suffixMale: اليافعي
   suffixFemale: اليافعية
   hometown: يافع
   description: |-
     يافع قبيلة عربية كبيرة من حِمْيَر تسكن جنوب اليمن وحضرموت.
     تنقسم إلى يافع العليا ويافع السفلى. لهم حضور كبير في عدن والخليج وشرق أفريقيا.
+  category: tribes
 persons:
   - id: c0c60019-9b71-4662-92e6-9aad4be2a1c8
     name: يافع

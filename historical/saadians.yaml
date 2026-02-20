@@ -1,14 +1,15 @@
 family:
+  id: 3a099dfc-8adf-4a91-a277-7db0c55d6898
   type: aal
   name: السعديون
   visibility: public
-  pinned: true
   suffixMale: السعدي
   suffixFemale: السعدية
   hometown: مراكش
   description: |-
     السعديون سلالة شريفة حكمت المغرب (١٥٤٩-١٦٥٩م).
     ينتسبون إلى النبي ﷺ عبر محمد النفس الزكية. اشتهروا بمعركة وادي المخازن (معركة الملوك الثلاثة) وبلغوا أوجهم في عهد أحمد المنصور الذهبي.
+  category: historical
 persons:
   - id: 47bb02e2-ee44-4caf-9687-6b3961776a60
     name: محمد

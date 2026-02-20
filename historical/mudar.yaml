@@ -1,14 +1,15 @@
 family:
+  id: 1343ef9d-aa3a-4cd5-80d9-10cf5f68e99d
   type: qabila
   name: مُضَر
   visibility: public
-  pinned: true
   suffixMale: المُضَري
   suffixFemale: المُضَرية
   hometown: مكة
   description: |-
     مُضَر بن نزار أحد أكبر فرعي العدنانيين. منه تفرعت قريش وكنانة وتميم وهوازن وغطفان وهذيل وسليم.
     يشكل نسله غالبية قبائل شمال ووسط الجزيرة العربية.
+  category: historical
 persons:
   - id: b3257818-15a4-4798-80d1-255fb2ef0024
     name: عدنان

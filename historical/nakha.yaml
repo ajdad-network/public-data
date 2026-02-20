@@ -1,14 +1,15 @@
 family:
+  id: e7604662-7442-4382-a70a-797848e8a448
   type: qabila
   name: النخع
   visibility: public
-  pinned: true
   suffixMale: النخعي
   suffixFemale: النخعية
   hometown: الكوفة
   description: |-
     النخع بطن كبير من مَذحج. هاجروا إلى الكوفة وكان لهم دور عظيم في الفتوحات.
     اشتهر منهم الأشتر النخعي قائد علي بن أبي طالب وإبراهيم النخعي الفقيه.
+  category: historical
 persons:
   - id: 14aab8a2-273b-4667-85de-a7e246ae11cf
     name: مذحج

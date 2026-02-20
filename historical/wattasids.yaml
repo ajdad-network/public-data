@@ -1,14 +1,15 @@
 family:
+  id: 5ccdfe47-7c24-47b4-bb95-7f375f7826a6
   type: aal
   name: الوطاسيون
   visibility: public
-  pinned: true
   suffixMale: الوطاسي
   suffixFemale: الوطاسية
   hometown: فاس
   description: |-
     الوطاسيون سلالة أمازيغية زناتية حكمت المغرب (١٤٧٢-١٥٥٤م).
     كانوا أقارب المرينيين وخلفوهم في الحكم. انتهت دولتهم على يد السعديين.
+  category: historical
 persons:
   - id: add11692-dcff-44e4-8738-23ea980474e0
     name: محمد

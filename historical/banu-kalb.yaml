@@ -1,14 +1,15 @@
 family:
+  id: 0c0e27dd-3a29-4771-806c-018970135449
   type: qabila
   name: بنو كلب
   visibility: public
-  pinned: true
   suffixMale: الكلبي
   suffixFemale: الكلبية
   hometown: دومة الجندل
   description: |-
     بنو كلب قبيلة عربية كبيرة من قضاعة. سكنت بادية الشام ودومة الجندل.
     كان لهم نفوذ كبير في العصر الأموي من خلال مصاهرة معاوية بن أبي سفيان. منهم الشرارات.
+  category: historical
 persons:
   - id: 49349bb1-0f4e-4d0a-bce5-ece394c6d5fe
     name: وبرة

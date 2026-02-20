@@ -1,14 +1,15 @@
 family:
+  id: 7b0af9ec-157c-4f8a-a188-4d15a54012d3
   type: qabila
   name: بنو كعب
   visibility: public
-  pinned: true
   suffixMale: الكعبي
   suffixFemale: الكعبية
   hometown: الأحواز
   description: |-
     بنو كعب قبيلة عربية كبيرة تنتسب إلى كعب بن ربيعة بن عامر بن صعصعة.
     تنتشر في الأحواز (خوزستان) وجنوب العراق. أسسوا إمارة عربستان المستقلة في القرن الثامن عشر.
+  category: tribes
 persons:
   - id: 2ae1def4-f199-4fb3-8982-cd1d09131eba
     name: كعب

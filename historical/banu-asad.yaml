@@ -1,14 +1,15 @@
 family:
+  id: 5b65e811-3b20-40d1-8fe4-f36760ab442d
   type: qabila
   name: بنو أسد
   visibility: public
-  pinned: true
   suffixMale: الأسدي
   suffixFemale: الأسدية
   hometown: نجد
   description: |-
     بنو أسد بن خزيمة بن مدركة من القبائل العدنانية الكبرى، موطنهم الأصلي في نجد بين الكوفة ومكة.
     من أبرز بطونهم بنو دودان وبنو كاهل وبنو عمرو. ومن أشهر أعلامهم طليحة بن خويلد الذي ادّعى النبوة ثم أسلم وحسن إسلامه وشهد فتوحات العراق وفارس.
+  category: historical
 persons:
   # ── الجذع ──
   - id: 55c8a6a9-0236-402e-8422-ea44439c5bf3

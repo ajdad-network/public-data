@@ -1,14 +1,15 @@
 family:
+  id: fd34acae-553a-4132-b806-bf31a57056fa
   type: qabila
   name: بنو سليم
   visibility: public
-  pinned: true
   suffixMale: السلمي
   suffixFemale: السلمية
   hometown: الحجاز
   description: |-
     بنو سليم قبيلة عربية كبيرة من قيس عيلان بن مضر، سكنت الحجاز بين مكة والمدينة.
     من أكبر القبائل التي هاجرت إلى شمال أفريقيا مع بني هلال. منها الصحابي العباس بن مرداس.
+  category: tribes
 persons:
   - id: 49384717-85bd-4ecf-8a10-fe1bc0b3c651
     name: مضر

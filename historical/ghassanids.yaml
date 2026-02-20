@@ -1,14 +1,15 @@
 family:
+  id: 15169e73-acf8-411b-a2f6-c3076817a553
   type: qabila
   name: الغساسنة
   visibility: public
-  pinned: true
   suffixMale: الغساني
   suffixFemale: الغسانية
   hometown: الشام
   description: |-
     الغساسنة (بنو غسان) سلالة عربية من الأزد حكمت مملكة في بلاد الشام كتابعين للإمبراطورية البيزنطية.
     امتدت مملكتهم من القرن الثالث حتى الفتح الإسلامي، وكان مقرهم في الجابية والجولان.
+  category: historical
 persons:
   - id: e9d2588a-1ad2-4d65-a4b5-a58ed574219b
     name: الأزد

@@ -1,14 +1,15 @@
 family:
+  id: 8deddee8-45c9-4287-87ab-3ef1676959b1
   type: aal
   name: المماليك
   visibility: public
-  pinned: true
   suffixMale: المملوكي
   suffixFemale: المملوكية
   hometown: القاهرة
   description: |-
     دولة المماليك حكمت مصر والشام (١٢٥٠-١٥١٧م).
     بدأت بالمماليك البحرية (أتراك وكيبتشاق) ثم البرجية (شراكسة). هزموا المغول في عين جالوت وطردوا الصليبيين.
+  category: historical
 persons:
   - id: 5eff16c0-5ba6-4012-ab46-c340e1fdf072
     name: عز الدين

@@ -1,14 +1,15 @@
 family:
+  id: b1e61ca7-5949-42b5-b066-50916b79c276
   type: qabila
   name: دوس
   visibility: public
-  pinned: true
   suffixMale: الدوسي
   suffixFemale: الدوسية
   hometown: الباحة
   description: |-
     دوس قبيلة عربية من الأزد تنتسب إلى دوس بن عدثان بن عبد الله بن زهران.
     اشتهر منها الصحابي أبو هريرة والطفيل بن عمرو الدوسي. موطنها منطقة الباحة.
+  category: historical
 persons:
   - id: a8f9440f-e6da-4513-b825-3e2beb488315
     name: زهران

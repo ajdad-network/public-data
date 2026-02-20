@@ -1,14 +1,15 @@
 family:
+  id: 9634cb99-e527-4ead-b02f-58e95a0800d8
   type: qabila
   name: المناهيل
   visibility: public
-  pinned: true
   suffixMale: المنهالي
   suffixFemale: المنهالية
   hometown: حضرموت
   description: |-
     المناهيل قبيلة عربية كبيرة تسكن حضرموت والربع الخالي في اليمن وعمان والإمارات.
     تنتسب إلى منهال. عُرفوا بخبرتهم في الصحراء والتجارة عبر الربع الخالي.
+  category: tribes
 persons:
   - id: d51d2222-1a73-4b8f-afb2-cb6432178f67
     name: منهال

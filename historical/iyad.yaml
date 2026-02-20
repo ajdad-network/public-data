@@ -1,14 +1,15 @@
 family:
+  id: cec2a005-fc7c-45af-a4ac-1a1e486402f0
   type: qabila
   name: إياد
   visibility: public
-  pinned: true
   suffixMale: الإيادي
   suffixFemale: الإيادية
   hometown: العراق
   description: |-
     إياد قبيلة عدنانية قديمة من أكبر قبائل الجاهلية. تنتسب إلى إياد بن نزار بن معد.
     سكنت العراق والجزيرة وكان لها دور في حروب العرب مع الفرس. اندمجت في القبائل الأخرى بعد الإسلام.
+  category: historical
 persons:
   - id: 9c9d307a-4949-4dde-8aef-5e461c4e2035
     name: نزار

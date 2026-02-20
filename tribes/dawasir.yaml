@@ -1,14 +1,15 @@
 family:
+  id: 108b8ce1-500d-4b21-a951-6b91f1bd1daf
   type: qabila
   name: الدواسر
   visibility: public
-  pinned: true
   suffixMale: الدوسري
   suffixFemale: الدوسرية
   hometown: وادي الدواسر
   description: |-
     الدواسر قبيلة عربية كبيرة من تغلب بن وائل، موطنها الأصلي وادي الدواسر في جنوب نجد وانتشرت في أنحاء الخليج العربي.
     تنقسم إلى قسمين رئيسيين: آل زايد ومنهم آل سالم والوداعين والرجبان والمشاوية، وتغلب ومنهم الحقبان وآل محمد والبدارين.
+  category: tribes
 persons:
   # ── النسب الأعلى ──
   - id: eaa45720-9e12-474c-a9ee-151eac1a3aa0

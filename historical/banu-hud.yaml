@@ -1,14 +1,15 @@
 family:
+  id: 1dfae1f2-6870-4d9c-a4cf-8dd117f4f74e
   type: aal
   name: بنو هود
   visibility: public
-  pinned: true
   suffixMale: الهودي
   suffixFemale: الهودية
   hometown: سرقسطة
   description: |-
     بنو هود سلالة عربية من جذام حكمت سرقسطة في الأندلس (١٠٣٩-١١١٠م).
     أسسها سليمان بن هود المستعين. من أكبر ملوك الطوائف وأوسعهم مُلكاً.
+  category: historical
 persons:
   - id: bf51d265-e9eb-47dd-840f-90f7743ab757
     name: هود

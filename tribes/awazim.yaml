@@ -1,14 +1,15 @@
 family:
+  id: a9946614-9b6a-4579-b54f-72a193229993
   type: qabila
   name: العوازم
   visibility: public
-  pinned: true
   suffixMale: العازمي
   suffixFemale: العازمية
   hometown: الكويت
   description: |-
     العوازم قبيلة عربية كبيرة منتشرة في الكويت والسعودية، تنتسب إلى رشيد بن حام من بني سليم بن منصور.
     من أبرز فروعها غيابة وحسين ومحلف.
+  category: tribes
 persons:
   - id: d1052f29-7640-4d5e-890e-954066f493c1
     name: رشيد

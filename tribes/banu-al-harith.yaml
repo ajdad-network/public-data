@@ -1,14 +1,15 @@
 family:
+  id: 2f329d04-a514-4f3d-b696-0f0bc175e020
   type: qabila
   name: بنو الحارث
   visibility: public
-  pinned: true
   suffixMale: الحارثي
   suffixFemale: الحارثية
   hometown: نجران
   description: |-
     بنو الحارث (بنو الحارث بن كعب) قبيلة عربية كبيرة من مذحج، سكنت نجران.
     كانوا من أوائل القبائل التي دخلت في الإسلام بعد مراسلة النبي ﷺ لهم.
+  category: tribes
 persons:
   - id: e350c7e7-489e-4f33-9b07-e0e87b83a634
     name: مذحج

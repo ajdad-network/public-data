@@ -1,14 +1,15 @@
 family:
+  id: f1dd2637-5fcd-44b0-8b9a-dc771cc8d9a9
   type: qabila
   name: بنو لام
   visibility: public
-  pinned: true
   suffixMale: اللامي
   suffixFemale: اللامية
   hometown: نجد
   description: |-
     بنو لام بطن كبير من طيء، تفرعت منهم قبائل عديدة أبرزها الظفير وآل كثير وآل مغيرة.
     انتشروا في نجد والعراق والشام، وكان لهم دور كبير في تاريخ الجزيرة العربية.
+  category: historical
 persons:
   - id: d435d63b-b00f-49fa-ae8c-2c67b83b8029
     name: طيء

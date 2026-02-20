@@ -1,14 +1,15 @@
 family:
+  id: 93bca946-5935-4025-8639-3827667efa07
   type: qabila
   name: العتوب
   visibility: public
-  pinned: true
   suffixMale: العتبي
   suffixFemale: العتبية
   hometown: الكويت
   description: |-
     العتوب حلف قبلي عربي من عنزة هاجر من نجد إلى الساحل في القرن السابع عشر.
     منهم آل صباح حكام الكويت وآل خليفة حكام البحرين وآل جلاهمة.
+  category: tribes
 persons:
   - id: 814a42f8-19e8-4024-bb9d-547072c17848
     name: عتبة

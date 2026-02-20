@@ -1,14 +1,15 @@
 family:
+  id: 8ab4043b-6183-4b9b-8895-c49bbdb3a660
   type: aal
   name: آل صباح
   visibility: public
-  pinned: true
   suffixMale: الصباح
   suffixFemale: الصباح
   hometown: الكويت
   description: |-
     آل صباح الأسرة الحاكمة في دولة الكويت منذ عام ١٧٥٢م، ينتسبون إلى قبيلة عنزة (العتوب).
     أسس الحكم صباح بن جابر وتوارثته الأسرة حتى اليوم.
+  category: ruling
 persons:
   - id: f3718995-14d7-4508-b658-e7774a3edda6
     name: صباح

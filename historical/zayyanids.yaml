@@ -1,14 +1,15 @@
 family:
+  id: 73eb64a4-1da1-4549-a8cf-46f840116ec0
   type: aal
   name: الزيانيون
   visibility: public
-  pinned: true
   suffixMale: الزياني
   suffixFemale: الزيانية
   hometown: تلمسان
   description: |-
     الزيانيون (بنو زيان / بنو عبد الواد) سلالة أمازيغية زناتية حكمت تلمسان والمغرب الأوسط (١٢٣٥-١٥٥٦م).
     أسسها يغمراسن بن زيان وعُرفوا بمنافستهم للمرينيين والحفصيين.
+  category: historical
 persons:
   - id: 93776d47-42e3-4fa9-98b4-ee94e0ce29d9
     name: زيان

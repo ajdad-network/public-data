@@ -1,14 +1,15 @@
 family:
+  id: 6035c4c9-df3b-47f2-997e-d39bac7cadb9
   type: qabila
   name: الفضول
   visibility: public
-  pinned: true
   suffixMale: الفضلي
   suffixFemale: الفضلية
   hometown: نجد
   description: |-
     الفضول قبيلة عربية من بني لام من طيء.
     تنتشر في نجد والعراق والكويت. من فروعها آل كثير وآل جميل والسلاطين.
+  category: tribes
 persons:
   - id: 3da0977c-db61-4937-8194-24f71157636d
     name: فضل

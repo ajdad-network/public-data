@@ -1,14 +1,15 @@
 family:
+  id: 34f40c13-f7e9-4f94-a3f7-c96f6f4bd852
   type: qabila
   name: بنو عبس
   visibility: public
-  pinned: true
   suffixMale: العبسي
   suffixFemale: العبسية
   hometown: نجد
   description: |-
     بنو عبس قبيلة عربية شهيرة من غطفان بن سعد بن قيس عيلان بن مضر.
     اشتهرت بحرب داحس والغبراء، ومنها الفارس الشاعر عنترة بن شداد.
+  category: historical
 persons:
   - id: 328c1b9e-7d50-4b2c-be6f-84e734d0f2cc
     name: قيس عيلان

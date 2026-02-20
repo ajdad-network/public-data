@@ -1,14 +1,15 @@
 family:
+  id: 95e4ab9b-ef6a-4312-a4b5-33663cc94a90
   type: aal
   name: الإخشيديون
   visibility: public
-  pinned: true
   suffixMale: الإخشيدي
   suffixFemale: الإخشيدية
   hometown: الفسطاط
   description: |-
     الإخشيديون سلالة تركية حكمت مصر والشام (٩٣٥-٩٦٩م).
     أسسها محمد بن طغج الإخشيد الذي استقل بمصر عن العباسيين. انتهت بالفتح الفاطمي.
+  category: historical
 persons:
   - id: 86e4186c-255b-4a0c-96fc-64fd1e901c30
     name: جُف

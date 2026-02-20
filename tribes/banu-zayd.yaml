@@ -1,14 +1,15 @@
 family:
+  id: 34d3b376-f515-4784-8f2b-3a2317600633
   type: qabila
   name: بنو زيد
   visibility: public
-  pinned: true
   suffixMale: الزيدي
   suffixFemale: الزيدية
   hometown: شقراء
   description: |-
     بنو زيد قبيلة عربية من بني قضاعة تسكن وسط نجد في السعودية.
     موطنها الأصلي شقراء والقويعية والدوادمي. من أقدم قبائل نجد المستقرة وأعرقها.
+  category: tribes
 persons:
   - id: c86d937f-4b33-4706-8616-c639a0633f26
     name: زيد

@@ -1,14 +1,15 @@
 family:
+  id: 914cb414-f182-440d-af6d-0ad6da1e6654
   type: aal
   name: آل النعيمي
   visibility: public
-  pinned: true
   suffixMale: النعيمي
   suffixFemale: النعيمية
   hometown: عجمان
   description: |-
     آل النعيمي الأسرة الحاكمة في إمارة عجمان منذ عام ١٨١٦م.
     ينتسبون إلى قبيلة النعيم، وهي من القبائل العربية العريقة في المنطقة.
+  category: ruling
 persons:
   - id: 46c613d9-ee31-4034-ae9a-5ffb68b054b2
     name: راشد

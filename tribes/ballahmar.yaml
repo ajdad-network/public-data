@@ -1,14 +1,15 @@
 family:
+  id: cedc4564-b496-4df8-9cd8-35c8f3619331
   type: qabila
   name: بللحمر
   visibility: public
-  pinned: true
   suffixMale: البلحمري
   suffixFemale: البلحمرية
   hometown: خميس مشيط
   description: |-
     بللحمر قبيلة عربية كبيرة من الأزد تسكن منطقة عسير جنوب السعودية.
     تنتسب إلى الحمر بن ربيعة. من أبرز فروعها آل يحيى وآل سالم وشيبان.
+  category: tribes
 persons:
   - id: b76d2064-6dc1-4274-a4d3-da7ccc6040b7
     name: الحمر

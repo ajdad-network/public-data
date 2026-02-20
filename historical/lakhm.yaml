@@ -1,14 +1,15 @@
 family:
+  id: 8263c390-f8ff-4f60-97ee-621be831f511
   type: qabila
   name: لخم
   visibility: public
-  pinned: true
   suffixMale: اللخمي
   suffixFemale: اللخمية
   hometown: الحيرة
   description: |-
     لخم قبيلة يمنية كبيرة تنتسب إلى لخم بن عدي بن الحارث بن مرّة بن كهلان.
     منها المناذرة ملوك الحيرة وبنو عباد ملوك إشبيلية. انتشرت في العراق والشام ومصر والأندلس.
+  category: historical
 persons:
   - id: 2deeabaa-e11b-44ef-8d63-f1d3616482f0
     name: كهلان

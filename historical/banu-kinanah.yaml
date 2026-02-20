@@ -1,14 +1,15 @@
 family:
+  id: fa5f2d32-a3f1-474a-9cca-13e6416b6bb3
   type: qabila
   name: بنو كنانة
   visibility: public
-  pinned: true
   suffixMale: الكناني
   suffixFemale: الكنانية
   hometown: مكة المكرمة
   description: |-
     بنو كنانة قبيلة عربية عدنانية كبرى، تنتسب إلى كنانة بن خزيمة بن مدركة بن إلياس بن مضر.
     منها قريش (بطن النضر بن كنانة)، وهي القبيلة الأم التي ينتسب إليها النبي ﷺ. من فروعها أيضاً بنو ليث وبنو الدئل.
+  category: historical
 persons:
   - id: 6b651763-2c34-44d1-b20e-3977be24013e
     name: مضر

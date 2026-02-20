@@ -1,14 +1,15 @@
 family:
+  id: 60e53c3a-8ad4-4ba0-8b39-605bb4cd5ad3
   type: aal
   name: القعيطي
   visibility: public
-  pinned: true
   suffixMale: القعيطي
   suffixFemale: القعيطية
   hometown: المكلا
   description: |-
     الدولة القعيطية سلطنة عربية حكمت حضرموت (١٨٥٨-١٩٦٧م).
     أسسها عمر بن عوض القعيطي من يافع. اتخذوا المكلا عاصمة وتنافسوا مع الكثيريين.
+  category: historical
 persons:
   - id: fd684c8b-a761-473b-88ed-2f0a0184049e
     name: عوض

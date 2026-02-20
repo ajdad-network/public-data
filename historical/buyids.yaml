@@ -1,14 +1,15 @@
 family:
+  id: 39b9b926-8db0-4404-9087-79c8f1d5b1e2
   type: aal
   name: البويهيون
   visibility: public
-  pinned: true
   suffixMale: البويهي
   suffixFemale: البويهية
   hometown: بغداد
   description: |-
     البويهيون (آل بويه) سلالة ديلمية فارسية حكمت العراق وفارس (٩٣٤-١٠٦٢م).
     سيطروا على الخلافة العباسية في بغداد وحكموا باسم الخليفة. أسسها الإخوة الثلاثة أبناء بويه.
+  category: historical
 persons:
   - id: e1051e9f-7f7a-4fe9-b692-0e9af52728df
     name: بويه

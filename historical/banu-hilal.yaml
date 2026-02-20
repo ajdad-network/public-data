@@ -1,14 +1,15 @@
 family:
+  id: 11fd820f-4a03-4345-b77f-ee908bbad323
   type: qabila
   name: بنو هلال
   visibility: public
-  pinned: true
   suffixMale: الهلالي
   suffixFemale: الهلالية
   hometown: نجد
   description: |-
     بنو هلال قبيلة عربية شهيرة من عامر بن صعصعة بن هوازن، اشتهرت بتغريبة بني هلال وهجرتها الكبرى إلى شمال أفريقيا في القرن الحادي عشر الميلادي.
     من أبرز شخصياتها أبو زيد الهلالي بطل السيرة الشعبية الشهيرة.
+  category: historical
 persons:
   - id: 0c531a1e-b2a5-4c7b-93f9-88da01318405
     name: هوازن

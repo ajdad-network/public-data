@@ -1,14 +1,15 @@
 family:
+  id: efdadb89-d718-4bd1-81fb-a270154e06e2
   type: qabila
   name: هذيل
   visibility: public
-  pinned: true
   suffixMale: الهذلي
   suffixFemale: الهذلية
   hometown: الحجاز
   description: |-
     هذيل قبيلة عربية عريقة من مضر، تنتسب إلى هذيل بن مدركة بن إلياس بن مضر.
     سكنت بين مكة والطائف، اشتهرت بالشعر والفصاحة. منها الصحابي عبد الله بن مسعود.
+  category: tribes
 persons:
   - id: e171c3ef-536e-40d7-bccb-42654c9a71f8
     name: مضر

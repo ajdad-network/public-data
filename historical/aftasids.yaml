@@ -1,14 +1,15 @@
 family:
+  id: ef44f084-e197-49de-85fe-c34e814a3c5d
   type: aal
   name: بنو الأفطس
   visibility: public
-  pinned: true
   suffixMale: الأفطسي
   suffixFemale: الأفطسية
   hometown: بطليوس
   description: |-
     بنو الأفطس سلالة أمازيغية حكمت بطليوس في غرب الأندلس (١٠٢٢-١٠٩٤م).
     أسسها عبد الله بن محمد الأفطس. اشتهر منهم المتوكل بن الأفطس بالشجاعة والأدب.
+  category: historical
 persons:
   - id: 86aa00a1-e956-48f0-9da4-c2cfebf4cbe2
     name: محمد

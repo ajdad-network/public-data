@@ -1,14 +1,15 @@
 family:
+  id: 136303e5-b59f-4a09-909d-905b052591a5
   type: qabila
   name: بنو تغلب
   visibility: public
-  pinned: true
   suffixMale: التغلبي
   suffixFemale: التغلبية
   hometown: الجزيرة الفراتية
   description: |-
     بنو تغلب قبيلة عربية كبيرة من ربيعة بن نزار، سكنت الجزيرة الفراتية وشمال العراق.
     اشتهرت بحرب البسوس مع بني بكر التي دامت أربعين سنة. منها الشاعر عمرو بن كلثوم صاحب المعلقة الشهيرة.
+  category: historical
 persons:
   - id: f1d7369d-fd0d-4bac-a5a4-cab69b611a60
     name: نزار

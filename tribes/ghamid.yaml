@@ -1,14 +1,15 @@
 family:
+  id: a5ff82da-c366-416f-bc4e-c8357f138fed
   type: qabila
   name: غامد
   visibility: public
-  pinned: true
   suffixMale: الغامدي
   suffixFemale: الغامدية
   hometown: الباحة
   description: |-
     غامد قبيلة عربية كبيرة من الأزد، تنتسب إلى غامد بن عبد الله بن كعب بن الحارث بن كعب بن عبد الله بن مالك بن نصر بن الأزد.
     موطنها منطقة الباحة في جنوب غرب المملكة العربية السعودية، وهي شقيقة قبيلة زهران.
+  category: tribes
 persons:
   - id: 3fbb8f20-510d-4980-b4dd-3f34d5b1b438
     name: الأزد

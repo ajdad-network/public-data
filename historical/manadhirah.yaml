@@ -1,14 +1,15 @@
 family:
+  id: 5e126c58-1919-4843-aaf3-4f9f9817b8ff
   type: qabila
   name: المناذرة
   visibility: public
-  pinned: true
   suffixMale: اللخمي
   suffixFemale: اللخمية
   hometown: الحيرة
   description: |-
     المناذرة (بنو لخم) سلالة عربية حكمت مملكة الحيرة في جنوب العراق كتابعين للإمبراطورية الساسانية.
     امتدت مملكتهم من القرن الثالث حتى القرن السابع الميلادي، وكان بلاطهم مركزاً للشعر والأدب العربي.
+  category: historical
 persons:
   - id: 20c782f0-114e-406e-9238-b2763e9db759
     name: لخم

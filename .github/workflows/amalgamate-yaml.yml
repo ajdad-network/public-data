@@ -1,0 +1,22 @@
+name: Build amalgamated YAML
+
+on:
+  workflow_dispatch:
+
+jobs:
+  amalgamate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: stable
+
+      - name: Amalgamate all YAML files
+        run: go run ./cmd/amalgamate
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: all-trees
+          path: all-trees.yaml

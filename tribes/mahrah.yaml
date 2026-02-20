@@ -1,14 +1,15 @@
 family:
+  id: 2e7fdd2e-4aa3-44e3-b9d9-f6096d162483
   type: qabila
   name: المهرة
   visibility: public
-  pinned: true
   suffixMale: المهري
   suffixFemale: المهرية
   hometown: المهرة
   description: |-
     المهرة قبيلة عربية قديمة تنتسب إلى مهرة بن حيدان بن عمرو بن الحاف بن قضاعة.
     موطنها محافظة المهرة في شرق اليمن وظفار في سلطنة عمان. لهم لغة خاصة (المهرية) من اللغات السامية الجنوبية.
+  category: tribes
 persons:
   - id: c28ee13f-7d40-4322-8a03-a13f55fa3f8d
     name: قضاعة

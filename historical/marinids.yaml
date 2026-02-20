@@ -1,14 +1,15 @@
 family:
+  id: 55bbf206-690f-4f01-83a9-97ee99f29e77
   type: aal
   name: المرينيون
   visibility: public
-  pinned: true
   suffixMale: المريني
   suffixFemale: المرينية
   hometown: فاس
   description: |-
     المرينيون سلالة أمازيغية زناتية حكمت المغرب (١٢٤٤-١٤٦٥م).
     أسقطوا دولة الموحدين واتخذوا فاس عاصمة لهم. اشتهروا ببناء المدارس العلمية.
+  category: historical
 persons:
   - id: 728b407d-895b-4ef6-875e-99b5af217523
     name: عبد الحق

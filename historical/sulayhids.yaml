@@ -1,14 +1,15 @@
 family:
+  id: 2fcbc2ce-cbb6-4e94-89ce-9c75b85fd886
   type: aal
   name: الصليحيون
   visibility: public
-  pinned: true
   suffixMale: الصليحي
   suffixFemale: الصليحية
   hometown: صنعاء
   description: |-
     الصليحيون سلالة يمنية إسماعيلية حكمت اليمن (١٠٤٧-١١٣٨م).
     أسسها علي بن محمد الصليحي. اشتهرت منهم الملكة أروى بنت أحمد التي حكمت اليمن أربعين عاماً.
+  category: historical
 persons:
   - id: 1cfaeeb4-70cf-4679-8da1-f59156fa7c12
     name: محمد

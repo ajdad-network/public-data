@@ -1,14 +1,15 @@
 family:
+  id: 3b604889-8ad4-4baf-844d-f995f71c905d
   type: qabila
   name: بنو ياس
   visibility: public
-  pinned: true
   suffixMale: اليسّي
   suffixFemale: اليسّية
   hometown: أبوظبي
   description: |-
     بنو ياس حلف قبلي كبير في الإمارات يضم نحو عشرين قبيلة.
     منهم آل نهيان حكام أبوظبي وآل مكتوم حكام دبي. موطنهم الأصلي واحة ليوا.
+  category: tribes
 persons:
   - id: 39d17335-c29c-4d50-968f-8615fd6176d7
     name: ياس

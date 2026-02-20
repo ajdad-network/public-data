@@ -1,14 +1,15 @@
 family:
+  id: 975f8328-eb82-4661-9f34-19100aabd221
   type: qabila
   name: جذام
   visibility: public
-  pinned: true
   suffixMale: الجذامي
   suffixFemale: الجذامية
   hometown: الشام
   description: |-
     جذام قبيلة يمنية كبيرة من كهلان. انتشرت في فلسطين والأردن ومصر وكان لها دور في الفتوحات.
     منها بنو هود ملوك سرقسطة وفروق بن نفاثة. سكنت شرق الأردن وسيناء وصعيد مصر.
+  category: historical
 persons:
   - id: 590a2287-fc40-44c2-8989-dc67164996b5
     name: كهلان

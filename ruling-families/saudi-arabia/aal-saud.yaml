@@ -3,12 +3,13 @@ family:
   description: الأسرة الحاكمة في المملكة العربية السعودية، يعود نسبها إلى مانع بن ربيعة المريدي مؤسس إمارة الدرعية عام ١٤٤٦م
   hometown: الدرعية
   suffixFemale: السعودية
-  pinned: true
   createdBy: b8HOIr2dR5ds4Be8N3tQhA7wpJt2
   suffixMale: السعودي
   visibility: public
+  pinned: true
   name: آل سعود
   id: 7dab1af4-c2b8-4b89-a95e-57cad4832c87
+  category: ruling
 persons:
   - id: 37416921-9b43-48db-8853-dd894d49f3ad
     name: مانع

@@ -1,14 +1,15 @@
 family:
+  id: 71f082ea-9227-46dc-85bd-411210c050e7
   type: aal
   name: آل سعيد
   visibility: public
-  pinned: true
   suffixMale: آل سعيد
   suffixFemale: آل سعيد
   hometown: مسقط
   description: |-
     آل سعيد (آل بوسعيد) الأسرة الحاكمة في سلطنة عمان منذ عام ١٧٤٤م.
     أسس الدولة الإمام أحمد بن سعيد الذي طرد الفرس من عمان، وامتد نفوذهم إلى شرق أفريقيا وزنجبار.
+  category: ruling
 persons:
   - id: f8fed1d7-b2d5-4ce3-8e51-706d19baee26
     name: أحمد

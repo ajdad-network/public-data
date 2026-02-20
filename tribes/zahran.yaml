@@ -1,14 +1,15 @@
 family:
+  id: 0eba7d82-9ab5-40c0-8616-c13cc6eee8c4
   type: qabila
   name: زهران
   visibility: public
-  pinned: true
   suffixMale: الزهراني
   suffixFemale: الزهرانية
   hometown: الباحة
   description: |-
     زهران قبيلة عربية كبيرة من الأزد، تنتسب إلى زهران بن كعب بن الحارث بن كعب بن عبد الله بن مالك بن نصر بن الأزد.
     موطنها منطقة الباحة في جنوب غرب المملكة العربية السعودية، وهي من أكبر القبائل الأزدية.
+  category: tribes
 persons:
   - id: b3fb3438-8532-478a-9273-54ec41329ae4
     name: الأزد

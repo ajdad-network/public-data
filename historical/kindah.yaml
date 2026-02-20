@@ -1,14 +1,15 @@
 family:
+  id: 87307d0e-d821-4f56-8efc-8a7b6be650dc
   type: qabila
   name: كندة
   visibility: public
-  pinned: true
   suffixMale: الكندي
   suffixFemale: الكندية
   hometown: حضرموت
   description: |-
     كندة قبيلة يمنية قحطانية كبيرة أسست مملكة قوية في وسط الجزيرة العربية.
     منها الشاعر امرؤ القيس بن حجر صاحب أشهر المعلقات، وكانت ملوكها يحكمون نجداً قبل الإسلام.
+  category: historical
 persons:
   - id: a47b5e75-5c60-4ba8-a002-0ffc221a0f17
     name: كندة

@@ -1,14 +1,15 @@
 family:
+  id: 828ccb4c-a1a1-46e6-91b6-b3d40c3d61e2
   type: qabila
   name: حاشد
   visibility: public
-  pinned: true
   suffixMale: الحاشدي
   suffixFemale: الحاشدية
   hometown: صنعاء
   description: |-
     حاشد من أكبر قبائل اليمن، تنتسب إلى حاشد بن جشم بن خيران بن نوف بن همدان.
     تشكل مع بكيل اتحاد همدان القبلي الأكبر في اليمن. من أبرز فروعها عذر وحجور وخارف.
+  category: tribes
 persons:
   - id: 77c23783-5d28-4695-8283-70d4d87b003d
     name: همدان

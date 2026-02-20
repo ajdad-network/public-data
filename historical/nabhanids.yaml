@@ -1,14 +1,15 @@
 family:
+  id: 965bf75c-4f0a-4cfd-b942-9697db66439a
   type: aal
   name: بنو نبهان
   visibility: public
-  pinned: true
   suffixMale: النبهاني
   suffixFemale: النبهانية
   hometown: بهلاء
   description: |-
     بنو نبهان سلالة عمانية من طيء حكمت عمان (١١٥٤-١٦٢٤م).
     أسسها نبهان بن كهلان واتخذوا بهلاء عاصمة لهم. من أطول الدول حكماً في عمان.
+  category: historical
 persons:
   - id: 4aae2605-9fe5-44e0-af14-cc0bb85251f6
     name: كهلان

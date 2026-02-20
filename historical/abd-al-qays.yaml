@@ -1,14 +1,15 @@
 family:
+  id: 2e0d8f45-16b9-496e-a6a9-d4c12a576f2a
   type: qabila
   name: بنو عبد القيس
   visibility: public
-  pinned: true
   suffixMale: العبدي
   suffixFemale: العبدية
   hometown: البحرين
   description: |-
     بنو عبد القيس قبيلة عربية ربعية من أكبر قبائل شرق الجزيرة العربية.
     سكنت البحرين (الأحساء والقطيف) وكانت من أوائل القبائل إسلاماً. وفدهم على النبي ﷺ مشهور.
+  category: historical
 persons:
   - id: 387a6517-3064-4206-95af-bceee8ea61d2
     name: أسد

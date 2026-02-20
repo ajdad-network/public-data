@@ -1,14 +1,15 @@
 family:
+  id: cc1e647c-5b7a-42c5-b3af-03a41ea2bb06
   type: qabila
   name: عتيبة
   visibility: public
-  pinned: true
   suffixMale: العتيبي
   suffixFemale: العتيبية
   hometown: نجد
   description: |-
     عتيبة من أكبر القبائل العربية في الجزيرة العربية، تنتسب إلى هوازن بن منصور بن عكرمة بن خصفة بن قيس عيلان بن مضر.
     تنقسم إلى قسمين رئيسيين: بَرْقا ورُوْق، ولها انتشار واسع في نجد والحجاز.
+  category: tribes
 persons:
   - id: 897e9b86-3dc9-437e-8259-976634f44eac
     name: عتيبة

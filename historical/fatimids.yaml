@@ -1,8 +1,8 @@
 family:
+  id: 69752146-a8d8-4e6f-8b5e-444bac1534c9
   type: aal
   name: الفاطميون
   visibility: public
-  pinned: true
   suffixMale: الفاطمي
   suffixFemale: الفاطمية
   hometown: القاهرة
@@ -10,6 +10,7 @@ family:
     الفاطميون سلالة شيعية إسماعيلية ادعت النسب إلى فاطمة الزهراء بنت النبي ﷺ.
     أسسوا الخلافة الفاطمية في المغرب عام ٩٠٩م ثم انتقلوا إلى مصر وأسسوا القاهرة عام ٩٦٩م.
     حكموا حتى عام ١١٧١م حين أسقطهم صلاح الدين الأيوبي.
+  category: historical
 persons:
   - id: fbee2cac-c42e-44f3-bd1b-809b317edb68
     name: عبد الله

@@ -1,14 +1,15 @@
 family:
+  id: 0c428608-0230-4bf1-aae4-0fdb0971a43b
   type: qabila
   name: جهينة
   visibility: public
-  pinned: true
   suffixMale: الجهني
   suffixFemale: الجهنية
   hometown: المدينة المنورة
   description: |-
     جهينة من أكبر قبائل الحجاز، تنتسب إلى جهينة بن زيد بن ليث بن سود بن أسلم بن الحاف بن قضاعة.
     من أوائل القبائل التي ناصرت النبي ﷺ، ولها انتشار واسع في غرب الجزيرة العربية.
+  category: tribes
 persons:
   - id: d25bc936-b761-4d9b-a9c4-395e64936258
     name: قضاعة

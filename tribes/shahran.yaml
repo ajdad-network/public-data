@@ -1,14 +1,15 @@
 family:
+  id: 92fb534c-6efc-4c43-9d42-fe38675e6716
   type: qabila
   name: شهران
   visibility: public
-  pinned: true
   suffixMale: الشهراني
   suffixFemale: الشهرانية
   hometown: عسير
   description: |-
     شهران قبيلة عربية كبيرة من خثعم، موطنها منطقة عسير في جنوب غرب المملكة العربية السعودية.
     تنتسب إلى شهران بن عفرس بن حلف بن أفتل بن أنمار. من أبرز فروعها بنو الأسمر وبنو شهر وبلقرن.
+  category: tribes
 persons:
   - id: b32073b3-838f-410b-a9aa-61718ed772f9
     name: أنمار

@@ -1,14 +1,15 @@
 family:
+  id: b4ac93c4-c00f-4929-96a2-a28900b5a459
   type: aal
   name: المرابطون
   visibility: public
-  pinned: true
   suffixMale: المرابطي
   suffixFemale: المرابطية
   hometown: مراكش
   description: |-
     المرابطون سلالة أمازيغية صنهاجية حكمت المغرب والأندلس (١٠٤٠-١١٤٧م).
     أسسها عبد الله بن ياسين وبلغت أوجها في عهد يوسف بن تاشفين الذي أنقذ الأندلس في معركة الزلاقة عام ١٠٨٦م.
+  category: historical
 persons:
   - id: a549ff53-5500-4024-84a4-c2746beaa13d
     name: عبد الله

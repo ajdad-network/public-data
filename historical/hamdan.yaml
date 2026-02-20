@@ -1,14 +1,15 @@
 family:
+  id: a61eafc6-21af-4727-9bb0-8bf1ac88dcf2
   type: qabila
   name: هَمدان
   visibility: public
-  pinned: true
   suffixMale: الهمداني
   suffixFemale: الهمدانية
   hometown: صنعاء
   description: |-
     هَمدان قبيلة يمنية كبرى تنتسب إلى همدان بن مالك بن زيد بن كهلان.
     منها فرعا حاشد وبكيل اللذان يشكلان أكبر تحالف قبلي في اليمن. موطنها صنعاء وما حولها.
+  category: historical
 persons:
   - id: 754d776f-4231-48d0-a858-7d711c822111
     name: كهلان

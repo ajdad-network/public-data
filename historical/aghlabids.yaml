@@ -1,14 +1,15 @@
 family:
+  id: 86ede7cf-ead5-4075-aaed-fbe74b1290b4
   type: aal
   name: الأغالبة
   visibility: public
-  pinned: true
   suffixMale: الأغلبي
   suffixFemale: الأغلبية
   hometown: القيروان
   description: |-
     الأغالبة سلالة عربية حكمت إفريقية (تونس وشرق الجزائر وغرب ليبيا) من عام ٨٠٠م حتى ٩٠٩م.
     حكموا بتفويض من الخلافة العباسية، واشتهروا بفتح صقلية وبناء جامع القيروان الكبير.
+  category: historical
 persons:
   - id: 9d1c5c6d-a5db-46d6-b58b-3849df749493
     name: الأغلب

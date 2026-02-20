@@ -1,14 +1,15 @@
 family:
+  id: ae7c2370-508b-45e5-b9cc-4af699125fa1
   type: aal
   name: القرامطة
   visibility: public
-  pinned: true
   suffixMale: القرمطي
   suffixFemale: القرمطية
   hometown: الأحساء
   description: |-
     القرامطة حركة إسماعيلية أسست دولة في البحرين والأحساء (٨٩٩-١٠٧٧م).
     أسسها أبو سعيد الجنّابي. اشتهروا بهجومهم على مكة عام ٩٣٠م وأخذ الحجر الأسود.
+  category: historical
 persons:
   - id: 1d2f64b2-c76e-437f-9d91-b94ade011635
     name: أبو سعيد

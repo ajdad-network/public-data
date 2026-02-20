@@ -1,14 +1,15 @@
 family:
+  id: 478fca01-0176-4208-a551-0d867353fab8
   type: aal
   name: الحفصيون
   visibility: public
-  pinned: true
   suffixMale: الحفصي
   suffixFemale: الحفصية
   hometown: تونس
   description: |-
     الحفصيون سلالة أمازيغية مصمودية حكمت تونس وشرق الجزائر وغرب ليبيا (١٢٢٩-١٥٧٤م).
     انبثقوا عن دولة الموحدين، واتخذوا لقب أمير المؤمنين. سُميوا نسبة إلى أبي حفص عمر الهنتاتي صاحب ابن تومرت.
+  category: historical
 persons:
   - id: 042759ae-0972-4dcb-99c1-345d2dd76f8b
     name: عمر

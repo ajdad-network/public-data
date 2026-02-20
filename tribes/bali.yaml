@@ -1,14 +1,15 @@
 family:
+  id: d53f8eb1-f8ef-4888-9a41-bf7796121a77
   type: qabila
   name: بلي
   visibility: public
-  pinned: true
   suffixMale: البلوي
   suffixFemale: البلوية
   hometown: تبوك
   description: |-
     بلي قبيلة عربية كبيرة من قضاعة، تنتسب إلى بلي بن عمرو بن الحاف بن قضاعة.
     موطنها شمال غرب الجزيرة العربية في منطقة تبوك ووادي القرى، ولها حضور تاريخي كبير.
+  category: tribes
 persons:
   - id: d1c5598e-6fc5-4c2e-85ca-762e0529bbe4
     name: قضاعة

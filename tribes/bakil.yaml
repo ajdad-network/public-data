@@ -1,14 +1,15 @@
 family:
+  id: 2dbf6b59-99f7-4841-a4c4-3ff1bd5e594d
   type: qabila
   name: بكيل
   visibility: public
-  pinned: true
   suffixMale: البكيلي
   suffixFemale: البكيلية
   hometown: صنعاء
   description: |-
     بكيل من أكبر قبائل اليمن، شقيقة حاشد في اتحاد همدان القبلي.
     تنتسب إلى بكيل بن جشم بن خيران بن نوف بن همدان. من أبرز فروعها أرحب ونهم وذو محمد ومرهبة.
+  category: tribes
 persons:
   - id: e369904e-229c-47f6-bd6b-daf0712229b7
     name: همدان

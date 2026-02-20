@@ -1,14 +1,15 @@
 family:
+  id: 45f1c713-8a74-4a75-b2e5-23024d9046da
   type: qabila
   name: بنو عامر بن صعصعة
   visibility: public
-  pinned: true
   suffixMale: العامري
   suffixFemale: العامرية
   hometown: نجد
   description: |-
     بنو عامر بن صعصعة من أكبر القبائل العربية، تنتسب إلى عامر بن صعصعة بن معاوية بن بكر بن هوازن.
     منها فروع كثيرة أبرزها بنو كلاب وبنو نمير وبنو هلال وبنو كعب وبنو قشير. أنجبت شعراء وفرساناً كثيرين منهم لبيد بن ربيعة.
+  category: historical
 persons:
   - id: ed355a09-a198-4ee6-9fda-7a6b9ed36183
     name: هوازن

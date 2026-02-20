@@ -1,14 +1,15 @@
 family:
+  id: bda0567a-83ee-4dc8-b8e4-a9274a02f516
   type: qabila
   name: غطفان
   visibility: public
-  pinned: true
   suffixMale: الغطفاني
   suffixFemale: الغطفانية
   hometown: نجد
   description: |-
     غطفان بن سعد بن قيس عيلان حلف قبلي عدناني كبير.
     منها بنو عبس (قبيلة عنترة) وبنو ذبيان (قبيلة النابغة) وبنو فزارة وأشجع.
+  category: historical
 persons:
   - id: ff3c44d1-4b3d-4ebe-a3f5-17c989d87fd6
     name: سعد

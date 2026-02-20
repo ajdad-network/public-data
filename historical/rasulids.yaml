@@ -1,14 +1,15 @@
 family:
+  id: c27b9bbd-b44f-4dcb-ae09-f7ed8ed3a293
   type: aal
   name: الرسوليون
   visibility: public
-  pinned: true
   suffixMale: الرسولي
   suffixFemale: الرسولية
   hometown: تعز
   description: |-
     الرسوليون سلالة تركمانية حكمت اليمن (١٢٢٩-١٤٥٤م) وهي أطول الدول اليمنية عمراً.
     أسسها عمر بن رسول واتخذوا تعز عاصمة لهم. اشتهروا برعاية العلوم والمعارف.
+  category: historical
 persons:
   - id: f5f45435-faa7-4eea-bc1f-9daf0ffaad94
     name: رسول

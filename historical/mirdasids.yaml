@@ -1,14 +1,15 @@
 family:
+  id: 7b202b6f-d4d2-4c53-b7a2-464c7ec7e6d2
   type: aal
   name: بنو مرداس
   visibility: public
-  pinned: true
   suffixMale: المرداسي
   suffixFemale: المرداسية
   hometown: حلب
   description: |-
     بنو مرداس سلالة عربية من بني كلاب حكمت حلب (١٠٢٤-١٠٨٠م).
     أسسها صالح بن مرداس وعُرفوا بصراعهم مع الفاطميين والبيزنطيين.
+  category: historical
 persons:
   - id: 9d4befc4-a026-410e-85cc-4f94e4c327f3
     name: مرداس

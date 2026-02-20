@@ -1,14 +1,15 @@
 family:
+  id: a0a84774-a426-46c2-80bb-a185c2f0e3a9
   type: qabila
   name: سبيع
   visibility: public
-  pinned: true
   suffixMale: السبيعي
   suffixFemale: السبيعية
   hometown: نجد
   description: |-
     سبيع من القبائل العربية الكبيرة في نجد، تنتسب إلى عامر بن صعصعة بن معاوية بن بكر بن هوازن.
     تنقسم إلى قسمين رئيسيين: بنو عامر وآل عمور، ولها انتشار واسع في وسط الجزيرة العربية.
+  category: tribes
 persons:
   - id: 6c3588fe-c525-445b-a0f2-7a320735f57c
     name: هوازن

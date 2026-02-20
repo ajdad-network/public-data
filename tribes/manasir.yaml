@@ -1,14 +1,15 @@
 family:
+  id: 2aa26674-b193-4372-9505-838fe87ce238
   type: qabila
   name: المناصير
   visibility: public
-  pinned: true
   suffixMale: المنصوري
   suffixFemale: المنصورية
   hometown: الظفرة
   description: |-
     المناصير قبيلة عربية تسكن منطقة الظفرة في أبوظبي والمنطقة الظاهرة في عمان.
     تنتسب إلى منصور. من أبرز فروعها آل بوشعر وآل بومنذر والقمازين.
+  category: tribes
 persons:
   - id: a51d2394-e481-48a9-8376-3791c4605df3
     name: منصور

@@ -1,14 +1,15 @@
 family:
+  id: 0802c0c4-5060-4dd2-96fb-4ff8c985bac4
   type: aal
   name: آل حميد الدين
   visibility: public
-  pinned: true
   suffixMale: حميد الدين
   suffixFemale: حميد الدين
   hometown: صنعاء
   description: |-
     آل حميد الدين أسرة زيدية هاشمية حكمت المملكة المتوكلية اليمنية (١٩١٨-١٩٦٢م).
     أسس حكمهم الإمام يحيى حميد الدين الذي استقل باليمن عن العثمانيين، وانتهى حكمهم بثورة ٢٦ سبتمبر ١٩٦٢م.
+  category: ruling
 persons:
   - id: c320adbc-479e-41f2-8af0-ab51238ab6f7
     name: محمد

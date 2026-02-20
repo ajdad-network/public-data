@@ -1,14 +1,15 @@
 family:
+  id: 0fd207ef-2727-476c-b2b4-2edea27e640a
   type: aal
   name: العقيليون
   visibility: public
-  pinned: true
   suffixMale: العقيلي
   suffixFemale: العقيلية
   hometown: الموصل
   description: |-
     العقيليون سلالة عربية من بني عقيل بن كعب حكمت الموصل وشمال العراق (٩٩٦-١٠٩٦م).
     أسسها أبو الذوّاد محمد بن المسيّب. حكموا في ظل نفوذ البويهيين ثم السلاجقة.
+  category: historical
 persons:
   - id: 80efeb3a-ebe9-495c-b47e-25f7262c07ea
     name: المسيّب

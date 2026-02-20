@@ -1,14 +1,15 @@
 family:
+  id: 9b3b224d-516b-460c-a64c-7f03ee3ca9c9
   type: qabila
   name: مَذحج
   visibility: public
-  pinned: true
   suffixMale: المذحجي
   suffixFemale: المذحجية
   hometown: اليمن
   description: |-
     مَذحج حلف قبلي يمني كبير ينتسب إلى مذحج بن أدد بن كهلان.
     من فروعها مُراد وعَنْس وزُبَيد والنخع. كان لهم دور كبير في الفتوحات الإسلامية.
+  category: historical
 persons:
   - id: d9ae9ead-b20a-44b2-befd-428e9aab930e
     name: أدد

@@ -1,14 +1,15 @@
 family:
+  id: 82fffc93-5c54-423f-b1a0-2071689aef00
   type: aal
   name: بنو زيري
   visibility: public
-  pinned: true
   suffixMale: الزيري
   suffixFemale: الزيرية
   hometown: القيروان
   description: |-
     بنو زيري سلالة أمازيغية صنهاجية حكمت إفريقية (٩٧٢-١١٤٨م).
     أسسها بلكين بن زيري نائباً عن الفاطميين. انقسمت إلى فرعين: بنو زيري في إفريقية وبنو حمّاد في المغرب الأوسط.
+  category: historical
 persons:
   - id: ae0ecc25-e978-43e9-8cdf-5d8260fda2ce
     name: مناد

@@ -1,14 +1,15 @@
 family:
+  id: 7b8ecffe-714c-4cef-9a08-0ffff342430f
   type: qabila
   name: بنو شهر
   visibility: public
-  pinned: true
   suffixMale: الشهري
   suffixFemale: الشهرية
   hometown: النماص
   description: |-
     بنو شهر قبيلة عربية كبيرة من الأزد تسكن منطقة عسير جنوب السعودية.
     تنتشر في النماص وتنومة وبلجرشي. من فروعها بنو بحير وبنو الأحمر وبنو عمرو.
+  category: tribes
 persons:
   - id: c5fbf8dd-74c6-411a-b15c-9787bb118fca
     name: شهر

@@ -1,14 +1,15 @@
 family:
+  id: caf7568f-76f6-4b1c-903d-5fa6d47b24c7
   type: qabila
   name: بنو عقيل
   visibility: public
-  pinned: true
   suffixMale: العقيلي
   suffixFemale: العقيلية
   hometown: البصرة
   description: |-
     بنو عقيل بطن كبير من بنو عامر بن صعصعة من هوازن. انتشروا في العراق والبحرين.
     منهم العقيليون حكام الموصل وإمارة المنتفق في جنوب العراق.
+  category: historical
 persons:
   - id: 39b9b561-7f9f-410e-8ce1-26cfceb05a4b
     name: عامر

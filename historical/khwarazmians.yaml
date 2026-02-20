@@ -1,14 +1,15 @@
 family:
+  id: 652390ef-9a0d-4d72-9dbc-6411dab38ce3
   type: aal
   name: الخوارزميون
   visibility: public
-  pinned: true
   suffixMale: الخوارزمي
   suffixFemale: الخوارزمية
   hometown: خوارزم
   description: |-
     الخوارزمشاهية سلالة تركية حكمت خوارزم وخراسان وإيران (١٠٧٧-١٢٣١م).
     بلغت أوجها في عهد علاء الدين محمد. واجهت الغزو المغولي وانتهت بمقتل جلال الدين منكبرتي.
+  category: historical
 persons:
   - id: 854f5997-0f25-4b39-a7f2-b551ba226d2f
     name: أنوشتكين

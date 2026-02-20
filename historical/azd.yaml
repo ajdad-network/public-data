@@ -1,14 +1,15 @@
 family:
+  id: 2ec4b35a-b527-4186-a000-343f0f0b0230
   type: qabila
   name: الأزد
   visibility: public
-  pinned: true
   suffixMale: الأزدي
   suffixFemale: الأزدية
   hometown: مأرب
   description: |-
     الأزد قبيلة عربية كبرى من كهلان بن سبأ. هاجرت من اليمن بعد انهيار سدّ مأرب.
     منها الأوس والخزرج وغسان وزهران وغامد وبنو شهر وبللسمر وخزاعة. من أوسع القبائل انتشاراً.
+  category: historical
 persons:
   - id: 77335b0e-b181-4bd2-8210-9e8b65ac9701
     name: كهلان

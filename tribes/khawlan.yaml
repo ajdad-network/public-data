@@ -1,14 +1,15 @@
 family:
+  id: d6108ce4-1290-420e-9e05-74dcb6032718
   type: qabila
   name: خولان
   visibility: public
-  pinned: true
   suffixMale: الخولاني
   suffixFemale: الخولانية
   hometown: صعدة
   description: |-
     خولان قبيلة يمنية قحطانية كبيرة، تنتسب إلى خولان بن عمرو بن الحاف بن قضاعة.
     منتشرة في شمال اليمن ومنطقة صعدة، ولها فرع كبير يُعرف بخولان العالية في صنعاء. منها الصحابي أبو مسلم الخولاني.
+  category: tribes
 persons:
   - id: f0041d39-4536-4bff-b67f-853b5ec457c7
     name: قضاعة

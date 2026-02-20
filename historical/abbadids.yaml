@@ -1,14 +1,15 @@
 family:
+  id: b39ea25f-49bc-4a96-880f-fb898ada34e0
   type: aal
   name: بنو عباد
   visibility: public
-  pinned: true
   suffixMale: العبادي
   suffixFemale: العبادية
   hometown: إشبيلية
   description: |-
     بنو عباد سلالة عربية لخمية حكمت إشبيلية في عهد ملوك الطوائف (١٠٢٣-١٠٩١م).
     اشتهر منهم المعتمد بن عباد الشاعر الذي نُفي إلى أغمات بالمغرب.
+  category: historical
 persons:
   - id: ecb23db5-26b9-4b16-a1a7-769293a1d9b3
     name: إسماعيل

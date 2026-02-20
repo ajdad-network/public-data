@@ -1,14 +1,15 @@
 family:
+  id: 691f6ab5-5d77-4766-89d8-6c1ca3e98f9b
   type: qabila
   name: بنو مالك
   visibility: public
-  pinned: true
   suffixMale: المالكي
   suffixFemale: المالكية
   hometown: عسير
   description: |-
     بنو مالك قبيلة عربية كبيرة من الأزد تسكن منطقة عسير جنوب السعودية.
     تنتسب إلى مالك بن عمرو بن الأزد. من أكبر قبائل المنطقة وتنتشر في السراة وتهامة.
+  category: tribes
 persons:
   - id: 43c4eeb6-1407-4b28-b5ce-a2a0c2a93b0d
     name: مالك

@@ -1,14 +1,15 @@
 family:
+  id: 11b70128-6726-4017-8b23-18df792e5673
   type: aal
   name: آل القاسمي
   visibility: public
-  pinned: true
   suffixMale: القاسمي
   suffixFemale: القاسمية
   hometown: الشارقة
   description: |-
     آل القاسمي الأسرة الحاكمة في إمارتي الشارقة ورأس الخيمة.
     كانوا يحكمون قوة بحرية كبيرة في الخليج العربي، عُرفوا بالقواسم. يحكمون الشارقة منذ عام ١٧٢٧م.
+  category: ruling
 persons:
   - id: d7285409-1bf0-4f70-b9b5-7ea94957da3e
     name: قاسم

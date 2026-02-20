@@ -1,14 +1,15 @@
 family:
+  id: 0e87f004-8b3b-44c0-83bf-b9d99e7d64e8
   type: qabila
   name: الشحوح
   visibility: public
-  pinned: true
   suffixMale: الشحّي
   suffixFemale: الشحّية
   hometown: رأس الخيمة
   description: |-
     الشحوح قبيلة عربية تسكن شبه جزيرة مسندم ورأس الخيمة في الإمارات وعمان.
     تنتسب إلى شحّ بن عمرو. لهم لهجة خاصة وتقاليد عريقة في الجبال والساحل.
+  category: tribes
 persons:
   - id: 41ec66f4-f94f-4d4d-80f8-da410a7e8438
     name: شحّ

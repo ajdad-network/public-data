@@ -1,14 +1,15 @@
 family:
+  id: dc64d2f1-0712-4e15-98d5-abfb1131ec07
   type: aal
   name: اليعاربة
   visibility: public
-  pinned: true
   suffixMale: اليعربي
   suffixFemale: اليعربية
   hometown: الرستاق
   description: |-
     اليعاربة (آل يعرب) سلالة عمانية حكمت عمان من عام ١٦٢٤م حتى ١٧٤٤م.
     أسسها الإمام ناصر بن مرشد اليعربي الذي طرد البرتغاليين من عمان، وبلغت الدولة أوج قوتها في عهد سلطان بن سيف الذي طردهم من شرق أفريقيا.
+  category: historical
 persons:
   - id: fe0c10d9-24e1-404a-8cec-0ee8ac07996d
     name: ناصر

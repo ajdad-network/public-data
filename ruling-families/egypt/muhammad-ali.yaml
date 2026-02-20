@@ -1,14 +1,15 @@
 family:
+  id: 927c647f-95d0-4736-a1eb-482911545609
   type: aal
   name: أسرة محمد علي
   visibility: public
-  pinned: true
   suffixMale: باشا
   suffixFemale: باشا
   hometown: القاهرة
   description: |-
     أسرة محمد علي باشا حكمت مصر والسودان من عام ١٨٠٥م حتى ثورة ١٩٥٢م.
     أسسها محمد علي باشا الألباني الأصل الذي يُعد مؤسس مصر الحديثة، وتعاقب على الحكم أبناؤه وأحفاده بألقاب الوالي ثم الخديوي ثم السلطان ثم الملك.
+  category: ruling
 persons:
   - id: 701507c3-d68d-415b-a7c2-6f4703453ae3
     name: محمد علي

@@ -1,14 +1,15 @@
 family:
+  id: cc1ae449-119f-41bb-81bb-9744f9bd4a48
   type: qabila
   name: حِمْيَر
   visibility: public
-  pinned: true
   suffixMale: الحميري
   suffixFemale: الحميرية
   hometown: ظفار يريم
   description: |-
     حِمْيَر مملكة يمنية قديمة (١١٠ق.م-٥٢٥م) ورثت سبأ وحضرموت.
     حكمت اليمن بأكمله وتنتسب إليها كثير من قبائل الجنوب. عاصمتها ظفار يريم.
+  category: historical
 persons:
   - id: e46bf941-5a47-4d5b-9ddd-87b9275c1271
     name: حِمْيَر

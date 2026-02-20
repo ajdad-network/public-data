@@ -1,14 +1,15 @@
 family:
+  id: d3d99e0c-19c1-4727-8f7f-ec415ecd1f06
   type: qabila
   name: قضاعة
   visibility: public
-  pinned: true
   suffixMale: القضاعي
   suffixFemale: القضاعية
   hometown: اليمن
   description: |-
     قضاعة فرع قبلي كبير اختُلف في نسبه بين عدنان وقحطان.
     منها بلي وجهينة وكلب والمهرة وبنو نهد. انتشرت فروعها في الشام والحجاز وشرق الجزيرة.
+  category: historical
 persons:
   - id: fded8194-e1f5-4dfa-b0d0-3abc3ebc7917
     name: معد

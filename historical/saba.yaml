@@ -1,14 +1,15 @@
 family:
+  id: 41d26124-821e-4e6a-9d49-31ce3180baab
   type: qabila
   name: سبأ
   visibility: public
-  pinned: true
   suffixMale: السبئي
   suffixFemale: السبئية
   hometown: مأرب
   description: |-
     سبأ مملكة يمنية قديمة عاصمتها مأرب (١٢٠٠ق.م-٢٧٥م).
     اشتهرت بسدّ مأرب وبلقيس ملكة سبأ. منها تفرعت حِمْيَر وكهلان أصل كثير من القبائل العربية.
+  category: historical
 persons:
   - id: 765198a1-00c5-4674-a626-8efeda7012d6
     name: يشجب

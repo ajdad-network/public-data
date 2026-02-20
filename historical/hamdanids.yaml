@@ -1,14 +1,15 @@
 family:
+  id: 7b399689-8bac-42d3-ac4b-866873d40e23
   type: aal
   name: الحمدانيون
   visibility: public
-  pinned: true
   suffixMale: الحمداني
   suffixFemale: الحمدانية
   hometown: حلب
   description: |-
     الحمدانيون سلالة عربية من بني تغلب حكمت الموصل وحلب في القرنين العاشر والحادي عشر الميلاديين.
     أشهرهم سيف الدولة الحمداني الذي جعل بلاطه في حلب مركزاً للأدب والشعر، وكان المتنبي وأبو فراس الحمداني من شعراء بلاطه.
+  category: historical
 persons:
   - id: 7ef40c3d-610c-4628-a432-a05b724446c8
     name: حمدان

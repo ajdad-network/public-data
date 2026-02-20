@@ -1,14 +1,15 @@
 family:
+  id: 5eadba38-bd7d-48b4-b707-9b698779a8fa
   type: aal
   name: بنو جلاير
   visibility: public
-  pinned: true
   suffixMale: الجلايري
   suffixFemale: الجلايرية
   hometown: بغداد
   description: |-
     الجلايريون سلالة مغولية حكمت العراق وأذربيجان (١٣٣٥-١٤٣٢م).
     نشأت بعد انهيار الإلخانات المغولية. أسسها حسن بزرك واتخذوا بغداد عاصمة لهم.
+  category: historical
 persons:
   - id: 0f2451e2-75d9-4547-8722-c3e7327dee2f
     name: حسن

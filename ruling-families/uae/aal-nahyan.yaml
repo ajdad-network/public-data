@@ -1,13 +1,15 @@
 family:
+  id: 747d529a-f2ea-4e7f-a079-2268a5cb4485
   type: aal
   description: الأسرة الحاكمة في إمارة أبوظبي، من فخذ آل بوفلاح من قبيلة بني ياس، حكام أبوظبي منذ القرن الثامن عشر ومؤسسو دولة الإمارات العربية المتحدة
   hometown: أبوظبي
   suffixFemale: النهيانية
-  pinned: true
   createdBy: b8HOIr2dR5ds4Be8N3tQhA7wpJt2
   suffixMale: النهياني
   visibility: public
+  pinned: true
   name: آل نهيان
+  category: ruling
 persons:
   # الجيل الأول - الجد الأعلى
   - id: 547bdcdf-5bb8-4a1c-b9cd-3555a8c0db5e

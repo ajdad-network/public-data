@@ -1,14 +1,15 @@
 family:
+  id: 35c8bc03-f480-461a-9a5e-3c79b312e98d
   type: qabila
   name: زُبَيد
   visibility: public
-  pinned: true
   suffixMale: الزبيدي
   suffixFemale: الزبيدية
   hometown: الكوفة
   description: |-
     زُبَيد بطن كبير من مَذحج. انتشروا في العراق والشام وكان لهم نفوذ واسع.
     اشتهر منهم عمرو بن معدي كرب الزبيدي الفارس الشاعر. أسسوا مشيخات في العراق.
+  category: historical
 persons:
   - id: 36021def-7e00-4876-90de-639ae93c9902
     name: مذحج

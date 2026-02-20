@@ -1,14 +1,15 @@
 family:
+  id: 4aa4634b-1d0a-44d0-8fbb-0a4e328e2ff7
   type: aal
   name: السلاجقة
   visibility: public
-  pinned: true
   suffixMale: السلجوقي
   suffixFemale: السلجوقية
   hometown: أصفهان
   description: |-
     السلاجقة سلالة تركية أوغوزية أسست إمبراطورية واسعة (١٠٣٧-١١٩٤م).
     حكمت من خراسان إلى الأناضول. اشتهر منهم ألب أرسلان الذي انتصر في معركة ملاذكرد عام ١٠٧١م.
+  category: historical
 persons:
   - id: 6ca778a6-a16d-42c2-9fbb-dbb85235b804
     name: سلجوق

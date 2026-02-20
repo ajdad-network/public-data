@@ -1,14 +1,15 @@
 family:
+  id: d138d8d1-6607-4590-8bee-8d6b2185a42b
   type: aal
   name: بنو الرشيد
   visibility: public
-  pinned: true
   suffixMale: الرشيدي
   suffixFemale: الرشيدية
   hometown: حائل
   description: |-
     بنو الرشيد (آل رشيد) أسرة من عبدة من شمّر حكمت إمارة حائل (١٨٣٦-١٩٢١م).
     أسسها عبد الله بن رشيد. بلغت أوجها في عهد محمد بن عبد الله الذي وحّد شمال نجد. انتهت بسيطرة آل سعود.
+  category: ruling
 persons:
   - id: 0d598dc8-9037-4d2b-aef6-b5052ee5a1ed
     name: رشيد

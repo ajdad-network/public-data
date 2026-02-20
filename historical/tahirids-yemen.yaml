@@ -1,14 +1,15 @@
 family:
+  id: 92984157-10f2-4958-9c56-8693f2fb9c75
   type: aal
   name: الطاهريون
   visibility: public
-  pinned: true
   suffixMale: الطاهري
   suffixFemale: الطاهرية
   hometown: المقرانة
   description: |-
     الطاهريون سلالة يمنية حكمت اليمن (١٤٥٤-١٥١٧م) بعد سقوط الدولة الرسولية.
     أسسها طاهر بن معوضة. انتهت بالغزو المملوكي ثم العثماني لليمن.
+  category: historical
 persons:
   - id: b2da9815-dfd6-44ec-b5ac-93976d201da2
     name: معوضة

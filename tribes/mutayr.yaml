@@ -1,14 +1,15 @@
 family:
+  id: 2e8e0559-4b5e-4439-80d0-b9aec5fc6f3e
   type: qabila
   name: مطير
   visibility: public
-  pinned: true
   suffixMale: المطيري
   suffixFemale: المطيرية
   hometown: نجد
   description: |-
     مطير من القبائل العربية الكبيرة في نجد، تنتسب إلى غطفان بن سعد بن قيس عيلان بن مضر.
     تنقسم إلى ثلاثة أقسام رئيسية: بنو عبد الله وعلوى (بريه) وواصل.
+  category: tribes
 persons:
   - id: 174b9557-352b-4a73-a76f-5d75f7e0c909
     name: مطير

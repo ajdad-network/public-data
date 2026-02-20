@@ -1,14 +1,15 @@
 family:
+  id: 88f0fb1c-36bd-424d-a12b-059ba6b825c1
   type: qabila
   name: العجمان
   visibility: public
-  pinned: true
   suffixMale: العجمي
   suffixFemale: العجمية
   hometown: الأحساء
   description: |-
     العجمان قبيلة عربية كبيرة تنتسب إلى يام بن همدان، موطنها الأصلي نجران ثم انتقلت إلى شرق الجزيرة العربية.
     من أبرز فروعها آل سليمان وآل حبيش وآل شامر.
+  category: tribes
 persons:
   - id: 2b4e84ed-747a-4b8d-8318-0068e3518c5c
     name: همدان

@@ -1,14 +1,15 @@
 family:
+  id: 9d1a26d9-8eed-4a0e-911e-0bc2f34c85fc
   type: qabila
   name: حرب
   visibility: public
-  pinned: true
   suffixMale: الحربي
   suffixFemale: الحربية
   hometown: الحجاز
   description: |-
     قبيلة حرب من أكبر القبائل العربية في الحجاز ونجد، هاجرت من اليمن واستوطنت بين الحرمين الشريفين.
     تنقسم إلى قسمين رئيسيين: بنو سالم ومنهم ميمون ومروّح، وبنو مسروح ومنهم بنو عمرو وبنو عوف. وهي من القبائل ذات العدد الكبير والانتشار الواسع في الجزيرة العربية.
+  category: tribes
 persons:
   # ── الجذع ──
   - id: 66e55c88-8ad0-4a14-b3d0-0aafa6d6e0fd

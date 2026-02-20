@@ -1,14 +1,15 @@
 family:
+  id: 452433e1-4b33-48de-a662-151e7421290d
   type: qabila
   name: بنو فزارة
   visibility: public
-  pinned: true
   suffixMale: الفزاري
   suffixFemale: الفزارية
   hometown: نجد
   description: |-
     بنو فزارة بطن كبير من غطفان من قيس عيلان. سكنوا نجداً والمدينة.
     اشتهر منهم عيينة بن حصن الفزاري سيد غطفان. كان لهم دور في أحداث صدر الإسلام.
+  category: historical
 persons:
   - id: f6631314-98d7-4068-99c2-383008cde8e2
     name: ريث

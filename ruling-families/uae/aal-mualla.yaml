@@ -1,14 +1,15 @@
 family:
+  id: 19250ff4-81e8-4e76-a98c-4458625e0aea
   type: aal
   name: آل المعلا
   visibility: public
-  pinned: true
   suffixMale: المعلا
   suffixFemale: المعلا
   hometown: أم القيوين
   description: |-
     آل المعلا الأسرة الحاكمة في إمارة أم القيوين منذ عام ١٧٧٥م تقريباً.
     ينتسبون إلى قبيلة آل علي من بني ياس.
+  category: ruling
 persons:
   - id: 7883542c-ab6c-4054-98f1-01a374cf82ae
     name: ماجد

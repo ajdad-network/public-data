@@ -1,14 +1,15 @@
 family:
+  id: dfd203f3-4b8d-4c13-84d9-d4a7e52c3c6d
   type: aal
   name: الرستميون
   visibility: public
-  pinned: true
   suffixMale: الرستمي
   suffixFemale: الرستمية
   hometown: تاهرت
   description: |-
     الرستميون سلالة فارسية إباضية حكمت المغرب الأوسط من تاهرت (٧٧٦-٩٠٩م).
     أسسها عبد الرحمن بن رستم. عُرفت دولتهم بالتسامح والازدهار العلمي حتى أسقطها الفاطميون.
+  category: historical
 persons:
   - id: 0099be2c-e30a-480b-80a3-df475b78e8e3
     name: رستم

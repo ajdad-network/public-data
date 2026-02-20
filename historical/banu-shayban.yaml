@@ -1,14 +1,15 @@
 family:
+  id: 393fa074-41b3-43e0-a555-3a486f000741
   type: qabila
   name: بنو شيبان
   visibility: public
-  pinned: true
   suffixMale: الشيباني
   suffixFemale: الشيبانية
   hometown: الكوفة
   description: |-
     بنو شيبان بطن من بكر بن وائل من ربيعة. اشتهروا بمعركة ذي قار (٦٠٩م) حين هزموا الفرس.
     منهم المثنى بن حارثة قائد الفتوحات والإمام أحمد بن حنبل.
+  category: historical
 persons:
   - id: 0a642f4f-9507-4e54-a1b8-8a1043837604
     name: وائل

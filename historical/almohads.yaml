@@ -1,14 +1,15 @@
 family:
+  id: 64cb7399-6e71-4e14-b215-10f10e07a834
   type: aal
   name: الموحدون
   visibility: public
-  pinned: true
   suffixMale: الموحدي
   suffixFemale: الموحدية
   hometown: مراكش
   description: |-
     الموحدون سلالة أمازيغية مصمودية حكمت المغرب العربي والأندلس (١١٢١-١٢٦٩م).
     أسس حركتهم محمد بن تومرت المهدي، وبنى دولتهم عبد المؤمن بن علي الذي وحّد المغرب العربي بأكمله.
+  category: historical
 persons:
   - id: 2382947d-d24d-4070-ac17-33c73a4c5d57
     name: محمد

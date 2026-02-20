@@ -1,14 +1,15 @@
 family:
+  id: 1eb1a2e0-a290-4bcf-9033-6532222de785
   type: aal
   name: آل الشيخ
   visibility: public
-  pinned: true
   suffixMale: آل الشيخ
   suffixFemale: آل الشيخ
   hometown: الدرعية
   description: |-
     آل الشيخ أسرة سعودية بارزة، ذرية الشيخ محمد بن عبد الوهاب مجدد الدعوة السلفية ومؤسس التحالف مع آل سعود.
     تولى أبناؤه وأحفاده مناصب دينية وحكومية رفيعة في الدولة السعودية عبر تاريخها.
+  category: ruling
 persons:
   - id: 790b10de-10bb-4118-a2e0-dd180370d086
     name: سليمان

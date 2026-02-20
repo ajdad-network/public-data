@@ -1,14 +1,15 @@
 family:
+  id: a8b30c73-447c-4022-ae4e-3a838dce14e9
   type: qabila
   name: الظفير
   visibility: public
-  pinned: true
   suffixMale: الظفيري
   suffixFemale: الظفيرية
   hometown: نجد
   description: |-
     الظفير قبيلة عربية كبيرة تنتسب إلى بنو لام من طيء.
     انتشرت في وسط وشرق الجزيرة العربية والكويت والعراق. من أبرز فروعها البطينات والسويط والعمور.
+  category: tribes
 persons:
   - id: b32467eb-e80a-40c2-9b6b-4135a9f48543
     name: طيء

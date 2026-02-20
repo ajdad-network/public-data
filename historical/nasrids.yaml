@@ -1,14 +1,15 @@
 family:
+  id: fb7d93f0-2e26-4c26-9b30-884bcb075599
   type: aal
   name: بنو الأحمر
   visibility: public
-  pinned: true
   suffixMale: النصري
   suffixFemale: النصرية
   hometown: غرناطة
   description: |-
     بنو الأحمر (بنو نصر) سلالة عربية من الخزرج حكمت مملكة غرناطة (١٢٣٨-١٤٩٢م).
     أسسها محمد بن يوسف بن نصر (ابن الأحمر) وكانت آخر دولة إسلامية في الأندلس.
+  category: historical
 persons:
   - id: 8c6b0d8a-071d-4a3a-a1c9-97d7066ed918
     name: نصر

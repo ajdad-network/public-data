@@ -1,14 +1,15 @@
 family:
+  id: 25b161dc-932e-4084-a10e-6b54830a26e2
   type: qabila
   name: بنو حنيفة
   visibility: public
-  pinned: true
   suffixMale: الحنفي
   suffixFemale: الحنفية
   hometown: اليمامة
   description: |-
     بنو حنيفة قبيلة عربية كبيرة من بكر بن وائل، سكنوا اليمامة وأسسوا حضارة زراعية متقدمة فيها.
     منها مسيلمة بن حبيب الذي ادعى النبوة، وثمامة بن أثال الذي كان سيد أهل اليمامة وأسلم.
+  category: historical
 persons:
   - id: 64715263-54e4-4c56-9b46-73abbed68411
     name: وائل

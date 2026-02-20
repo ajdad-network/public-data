@@ -1,14 +1,15 @@
 family:
+  id: 114ae2a5-697d-4a6b-a794-4e73b133fece
   type: aal
   name: الكثيري
   visibility: public
-  pinned: true
   suffixMale: الكثيري
   suffixFemale: الكثيرية
   hometown: سيئون
   description: |-
     الدولة الكثيرية سلطنة عربية حكمت حضرموت (١٣٩٥-١٩٦٧م).
     أسسها بدر بن عبد الله الكثيري من كندة. اتخذوا سيئون عاصمة لهم.
+  category: historical
 persons:
   - id: 39a13527-ad9c-499d-9b25-5770bfdf9408
     name: عبد الله

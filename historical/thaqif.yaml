@@ -1,14 +1,15 @@
 family:
+  id: 4e1975ff-b4e1-408a-ae51-8e236f784ee8
   type: qabila
   name: ثقيف
   visibility: public
-  pinned: true
   suffixMale: الثقفي
   suffixFemale: الثقفية
   hometown: الطائف
   description: |-
     ثقيف قبيلة عربية كبيرة سكنت الطائف، تنتسب إلى قسي بن منبه بن بكر بن هوازن.
     منها الحجاج بن يوسف الثقفي والي العراق الأموي الشهير، والمختار بن أبي عبيد الثقفي.
+  category: historical
 persons:
   - id: 82d3d648-7c24-49f0-a876-26141ebe699d
     name: هوازن

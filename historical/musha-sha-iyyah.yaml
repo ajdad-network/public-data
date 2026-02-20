@@ -1,14 +1,15 @@
 family:
+  id: 1b337e61-9d49-4a38-ba1e-f619e5225e08
   type: aal
   name: الموشعشعيون
   visibility: public
-  pinned: true
   suffixMale: الموشعشعي
   suffixFemale: الموشعشعية
   hometown: الحويزة
   description: |-
     الموشعشعيون سلالة عربية هاشمية حكمت الأحواز (خوزستان) والبصرة (١٤٣٦-١٧٢٤م).
     أسسها محمد بن فلاح الموشعشعي. حكموا من الحويزة واستقلوا عن الدول المجاورة.
+  category: historical
 persons:
   - id: 47b4572e-a95f-4a56-9014-107a6afe7a4c
     name: فلاح

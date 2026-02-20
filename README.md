@@ -185,8 +185,10 @@ Each file contains a single family tree with two top-level keys: `family` and `p
 
 ```yaml
 family:
+  id: 7dab1af4-c2b8-4b89-a95e-57cad4832c87  # UUIDv4 — mandatory, used as Firestore doc ID
   name: آل سعود
   type: aal                  # aal | aila | qabila | ashira | usra
+  category: ruling           # ruling | historical | tribes | other
   suffixMale: السعودي
   suffixFemale: السعودية
   hometown: الدرعية          # optional
@@ -240,12 +242,67 @@ persons:
   | `ashira` | عشيرة |
   | `usra` | أسرة |
 
+## Family Fields
+
+| Field | Required | Description |
+|-------|----------|-------------|
+| `id` | yes | UUIDv4 — becomes the Firestore document ID |
+| `name` | yes | Family name in Arabic |
+| `type` | yes | One of: `aal`, `aila`, `qabila`, `ashira`, `usra` |
+| `category` | yes | One of: `ruling`, `historical`, `tribes`, `other` — derived from directory |
+| `suffixMale` | no | Male family name suffix |
+| `suffixFemale` | no | Female family name suffix |
+| `hometown` | no | Origin location |
+| `description` | no | Brief description |
+| `pinned` | no | Pin to featured section on homepage |
+| `visibility` | no | `public` (default) or `private` |
+
 ## Import Modes
 
-When imported via the admin panel at `/admin/import`:
+When imported via the admin panel at `/admin/import` or via `bulk-import.ts`:
 
-- **No `family.id`** in the YAML = **create mode** (new family + all persons)
-- **`family.id` present** = **update mode** (updates existing family, creates new persons not found in Firestore)
+- **`family.id` present AND exists in Firestore** = **update mode** (updates existing family, creates new persons not found in Firestore)
+- **`family.id` present AND not in Firestore** = **create mode** with provided ID
+- **No `family.id`** = **create mode** with auto-generated ID
+
+## Tooling
+
+The `cmd/` directory contains Go utilities for validating and processing the data.
+
+### Prerequisites
+
+- [Go](https://go.dev/dl/) (stable)
+
+### Makefile
+
+| Command | Description |
+|---------|-------------|
+| `make` | Run tests then amalgamate (default) |
+| `make test` | Validate all YAML files (Arabic text, numerals, tree connectivity) |
+| `make run` | Run tests then amalgamate all trees into `all-trees.yaml` |
+
+### Validation (`cmd/validate_data_test.go`)
+
+Runs three checks on every YAML file:
+
+- **Arabic text** — family and person name fields must contain Arabic characters, no Western digits
+- **Eastern Arabic numerals** — birthdates must use `٠-٩` only
+- **Tree connectivity** — every person must be reachable via parent references (no disconnected nodes), orphan females must be referenced as mothers
+
+### Amalgamate (`cmd/amalgamate/main.go`)
+
+Combines all YAML files into a single `all-trees.yaml` for bulk import via `/admin/import`. Derives `category` from directory path and strips unnecessary fields.
+
+```
+go run ./cmd/amalgamate
+```
+
+### CI / GitHub Actions
+
+| Workflow | Trigger | What it does |
+|----------|---------|--------------|
+| **Validate Data** | Pull request to `main` | Runs `go test -v ./...` to validate all YAML files |
+| **Build amalgamated YAML** | Manual (`workflow_dispatch`) | Runs amalgamate and uploads `all-trees.yaml` as an artifact |
 
 ## Contributing
 

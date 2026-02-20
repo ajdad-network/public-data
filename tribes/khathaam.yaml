@@ -1,14 +1,15 @@
 family:
+  id: c47db13b-a91e-4e06-b9c1-440313944f43
   type: qabila
   name: خثعم
   visibility: public
-  pinned: true
   suffixMale: الخثعمي
   suffixFemale: الخثعمية
   hometown: بيشة
   description: |-
     خثعم قبيلة عربية كبيرة من أنمار بن إراش تسكن منطقة عسير جنوب السعودية.
     تنتشر في بيشة وسراة عبيدة والنماص. من فروعها شهران وناهس وأكلب.
+  category: tribes
 persons:
   - id: 677ac29d-4ded-44dd-b01b-fbfc62116d02
     name: أنمار
